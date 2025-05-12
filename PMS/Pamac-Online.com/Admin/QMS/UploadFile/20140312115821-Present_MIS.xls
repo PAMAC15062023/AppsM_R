@@ -1,0 +1,305 @@
+<table border="0">
+	<tr style="height:20px;">
+		<td> </td>
+	</tr><tr>
+		<td class="SuccessMessage" colspan="20"><b><font size='2' color='blue'> From Date : 27/01/2014 To : 27/01/2014 </font></b> <br/></td>
+	</tr>
+</table><table id="ctl00_ContentPlaceHolder1_tbExport" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td>
+   <div>
+			<table cellspacing="2" cellpadding="3" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GV" style="color:#400040;background-color:#DEBA84;border-color:Black;border-width:1px;border-style:None;height:326px;width:946px;">
+				<tr align="center" style="color:#400040;background-color:#FFE0C0;font-weight:bold;">
+					<th scope="col">Centre Name</th><th scope="col">EMP Code</th><th scope="col">MAC Assigned</th><th scope="col">Full Name</th><th scope="col">DATE</th><th scope="col">Attendance</th><th scope="col">In Time</th>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>AHMEDABAD</td><td>T-01254</td><td>001AA0C9BE44</td><td>DILIPKUMAR AMBALAL PARMAR</td><td>27/01/2014</td><td>P</td><td>14:28:26</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>AHMEDABAD</td><td>TAHM002</td><td>0019B9402B11</td><td>JYOTI RAMCHANDRABHAI HALBAVI</td><td>27/01/2014</td><td>P</td><td>10:06:18</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>AHMEDABAD</td><td>T-01174</td><td>0019B934B8FF</td><td>KIRAN PREMJIBHAI CHAVDA</td><td>27/01/2014</td><td>P</td><td>11:05:29</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>AHMEDABAD</td><td>T-01399</td><td>0019B93E1ABA</td><td>NITESH ARJANBHAI RAJGOR</td><td>27/01/2014</td><td>P</td><td>10:11:59</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>AHMEDABAD</td><td>T-01242</td><td>001AA0E9BE82</td><td>NITIN BIHARILAL VALMIKI</td><td>27/01/2014</td><td>P</td><td>10:43:38</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>AHMEDABAD</td><td>T-01240</td><td>001641E995B4</td><td>SATISHBHAI ARAJANJI RANACHAVDA</td><td>27/01/2014</td><td>P</td><td>09:16:47</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>AHMEDABAD</td><td>T-01173</td><td>00219B7A6733</td><td>SUMIT SURESHKUMAR MORE</td><td>27/01/2014</td><td>P</td><td>10:33:20</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>BARODA</td><td>T-01272</td><td>001E4FAFA35A</td><td>BHAUMIKKUMAR DILIPKUMAR PATHAK</td><td>27/01/2014</td><td>P</td><td>10:11:31</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>BARODA</td><td>T-01271</td><td>00016C9C03EA</td><td>NILESH DILIPBHAI SONI</td><td>27/01/2014</td><td>P</td><td>10:20:50</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>CHANDIGARH</td><td>T-01300</td><td>001E0BB56C94</td><td>AMIT  KUMAR</td><td>27/01/2014</td><td>P</td><td>11:56:46</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>CHANDIGARH</td><td>T-01298</td><td>001E0BA190D7</td><td>NEERAJ  KUMAR</td><td>27/01/2014</td><td>P</td><td>10:20:43</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>CHANDIGARH</td><td>T-01335</td><td>00215AC7FADE</td><td>SAVITA  DEVI</td><td>27/01/2014</td><td>P</td><td>10:24:41</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>CHANDIGARH</td><td>T-01297</td><td>001CC437A00C</td><td>VANDANA  DEVI</td><td>27/01/2014</td><td>P</td><td>10:13:25</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01213</td><td>001871842C30</td><td>AASHU  SHRIWASTWA</td><td>27/01/2014</td><td>P</td><td>10:26:16</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01364</td><td>001641EC5B89</td><td>ANAMIKA  KUMARI</td><td>27/01/2014</td><td>P</td><td>10:27:00</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01157</td><td>00E04C364285</td><td>ANIL  KUMAR</td><td>27/01/2014</td><td>P</td><td>10:15:56</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01159</td><td>001CC42E1676</td><td>ANIL  KUMAR</td><td>27/01/2014</td><td>P</td><td>10:27:01</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01150</td><td>001FD0B5996F</td><td>ANSH  KAKKAR</td><td>27/01/2014</td><td>P</td><td>11:15:28</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01340</td><td>001E0B7E9740</td><td>ANUJ  SHARMA</td><td>27/01/2014</td><td>P</td><td>10:33:44</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01219</td><td>6C626D042B27</td><td>ASHUTOSH  SINGH</td><td>27/01/2014</td><td>P</td><td>10:57:57</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01258</td><td>001CC43615D2</td><td>BHIM  SAIN</td><td>27/01/2014</td><td>P</td><td>09:53:47</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01259</td><td>001B78A440A8</td><td>DEVENDRA SINGH RAWAT</td><td>27/01/2014</td><td>P</td><td>10:17:28</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01155</td><td>001A4BCBA76E</td><td>DIGAMBER SINGH SAJWAN</td><td>27/01/2014</td><td>P</td><td>11:16:26</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01232</td><td>001B78A47C24</td><td>GANGA  PRASAD</td><td>27/01/2014</td><td>P</td><td>10:07:48</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01148</td><td>001B78C37056</td><td>GOPAL  SHARMA</td><td>27/01/2014</td><td>P</td><td>11:12:33</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01268</td><td>902B34C43909</td><td>HARSHIT  AGRAWAL</td><td>27/01/2014</td><td>P</td><td>09:59:42</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01228</td><td>001CC428509A</td><td>INDU  BALA</td><td>27/01/2014</td><td>P</td><td>11:47:05</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01217</td><td>001CC4853294</td><td>IRSHAD  AHAMAD</td><td>27/01/2014</td><td>P</td><td>10:06:19</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01344</td><td>001CC42DD45C</td><td>JATINDER  CHAUHAN</td><td>27/01/2014</td><td>P</td><td>14:08:30</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01384</td><td>FC75160414FF</td><td>JYOTI  KUMARI</td><td>27/01/2014</td><td>P</td><td>10:06:44</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01209</td><td>0019BB46B872</td><td>KAMLJEET  GOSWAMI</td><td>27/01/2014</td><td>P</td><td>10:52:22</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01152</td><td>001A4B38FF76</td><td>KULDEEP  KATARIA</td><td>27/01/2014</td><td>P</td><td>10:32:38</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01339</td><td>406186C29754</td><td>LALIT KUMAR CHAUHAN</td><td>27/01/2014</td><td>P</td><td>09:40:53</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01215</td><td>6CF04915C73B</td><td>MADHU  BALA</td><td>27/01/2014</td><td>P</td><td>10:31:13</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01265</td><td>001A6B5A8FD1</td><td>MAHAK  SACHDEVA</td><td>27/01/2014</td><td>P</td><td>11:06:24</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01229</td><td>&nbsp;</td><td>MANORAMA  DEVI</td><td>27/01/2014</td><td>P</td><td>10:00:18</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01163</td><td>001CC42CB996</td><td>MANVEER  CHAND</td><td>27/01/2014</td><td>P</td><td>10:32:55</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01260</td><td>001871848414</td><td>MD. ASIF YUNUS</td><td>27/01/2014</td><td>P</td><td>10:58:10</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>TDEL0091</td><td>00215A146EA4</td><td>MOHAN  VERMA</td><td>27/01/2014</td><td>P</td><td>10:40:30</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01207</td><td>001B78AC1B0C</td><td>MRINALINI  SAXENA</td><td>27/01/2014</td><td>P</td><td>11:50:56</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01267</td><td>001871843236</td><td>NIDHI  THAKUR</td><td>27/01/2014</td><td>P</td><td>10:31:18</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01417</td><td>001B78ABAA3A</td><td>NITISH  KUMAR</td><td>27/01/2014</td><td>P</td><td>10:54:10</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01261</td><td>00270E001141</td><td>OMBIR  SINGH</td><td>27/01/2014</td><td>P</td><td>09:51:25</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01236</td><td>001CC4342814</td><td>PRAVEEN  KUMAR</td><td>27/01/2014</td><td>P</td><td>10:08:11</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01162</td><td>001A4B37B6C0</td><td>PRIYANKA  BHATRA</td><td>27/01/2014</td><td>P</td><td>10:44:09</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01223</td><td>6C3BE52AD7AD</td><td>RANJAN  KHANNA</td><td>27/01/2014</td><td>P</td><td>10:09:48</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01161</td><td>6C626D042DB2</td><td>RITU  TRIPATHI</td><td>27/01/2014</td><td>P</td><td>10:29:42</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01231</td><td>001CC4344AD4</td><td>ROHIT  GOLA</td><td>27/01/2014</td><td>P</td><td>10:33:43</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01227</td><td>001B788F415C</td><td>SACHIN KUMAR SHARMA</td><td>27/01/2014</td><td>P</td><td>15:01:21</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01158</td><td>BCAEC55C3412</td><td>SANDEEP  KUMAR</td><td>27/01/2014</td><td>P</td><td>11:45:38</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>P-01338</td><td>001E0B657727</td><td>SUBRAT KUMAR VERMA</td><td>27/01/2014</td><td>P</td><td>10:12:44</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>DELHI</td><td>T-01146</td><td>001871842806</td><td>SUNIL KUMAR PATHAK</td><td>27/01/2014</td><td>P</td><td>10:39:55</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>HARIYANA</td><td>T-01353</td><td>001E0B9E7FBF</td><td>AMIT  KUMAR</td><td>27/01/2014</td><td>P</td><td>10:49:05</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>HARIYANA</td><td>T-01277</td><td>EF9FE9F7F7F7</td><td>KESHAV  JANGID</td><td>27/01/2014</td><td>P</td><td>10:15:00</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>HO Centre</td><td>T-01126</td><td>8C89A52DD88A</td><td>MAYUR PRAKASH BALEKAR</td><td>27/01/2014</td><td>P</td><td>10:31:25</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>INDORE</td><td>T-01305</td><td>1078D23CAD7B</td><td>GAURAV  SONI</td><td>27/01/2014</td><td>P</td><td>10:50:43</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>INDORE</td><td>T-01307</td><td>BC5FF4BDAF49</td><td>KHUSHBOO  ARYA</td><td>27/01/2014</td><td>P</td><td>11:16:29</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>INDORE</td><td>T-01330</td><td>6C626D3FDF14</td><td>MANISH  PANCHAL</td><td>27/01/2014</td><td>P</td><td>11:00:06</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>INDORE</td><td>T-01316</td><td>00E04C362650</td><td>MOHINDER SINGH PABLA</td><td>27/01/2014</td><td>P</td><td>11:55:57</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>INDORE</td><td>T-01398</td><td>BC5FF4BDAF43</td><td>NAVNEET  KAUR</td><td>27/01/2014</td><td>P</td><td>10:25:22</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>INDORE</td><td>T-01304</td><td>00E04C363910</td><td>NIDHI  SHRIVASTAVA</td><td>27/01/2014</td><td>P</td><td>11:14:59</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>INDORE</td><td>T-01390</td><td>00E04C362D91</td><td>RANJANA KAMESH BHOSLE</td><td>27/01/2014</td><td>P</td><td>10:17:07</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>INDORE</td><td>TIND0012</td><td>00E04C362D87</td><td>UMASHANKAR  SAHU</td><td>27/01/2014</td><td>P</td><td>10:36:46</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>INDORE</td><td>T-01347</td><td>BC5FF4D56A75</td><td>VIVEK  YOGI</td><td>27/01/2014</td><td>P</td><td>10:31:33</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>JAIPUR</td><td>T-01288</td><td>001BB9D8803A</td><td>ASHISH KUMAR SAH</td><td>27/01/2014</td><td>P</td><td>10:39:02</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>JAIPUR</td><td>T-01278</td><td>0019DBBD2F63</td><td>AVINASH KUMAR KATARIA</td><td>27/01/2014</td><td>P</td><td>12:17:29</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>JAIPUR</td><td>T-01281</td><td>00E04C3613A3</td><td>BHABANI  SAHU</td><td>27/01/2014</td><td>P</td><td>12:57:55</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>JAIPUR</td><td>T-01291</td><td>00E04C065811</td><td>DEEPENDRA  SINGH</td><td>27/01/2014</td><td>P</td><td>10:04:35</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>JAIPUR</td><td>T-01416</td><td>00E04C364997</td><td>KOOLWAL  SHIPRA</td><td>27/01/2014</td><td>P</td><td>10:34:25</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>JAIPUR</td><td>T-01383</td><td>00E04C365018</td><td>MANISH KUMAR SHARMA</td><td>27/01/2014</td><td>P</td><td>10:01:21</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>JAIPUR</td><td>T-01283</td><td>00E04C364E18</td><td>MAYANK  PANWAR</td><td>27/01/2014</td><td>P</td><td>11:13:39</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>JAIPUR</td><td>T-01287</td><td>00E04C36226D</td><td>OM PRAKASH MEENA</td><td>27/01/2014</td><td>P</td><td>10:14:37</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>JAIPUR</td><td>T-01290</td><td>00E04C06565B</td><td>PRATEEK  PAREEK</td><td>27/01/2014</td><td>P</td><td>10:18:51</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>JAIPUR</td><td>T-01279</td><td>001FD0EA035B</td><td>PREM  SINGH</td><td>27/01/2014</td><td>P</td><td>10:29:56</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>JAIPUR</td><td>T-01284</td><td>00E04C3613AA</td><td>SHIV SINGH CHOUHAN</td><td>27/01/2014</td><td>P</td><td>10:06:00</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLHAPUR</td><td>T-01395</td><td>001E0B664E2B</td><td>SACHIN DEVDAS THARKAR</td><td>27/01/2014</td><td>P</td><td>10:57:24</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01466</td><td>7427EA4F2968</td><td>ARCHANA  SINHA</td><td>27/01/2014</td><td>P</td><td>11:07:35</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01469</td><td>7427EA4F2A86</td><td>JANARDAN  DEKA</td><td>27/01/2014</td><td>P</td><td>11:40:18</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01463</td><td>7427EA4F2AE4</td><td>KISHOR  KALITA</td><td>27/01/2014</td><td>P</td><td>10:46:04</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01465</td><td>7427EA4F2991</td><td>KULAJIT  PATGIRI</td><td>27/01/2014</td><td>P</td><td>10:26:17</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01425</td><td>D43D7ECB2374</td><td>RAJNISH KUMAR VIJAY</td><td>27/01/2014</td><td>P</td><td>10:46:39</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01439</td><td>BC5FF4DDC537</td><td>RANJIT  SUTAR</td><td>27/01/2014</td><td>P</td><td>11:10:24</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01441</td><td>003018A4A55D</td><td>RASHMI KANTA SWAIN</td><td>27/01/2014</td><td>P</td><td>09:18:45</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01424</td><td>D43D7ECB2334</td><td>RISHIKESH  RANJAN</td><td>27/01/2014</td><td>P</td><td>09:44:31</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01468</td><td>7427EAD4CD0E</td><td>RUDDRA  ROY</td><td>27/01/2014</td><td>P</td><td>11:23:45</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01428</td><td>E840F2D468C4</td><td>SANT KUMAR PANDIT</td><td>27/01/2014</td><td>P</td><td>10:14:49</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01429</td><td>D43D7ECA59B3</td><td>SANTOSH KUMAR SHAW</td><td>27/01/2014</td><td>P</td><td>10:37:12</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01427</td><td>E840F2D4BC20</td><td>SAURABH KUMAR PANDA</td><td>27/01/2014</td><td>P</td><td>11:07:00</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01426</td><td>D43D7ECA59DC</td><td>SWEETY  THAKUR</td><td>27/01/2014</td><td>P</td><td>10:17:33</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01467</td><td>7427EA49CBFB</td><td>TAPAN CHANDRA KAKATI</td><td>27/01/2014</td><td>P</td><td>11:40:36</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01440</td><td>BC5FF4DDC540</td><td>TAPAS KUMAR SUBUDHI</td><td>27/01/2014</td><td>P</td><td>10:13:35</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>KOLKATA</td><td>T-01464</td><td>7427EAD4CD25</td><td>ULLASH JYOTI BORA</td><td>27/01/2014</td><td>P</td><td>10:53:41</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>LUCKNOW</td><td>T-01387</td><td>00E04C3637DF</td><td>ANKIT  GUPTA</td><td>27/01/2014</td><td>P</td><td>10:36:15</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>LUCKNOW</td><td>T-01454</td><td>00E04C36589C</td><td>SHARAD  KATIYAR</td><td>27/01/2014</td><td>P</td><td>11:00:16</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>LUCKNOW</td><td>T-1386</td><td>00E04C3637C9</td><td>VARURENDRA  UPADHYAY</td><td>27/01/2014</td><td>P</td><td>11:30:56</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01195</td><td>00164137F31E</td><td>ANKITA ARUN KADAM</td><td>27/01/2014</td><td>P</td><td>10:40:36</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01127</td><td>001641EF00D0</td><td>DARSHANA DIGAMBAR MAYEKAR</td><td>27/01/2014</td><td>P</td><td>09:30:57</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01319</td><td>001B78c10812</td><td>DIPIKA SAHEBRAO SURYAVANSHI</td><td>27/01/2014</td><td>P</td><td>11:06:42</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01132</td><td>001A6B510460</td><td>GANESH PANDURANG JADHAV</td><td>27/01/2014</td><td>P</td><td>11:18:14</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01193</td><td>0018F323D4B5</td><td>KIRAN KUMAR VITHAL WAGHELA</td><td>27/01/2014</td><td>P</td><td>10:50:35</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01145</td><td>00016C96A40E</td><td>NAMRATA ANIL SHIKHARE</td><td>27/01/2014</td><td>P</td><td>10:01:11</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01198</td><td>00FF42DAEDC0001A92AD6186</td><td>NIKHIL SHANAR RIKAME</td><td>27/01/2014</td><td>P</td><td>09:34:19</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01328</td><td>0050BAC51CBB</td><td>POOJA SHANTARAM ITHAPE</td><td>27/01/2014</td><td>P</td><td>10:49:28</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01135</td><td>00164137A998</td><td>PRANITA KRISHNAT MOHITE</td><td>27/01/2014</td><td>P</td><td>10:13:27</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01329</td><td>001A92AD617B</td><td>PRITI CHANDRAKANT PAWAR</td><td>27/01/2014</td><td>P</td><td>10:23:48</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01318</td><td>00187184279C</td><td>PRIYESH MOHAN TANDEL</td><td>27/01/2014</td><td>P</td><td>11:10:09</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01203</td><td>001CC4342936</td><td>SAPNA RAMHARI SAHU</td><td>27/01/2014</td><td>P</td><td>10:44:34</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01322</td><td>001CC4884754</td><td>SAVITA BHAGWAN PATIL</td><td>27/01/2014</td><td>P</td><td>10:14:01</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01130</td><td>001A92AD61BE</td><td>SHITAL SHASHIKANT GAWDE</td><td>27/01/2014</td><td>P</td><td>11:03:35</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01376</td><td>001B788547E6</td><td>SHRUTIKA SURESH BANE</td><td>27/01/2014</td><td>P</td><td>10:07:29</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01320</td><td>001871848E3A</td><td>SIDDHESH SHARAD KHATAVKAR</td><td>27/01/2014</td><td>P</td><td>10:51:09</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01326</td><td>001B788CFA82</td><td>SONAL SURESH GAONKAR</td><td>27/01/2014</td><td>P</td><td>10:54:23</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01451</td><td>001871842748</td><td>SUNITA RAMHARI KEDAR</td><td>27/01/2014</td><td>P</td><td>10:12:36</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01133</td><td>001A4D11866C</td><td>TINA SADANAND AMARE</td><td>27/01/2014</td><td>P</td><td>10:36:00</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01486</td><td>001B788D23C0</td><td>URMILA BAJIRAO NIUNGARE</td><td>27/01/2014</td><td>P</td><td>10:41:24</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01316</td><td>001B78AC1B8E</td><td>VIMAL RAMPRAKASH YADAV</td><td>27/01/2014</td><td>P</td><td>10:52:17</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>MUMBAI</td><td>T-01196</td><td>001B78C3C548</td><td>YOGITA CHANDRAKANT PARTE</td><td>27/01/2014</td><td>P</td><td>09:53:54</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>NASIK</td><td>T-01190</td><td>001D927626B3</td><td>VISHAL BALASAHEB WADEKAR</td><td>27/01/2014</td><td>P</td><td>09:20:23</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01183</td><td>001A4B3791D4</td><td>AMIT SURESH WANKHEDE</td><td>27/01/2014</td><td>P</td><td>11:24:12</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01181</td><td>001B78AC5D2C</td><td>ASHOK BRIJKISHOR PANDEY</td><td>27/01/2014</td><td>P</td><td>10:03:47</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01246</td><td>001B788ECF80</td><td>CHETANA JAYWANT SONAWANE</td><td>27/01/2014</td><td>P</td><td>09:21:58</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01349</td><td>001B78C3AF82</td><td>GAJANAN SANJAY REDE</td><td>27/01/2014</td><td>P</td><td>10:12:52</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01423</td><td>0018FE637194</td><td>HARIHAR PRABASI PATRA</td><td>27/01/2014</td><td>P</td><td>11:24:44</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01182</td><td>00187184905E</td><td>HEMA MOHAN SATPUTE</td><td>27/01/2014</td><td>P</td><td>09:54:14</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01313</td><td>0019B9419432</td><td>MAHENDRA ISHWARSING PATIL</td><td>27/01/2014</td><td>P</td><td>09:53:06</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01332</td><td>001B78ABA8F4</td><td>PRATIKESH LAVAJIRAO THORAT</td><td>27/01/2014</td><td>P</td><td>10:42:32</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01314</td><td>001AA0C00E75</td><td>SHIVANAND NITYANAD ASADE</td><td>27/01/2014</td><td>P</td><td>10:31:12</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01437</td><td>001CC42E179C</td><td>SUJATA SURYAKANT WATTAMWAR</td><td>27/01/2014</td><td>P</td><td>10:23:04</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01245</td><td>00219B445A1C</td><td>SURESH ANIL YADAV</td><td>27/01/2014</td><td>P</td><td>09:45:19</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01351</td><td>001A4B37F204</td><td>SWAPNALI DILIP JEDHE</td><td>27/01/2014</td><td>P</td><td>10:21:09</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01438</td><td>001B78AB6658</td><td>VAISHALI MURLIDHAR SURVASE</td><td>27/01/2014</td><td>P</td><td>10:00:00</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNE</td><td>T-01404</td><td>001871842A76</td><td>VISHAL ARVIND RANJANE</td><td>27/01/2014</td><td>P</td><td>11:34:07</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNJAB</td><td>T-01359</td><td>00E04C620D81</td><td>DAMANPREET SINGH DHILLON</td><td>27/01/2014</td><td>P</td><td>10:28:40</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNJAB</td><td>T-01358</td><td>00E04C7303D3</td><td>JAGDEEP  SINGH</td><td>27/01/2014</td><td>P</td><td>09:41:36</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNJAB</td><td>TPUN009</td><td>00E04C36546E</td><td>NEHA  JOSHI</td><td>27/01/2014</td><td>P</td><td>10:14:00</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNJAB</td><td>T-01459</td><td>00E04C3612FE</td><td>RAJNI  KUMARI</td><td>27/01/2014</td><td>P</td><td>09:31:16</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNJAB</td><td>TPUN0012</td><td>001E0BA28007</td><td>SHAVETA  TUNGAL</td><td>27/01/2014</td><td>P</td><td>10:02:57</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>PUNJAB</td><td>T-01398</td><td>00E04C3909DF</td><td>VARSHA  VERMA</td><td>27/01/2014</td><td>P</td><td>11:02:20</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>RAIPUR</td><td>T-01391</td><td>00E04C362D83</td><td>ANKIT KUMAR SHARMA</td><td>27/01/2014</td><td>P</td><td>10:56:25</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>RAJKOT</td><td>T-01179</td><td>001641E985B8</td><td>TUSHAR JIVABHAI DUMADIYA</td><td>27/01/2014</td><td>P</td><td>10:16:47</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>SURAT</td><td>T-01204</td><td>001CC4342A1A</td><td>AHMED JAVID LATHIYA</td><td>27/01/2014</td><td>P</td><td>12:13:37</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>SURAT</td><td>T-01273</td><td>0018718493EE</td><td>ARUNA SURJIBHAI GAMIT</td><td>27/01/2014</td><td>P</td><td>10:38:26</td>
+				</tr><tr style="color:#400000;background-color:#FFF7E7;border-style:None;">
+					<td>SURAT</td><td>T-01310</td><td>001CC4878F3A</td><td>SANTOSH SHIVDAS MARATHE</td><td>27/01/2014</td><td>P</td><td>10:22:48</td>
+				</tr>
+			</table>
+		</div>
+   </td>
+	</tr>
+</table>

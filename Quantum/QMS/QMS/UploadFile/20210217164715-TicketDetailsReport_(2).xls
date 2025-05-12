@@ -1,0 +1,19 @@
+<table border="0">
+	<tr style="height:20px;">
+		<td> </td>
+	</tr><tr>
+		<td class="SuccessMessage" colspan="20"><b> <span style='background-color:Gray'> <font size='4'>PAMAC FINSERVE PVT. LTD.</font></span></b> <br/><b><font size='2' color='blue'>Ticket Details Report.</font></b> <br/></td>
+	</tr>
+</table><div>
+	<table cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolder1_grdExportTicket" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Ticket_No</th><th scope="col">Centre</th><th scope="col">User_Name</th><th scope="col">QMS_User</th><th scope="col">Problem</th><th scope="col">Remark</th><th scope="col">DownloadFilePath</th><th scope="col">File_Attached</th><th scope="col">Created_Date</th><th scope="col">TicketStatus</th><th scope="col">QMS_Remark</th>
+		</tr><tr>
+			<td>HR\202102\BIKN-000007</td><td>BIKANER</td><td>Kishan kumar joshi</td><td>P-00001</td><td>Experience Letter</td><td>&amp;nbsp;</td><td>&nbsp;</td><td>No</td><td>11/02/2021</td><td>Open</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>HR\202102\BIKN-000008</td><td>BIKANER</td><td>Kishan kumar joshi</td><td>P-00001</td><td>Experience Letter</td><td>&nbsp;</td><td>D:\D drive Backup\Omkar\Pamac Projects\Quantum.co.in\QMS\QMS\UploadFile\20210211110849-TicketDetails</td><td>Yes</td><td>11/02/2021</td><td>Open</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>HR\202102\BIKN-000009</td><td>BIKANER</td><td>Kishan kumar joshi</td><td>P-00001</td><td>MoU &amp; ID card</td><td>HR\202102\BIKN-000007</td><td>&nbsp;</td><td>No</td><td>11/02/2021</td><td>Open</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div>

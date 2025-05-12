@@ -1,0 +1,945 @@
+From: "Rupesh Zodage" <rupesh.zodage@pamac.com>
+To: "Prithvi Joshi" <prithvi.joshi@pamac.com>,
+	"'Sachin  Dalvi'" <sachin.dalvi@pamac.com>
+Cc: "'Murugan Odiyar'" <murugan.odiyar@pamac.com>,
+	"'Ganesh Sawant'" <ganesh.sawant@pamac.com>,
+	"'PAMAC - BVU Admin Unit'" <bvu.admin@pamac.com>,
+	"'PAMAC - CPV Services Unit'" <cpvservices@pamac.com>
+References: <0FA18B9F24044B98BF47DF7827138362@pamac> <051601d000d6$d9737c10$8c5a7430$@joshi@pamac.com> <26374A62BAA14C28934978481EE2844B@pamac> <045301d012f9$b93d1890$2bb749b0$@joshi@pamac.com>
+Subject: Re: PAMAC BVU : Need Changes in PMS for Billing purpose
+Date: Tue, 9 Dec 2014 10:07:53 +0530
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0015_01D01397.FEE40450"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5931
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6157
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0015_01D01397.FEE40450
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Date:Its already closed
+  ----- Original Message -----=20
+  From: Prithvi Joshi=20
+  To: 'Sachin Dalvi' ; 'Rupesh Zodage'=20
+  Cc: 'Murugan Odiyar' ; 'Ganesh Sawant' ; 'PAMAC - BVU Admin Unit' ; =
+'PAMAC - CPV Services Unit'=20
+  Sent: Monday, December 08, 2014 8:44 PM
+  Subject: RE: PAMAC BVU : Need Changes in PMS for Billing purpose
+
+
+  Hi Ganesh,
+
+  =20
+
+  When this will be closed, Ticket generated 15th Nov?
+
+  =20
+
+  =20
+
+  Thanks & Regards,=20
+
+  =20
+
+  Prithvi Joshi.
+
+  Sr. Manager & DCH - Mumbai CPV Services.
+
+  Tel: +91 8097998211 | Mobile: +91 9820354261| Email: =
+prithvi.joshi@pamac.com| Website: www.pamac.com|
+
+  =20
+
+  WE are spreading our wings, do visit our revamped website for more =
+details - www.pamac.com
+
+  =20
+
+  =20
+
+  =20
+
+  =20
+
+  From: Sachin Dalvi [mailto:sachin.dalvi@pamac.com]=20
+  Sent: Friday, December 05, 2014 4:37 AM
+  To: Prithvi Joshi; 'Rupesh Zodage'
+  Cc: 'Murugan Odiyar'; 'Ganesh Sawant'; 'PAMAC - BVU Admin Unit'; =
+'PAMAC - CPV Services Unit'
+  Subject: Re: PAMAC BVU : Need Changes in PMS for Billing purpose
+
+  =20
+
+   Dear Rupesh,
+
+  =20
+
+  Any updates.
+
+  =20
+
+  Kindly confirm whether it is done or not.
+
+  =20
+
+  Regards
+
+  Sachin.\
+
+  =20
+
+    ----- Original Message -----=20
+
+    From: Prithvi Joshi=20
+
+    To: 'Sachin Dalvi' ; 'Rupesh Zodage'=20
+
+    Cc: 'Murugan Odiyar' ; 'Ganesh Sawant' ; 'PAMAC - BVU Admin Unit' ; =
+'PAMAC - CPV Services Unit'=20
+
+    Sent: Saturday, November 15, 2014 6:49 PM
+
+    Subject: RE: PAMAC BVU : Need Changes in PMS for Billing purpose
+
+    =20
+
+    Hi Ganesh,
+
+    =20
+
+    This what we discussed earlier it is creating bill and paid analysis =
+difficulty.
+
+    =20
+
+    Request you to deploy same for IDOCS.
+
+    =20
+
+    Hi Murugan,
+
+    =20
+
+    Request your approval to change PMS billing data generation as per =
+Payout logic so there will be no difference PAN India.
+
+    =20
+
+    =20
+
+    Thanks & Regards,=20
+
+    =20
+
+    Prithvi Joshi.
+
+    Sr. Manager & DCH - Mumbai CPV Services.
+
+    Tel: +91 8097998211 | Mobile: +91 9820354261| Email: =
+prithvi.joshi@pamac.com| Website: www.pamac.com|
+
+    =20
+
+    WE are spreading our wings, do visit our revamped website for more =
+details - www.pamac.com
+
+    =20
+
+    =20
+
+    =20
+
+    =20
+
+    From: Sachin Dalvi [mailto:sachin.dalvi@pamac.com]=20
+    Sent: Saturday, November 15, 2014 6:36 PM
+    To: Rupesh Zodage
+    Cc: Prithvi Joshi; 'Murugan Odiyar'; Ganesh Sawant; PAMAC - BVU =
+Admin Unit; PAMAC - CPV Services Unit
+    Subject: PAMAC BVU : Need Changes in PMS for Billing purpose
+
+    =20
+
+       =20
+
+    Date:  15th  November 2014
+
+    =20
+
+    Dear Rupesh,
+
+    =20
+
+    As per said subject we need some changes in Claim MIS which we used =
+for monthly billing.=20
+
+    =20
+
+    At present Claim mis generated on logic of send to client date. If =
+suppose any case receive on 31st of month and send to client done on 1st =
+of next month such cases details will be generated in next month billing =
+cycle due to this we are facing lots problem in ITR FE payout & at the =
+time comparasing bill & Paid data to management team.
+
+    =20
+
+    For ITR FE payout , you have given logic of case receive date i.e =
+1st to 31st and MIS is generated of that month only. We need same logic =
+for Claim mis also.
+
+    =20
+
+    Below are the ticket for such changes.=20
+
+    =20
+
+          11/15/2014 6:27:16 PM
+         =20
+         SSU\201411\MUM-000008
+         =20
+         WE NEED SOME CHANGES IN CLAIM MIS WHICH WE TAKE FOR MONTHLY =
+BILLING.
+         =20
+         New Requirement
+         PCPV
+         PRITHVIRAJ P JOSHI
+        =20
+
+    =20
+
+    =20
+
+    =20
+
+    Please call or reply for any further clarification.
+
+    =20
+
+    =20
+
+    =20
+
+    Thanks & Regards,
+
+    Sachin Dalvi
+
+    Asst Manager - Operation (Mumbai Verification Services)
+
+    Tel: +91 22 8655516201 | Mobile: 9819078757| Email: =
+sachin.dalvi@pamac.com | Website: www.pamac.com|
+
+    PAMAC Group - Banking on our Credentials.=20
+
+    =
+*************************************************************************=
+****************************************************=20
+
+    Disclaimer: This e-mail is confidential. It may also be legally =
+privileged. If you are not the addressee you may not copy, forward, =
+disclose or use any part of it. If you have received this message in =
+error, please delete it and all copies from your system and notify the =
+sender immediately by return e-mail.
+
+
+    Internet communications cannot be guaranteed to be timely, secure, =
+error or virus-free. The sender does not accept liability for any errors =
+or omissions.
+
+    =
+*************************************************************************=
+****************************************************
+
+    P Please don't print this e-mail unless you really need to. Let us =
+save the Mother Earth.
+
+    =20
+
+    WE are spreading our wings, do visit our revamped website for more =
+details - www.pamac.com
+
+------=_NextPart_000_0015_01D01397.FEE40450
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns=3D"http://www.w3.org/TR/REC-html40" xmlns:v =3D=20
+"urn:schemas-microsoft-com:vml" xmlns:o =3D=20
+"urn:schemas-microsoft-com:office:office" xmlns:w =3D=20
+"urn:schemas-microsoft-com:office:word" xmlns:x =3D=20
+"urn:schemas-microsoft-com:office:excel" xmlns:m =3D=20
+"http://schemas.microsoft.com/office/2004/12/omml"><HEAD><TITLE>Date:</TI=
+TLE>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.23520"><BASE =
+href=3D"file:///D:\">
+<STYLE>@font-face {
+	font-family: Cambria Math;
+}
+@font-face {
+	font-family: Calibri;
+}
+@font-face {
+	font-family: Tahoma;
+}
+@font-face {
+	font-family: Trebuchet MS;
+}
+@page WordSection1 {size: 8.5in 11.0in; margin: 1.0in 1.25in 1.0in =
+1.25in; }
+P.MsoNormal {
+	MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman","serif"; FONT-SIZE: =
+12pt
+}
+LI.MsoNormal {
+	MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman","serif"; FONT-SIZE: =
+12pt
+}
+DIV.MsoNormal {
+	MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman","serif"; FONT-SIZE: =
+12pt
+}
+A:link {
+	COLOR: blue; TEXT-DECORATION: underline; mso-style-priority: 99
+}
+SPAN.MsoHyperlink {
+	COLOR: blue; TEXT-DECORATION: underline; mso-style-priority: 99
+}
+A:visited {
+	COLOR: purple; TEXT-DECORATION: underline; mso-style-priority: 99
+}
+SPAN.MsoHyperlinkFollowed {
+	COLOR: purple; TEXT-DECORATION: underline; mso-style-priority: 99
+}
+P.MsoAcetate {
+	MARGIN: 0in 0in 0pt; FONT-FAMILY: "Tahoma","sans-serif"; FONT-SIZE: =
+8pt; mso-style-priority: 99; mso-style-link: "Balloon Text Char"
+}
+LI.MsoAcetate {
+	MARGIN: 0in 0in 0pt; FONT-FAMILY: "Tahoma","sans-serif"; FONT-SIZE: =
+8pt; mso-style-priority: 99; mso-style-link: "Balloon Text Char"
+}
+DIV.MsoAcetate {
+	MARGIN: 0in 0in 0pt; FONT-FAMILY: "Tahoma","sans-serif"; FONT-SIZE: =
+8pt; mso-style-priority: 99; mso-style-link: "Balloon Text Char"
+}
+P.normalfrutiger47lightcn {
+	FONT-FAMILY: "Times New Roman","serif"; MARGIN-LEFT: 0in; FONT-SIZE: =
+12pt; MARGIN-RIGHT: 0in; mso-style-name: normalfrutiger47lightcn; =
+mso-margin-top-alt: auto; mso-margin-bottom-alt: auto
+}
+LI.normalfrutiger47lightcn {
+	FONT-FAMILY: "Times New Roman","serif"; MARGIN-LEFT: 0in; FONT-SIZE: =
+12pt; MARGIN-RIGHT: 0in; mso-style-name: normalfrutiger47lightcn; =
+mso-margin-top-alt: auto; mso-margin-bottom-alt: auto
+}
+DIV.normalfrutiger47lightcn {
+	FONT-FAMILY: "Times New Roman","serif"; MARGIN-LEFT: 0in; FONT-SIZE: =
+12pt; MARGIN-RIGHT: 0in; mso-style-name: normalfrutiger47lightcn; =
+mso-margin-top-alt: auto; mso-margin-bottom-alt: auto
+}
+SPAN.EmailStyle18 {
+	FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS","sans-serif"; COLOR: =
+#1f497d; FONT-WEIGHT: normal; mso-style-type: personal
+}
+SPAN.BalloonTextChar {
+	FONT-FAMILY: "Tahoma","sans-serif"; mso-style-priority: 99; =
+mso-style-link: "Balloon Text"; mso-style-name: "Balloon Text Char"
+}
+SPAN.EmailStyle23 {
+	FONT-STYLE: normal; FONT-FAMILY: "Trebuchet MS","sans-serif"; COLOR: =
+#1f497d; FONT-WEIGHT: normal; mso-style-type: personal-reply
+}
+.MsoChpDefault {
+	FONT-SIZE: 10pt; mso-style-type: export-only
+}
+DIV.WordSection1 {
+	page: WordSection1
+}
+</STYLE>
+<!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></HEAD>
+<BODY lang=3DEN-US link=3Dblue bgColor=3Dwhite vLink=3Dpurple>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet MS">Its already=20
+closed</FONT></DIV>
+<BLOCKQUOTE=20
+style=3D"BORDER-LEFT: #000080 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+dir=3Dltr>
+  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+  <DIV=20
+  style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+  <A title=3Dprithvi.joshi@pamac.com =
+href=3D"mailto:prithvi.joshi@pamac.com">Prithvi=20
+  Joshi</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A =
+title=3Dsachin.dalvi@pamac.com=20
+  href=3D"mailto:sachin.dalvi@pamac.com">'Sachin Dalvi'</A> ; <A=20
+  title=3Drupesh.zodage@pamac.com =
+href=3D"mailto:rupesh.zodage@pamac.com">'Rupesh=20
+  Zodage'</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Cc:</B> <A =
+title=3Dmurugan.odiyar@pamac.com=20
+  href=3D"mailto:murugan.odiyar@pamac.com">'Murugan Odiyar'</A> ; <A=20
+  title=3Dganesh.sawant@pamac.com =
+href=3D"mailto:ganesh.sawant@pamac.com">'Ganesh=20
+  Sawant'</A> ; <A title=3Dbvu.admin@pamac.com=20
+  href=3D"mailto:bvu.admin@pamac.com">'PAMAC - BVU Admin Unit'</A> ; <A=20
+  title=3Dcpvservices@pamac.com =
+href=3D"mailto:cpvservices@pamac.com">'PAMAC - CPV=20
+  Services Unit'</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Monday, December 08, 2014 =
+8:44=20
+  PM</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> RE: PAMAC BVU : Need =
+Changes in=20
+  PMS for Billing purpose</DIV>
+  <DIV><BR></DIV>
+  <DIV class=3DWordSection1>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">Hi=20
+  Ganesh,<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <DIV>
+  <DIV>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">When=20
+  this will be closed, </SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">Ticket=20
+  generated 15<SUP>th</SUP> Nov?<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">Thanks=20
+  &amp; Regards, <o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">Prithvi=20
+  Joshi.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">Sr.=20
+  Manager &amp; DCH - Mumbai CPV Services.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"=20
+  lang=3DIT>Tel: +91 8097998211&nbsp;| Mobile: +91 9820354261| =
+Email:&nbsp;<A=20
+  href=3D"mailto:prithvi.joshi@pamac.com">prithvi.joshi@pamac.com</A>|=20
+  Website:&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><A=20
+  href=3D"http://www.pamac.com"><SPAN style=3D"COLOR: #002060"=20
+  lang=3DIT>www.pamac.com</SPAN></A></SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"=20
+  lang=3DIT>|<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 11pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: navy; FONT-SIZE: =
+20pt">WE</SPAN></B><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: navy; FONT-SIZE: =
+11pt"> are=20
+  spreading our wings, do visit our revamped website for more details =
+=96 <A=20
+  href=3D"http://www.pamac.com">www.pamac.com</A></SPAN></B><SPAN=20
+  style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 11pt"><o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 11pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 11pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 11pt"><o:p>&nbsp;</o:p></SPAN></P></DIV></DIV>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <DIV>
+  <DIV=20
+  style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; =
+PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: =
+#b5c4df 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+  <P class=3DMsoNormal><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: =
+10pt">From:</SPAN></B><SPAN=20
+  style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt"> Sachin =
+Dalvi=20
+  [mailto:sachin.dalvi@pamac.com] <BR><B>Sent:</B> Friday, December 05, =
+2014=20
+  4:37 AM<BR><B>To:</B> Prithvi Joshi; 'Rupesh Zodage'<BR><B>Cc:</B> =
+'Murugan=20
+  Odiyar'; 'Ganesh Sawant'; 'PAMAC - BVU Admin Unit'; 'PAMAC - CPV =
+Services=20
+  Unit'<BR><B>Subject:</B> Re: PAMAC BVU : Need Changes in PMS for =
+Billing=20
+  purpose<o:p></o:p></SPAN></P></DIV></DIV>
+  <P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+  <DIV>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">&nbsp;Dear=20
+  Rupesh,</SPAN><o:p></o:p></P></DIV>
+  <DIV>
+  <P class=3DMsoNormal>&nbsp;<o:p></o:p></P></DIV>
+  <DIV>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Any=20
+  updates.</SPAN><o:p></o:p></P></DIV>
+  <DIV>
+  <P class=3DMsoNormal>&nbsp;<o:p></o:p></P></DIV>
+  <DIV>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Kindly=20
+  confirm whether it is done or not.</SPAN><o:p></o:p></P></DIV>
+  <DIV>
+  <P class=3DMsoNormal>&nbsp;<o:p></o:p></P></DIV>
+  <DIV>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Regards</SPAN><o:p></o:p></P></DIV>
+  <DIV>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Sachin.\</SPAN><o:p></o:p></P></DIV>
+  <DIV>
+  <P class=3DMsoNormal>&nbsp;<o:p></o:p></P></DIV>
+  <BLOCKQUOTE=20
+  style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: navy 1.5pt solid; =
+PADDING-BOTTOM: 0in; MARGIN: 5pt 0in 5pt 3.75pt; PADDING-LEFT: 4pt; =
+PADDING-RIGHT: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; =
+PADDING-TOP: 0in">
+    <DIV>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 10pt">----- =
+Original=20
+    Message ----- <o:p></o:p></SPAN></P></DIV>
+    <DIV>
+    <P style=3D"BACKGROUND: #e4e4e4" class=3DMsoNormal><B><SPAN=20
+    style=3D"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: =
+10pt">From:</SPAN></B><SPAN=20
+    style=3D"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 10pt"> <A=20
+    title=3Dprithvi.joshi@pamac.com =
+href=3D"mailto:prithvi.joshi@pamac.com">Prithvi=20
+    Joshi</A> <o:p></o:p></SPAN></P></DIV>
+    <DIV>
+    <P class=3DMsoNormal><B><SPAN=20
+    style=3D"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: =
+10pt">To:</SPAN></B><SPAN=20
+    style=3D"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 10pt"> <A=20
+    title=3Dsachin.dalvi@pamac.com =
+href=3D"mailto:sachin.dalvi@pamac.com">'Sachin=20
+    Dalvi'</A> ; <A title=3Drupesh.zodage@pamac.com=20
+    href=3D"mailto:rupesh.zodage@pamac.com">'Rupesh Zodage'</A>=20
+    <o:p></o:p></SPAN></P></DIV>
+    <DIV>
+    <P class=3DMsoNormal><B><SPAN=20
+    style=3D"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: =
+10pt">Cc:</SPAN></B><SPAN=20
+    style=3D"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 10pt"> <A=20
+    title=3Dmurugan.odiyar@pamac.com=20
+    href=3D"mailto:murugan.odiyar@pamac.com">'Murugan Odiyar'</A> ; <A=20
+    title=3Dganesh.sawant@pamac.com =
+href=3D"mailto:ganesh.sawant@pamac.com">'Ganesh=20
+    Sawant'</A> ; <A title=3Dbvu.admin@pamac.com=20
+    href=3D"mailto:bvu.admin@pamac.com">'PAMAC - BVU Admin Unit'</A> ; =
+<A=20
+    title=3Dcpvservices@pamac.com =
+href=3D"mailto:cpvservices@pamac.com">'PAMAC - CPV=20
+    Services Unit'</A> <o:p></o:p></SPAN></P></DIV>
+    <DIV>
+    <P class=3DMsoNormal><B><SPAN=20
+    style=3D"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: =
+10pt">Sent:</SPAN></B><SPAN=20
+    style=3D"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 10pt"> =
+Saturday,=20
+    November 15, 2014 6:49 PM<o:p></o:p></SPAN></P></DIV>
+    <DIV>
+    <P class=3DMsoNormal><B><SPAN=20
+    style=3D"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: =
+10pt">Subject:</SPAN></B><SPAN=20
+    style=3D"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 10pt"> RE: =
+PAMAC BVU :=20
+    Need Changes in PMS for Billing purpose<o:p></o:p></SPAN></P></DIV>
+    <DIV>
+    <P class=3DMsoNormal><o:p>&nbsp;</o:p></P></DIV>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">Hi=20
+    Ganesh,<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">This=20
+    what we discussed earlier it is creating bill and paid analysis=20
+    difficulty.<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+    <DIV>
+    <DIV>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">Request=20
+    you to deploy same for IDOCS.<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">Hi=20
+    Murugan,<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">Request=20
+    your approval to change PMS billing data generation as per Payout =
+logic so=20
+    there will be no difference PAN India.<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">Thanks=20
+    &amp; Regards, <o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">Prithvi=20
+    Joshi.<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt">Sr.=20
+    Manager &amp; DCH - Mumbai CPV Services.<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"=20
+    lang=3DIT>Tel: +91 8097998211&nbsp;| Mobile: +91 9820354261| =
+Email:&nbsp;<A=20
+    href=3D"mailto:prithvi.joshi@pamac.com">prithvi.joshi@pamac.com</A>| =
+
+    Website:&nbsp;</SPAN><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"><A=20
+    href=3D"http://www.pamac.com"><SPAN style=3D"COLOR: #002060"=20
+    lang=3DIT>www.pamac.com</SPAN></A></SPAN><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 10pt"=20
+    lang=3DIT>|<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 11pt"><o:p>&nbsp;</o:p></SPAN></P>
+    <P class=3DMsoNormal><B><SPAN=20
+    style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: navy; =
+FONT-SIZE: 20pt">WE</SPAN></B><B><SPAN=20
+    style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: navy; =
+FONT-SIZE: 11pt">=20
+    are spreading our wings, do visit our revamped website for more =
+details =96 <A=20
+    href=3D"http://www.pamac.com">www.pamac.com</A></SPAN></B><SPAN=20
+    style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 11pt"><o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 11pt"><o:p>&nbsp;</o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 11pt"><o:p>&nbsp;</o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #002060; =
+FONT-SIZE: 11pt"><o:p>&nbsp;</o:p></SPAN></P></DIV></DIV>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+    <DIV>
+    <DIV=20
+    style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; =
+PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: =
+#b5c4df 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+    <P class=3DMsoNormal><B><SPAN=20
+    style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: =
+10pt">From:</SPAN></B><SPAN=20
+    style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt"> =
+Sachin Dalvi=20
+    [<A =
+href=3D"mailto:sachin.dalvi@pamac.com">mailto:sachin.dalvi@pamac.com</A>]=
+=20
+    <BR><B>Sent:</B> Saturday, November 15, 2014 6:36 PM<BR><B>To:</B> =
+Rupesh=20
+    Zodage<BR><B>Cc:</B> Prithvi Joshi; 'Murugan Odiyar'; Ganesh Sawant; =
+PAMAC -=20
+    BVU Admin Unit; PAMAC - CPV Services Unit<BR><B>Subject:</B> PAMAC =
+BVU :=20
+    Need Changes in PMS for Billing =
+purpose<o:p></o:p></SPAN></P></DIV></DIV>
+    <P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+    <DIV>
+    <P class=3DMsoNormal>&nbsp;&nbsp;&nbsp; <o:p></o:p></P></DIV>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Date:&nbsp;=20
+    15th&nbsp; November 2014</SPAN><o:p></o:p></P>
+    <P class=3DMsoNormal>&nbsp;<o:p></o:p></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Dear=20
+    Rupesh,</SPAN><o:p></o:p></P>
+    <P class=3DMsoNormal>&nbsp;<o:p></o:p></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">As=20
+    per said subject we need some changes in Claim MIS which we used for =
+monthly=20
+    billing. </SPAN><o:p></o:p></P>
+    <P class=3DMsoNormal>&nbsp;<o:p></o:p></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">At=20
+    present&nbsp;Claim mis generated on logic of send to client date. If =
+suppose=20
+    any case receive on 31st of month and send to client done on 1st of =
+next=20
+    month such cases details will be generated in next month billing =
+cycle due=20
+    to this we are facing lots problem in ITR FE payout &amp; at the =
+time=20
+    comparasing bill &amp; Paid data to management =
+team.</SPAN><o:p></o:p></P>
+    <P class=3DMsoNormal>&nbsp;<o:p></o:p></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">For=20
+    ITR FE payout , you have given logic of case receive date i.e 1st to =
+31st=20
+    and MIS is generated of that month only. We need same logic for =
+Claim mis=20
+    also.</SPAN><o:p></o:p></P>
+    <P class=3DMsoNormal>&nbsp;<o:p></o:p></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Below=20
+    are the ticket for such changes. </SPAN><o:p></o:p></P>
+    <P class=3DMsoNormal>&nbsp;<o:p></o:p></P>
+    <TABLE=20
+    style=3D"BORDER-BOTTOM: transparent 1px solid; BORDER-LEFT: =
+transparent 1px solid; WIDTH: 100%; BACKGROUND: white; BORDER-TOP: =
+transparent 1px solid; BORDER-RIGHT: transparent 1px solid"=20
+    id=3Dctl00_C1_grdGrid class=3DMsoNormalTable border=3D0 =
+cellSpacing=3D1=20
+    cellPadding=3D0 width=3D"100%">
+      <TBODY>
+      <TR>
+        <TD=20
+        style=3D"PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; =
+PADDING-RIGHT: 0.75pt; BACKGROUND: #e5e5e5; PADDING-TOP: 0.75pt">
+          <P class=3DMsoNormal><SPAN=20
+          style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; =
+FONT-SIZE: 8pt">11/15/2014=20
+          6:27:16 PM<o:p></o:p></SPAN></P></TD>
+        <TD=20
+        style=3D"PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; =
+PADDING-RIGHT: 0.75pt; BACKGROUND: #e5e5e5; PADDING-TOP: 0.75pt">
+          <P class=3DMsoNormal><SPAN=20
+          style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; =
+FONT-SIZE: 8pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+        <TD=20
+        style=3D"PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; =
+PADDING-RIGHT: 0.75pt; BACKGROUND: #e5e5e5; PADDING-TOP: 0.75pt">
+          <P class=3DMsoNormal><SPAN=20
+          style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; =
+FONT-SIZE: 8pt">SSU\201411\MUM-000008<o:p></o:p></SPAN></P></TD>
+        <TD=20
+        style=3D"PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; =
+PADDING-RIGHT: 0.75pt; BACKGROUND: #e5e5e5; PADDING-TOP: 0.75pt">
+          <P class=3DMsoNormal><SPAN=20
+          style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; =
+FONT-SIZE: 8pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+        <TD=20
+        style=3D"PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; =
+PADDING-RIGHT: 0.75pt; BACKGROUND: #e5e5e5; PADDING-TOP: 0.75pt">
+          <P class=3DMsoNormal><SPAN=20
+          style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; =
+FONT-SIZE: 8pt">WE=20
+          NEED SOME CHANGES IN CLAIM MIS WHICH WE TAKE FOR MONTHLY=20
+          BILLING.<o:p></o:p></SPAN></P></TD>
+        <TD=20
+        style=3D"PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; =
+PADDING-RIGHT: 0.75pt; BACKGROUND: #e5e5e5; PADDING-TOP: 0.75pt">
+          <P class=3DMsoNormal><SPAN=20
+          style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; =
+FONT-SIZE: 8pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+        <TD=20
+        style=3D"PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; =
+PADDING-RIGHT: 0.75pt; BACKGROUND: #e5e5e5; PADDING-TOP: 0.75pt">
+          <P class=3DMsoNormal><SPAN=20
+          style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; =
+FONT-SIZE: 8pt">New=20
+          Requirement<o:p></o:p></SPAN></P></TD>
+        <TD=20
+        style=3D"PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; =
+PADDING-RIGHT: 0.75pt; BACKGROUND: #e5e5e5; PADDING-TOP: 0.75pt">
+          <P class=3DMsoNormal><SPAN=20
+          style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; =
+FONT-SIZE: 8pt">PCPV<o:p></o:p></SPAN></P></TD>
+        <TD=20
+        style=3D"PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; =
+PADDING-RIGHT: 0.75pt; BACKGROUND: #e5e5e5; PADDING-TOP: 0.75pt">
+          <P class=3DMsoNormal><SPAN=20
+          style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; =
+FONT-SIZE: 8pt">PRITHVIRAJ=20
+          P JOSHI<o:p></o:p></SPAN></P></TD></TR></TBODY></TABLE>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+    <P class=3DMsoNormal>&nbsp;<o:p></o:p></P>
+    <P class=3DMsoNormal>&nbsp;<SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt"><o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Please=20
+    call or reply for any further clarification.</SPAN><o:p></o:p></P>
+    <P class=3DMsoNormal>&nbsp;<o:p></o:p></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Thanks=20
+    &amp; Regards,<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Sachin=20
+    Dalvi<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Asst=20
+    Manager =96 Operation (Mumbai Verification =
+Services)<o:p></o:p></SPAN></P>
+    <P style=3D"MARGIN: 0in 0in 0pt" =
+class=3Dnormalfrutiger47lightcn><STRONG><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; FONT-WEIGHT: normal"=20
+    lang=3DIT>T</SPAN></STRONG><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt"=20
+    lang=3DIT>el: +91 22&nbsp;8655516201&nbsp;| Mobile: 9819078757| =
+Email:&nbsp;<A=20
+    =
+href=3D"mailto:sachin.dalvi@pamac.com">sachin.dalvi@pamac.com</A>&nbsp;| =
+
+    Website:&nbsp;</SPAN><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt"><A=20
+    href=3D"http://www.pamac.com/"><SPAN style=3D"COLOR: navy"=20
+    lang=3DIT>www.pamac.com</SPAN></A></SPAN><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt"=20
+    lang=3DIT>|<o:p></o:p></SPAN></P>
+    <P style=3D"MARGIN: 0in 0in 0pt" =
+class=3Dnormalfrutiger47lightcn><STRONG><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">PAMAC=20
+    Group =96 Banking=20
+    on&nbsp;our&nbsp;Credentials.</SPAN></STRONG>&nbsp;<o:p></o:p></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: =
+10pt">*******************************************************************=
+**********************************************************&nbsp;<o:p></o:=
+p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Disclaimer:=20
+    This e-mail is confidential. It may also be legally privileged. If =
+you are=20
+    not the addressee you may not copy, forward, disclose or use any =
+part of it.=20
+    If you have received this message in error, please delete it and all =
+copies=20
+    from your system and notify the sender immediately by return=20
+    e-mail.<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt"><BR>Internet=20
+    communications cannot be guaranteed to be timely, secure, error or=20
+    virus-free. The sender does not accept liability for any errors or=20
+    omissions.<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: =
+10pt">*******************************************************************=
+**********************************************************<o:p></o:p></SP=
+AN></P>
+    <P class=3DMsoNormal><EM><B><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: green; =
+FONT-SIZE: 10pt">P=20
+    Please</SPAN></B></EM><B><I><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: green; =
+FONT-SIZE: 10pt">=20
+    don't print this e-mail unless you really need to. Let&nbsp;us save =
+the=20
+    Mother Earth.</SPAN></I></B><B><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt"><o:p></o:p></SPAN></B></P>
+    <P class=3DMsoNormal><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; FONT-SIZE: =
+10pt">&nbsp;<o:p></o:p></SPAN></P>
+    <P class=3DMsoNormal><B><SPAN=20
+    style=3D"COLOR: navy; FONT-SIZE: 20pt">WE</SPAN><SPAN =
+style=3D"COLOR: navy">=20
+    </SPAN></B><B><SPAN style=3D"COLOR: navy; FONT-SIZE: 11pt">are =
+spreading our=20
+    wings, do visit our revamped website for more details </SPAN><SPAN=20
+    style=3D"COLOR: navy">=96 </SPAN></B><B><SPAN=20
+    style=3D"COLOR: navy; FONT-SIZE: 11pt"><A=20
+    href=3D"http://www.pamac.com">www.pamac.com</A></SPAN></B><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; FONT-SIZE: =
+10pt"><o:p></o:p></SPAN></P></BLOCKQUOTE></DIV></BLOCKQUOTE></BODY></HTML=
+>
+
+------=_NextPart_000_0015_01D01397.FEE40450--

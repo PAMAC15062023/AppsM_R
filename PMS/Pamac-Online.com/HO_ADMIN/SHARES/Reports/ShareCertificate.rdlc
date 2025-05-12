@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <BottomMargin>1in</BottomMargin>
+  <RightMargin>1in</RightMargin>
+  <ReportParameters>
+    <ReportParameter Name="ShareHolderName">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ShareHolderName</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Folio_No">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>Folio_No</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Certificate_No">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>Certificate_No</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="No_of_Shares_Text">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>No_of_Shares_Text</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Dist_No">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>Dist_No</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>8.5in</InteractiveWidth>
+  <rd:GridSpacing>0.05in</rd:GridSpacing>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <Body>
+    <ColumnSpacing>0.025in</ColumnSpacing>
+    <ReportItems>
+      <Textbox Name="Dist_No">
+        <Left>1.5in</Left>
+        <Top>5.15in</Top>
+        <rd:DefaultName>Dist_No</rd:DefaultName>
+        <ZIndex>4</ZIndex>
+        <Width>2.125in</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingBottom>2pt</PaddingBottom>
+          <FontWeight>700</FontWeight>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Value>=Parameters!Dist_No.Value</Value>
+      </Textbox>
+      <Textbox Name="No_of_Shares_Text">
+        <Left>1.5in</Left>
+        <Top>4.8in</Top>
+        <rd:DefaultName>No_of_Shares_Text</rd:DefaultName>
+        <ZIndex>3</ZIndex>
+        <Width>4.25in</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingBottom>2pt</PaddingBottom>
+          <FontWeight>700</FontWeight>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Height>0.25in</Height>
+        <Value>=Parameters!No_of_Shares_Text.Value</Value>
+      </Textbox>
+      <Textbox Name="Certificate_No">
+        <Left>5.125in</Left>
+        <Top>4.15in</Top>
+        <rd:DefaultName>Certificate_No</rd:DefaultName>
+        <ZIndex>2</ZIndex>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingBottom>2pt</PaddingBottom>
+          <FontWeight>700</FontWeight>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Height>0.25in</Height>
+        <Value>=Parameters!Certificate_No.Value</Value>
+      </Textbox>
+      <Textbox Name="Folio_No">
+        <Left>1.5in</Left>
+        <Top>4.15in</Top>
+        <rd:DefaultName>Folio_No</rd:DefaultName>
+        <ZIndex>1</ZIndex>
+        <Width>2.125in</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingBottom>2pt</PaddingBottom>
+          <FontWeight>700</FontWeight>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Height>0.25in</Height>
+        <Value>=Parameters!Folio_No.Value</Value>
+      </Textbox>
+      <Textbox Name="ShareHolderName">
+        <Left>1.5in</Left>
+        <Top>4.45in</Top>
+        <rd:DefaultName>ShareHolderName</rd:DefaultName>
+        <Width>3.375in</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingBottom>2pt</PaddingBottom>
+          <FontWeight>700</FontWeight>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Height>0.25in</Height>
+        <Value>=Parameters!ShareHolderName.Value</Value>
+      </Textbox>
+    </ReportItems>
+    <Height>5.4in</Height>
+  </Body>
+  <rd:ReportID>c3921dee-685b-4596-be33-849af2a6ea03</rd:ReportID>
+  <LeftMargin>1in</LeftMargin>
+  <Width>6.25in</Width>
+  <InteractiveHeight>8.5in</InteractiveHeight>
+  <Language>en-US</Language>
+  <TopMargin>1in</TopMargin>
+  <PageHeight>8.5in</PageHeight>
+</Report>

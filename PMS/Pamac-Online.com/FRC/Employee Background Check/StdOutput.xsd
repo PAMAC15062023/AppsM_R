@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="StdOutput" targetNamespace="http://tempuri.org/StdOutput.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/StdOutput.xsd" xmlns:mstns="http://tempuri.org/StdOutput.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="GAP">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="APPLICANT_NAME" type="xs:string" />
+				<xs:element name="Gap_Identified" type="xs:string" />
+				<xs:element name="Period_Of_Gap" type="xs:string" />
+				<xs:element name="Reason_Of_Gap" type="xs:string" />
+				<xs:element name="Address_Gap" type="xs:string" />
+				<xs:element name="Police_Verification_GAP" type="xs:string" />
+				<xs:element name="Police_Verification" type="xs:string" />
+				<xs:element name="EMP_CODE" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="MAIN">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="CASE_ID" type="xs:string" />
+				<xs:element name="verified" type="xs:integer" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="RESIDENCERECORD">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="APPLICANT_NAME" type="xs:string" />
+				<xs:element name="ADDRESS" type="xs:string" />
+				<xs:element name="CONTACT_PERSON_DESIGNATION" type="xs:string" />
+				<xs:element name="CONTACT_PERSON" type="xs:string" />
+				<xs:element name="RELATIONSHIP" type="xs:string" />
+				<xs:element name="TELEPHONE_NO" type="xs:string" />
+				<xs:element name="YEAR_AT_RESIDENCE" type="xs:string" />
+				<xs:element name="LANDMARK" type="xs:string" />
+				<xs:element name="ACCESSIBILITY" type="xs:string" />
+				<xs:element name="LOCALITY" type="xs:string" />
+				<xs:element name="PREVIOUS_JOB_DETAIL" type="xs:string" />
+				<xs:element name="NEIGHBOUR_FEEDBACK" type="xs:string" />
+				<xs:element name="NEIGHBOUR_NAME" type="xs:string" />
+				<xs:element name="REMARK" type="xs:string" />
+				<xs:element name="ORGANIZATION_NAME" type="xs:string" />
+				<xs:element name="TEL_NO2" type="xs:string" />
+				<xs:element name="Permanent_Address" type="xs:string" />
+				<xs:element name="Residence_Type" type="xs:string" />
+				<xs:element name="OCCUPATION" type="xs:string" />
+				<xs:element name="FAMILY_RELATIONSHIP" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="DEGREE">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="APPLICANT_NAME" type="xs:string" />
+				<xs:element name="DOB" type="xs:string" />
+				<xs:element name="CONTACT_PERSON" type="xs:string" />
+				<xs:element name="CONTACT_PERSON_DESIGNATION" type="xs:string" />
+				<xs:element name="FULLNAME" type="xs:string" />
+				<xs:element name="VERIFICATION_DATETIME" type="xs:string" />
+				<xs:element name="INSTITUTE_NAME" type="xs:string" />
+				<xs:element name="DATE_ATTEND" type="xs:string" />
+				<xs:element name="QULAIFICATION_GAINED" type="xs:string" />
+				<xs:element name="REMARK" type="xs:string" />
+				<xs:element name="STATUS_CODE" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="EmploymentVerification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="APPLICANT_NAME" type="xs:string" />
+				<xs:element name="CONTACT_PERSON" type="xs:string" />
+				<xs:element name="CONTACT_PERSON_DESIGNATION" type="xs:string" />
+				<xs:element name="INSTITUTE_NAME" type="xs:string" />
+				<xs:element name="EMPLOYMENT_DATE" type="xs:string" />
+				<xs:element name="LAST_POSITION_HELD" type="xs:string" />
+				<xs:element name="REPORTING_MANAGER" type="xs:string" />
+				<xs:element name="REMARK" type="xs:string" />
+				<xs:element name="STATUS_CODE" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Education_Details">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="App_Name" type="xs:string" />
+				<xs:element name="Verification_Code" type="xs:string" />
+				<xs:element name="RecvDate" type="xs:string" />
+				<xs:element name="Institute_Name" type="xs:string" />
+				<xs:element name="Qualification" type="xs:string" />
+				<xs:element name="Institute_Address" type="xs:string" />
+				<xs:element name="Registration_Number" type="xs:string" />
+				<xs:element name="Roll_Number" type="xs:string" />
+				<xs:element name="Passing_Year" type="xs:string" />
+				<xs:element name="Respondent_Name" type="xs:string" />
+				<xs:element name="Respondent_Designation" type="xs:string" />
+				<xs:element name="Respondent_Contact_Number" type="xs:string" />
+				<xs:element name="Record_Found_Yes" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="Over_Positive" type="xs:string" />
+				<xs:element name="Date_of_Verification" type="xs:string" />
+				<xs:element name="Time_of_Verification" type="xs:string" />
+				<xs:element name="Supervisor_Name" type="xs:string" />
+				<xs:element name="username" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="FE_Name" type="xs:string" />
+				<xs:element name="Ref_No" type="xs:string" />
+				<xs:element name="Record_Found_No" type="xs:string" />
+				<xs:element name="Over_Negative" type="xs:string" />
+				<xs:element name="Over_Discrepant" type="xs:string" />
+				<xs:element name="Over_UTV" type="xs:string" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Education_Verification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_id" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="CreditCheck_Verification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="SubType" type="xs:string" />
+				<xs:element name="AppName" type="xs:string" />
+				<xs:element name="dob" type="xs:string" />
+				<xs:element name="ref_no" type="xs:string" />
+				<xs:element name="RcvdDate" type="xs:string" />
+				<xs:element name="father_name" type="xs:string" />
+				<xs:element name="Verification_Address" type="xs:string" />
+				<xs:element name="PanNo" type="xs:string" />
+				<xs:element name="Deful_Yes" type="xs:string" />
+				<xs:element name="Deful_No" type="xs:string" />
+				<xs:element name="Cibil_Score" type="xs:string" />
+				<xs:element name="Record_Yes" type="xs:string" />
+				<xs:element name="Record_No" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="Over_Pos" type="xs:string" />
+				<xs:element name="Over_Neg" type="xs:string" />
+				<xs:element name="Over_Dis" type="xs:string" />
+				<xs:element name="Over_UTV" type="xs:string" />
+				<xs:element name="Date_of_Verification" type="xs:string" />
+				<xs:element name="Time_of_Verification" type="xs:string" />
+				<xs:element name="FE_Name" type="xs:string" />
+				<xs:element name="Supervisor_Name" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ReferenceCheck_Verification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_id" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="SubType" type="xs:string" />
+				<xs:element name="AppName" type="xs:string" />
+				<xs:element name="dob" type="xs:string" />
+				<xs:element name="ref_no" type="xs:string" />
+				<xs:element name="RcvdDate" type="xs:string" />
+				<xs:element name="father_name" type="xs:string" />
+				<xs:element name="Address" type="xs:string" />
+				<xs:element name="Reference_Name" type="xs:string" />
+				<xs:element name="Reference_Relation" type="xs:string" />
+				<xs:element name="Reference_Address" type="xs:string" />
+				<xs:element name="Reference_Contact_Number" type="xs:string" />
+				<xs:element name="Residence_Address_of_Employee_as_Per_Call_Visit" type="xs:string" />
+				<xs:element name="Since_how_long_the_referencee_is_knowing_to_the_candidate" type="xs:string" />
+				<xs:element name="Number_of_Years_at_Residence" type="xs:string" />
+				<xs:element name="Residence_Status" type="xs:string" />
+				<xs:element name="Occupation_Type" type="xs:string" />
+				<xs:element name="Name_of_Employer_of_Employee" type="xs:string" />
+				<xs:element name="Designation_of_the_Employee" type="xs:string" />
+				<xs:element name="Contact_Number_of_the_Employee" type="xs:string" />
+				<xs:element name="Remarks_Feedback" type="xs:string" />
+				<xs:element name="Over_Pos" type="xs:string" />
+				<xs:element name="Over_Neg" type="xs:string" />
+				<xs:element name="Over_Dis" type="xs:string" />
+				<xs:element name="Over_UTV" type="xs:string" />
+				<xs:element name="Date_of_Verification" type="xs:string" />
+				<xs:element name="Time_of_Verification" type="xs:string" />
+				<xs:element name="FE_Name" type="xs:string" />
+				<xs:element name="Supervisor_Name" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Employment_Verification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_id" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="SubType" type="xs:string" />
+				<xs:element name="AppName" type="xs:string" />
+				<xs:element name="ref_no" type="xs:string" />
+				<xs:element name="RcvdDate" type="xs:string" />
+				<xs:element name="Company_Name" type="xs:string" />
+				<xs:element name="Company_Address" type="xs:string" />
+				<xs:element name="Company_Contact_Number" type="xs:string" />
+				<xs:element name="Respondent_Name" type="xs:string" />
+				<xs:element name="Respondent_Designation" type="xs:string" />
+				<xs:element name="Respondent_Contact_Number" type="xs:string" />
+				<xs:element name="Employee_Designation" type="xs:string" />
+				<xs:element name="Last_CTC" type="xs:string" />
+				<xs:element name="Period_Of_Employment" type="xs:string" />
+				<xs:element name="Reason_for_Leaving" type="xs:string" />
+				<xs:element name="Any_Interigrity_Issue" type="xs:string" />
+				<xs:element name="Performance_of_the_Employee" type="xs:string" />
+				<xs:element name="Record_Yes" type="xs:string" />
+				<xs:element name="Record_No" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="Over_Pos" type="xs:string" />
+				<xs:element name="Over_Neg" type="xs:string" />
+				<xs:element name="Over_Dis" type="xs:string" />
+				<xs:element name="Over_UTV" type="xs:string" />
+				<xs:element name="Date_of_Verification" type="xs:string" />
+				<xs:element name="Time_of_Verification" type="xs:string" />
+				<xs:element name="FE_Name" type="xs:string" />
+				<xs:element name="Supervisor_Name" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Criminal_Verification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_id" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="SubType" type="xs:string" />
+				<xs:element name="AppName" type="xs:string" />
+				<xs:element name="ref_no" type="xs:string" />
+				<xs:element name="RcvdDate" type="xs:string" />
+				<xs:element name="Father_Name" type="xs:string" />
+				<xs:element name="Verification_Address" type="xs:string" />
+				<xs:element name="dob" type="xs:string" />
+				<xs:element name="Name_of_PoliceSt" type="xs:string" />
+				<xs:element name="Address_of_PoliceSt" type="xs:string" />
+				<xs:element name="Name_of_Respondent" type="xs:string" />
+				<xs:element name="Desig_of_Respondent" type="xs:string" />
+				<xs:element name="Contact_Number_of_Respondent" type="xs:string" />
+				<xs:element name="Record_Yes" type="xs:string" />
+				<xs:element name="Record_No" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="Over_Pos" type="xs:string" />
+				<xs:element name="Over_Neg" type="xs:string" />
+				<xs:element name="Over_Dis" type="xs:string" />
+				<xs:element name="Over_UTV" type="xs:string" />
+				<xs:element name="Date_of_Verification" type="xs:string" />
+				<xs:element name="Time_of_Verification" type="xs:string" />
+				<xs:element name="FE_Name" type="xs:string" />
+				<xs:element name="Supervisor_Name" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Court_Verification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_id" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="SubType" type="xs:string" />
+				<xs:element name="AppName" type="xs:string" />
+				<xs:element name="ref_no" type="xs:string" />
+				<xs:element name="RcvdDate" type="xs:string" />
+				<xs:element name="Father_Name" type="xs:string" />
+				<xs:element name="Verification_Address" type="xs:string" />
+				<xs:element name="dob" type="xs:string" />
+				<xs:element name="Name_of_Court" type="xs:string" />
+				<xs:element name="Address_of_Court" type="xs:string" />
+				<xs:element name="Name_of_Respondent" type="xs:string" />
+				<xs:element name="Desig_of_Respondent" type="xs:string" />
+				<xs:element name="Contact_Number_of_Respondent" type="xs:string" />
+				<xs:element name="Record_Yes" type="xs:string" />
+				<xs:element name="Record_No" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="Over_Pos" type="xs:string" />
+				<xs:element name="Over_Neg" type="xs:string" />
+				<xs:element name="Over_Dis" type="xs:string" />
+				<xs:element name="Over_UTV" type="xs:string" />
+				<xs:element name="Date_of_Verification" type="xs:string" />
+				<xs:element name="Time_of_Verification" type="xs:string" />
+				<xs:element name="FE_Name" type="xs:string" />
+				<xs:element name="Supervisor_Name" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ResiAddress_Verification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_id" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="SubType" type="xs:string" />
+				<xs:element name="AppName" type="xs:string" />
+				<xs:element name="ref_no" type="xs:string" />
+				<xs:element name="RcvdDate" type="xs:string" />
+				<xs:element name="Father_Name" type="xs:string" />
+				<xs:element name="Verification_Address" type="xs:string" />
+				<xs:element name="dob" type="xs:string" />
+				<xs:element name="Name_of_Respondent" type="xs:string" />
+				<xs:element name="Relationship" type="xs:string" />
+				<xs:element name="Address_of_Respondent" type="xs:string" />
+				<xs:element name="Contact_Number_of_Respondent" type="xs:string" />
+				<xs:element name="Residence_Type" type="xs:string" />
+				<xs:element name="Landmark" type="xs:string" />
+				<xs:element name="Marital_Status" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="Over_Pos" type="xs:string" />
+				<xs:element name="Over_Neg" type="xs:string" />
+				<xs:element name="Over_Dis" type="xs:string" />
+				<xs:element name="Over_UTV" type="xs:string" />
+				<xs:element name="Date_of_Verification" type="xs:string" />
+				<xs:element name="Time_of_Verification" type="xs:string" />
+				<xs:element name="FE_Name" type="xs:string" />
+				<xs:element name="Supervisor_Name" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="Contact_Number_of_Employee" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+				<xs:element name="City" type="xs:string" />
+				<xs:element name="Pincode" type="xs:string" />
+				<xs:element name="PeriodOfStay" type="xs:string" />
+				<xs:element name="NoofFamilyMember" type="xs:string" />
+				<xs:element name="BuildingType" type="xs:string" />
+				<xs:element name="BuildingTypeOther" type="xs:string" />
+				<xs:element name="PresenceOfSecurity" type="xs:string" />
+				<xs:element name="NameBoard" type="xs:string" />
+				<xs:element name="First_Neighbour" type="xs:string" />
+				<xs:element name="Second_Neighbour" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Other_ResiDetails">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="Name_Of_Respondent_1" type="xs:string" />
+				<xs:element name="Relation_1" type="xs:string" />
+				<xs:element name="Occupation_1" type="xs:string" />
+				<xs:element name="Annual_Income_1" type="xs:string" />
+				<xs:element name="Verification_ID" type="xs:string" />
+				<xs:element name="Sub_Verification_ID" type="xs:string" />
+				<xs:element name="Detail_ID" type="xs:string" />
+				<xs:element name="Name_Of_Respondent_2" type="xs:string" />
+				<xs:element name="Relation_2" type="xs:string" />
+				<xs:element name="Occupation_2" type="xs:string" />
+				<xs:element name="Annual_Income_2" type="xs:string" />
+				<xs:element name="Name_Of_Respondent_3" type="xs:string" />
+				<xs:element name="Relation_3" type="xs:string" />
+				<xs:element name="Occupation_3" type="xs:string" />
+				<xs:element name="Annual_Income_3" type="xs:string" />
+				<xs:element name="Name_Of_Respondent_4" type="xs:string" />
+				<xs:element name="Relation_4" type="xs:string" />
+				<xs:element name="Occupation_4" type="xs:string" />
+				<xs:element name="Annual_Income_4" type="xs:string" />
+				<xs:element name="Name_Of_Respondent_5" type="xs:string" />
+				<xs:element name="Relation_5" type="xs:string" />
+				<xs:element name="Occupation_5" type="xs:string" />
+				<xs:element name="Annual_Income_5" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Other_AgriculturalDetails">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="Village_1" type="xs:string" />
+				<xs:element name="SrNo_SurverNo_1" type="xs:string" />
+				<xs:element name="Extent_1" type="xs:string" />
+				<xs:element name="Irrigated_1" type="xs:string" />
+				<xs:element name="Rain_Fed_1" type="xs:string" />
+				<xs:element name="Irrigation_Source_1" type="xs:string" />
+				<xs:element name="Value_1" type="xs:string" />
+				<xs:element name="Verification_ID" type="xs:string" />
+				<xs:element name="Sub_Verification_ID" type="xs:string" />
+				<xs:element name="Detail_ID" type="xs:string" />
+				<xs:element name="Village_2" type="xs:string" />
+				<xs:element name="SrNo_SurverNo_2" type="xs:string" />
+				<xs:element name="Extent_2" type="xs:string" />
+				<xs:element name="Irrigated_2" type="xs:string" />
+				<xs:element name="Rain_Fed_2" type="xs:string" />
+				<xs:element name="Irrigation_Source_2" type="xs:string" />
+				<xs:element name="Value_2" type="xs:string" />
+				<xs:element name="Village_3" type="xs:string" />
+				<xs:element name="SrNo_SurverNo_3" type="xs:string" />
+				<xs:element name="Extent_3" type="xs:string" />
+				<xs:element name="Irrigated_3" type="xs:string" />
+				<xs:element name="Rain_Fed_3" type="xs:string" />
+				<xs:element name="Irrigation_Source_3" type="xs:string" />
+				<xs:element name="Value_3" type="xs:string" />
+				<xs:element name="Village_4" type="xs:string" />
+				<xs:element name="SrNo_SurverNo_4" type="xs:string" />
+				<xs:element name="Extent_4" type="xs:string" />
+				<xs:element name="Irrigated_4" type="xs:string" />
+				<xs:element name="Rain_Fed_4" type="xs:string" />
+				<xs:element name="Irrigation_Source_4" type="xs:string" />
+				<xs:element name="Value_4" type="xs:string" />
+				<xs:element name="Village_5" type="xs:string" />
+				<xs:element name="SrNo_SurverNo_5" type="xs:string" />
+				<xs:element name="Extent_5" type="xs:string" />
+				<xs:element name="Irrigated_5" type="xs:string" />
+				<xs:element name="Rain_Fed_5" type="xs:string" />
+				<xs:element name="Irrigation_Source_5" type="xs:string" />
+				<xs:element name="Value_5" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Other_HousingDetails">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="Village_1" type="xs:string" />
+				<xs:element name="Door_no_1" type="xs:string" />
+				<xs:element name="Extent_1" type="xs:string" />
+				<xs:element name="No_of_Rooms_1" type="xs:string" />
+				<xs:element name="Value_1" type="xs:string" />
+				<xs:element name="Verification_ID" type="xs:string" />
+				<xs:element name="Sub_Verification_ID" type="xs:string" />
+				<xs:element name="Detail_ID" type="xs:string" />
+				<xs:element name="Village_2" type="xs:string" />
+				<xs:element name="Door_no_2" type="xs:string" />
+				<xs:element name="Extent_2" type="xs:string" />
+				<xs:element name="No_of_Rooms_2" type="xs:string" />
+				<xs:element name="Value_2" type="xs:string" />
+				<xs:element name="Village_3" type="xs:string" />
+				<xs:element name="Door_no_3" type="xs:string" />
+				<xs:element name="Extent_3" type="xs:string" />
+				<xs:element name="No_of_Rooms_3" type="xs:string" />
+				<xs:element name="Value_3" type="xs:string" />
+				<xs:element name="Village_4" type="xs:string" />
+				<xs:element name="Door_no_4" type="xs:string" />
+				<xs:element name="Extent_4" type="xs:string" />
+				<xs:element name="No_of_Rooms_4" type="xs:string" />
+				<xs:element name="Value_4" type="xs:string" />
+				<xs:element name="Village_5" type="xs:string" />
+				<xs:element name="Door_no_5" type="xs:string" />
+				<xs:element name="Extent_5" type="xs:string" />
+				<xs:element name="No_of_Rooms_5" type="xs:string" />
+				<xs:element name="Value_5" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Other_PropertyDetails">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="Type_of_Asset_1" type="xs:string" />
+				<xs:element name="Description_1" type="xs:string" />
+				<xs:element name="Value_1" type="xs:string" />
+				<xs:element name="Verification_ID" type="xs:string" />
+				<xs:element name="Sub_Verification_ID" type="xs:string" />
+				<xs:element name="Detail_ID" type="xs:string" />
+				<xs:element name="Type_of_Asset_2" type="xs:string" />
+				<xs:element name="Description_2" type="xs:string" />
+				<xs:element name="Value_2" type="xs:string" />
+				<xs:element name="Type_of_Asset_3" type="xs:string" />
+				<xs:element name="Description_3" type="xs:string" />
+				<xs:element name="Value_3" type="xs:string" />
+				<xs:element name="Type_of_Asset_4" type="xs:string" />
+				<xs:element name="Description_4" type="xs:string" />
+				<xs:element name="Value_4" type="xs:string" />
+				<xs:element name="Type_of_Asset_5" type="xs:string" />
+				<xs:element name="Description_5" type="xs:string" />
+				<xs:element name="Value_5" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Education_Details_Img">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="Verification_Code" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="Verification_Type_id" type="xs:string" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Employment_Details_Img1">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="Verification_Code" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="Verification_Type_id" type="xs:string" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Reference_Check_Img">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="Verification_Code" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="Verification_Type_id" type="xs:string" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Credit_Check_Img">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="Verification_Code" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="Verification_Type_id" type="xs:string" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Criminal_Verification_Img1">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="Verification_Code" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="Verification_Type_id" type="xs:string" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Court_Verification_Img">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="Verification_Code" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="Verification_Type_id" type="xs:string" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Residence_Verification_Img1">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="Verification_Code" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="Verification_Type_id" type="xs:string" />
+				<xs:element name="UploadImg" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="EBC_SummaryDetails">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="Applicant" type="xs:string" />
+				<xs:element name="Case_x0020_Received" type="xs:string" />
+				<xs:element name="Send_x0020_Date" type="xs:string" />
+				<xs:element name="FinalStatus" type="xs:string" />
+				<xs:element name="Client_Name" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="EBC_SummaryDetails_Other">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="Verification" type="xs:string" />
+				<xs:element name="Assignd_x0020_Sub" type="xs:string" />
+				<xs:element name="Overall_Verification" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Passport_Verification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="SubType" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="Holder_Name" type="xs:string" />
+				<xs:element name="Date_Of_Recipt" type="xs:string" />
+				<xs:element name="Validity_of_Passport" type="xs:string" />
+				<xs:element name="Passport_No" type="xs:string" />
+				<xs:element name="Is_copy_of_Passport_clear_Yes" type="xs:string" />
+				<xs:element name="Is_copy_of_Passport_clear_No" type="xs:string" />
+				<xs:element name="Passport_Match_Yes" type="xs:string" />
+				<xs:element name="Passport_Match_No" type="xs:string" />
+				<xs:element name="Name_Match_Yes" type="xs:string" />
+				<xs:element name="Name_Match_No" type="xs:string" />
+				<xs:element name="Address_Match_Yes" type="xs:string" />
+				<xs:element name="Address_Match_No" type="xs:string" />
+				<xs:element name="Validity_Match_Yes" type="xs:string" />
+				<xs:element name="Validity_Match_No" type="xs:string" />
+				<xs:element name="status_OK" type="xs:string" />
+				<xs:element name="status_NotOK" type="xs:string" />
+				<xs:element name="status_refer" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="Date_of_Submission" type="xs:string" />
+				<xs:element name="Date_of_Verification" type="xs:string" />
+				<xs:element name="Supervisors_Name" type="xs:string" />
+				<xs:element name="Verifiers_Name" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Pancard_Verification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="SubType" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="Date_Of_Recipt" type="xs:string" />
+				<xs:element name="CPArefNo" type="xs:string" />
+				<xs:element name="BankRefNo" type="xs:string" />
+				<xs:element name="Pancard_No" type="xs:string" />
+				<xs:element name="Holder_Name" type="xs:string" />
+				<xs:element name="IsPAN_Logic_Correctness_Yes" type="xs:string" />
+				<xs:element name="IsPAN_Logic_Correctness_No" type="xs:string" />
+				<xs:element name="IsPAN_Logic_Correctness_NotAvaliabal" type="xs:string" />
+				<xs:element name="Digit10_Yes" type="xs:string" />
+				<xs:element name="Digit10_No" type="xs:string" />
+				<xs:element name="AlphanumDigit10_Yes" type="xs:string" />
+				<xs:element name="AlphanumDigit10_No" type="xs:string" />
+				<xs:element name="ChkDigit6789_Yes" type="xs:string" />
+				<xs:element name="ChkDigit6789_No" type="xs:string" />
+				<xs:element name="ChkDigit4_Yes" type="xs:string" />
+				<xs:element name="ChkDigit4_No" type="xs:string" />
+				<xs:element name="Observation" type="xs:string" />
+				<xs:element name="PanDetailsVerified_Internet" type="xs:string" />
+				<xs:element name="PanDetailsVerified_IncomeTaxDepartment" type="xs:string" />
+				<xs:element name="PanNoMatch_Yes" type="xs:string" />
+				<xs:element name="PanNoMatch_No" type="xs:string" />
+				<xs:element name="PanNoMatch_NotConfirmed" type="xs:string" />
+				<xs:element name="Name_Match_Yes" type="xs:string" />
+				<xs:element name="Name_Match_No" type="xs:string" />
+				<xs:element name="Name_Match_NotConfirmed" type="xs:string" />
+				<xs:element name="Relation_Match_Yes" type="xs:string" />
+				<xs:element name="Relation_Match_No" type="xs:string" />
+				<xs:element name="Relation_Match_NotConfirmed" type="xs:string" />
+				<xs:element name="DOB_Match_Yes" type="xs:string" />
+				<xs:element name="DOB_Match_No" type="xs:string" />
+				<xs:element name="DOB_Match_NotConfirmed" type="xs:string" />
+				<xs:element name="status" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="OkCase_as_per_record" type="xs:string" />
+				<xs:element name="Verifiers_Name" type="xs:string" />
+				<xs:element name="Supervisors_Name" type="xs:string" />
+				<xs:element name="Date_of_Visit" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="VoterID_Verification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="SubType" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="Date_Of_Recipt" type="xs:string" />
+				<xs:element name="VoterID" type="xs:string" />
+				<xs:element name="Name_Of_Holder" type="xs:string" />
+				<xs:element name="Validity_of_VoterID" type="xs:string" />
+				<xs:element name="Is_copy_of_VoterID_clear_Yes" type="xs:string" />
+				<xs:element name="Is_copy_of_VoterID_clear_No" type="xs:string" />
+				<xs:element name="VoterID_Match_Yes" type="xs:string" />
+				<xs:element name="VoterID_Match_No" type="xs:string" />
+				<xs:element name="RelationName_Match_Yes" type="xs:string" />
+				<xs:element name="RelationName_Match_No" type="xs:string" />
+				<xs:element name="Address_Match_Yes" type="xs:string" />
+				<xs:element name="Address_Match_No" type="xs:string" />
+				<xs:element name="AgeMatch_Yes" type="xs:string" />
+				<xs:element name="AgeMatch_No" type="xs:string" />
+				<xs:element name="status_OK" type="xs:string" />
+				<xs:element name="status_NotOK" type="xs:string" />
+				<xs:element name="status_refer" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="Date_of_Submission" type="xs:string" />
+				<xs:element name="Date_of_Verification" type="xs:string" />
+				<xs:element name="Supervisors_Name" type="xs:string" />
+				<xs:element name="Verifiers_Name" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="Name_Match_Yes" type="xs:string" />
+				<xs:element name="Name_Match_No" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="DrivingLicence_Verification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="SubType" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="Date_Of_Recipt" type="xs:string" />
+				<xs:element name="Driving_Licence_No" type="xs:string" />
+				<xs:element name="Name_Of_Holder" type="xs:string" />
+				<xs:element name="Validity_of_Licence" type="xs:string" />
+				<xs:element name="Is_copy_of_licence_clear_Yes" type="xs:string" />
+				<xs:element name="Is_copy_of_licence_clear_No" type="xs:string" />
+				<xs:element name="match_with_RTOrecords_Yes" type="xs:string" />
+				<xs:element name="match_with_RTOrecords_No" type="xs:string" />
+				<xs:element name="Name_match_Yes" type="xs:string" />
+				<xs:element name="Name_match_No" type="xs:string" />
+				<xs:element name="Address_match_Yes" type="xs:string" />
+				<xs:element name="Address_match_No" type="xs:string" />
+				<xs:element name="Validity_match_Yes" type="xs:string" />
+				<xs:element name="Validity_match_No" type="xs:string" />
+				<xs:element name="status_OK" type="xs:string" />
+				<xs:element name="status_NotOK" type="xs:string" />
+				<xs:element name="status_refer" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="Date_of_Submission" type="xs:string" />
+				<xs:element name="Date_of_Verification" type="xs:string" />
+				<xs:element name="Supervisors_Name" type="xs:string" />
+				<xs:element name="Verifiers_Name" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="GlobalDatabaseSearch">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="SubType" type="xs:string" />
+				<xs:element name="Sub_Verification_Type_ID" type="xs:string" />
+				<xs:element name="Company_Name" type="xs:string" />
+				<xs:element name="E_Name" type="xs:string" />
+				<xs:element name="Contanted_Name" type="xs:string" />
+				<xs:element name="Desigantion_Contacted_Person" type="xs:string" />
+				<xs:element name="Contact_Detalis" type="xs:string" />
+				<xs:element name="Record_Found_Yes" type="xs:string" />
+				<xs:element name="Record_Found_No" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="status" type="xs:string" />
+				<xs:element name="SupervisorName" type="xs:string" />
+				<xs:element name="Date_Of_Visit" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="PamacResSearch">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="date" type="xs:string" />
+				<xs:element name="ApplicantName" type="xs:string" />
+				<xs:element name="EmpCode" type="xs:string" />
+				<xs:element name="Res_Address" type="xs:string" />
+				<xs:element name="city" type="xs:string" />
+				<xs:element name="Pincode" type="xs:string" />
+				<xs:element name="Resistancesince" type="xs:string" />
+				<xs:element name="ResidenceType_Owned" type="xs:string" />
+				<xs:element name="ResidenceType_Rented" type="xs:string" />
+				<xs:element name="ResidenceType_Payingguest" type="xs:string" />
+				<xs:element name="ResidenceType_SharedAccommodation" type="xs:string" />
+				<xs:element name="BuildingType_Hut" type="xs:string" />
+				<xs:element name="BuildingType_IndependentHouse" type="xs:string" />
+				<xs:element name="BuildingType_Flat" type="xs:string" />
+				<xs:element name="BuildingType_Chawl" type="xs:string" />
+				<xs:element name="ContactedPerson" type="xs:string" />
+				<xs:element name="Relationship" type="xs:string" />
+				<xs:element name="PamacRemarks_Positive" type="xs:string" />
+				<xs:element name="PamacRemarks_Negative" type="xs:string" />
+				<xs:element name="VerifierName" type="xs:string" />
+				<xs:element name="Emp_code" type="xs:string" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="OtherObservation" type="xs:string" />
+				<xs:element name="SpokeToapplicantRes_Yes" type="xs:string" />
+				<xs:element name="SpokeToapplicantRes_No" type="xs:string" />
+				<xs:element name="aceablityOfRes_Easy" type="xs:string" />
+				<xs:element name="aceablityOfRes_Difficult" type="xs:string" />
+				<xs:element name="aceablityOfRes_Untraceable" type="xs:string" />
+				<xs:element name="Rationcardavailable_Yes" type="xs:string" />
+				<xs:element name="Rationcardavailable_No" type="xs:string" />
+				<xs:element name="ConfirmationfromNeigh_Yes" type="xs:string" />
+				<xs:element name="ConfirmationfromNeigh_No" type="xs:string" />
+				<xs:element name="fe_signimages" type="xs:base64Binary" />
+				<xs:element name="date_of_verification" type="xs:string" />
+				<xs:element name="time_of_verification" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

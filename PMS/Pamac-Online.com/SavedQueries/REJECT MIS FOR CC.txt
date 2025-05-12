@@ -1,0 +1,7 @@
+select distinct c.ref_no as RefNo,a.CASE_ID as CaseID,VERIFICATION_TYPE_Code,Client_name, Fe_Response, Why_Rejected, Reason, max(date_time), product_name,
+isnull(firstname,'')+' '+isnull(middlename,'')+' '+isnull(lastname,'') as Fe_name 
+from case_reject a, employee_master b, cpv_CC_case_details c, verification_type_master d, client_master e 
+where a.case_id = c.case_id and a.verification_type_id = d.verification_type_id
+and a.fe_id = b.emp_id and c.client_id = e.client_id and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE group by c.ref_no, a.case_id, VERIFICATION_TYPE_Code,Client_name, Fe_Response, Why_Rejected, Reason, product_name,
+isnull(firstname,'')+' '+isnull(middlename,'')+' '+isnull(lastname,'')
+

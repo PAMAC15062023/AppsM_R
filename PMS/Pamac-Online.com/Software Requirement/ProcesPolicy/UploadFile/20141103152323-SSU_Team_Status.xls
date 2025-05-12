@@ -1,0 +1,408 @@
+<table border="0">
+	<tr style="height:20px;">
+		<td> </td>
+	</tr><tr>
+		<td class="SuccessMessage" colspan="20"><b> <span style='background-color:Gray'> <font size='4'>PAMAC FINSERVE PVT. LTD.</font></span></b> <br/><b><font size='2' color='blue'>SSU TEAM STATUS Report.</font></b> <br/></td>
+	</tr>
+</table><div>
+	<table cellspacing="1" cellpadding="1" rules="all" border="1" id="ctl00_C1_Grdexport" style="width:850px;height:450px;font-weight:normal;font-size:8pt;font-family:Arial;color:Black;border-width:1px;border-style:Solid;border-color:Transparent;background-color:White;">
+		<tr style="color:Black;background-color:#D0D5D8;font-family:Arial;font-size:8pt;font-weight:bold;height:20px;">
+			<th scope="col">Serial No</th><th scope="col">First Name</th><th scope="col">Last Name</th><th scope="col">RequestDate</th><th scope="col">Suggestion</th><th scope="col">Vertical Name</th><th scope="col">Requirement Type</th><th scope="col">Vertical Type</th><th scope="col">Approve Status</th><th scope="col">Ticket No</th><th scope="col">priority</th><th scope="col">Requirement Type1</th><th scope="col">Implemented At</th><th scope="col">Developer Name</th><th scope="col">DueDate</th><th scope="col">Problem Solution</th><th scope="col">Ticket Close Date</th>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>1</td><td>GYANENDRA</td><td>SINGH</td><td>11/10/2014</td><td>Please provide rights of Auto FE Assignment on PMS ID P16331HDFC Liability cases</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\LUCK-000001</td><td>Low</td><td>New Requirement</td><td>PMS NORTH</td><td>Samruddhi Ravindra Gawade</td><td>11/10/3914</td><td>FEAssignment rights mapped for  PMS ID P16331</td><td>14/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>1</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>24/09/2014</td><td>Standard Remark and Remark to be made mandatory.</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201409\MUM-000001</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>SANKET SHRIKANT KADANE</td><td>26/09/2014</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>2</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>25/09/2014</td><td>While QC Allotment Case Address and FE name should be visible.</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201409\AHM-000028</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>10/10/2014</td><td>Dear Ram please relogged query properly we are not able to understand for which product what we need to do</td><td>09/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>2</td><td>SACHIN</td><td>LAMBA</td><td>14/10/2014</td><td>Please create the same on priority and provide the rights of making attendance/BIS/ DAT Details etc. (PMS DAT Can be update with time deadline due to PDP Activity)</td><td>SHANKAR  DEVARE</td><td>Others</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\DL-000001</td><td>High</td><td>Others</td><td>PMS NORTH</td><td>Samruddhi Ravindra Gawade</td><td>15/10/2014</td><td>SUbcentre name of Delhi HDFC Bank CD Loan Activity. added in Delh location for rights please provide the Emp_code</td><td>14/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>3</td><td>PARVEZ</td><td>KHAN</td><td>14/10/2014</td><td>&nbsp;</td><td>RAJESH PATEL</td><td>Add New Client</td><td>PCPA</td><td>&nbsp;</td><td>SSU\201410\DL-000002</td><td>High</td><td>Error</td><td>PMS NORTH</td><td>&nbsp;</td><td>15/10/2014</td><td>Query has been solved</td><td>15/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>4</td><td>SACHIN</td><td>LAMBA</td><td>14/10/2014</td><td>&nbsp;</td><td>SANSAR  CHAND</td><td>Add New Client</td><td>PCPA</td><td>&nbsp;</td><td>SSU\201410\DL-000003</td><td>High</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>6</td><td>Ramchandra</td><td>Narvekar</td><td>25/09/2014</td><td>Kotak Manhindra Bank</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201409\MUM-000014</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>10/10/2014</td><td>Given client Kotak Mahindra ban Lib Export Report has been done for BVU &amp; North ,
+please check &amp; confirm</td><td>10/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>6</td><td>TEJENDRA</td><td>VATS</td><td>15/10/2014</td><td>Kindly do the needful so that we would able to mark their attendence</td><td>RAJESH PATEL</td><td>Add New Client</td><td>PCPA</td><td>&nbsp;</td><td>SSU\201410\DL-000005</td><td>High</td><td>New Requirement</td><td>PMS NORTH</td><td>Abhijit Zanjurne</td><td>16/10/2014</td><td>Given Error has been solved
+please check &amp; confirm</td><td>16/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>7</td><td>GYANENDRA</td><td>SINGH</td><td>15/10/2014</td><td>Please change sub Centre of Ashish Kumar Mishra P48378 from Lucknow to Kanpur in PMS because his Kanpur guy and is working in Kanpur Centre</td><td>SACHIN TIRLOTKAR</td><td>Add New Client</td><td>PTPU</td><td>&nbsp;</td><td>SSU\201410\LUCK-000002</td><td>High</td><td>Error</td><td> PANINDIA locations</td><td>&nbsp;</td><td>16/10/2014</td><td>subcentre name have been changed as kanpur for the employee code P48378</td><td>15/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>7</td><td>Ramchandra</td><td>Narvekar</td><td>25/09/2014</td><td>A tray to be developed for Mum and North URL.</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201409\MUM-000015</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>27/09/2014</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>8</td><td>TEJENDRA</td><td>VATS</td><td>15/10/2014</td><td>Kindly do the needful on urgent basis</td><td>RAJESH PATEL</td><td>Others</td><td>PCPA</td><td>&nbsp;</td><td>SSU\201410\DL-000006</td><td>High</td><td>Password – Creation / resetting</td><td>PMS NORTH</td><td>Samruddhi Ravindra Gawade</td><td>16/10/2014</td><td>Have replaced the correct Emp ids  
+Dushyant Sharma P53029 Hyql@226 
+Jitender Kumar P54030 Lqkr@704</td><td>15/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>9</td><td>PRITHVI</td><td>JOSHI</td><td>26/09/2014</td><td>&nbsp;</td><td>SAMEER KUDALKAR</td><td>Others</td><td>PFRC</td><td>&nbsp;</td><td>SSU\201409\MUM-000021</td><td>High</td><td>Client to be added</td><td> PANINDIA locations</td><td>&nbsp;</td><td>27/09/2014</td><td>Done</td><td>27/09/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>9</td><td>SANSAR</td><td>CHAND</td><td>17/10/2014</td><td>Need to update the rate of ITR @ Rs. 50 in Chandigarh PMS master</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Cha-000001</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>18/10/2014</td><td>Already have completed the same</td><td>18/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>10</td><td>GYANENDRA</td><td>SINGH</td><td>21/10/2014</td><td>Ashish Kumar Mishra P48378 name not showing for OJT updation pls do the needful and his updating authority name is AdityaSinghKachwaha P47071</td><td>SACHIN TIRLOTKAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Kan-000001</td><td>High</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>22/10/2014</td><td>Updating authority changed to P47071  and productivity set as 80</td><td>21/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>11</td><td>SANSAR</td><td>CHAND</td><td>30/10/2014</td><td>Need to update the rate of ITR @ Rs. 50 in Chandigarh PMS master</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Ludhi-000001</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>31/10/2014</td><td>as per the requirement rate 50.00 have been updated at chandigad location</td><td>31/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>13</td><td>AMIT</td><td>NAIK</td><td>27/09/2014</td><td>OPEN DOMAIN.</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201409\MUM-000005</td><td>Low</td><td>Domain Activation</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>28/09/2014</td><td>Domain of *@sbi.co.in mapped for tushar.dhumal@pamac.com id</td><td>27/09/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>14</td><td>AMIT</td><td>NAIK</td><td>27/09/2014</td><td>OPEN DOMAIN.</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201409\MUM-000006</td><td>Low</td><td>Domain Activation</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>29/09/2014</td><td>Domain of *@sbi.co.in mapped for santosh.kanawade@pamac.com ID.</td><td>27/09/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>15</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>27/09/2014</td><td>286 cases to be deleted from from HDFC Liability One Time Pune</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201409\Hoc-000015</td><td>Low</td><td>Deletion of cases</td><td> PANINDIA locations</td><td>SANKET SHRIKANT KADANE</td><td>28/09/2014</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>16</td><td>SANTOSH</td><td>WAGHMARE</td><td>29/09/2014</td><td>Kindly add below executive name in PMS for assign cases.
+
+Emp #	Name
+P53719	Sachin Bhalerao
+P53598	Ahemad Shaikh</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201409\PN-000001</td><td>Low</td><td>New Requirement</td><td>PMS WEST</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>30/09/2014</td><td>Fe rights have been mapped as well as Fe pincode mapped.</td><td>30/09/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>17</td><td>SANTOSH</td><td>WAGHMARE</td><td>29/09/2014</td><td>Kindly create the e-mail ID for the below field executives
+
+Emp #	Name
+P53719	Sachin Bhalerao</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201409\PN-000002</td><td>Low</td><td>New Requirement</td><td>PMS WEST</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>30/09/2014</td><td>New email id careated i.e P53719@pamac.com.; Display name is Sachin Bhalerao and password is juGE88!! and *@pamac.com domain mapped for the same</td><td>30/09/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>18</td><td>ABHIJEET</td><td>ZANJURNE</td><td>29/09/2014</td><td>Requirement / Remark</td><td>GANESH SAWANT</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>SSU\201409\Hoc-000016</td><td>medium</td><td>New Requirement</td><td>PMS WEST</td><td>SANKET SHRIKANT KADANE</td><td>30/09/2014</td><td>Developer Remark</td><td>29/09/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>19</td><td>JITENDRA</td><td>ADWILKAR</td><td>01/10/2014</td><td>My ID P00193 for South URL need new password creation as old password is not accepting.</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000001</td><td>Low</td><td>Password – Creation / resetting</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>02/10/2014</td><td>Password have been set as pamac@123</td><td>01/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>20</td><td>DEEPAK</td><td>CHANDRAWAL</td><td>01/10/2014</td><td>Create Mail ID for Mobilie utility for Neeraj Karode : P-53669</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\IN-000001</td><td>Low</td><td>Mail Id creation</td><td>PMS WEST</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>05/10/2014</td><td>&nbsp;</td><td>06/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>21</td><td>SHYAM</td><td>SHARMA</td><td>01/10/2014</td><td>All IDOC RIGHT MAP IN THIS EMP ID P19009 Name: Shyam Sharma</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\IN-000002</td><td>Low</td><td>Rights assigment</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>06/10/2014</td><td>IDOC rights mapped for your id</td><td>06/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>22</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>04/10/2014</td><td>Surat-FE Payout Report not getting generated for the month of Sept, need to resolved.</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\SU-000001</td><td>Low</td><td>Others</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>05/10/2014</td><td>There is no eror.
+please check attached report</td><td>04/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>23</td><td>SONAL</td><td>ROHEKAR</td><td>06/10/2014</td><td>pls create id for attahed cases, it is on urgent basis</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000002</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>07/10/2014</td><td>Given attached new ids have been created in PMS.</td><td>06/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>24</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>06/10/2014</td><td>Employee Name-: Rohan Chavan
+
+Employee Id-: P51360</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000003</td><td>Low</td><td>Password – Creation / resetting</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>07/10/2014</td><td>Reset password is Ypuy@410 only for west pune</td><td>06/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>25</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>06/10/2014</td><td>Password to be reset - Employee Id-: P51360 - Employee Name-: Rohan Chavan</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000004</td><td>Low</td><td>Password – Creation / resetting</td><td>PMS WEST</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>07/10/2014</td><td>Reset password Ypuy@410</td><td>06/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>26</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>06/10/2014</td><td>Cases to be deleted from HDFC Ergo, KYC, Mumbai.</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000005</td><td>Low</td><td>Deletion of cases</td><td> PANINDIA locations</td><td>SANKET SHRIKANT KADANE</td><td>07/10/2014</td><td>All the attached file cases deleted from HDFC Ergo, KYC, Mumbai at BVU URL.
+Please check &amp; confirm.</td><td>06/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>27</td><td>SONAL</td><td>ROHEKAR</td><td>06/10/2014</td><td>Pls provide reset password for U02891703
+surat
+Ujjval</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000006</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>07/10/2014</td><td>Password :pamac@123</td><td>06/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>28</td><td>SONAL</td><td>ROHEKAR</td><td>06/10/2014</td><td>Login ID   - S78350090 
+Pls reset the password for 
+Delhi</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000007</td><td>Low</td><td>New Requirement</td><td>PMS NORTH</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>07/10/2014</td><td>Login ID   - S78350090 
+
+ 
+
+Password : pamac@123</td><td>06/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>29</td><td>RAMAKRISHNAN</td><td>&nbsp;</td><td>06/10/2014</td><td>&nbsp;</td><td>SACHIN TIRLOTKAR</td><td>Add New Client</td><td>PTPU</td><td>Approved</td><td>SSU\201410\Mum-000001</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>01/11/2014</td><td>Domain of *@siemens.com mapped for your id.</td><td>03/11/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>30</td><td>RAMAKRISHNAN</td><td>&nbsp;</td><td>06/10/2014</td><td>&nbsp;</td><td>SACHIN TIRLOTKAR</td><td>Add New Client</td><td>PTPU</td><td>Approved</td><td>SSU\201410\Mum-000002</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>14/10/2014</td><td>We have deactivated the email id of ashish.shelke@pamac.com</td><td>13/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>31</td><td>SONAL</td><td>ROHEKAR</td><td>07/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000008</td><td>High</td><td>Error</td><td>PMS SOUTH</td><td>RUPESH VITTHAL ZODAGE</td><td>08/10/2014</td><td>Please find the attached print screen.
+There is no error.</td><td>07/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>32</td><td>SONAL</td><td>ROHEKAR</td><td>07/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000009</td><td>High</td><td>Error</td><td>PMS SOUTH</td><td>RUPESH VITTHAL ZODAGE</td><td>08/10/2014</td><td>Report generated</td><td>07/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>33</td><td>SONAL</td><td>ROHEKAR</td><td>08/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000010</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>09/10/2014</td><td>Reset password is Muyy@374</td><td>08/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>34</td><td>SONAL</td><td>ROHEKAR</td><td>08/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000011</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>SANKET SHRIKANT KADANE</td><td>09/10/2014</td><td>User ID have been created for HDFC Bank at BVU, North, South, East and West locations. Rights assignement also have been completed for all users except Baroda location.that we will complete before 11.00 am.</td><td>08/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>35</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>08/10/2014</td><td>Kunvarji Finstock-While generating RV report BV blank report generates alongwith. Need only RV Export if RV to be generated.</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000012</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>11/10/2014</td><td>Done!!!</td><td>11/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>36</td><td>SONAL</td><td>ROHEKAR</td><td>09/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000013</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>10/10/2014</td><td>User ids created &amp; rights assigned for 15th lot</td><td>10/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>37</td><td>SONAL</td><td>ROHEKAR</td><td>09/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000014</td><td>Low</td><td>New Requirement</td><td>PMS WEST</td><td>SANKET SHRIKANT KADANE</td><td>10/10/2014</td><td>User ID created for HDFC Bank at BVU, North and West locations.
+Rights are also assigned to each users. Please check &amp; confirm.</td><td>10/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>38</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>09/10/2014</td><td>Aspire Home Finance tray  to be developed according to attachment Pan India.</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000015</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>20/10/2014</td><td>Given Report has been done For Pan India
+please check &amp; confirm</td><td>20/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>39</td><td>SONAL</td><td>ROHEKAR</td><td>09/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000016</td><td>High</td><td>Error</td><td>PMS SOUTH</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>10/10/2014</td><td>Mapped the FE auto Assignment rights for your id at Trivenduram location.</td><td>10/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>40</td><td>NIRALI</td><td>MODI</td><td>09/10/2014</td><td>Please set 3000 opening balance for Petty cash for PAMAC Rajkot</td><td>MAULIK TIKARIYA</td><td>Add New Client</td><td>SSU</td><td>&nbsp;</td><td>SSU\201410\AHM-000001</td><td>High</td><td>Error</td><td>PMS WEST</td><td>SANKET SHRIKANT KADANE</td><td>10/10/2014</td><td>Opening balance of Rs.3000 added at Calculus Rajkot location for Petty Cash. Please find the attachment.</td><td>09/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>41</td><td>JITENDRA</td><td>ADWILKAR</td><td>09/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUMR-000001</td><td>Low</td><td>Domain Activation</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>10/10/2014</td><td>Done</td><td>10/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>42</td><td>NIRALI</td><td>MODI</td><td>09/10/2014</td><td>Please check &amp; do the needful.</td><td>MAULIK TIKARIYA</td><td>Add New Client</td><td>SSU</td><td>&nbsp;</td><td>SSU\201410\AHM-000002</td><td>medium</td><td>Error</td><td>PMS WEST</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>10/10/2014</td><td>Given Error has been solved please check &amp; confirm</td><td>16/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>43</td><td>RUPESH</td><td>ZODAGE</td><td>09/10/2014</td><td>If area name is not preset then search option should be there to search areaname as per the pincode.
+Area Name Should be Mandatory
+We already have implement it in CC RV &amp; BV verification.</td><td>GANESH SAWANT</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>SSU\201410\Hoc-000017</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>SANKET SHRIKANT KADANE</td><td>10/10/2014</td><td>Pincode Search Option is now available in RV and BV verification forms for GESBI (CC) for PAN INDIA.
+Also, Area Name field is kept mandatory.
+Please check &amp; confirm.</td><td>10/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>44</td><td>SONAL</td><td>ROHEKAR</td><td>10/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000018</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>11/10/2014</td><td>Given Id created For pan india &amp; rights also Assign..
+please check &amp; confirm</td><td>11/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>45</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>11/10/2014</td><td>Trivandrum-HDFC Liability Individual-KYC- Customer Name-DISON DAVIS T- This case is reflected in FE assignment. Please resolve.</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000019</td><td>Low</td><td>Others</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>12/10/2014</td><td>Rights mapped to sonal ID and maheen ID</td><td>13/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>46</td><td>AMOL</td><td>JADHAV</td><td>11/10/2014</td><td>Vendor details for NEFT to be updated by Central team i.e Vendor Name &amp; Address, Pan No., Service Tax No., Vendor Bank Name, Branch, Account No., A/c type and IFSC code. 
+
+Require different tray for NEFT and Cheque payment mode in calculus post authorisation by Account Team. (Neft format attached) 
+
+Require option in calculus for uploading NEFT payment done reference no's against individual request.  
+
+Online utility request access authority to be given to Central Admin Id for updating status of payments like date &amp; mode of payment (through Credit card).</td><td>MANGESH  HANDE</td><td>Add New Client</td><td>ACCOUNT</td><td>&nbsp;</td><td>SSU\201410\Hoc-000020</td><td>High</td><td>New Requirement</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>18/10/2014</td><td>Changes have been incorporated in https://pamaconline/sbitest application.
+please check &amp; confirm the UAT ASAP.</td><td>18/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>47</td><td>SONAL</td><td>ROHEKAR</td><td>11/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000021</td><td>High</td><td>&nbsp;</td><td>PMS WEST</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>12/10/2014</td><td>In given ID S20072 dosnt exist in Employee master..
+please check &amp; confirm</td><td>11/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>48</td><td>SONAL</td><td>ROHEKAR</td><td>11/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000022</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>12/10/2014</td><td>user ID : D25571574
+Password : pamac@123</td><td>13/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>49</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>11/10/2014</td><td>Holdays and Sundays are to be removed from TAT calculation for Oct month. Holidays are 2,3 15, 23, 24 and Sundays are 5,12,19,26.</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000023</td><td>Low</td><td>Others</td><td> PANINDIA locations</td><td>AKANKSHA VAIBHAV VIDHATE</td><td>06/11/2014</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>50</td><td>SANTOSH</td><td>MORAJKAR</td><td>11/10/2014</td><td>1) Need to display DDE Image Hold cases LOS numbers while uploading the cases. 2) In DDE Image hold cases needs to re-assign to DDE executive, and needs to show in MIS with LOS number prefix with I. 3 ) Drop down in Error MIS. 4 ) To Create Super Admin trey and to be map rights accordingly. 5 ) End to End TAT MIS.</td><td>RAJESH PATEL</td><td>Add New Client</td><td>PCPA</td><td>&nbsp;</td><td>SSU\201410\Hoc-000024</td><td>High</td><td>New Requirement</td><td> PANINDIA locations</td><td>AKANKSHA VAIBHAV VIDHATE</td><td>14/10/2014</td><td>&nbsp;</td><td>14/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>52</td><td>SONAL</td><td>ROHEKAR</td><td>13/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000026</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>14/10/2014</td><td>password :  pamac@123</td><td>13/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>53</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>13/10/2014</td><td>Lucknow-Cases are not showing in case verification to ID i.e. P16331-Gyanendra Pratap Singh. Please check</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000027</td><td>Low</td><td>Others</td><td> PANINDIA locations</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>14/10/2014</td><td>Given Error has been solved after Rights assignment</td><td>14/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>54</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>13/10/2014</td><td>HSBC Bank-IDOC- Required label template in the HDBC Bank IDOC tray</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000028</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>14/10/2014</td><td>DONE</td><td>13/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>55</td><td>AMIT</td><td>NAIK</td><td>13/10/2014</td><td>Discontinue the email id of Ashish Shelke (ashish.shelke@pamac.com).</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PFRC</td><td>Approved</td><td>SSU\201410\MUM-000002</td><td>Low</td><td>Others</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>14/10/2014</td><td>We have deactivated the email id of ashish.shelke@pamac.com</td><td>13/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>56</td><td>SONAL</td><td>ROHEKAR</td><td>13/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000029</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>14/10/2014</td><td>Given ID has been created For Pan India location.
+please check &amp; confirm</td><td>13/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>57</td><td>AMIT</td><td>NAIK</td><td>13/10/2014</td><td>REQUIRED HSBC BANK LABEL GENERATION OPTION.</td><td>PRITHVIRAJ P JOSHI</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\MUM-000003</td><td>High</td><td>Error</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>14/10/2014</td><td>Done</td><td>13/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>58</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>13/10/2014</td><td>Chandigarh-Emp Name Rajesh Kumar-Supervisor name, signature and Seal to be uploaded</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000030</td><td>Low</td><td>Others</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>14/10/2014</td><td>Signature and Seal uploaded.</td><td>13/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>59</td><td>SONAL</td><td>ROHEKAR</td><td>13/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000031</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>14/10/2014</td><td>Password is pamac@123</td><td>13/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>60</td><td>SONAL</td><td>ROHEKAR</td><td>13/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000032</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>14/10/2014</td><td>not authorized yet</td><td>15/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>61</td><td>AMIT</td><td>NAIK</td><td>13/10/2014</td><td>kindly activate the gateway for following domains : @adityabirla.com, @pamac.com, @hdfc.com, @bajajfinserv.in, @bizsupportcpa.com, @sundarambpo.com, @bajajfinance.com, @fedfina.com for bvu.rcu@pamac.com e-mail ID.</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PFRC</td><td>Approved</td><td>SSU\201410\MUM-000004</td><td>Low</td><td>Domain Activation</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>14/10/2014</td><td>Hi Niteen,
+ 
+We have deactivated the email id of and created the new details are as below
+
+ 
+Bombay Rcu bombay.rcu@pamac.com PR12&amp;*pr 
+
+ 
+Hi Rajendra, 
+ 
+Please config the same.
+ 
+Regards,
+Samruddhi Sawant.</td><td>13/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>63</td><td>SONAL</td><td>ROHEKAR</td><td>13/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000034</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>14/10/2014</td><td>Please share branch_name _branch_code &amp; function ASAP</td><td>14/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>64</td><td>SONAL</td><td>ROHEKAR</td><td>13/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000035</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>14/10/2014</td><td>Password : pamac@123</td><td>13/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>65</td><td>VISHWANATH</td><td>HAGAWANE</td><td>13/10/2014</td><td>RESET PASSWORD OF USER ID AMBALA FOR AMBALA LOCATION FOR SBI CHEQUE PROCESSING</td><td>SACHIN TIRLOTKAR</td><td>Others</td><td>PTPU</td><td>&nbsp;</td><td>SSU\201410\MumRec-000003</td><td>High</td><td>Password – Creation / resetting</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>14/10/2014</td><td>Reset password is Tnbf@578</td><td>13/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>67</td><td>SONAL</td><td>ROHEKAR</td><td>13/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000037</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>14/10/2014</td><td>password : pamac@123</td><td>13/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>80</td><td>SONAL</td><td>ROHEKAR</td><td>14/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000041</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>15/10/2014</td><td>password is pamac@123</td><td>14/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>81</td><td>JITENDRA</td><td>ADWILKAR</td><td>14/10/2014</td><td>Req export report by ref #, applicant name &amp; verification type e.g. 1152418_MR JAGIR SINGH JABBAL_RV+BV</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000042</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>AKANKSHA VAIBHAV VIDHATE</td><td>16/10/2014</td><td>As Per the Requriment File Name Has Been Changed</td><td>14/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>82</td><td>RAVINDRA</td><td>LOHAR</td><td>14/10/2014</td><td>Pls open the domain for as above so contact person - Abhijit Chauhan-8155872323.</td><td>MAULIK TIKARIYA</td><td>Others</td><td>PCPA</td><td>&nbsp;</td><td>SSU\201410\Raj-000001</td><td>High</td><td>Domain Activation</td><td>PMS WEST</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>15/10/2014</td><td>Activated.</td><td>14/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>83</td><td>NAVIN</td><td>NAGVADIYA</td><td>14/10/2014</td><td>Need to add client in PMS in West Location (Ahmedabad, Baroda, Surat &amp; Rajkot) as Kotak Mahindra Bank - PD in CPV - RL</td><td>MAULIK TIKARIYA</td><td>Others</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\AHM-000012</td><td>medium</td><td>Add New Client</td><td>PMS WEST</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>15/10/2014</td><td>Given Client has been added 
+please check &amp; confirm</td><td>14/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>85</td><td>AMIT</td><td>NAIK</td><td>14/10/2014</td><td>Kindly add name &amp; changes as per attached file for OJT updation of BVU unit.</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000005</td><td>Low</td><td>OJT</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>15/10/2014</td><td>As per the given attachment OJT productivity added and removed.</td><td>15/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>86</td><td>SONAL</td><td>ROHEKAR</td><td>14/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000044</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>16/10/2014</td><td>We have mapped the rights</td><td>16/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>87</td><td>AMIT</td><td>NAIK</td><td>14/10/2014</td><td>FINANCIAL TEMPLATE  TO BE ADDED PMS PANINDIA. 2) PAN INDIA RATE MASTER FOR RC, PAN CHECK &amp; FINANCIAL.</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000006</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>18/10/2014</td><td>As per the requirement Case wise MIS &amp; Summery MIS have ben completed for RC &amp; PC verification.Please check &amp; confirm the UAT. We will complete 1)FINANCIAL TEMPLATE  TO BE ADDED PMS PANINDIA requirement before 02-Nov-2014</td><td>18/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>90</td><td>AMIT</td><td>NAIK</td><td>16/10/2014</td><td>HOLD Option available in PMS but it is not giving option to extend TAT?</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000007</td><td>Low</td><td>Others</td><td>PMS BVU</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>91</td><td>AMIT</td><td>NAIK</td><td>16/10/2014</td><td>Saturday TAT relaxation not available for IDOC Products and Business Visits in PMS where we are visiting all cases on Monday.</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000008</td><td>Low</td><td>Others</td><td>PMS BVU</td><td>AKANKSHA VAIBHAV VIDHATE</td><td>01/11/2014</td><td>This Requirement is Completed</td><td>03/11/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>92</td><td>SONAL</td><td>ROHEKAR</td><td>16/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000047</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>17/10/2014</td><td>Reset password is Qpcu@656
+chennai</td><td>16/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>93</td><td>SONAL</td><td>ROHEKAR</td><td>16/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000048</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>17/10/2014</td><td>Uutp@626</td><td>16/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>94</td><td>SONAL</td><td>ROHEKAR</td><td>16/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000049</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>17/10/2014</td><td>Reset password Svuy@181</td><td>16/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>95</td><td>SURESH</td><td>&nbsp;</td><td>16/10/2014</td><td>As per FGB Client we required 2 more colmun at the time of Export as Sourcing Channel &amp; Promotion Name. Please find the attachment for the same. Add colmun which we had coloured as pink.</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000009</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>17/10/2014</td><td>Import related changes has been done, fyi find the attached file.</td><td>16/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>96</td><td>DHAVAL</td><td>KHISTE</td><td>16/10/2014</td><td>Please do the needful for deletion of all this ref nos dated 13.11.2014 from PMS.</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Nas-000001</td><td>High</td><td>Error</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>97</td><td>AMIT</td><td>NAIK</td><td>16/10/2014</td><td>Set OCL TAT calculations in PMS 72 Hrs &amp; BOCL TAT calculations in PMS 168 Hrs.</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000010</td><td>Low</td><td>Others</td><td>PMS BVU</td><td>AKANKSHA VAIBHAV VIDHATE</td><td>25/10/2014</td><td>Financial verification type have been incorporated in 
+PMS. Please confirm UAT offline IN HO centre</td><td>25/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>98</td><td>SONAL</td><td>ROHEKAR</td><td>16/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000050</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>18/10/2014</td><td>ok</td><td>17/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>99</td><td>SONAL</td><td>ROHEKAR</td><td>17/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000051</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>18/10/2014</td><td>Reset password is Jqqn@042</td><td>17/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>100</td><td>SANTOSH</td><td>MORAJKAR</td><td>17/10/2014</td><td>1. RPC - Scan date and time needs to be display in supervisor tray at DDE and CPV trey. 2. All RPC locations Q needs to be display in my ID in one single login. 3. QC / Error Updates needs to be display in main route under ATS.</td><td>SANTOSH LAXMAN MORAJKAR</td><td>Add New Client</td><td>PCPA</td><td>&nbsp;</td><td>SSU\201410\Hoc-000052</td><td>High</td><td>Enhacement</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>18/10/2014</td><td>As per the requirement all the three points have been solved.</td><td>17/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>101</td><td>SONAL</td><td>ROHEKAR</td><td>17/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000053</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>18/10/2014</td><td>Ids have been created.</td><td>18/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>102</td><td>PRITHVIRAJ</td><td>JOSHI</td><td>17/10/2014</td><td>New E Mail ID creation in BVU PDCR Unit as smecorner@pamac.com and display  name is SMECORNER Mumbai.</td><td>SAMEER KUDALKAR</td><td>Others</td><td>PDCR</td><td>&nbsp;</td><td>SSU\201410\MUM-000011</td><td>medium</td><td>Mail Id creation</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>18/10/2014</td><td>Given Email id has been created.
+ 
+Password is &amp;%PR98kh; Display Name SMECORNER  ; Email Id is smecorner@pamac.com</td><td>17/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>103</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>17/10/2014</td><td>SVC, RL - Import template to be generated in North URL.</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000054</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>18/10/2014</td><td>Import created.</td><td>17/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>104</td><td>SONAL</td><td>ROHEKAR</td><td>17/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000055</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>18/10/2014</td><td>Reset password is Kuob@784</td><td>17/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>105</td><td>SONAL</td><td>ROHEKAR</td><td>17/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000056</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>18/10/2014</td><td>Reset password is Rjpc@068</td><td>17/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>106</td><td>SONAL</td><td>ROHEKAR</td><td>17/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000057</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>18/10/2014</td><td>ID have been created for 20th Lot</td><td>18/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>107</td><td>SONAL</td><td>ROHEKAR</td><td>18/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000058</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>19/10/2014</td><td>Reset password is Xjkk@333</td><td>18/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>108</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>18/10/2014</td><td>Cochin-HDFC Liabiliy one time tray to be added in Cochin.</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000059</td><td>Low</td><td>Enhacement</td><td>PMS SOUTH</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>19/10/2014</td><td>Have activated the Cochin-HDFC Liabiliy one time tray in PMS</td><td>18/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>109</td><td>SONAL</td><td>ROHEKAR</td><td>18/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000060</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>19/10/2014</td><td>Have change the correct id.
+ 
+Pasword is Xiec@102</td><td>18/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>110</td><td>SONAL</td><td>ROHEKAR</td><td>18/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000061</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>19/10/2014</td><td>Reset password is Wecj@510</td><td>20/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>111</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>20/10/2014</td><td>East-ING Vysya-KYC- some modification to be done. Modifications mentioned in the attachedments of RV and BV.</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000062</td><td>Low</td><td>Others</td><td> PANINDIA locations</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>21/10/2014</td><td>Given Requirement Related In -ING Vysya-KYC has been done 
+please check &amp; confirm</td><td>21/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>112</td><td>SONAL</td><td>ROHEKAR</td><td>20/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000063</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>22/10/2014</td><td>Reset password is Xbuu@562</td><td>21/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>113</td><td>SONAL</td><td>ROHEKAR</td><td>20/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000064</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>22/10/2014</td><td>New one 	Passwords
+S81921514	Jlod@667
+R08351514	Spth@853</td><td>21/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>114</td><td>SONAL</td><td>ROHEKAR</td><td>20/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000065</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>22/10/2014</td><td>Have Created and mapped the rights of 21st Lot</td><td>21/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>115</td><td>SONAL</td><td>ROHEKAR</td><td>21/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000066</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>22/10/2014</td><td>Reset password is Nnvn@224</td><td>21/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>116</td><td>SONAL</td><td>ROHEKAR</td><td>21/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000067</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>22/10/2014</td><td>Password as below
+
+R92610015    Ivoo@762   
+a14710015     Bkpx@506</td><td>21/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>117</td><td>SONAL</td><td>ROHEKAR</td><td>21/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000068</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>22/10/2014</td><td>Reset password is Ojyw@768</td><td>21/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>118</td><td>SONAL</td><td>ROHEKAR</td><td>21/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000069</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>22/10/2014</td><td>Reaet password is Ojyw@768</td><td>21/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>119</td><td>AMIT</td><td>NAIK</td><td>21/10/2014</td><td>ACTIVATE DOMAIN TO bvu.hsbcbank@pamac.com</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000012</td><td>Low</td><td>Domain Activation</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>22/10/2014</td><td>Domain of @hsbc.co.in mapped bvu.hsbcbank@pamac.com</td><td>21/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>120</td><td>AMIT</td><td>NAIK</td><td>21/10/2014</td><td>As per Murugan Requirement, we need Bank statement casewise details for all client in single file. In  this file we need Date In , Applicant name , client name , Date out , Location , Verification code, Vertical &amp; Verifying staff name.</td><td>PRITHVIRAJ P JOSHI</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000013</td><td>High</td><td>New Requirement</td><td>PMS BVU</td><td>RUPESH VITTHAL ZODAGE</td><td>22/10/2014</td><td>Please find the Attached MIS.</td><td>21/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>121</td><td>VISHWANATH</td><td>HAGAWANE</td><td>21/10/2014</td><td>Kindly delet the mentioned record chq no 346633 amt 3974 from batch BAT\201410\NSK\SBI-000034 from nasik location</td><td>SACHIN TIRLOTKAR</td><td>Others</td><td>PTPU</td><td>&nbsp;</td><td>SSU\201410\MumRec-000004</td><td>High</td><td>Deletion of cases</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>22/10/2014</td><td>duplicate cheque entry has been deleted.</td><td>21/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>122</td><td>RUPESH</td><td>ZODAGE</td><td>22/10/2014</td><td>Need to convert application source code into storeprocedures.
+and disconnected arictecture.</td><td>GANESH SAWANT</td><td>Add New Client</td><td>SSU</td><td>&nbsp;</td><td>SSU\201410\Hoc-000070</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>KANCHAN ANANDRAO JAGDALE</td><td>15/11/2014</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>123</td><td>SONAL</td><td>ROHEKAR</td><td>22/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000071</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>RASHMI PRAKASH YESHWANTE</td><td>23/10/2014</td><td>Reset password is Vhoj@724</td><td>22/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>124</td><td>SONAL</td><td>ROHEKAR</td><td>22/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000072</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>RASHMI PRAKASH YESHWANTE</td><td>23/10/2014</td><td>Reset password is Lqav@506</td><td>22/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>125</td><td>SONAL</td><td>ROHEKAR</td><td>22/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000073</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>RASHMI PRAKASH YESHWANTE</td><td>23/10/2014</td><td>Reset password is Ufyx@735</td><td>22/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>126</td><td>SONAL</td><td>ROHEKAR</td><td>22/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000074</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>25/10/2014</td><td>&nbsp;</td><td>25/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>127</td><td>SONAL</td><td>ROHEKAR</td><td>22/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000075</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>25/10/2014</td><td>22nd Lot completed.</td><td>25/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>128</td><td>NAVIN</td><td>NAGVADIYA</td><td>25/10/2014</td><td>To activiate the domain for HSBC client seprate mail ID as @hsbc.co.in for ahmcpv@pamac.com at Ahmedabad &amp; brcpv@pamac.com at Baroda</td><td>MAULIK TIKARIYA</td><td>Others</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\AHM-000013</td><td>High</td><td>Domain Activation</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>27/10/2014</td><td>Domain of *@hsbc.co.in mapped for above said ids.</td><td>27/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>129</td><td>NAVIN</td><td>NAGVADIYA</td><td>25/10/2014</td><td>Pls delete the non required &amp; Wrongly updated cases from Ahmedabad  - PMS as per attached list.</td><td>MAULIK TIKARIYA</td><td>Others</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\AHM-000014</td><td>medium</td><td>Deletion of cases</td><td> PANINDIA locations</td><td>RUPESH VITTHAL ZODAGE</td><td>28/10/2014</td><td>As per the attached file, cases have been removed.</td><td>27/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>130</td><td>NAVIN</td><td>NAGVADIYA</td><td>25/10/2014</td><td>Pls reset the password or do needful for the mail ID of p50630@pamac.com; p48284@pamac.com &amp; p47115@pamac.com as all are using on mobile and gets off automatically and now comes as user ID or password incorrect.</td><td>MAULIK TIKARIYA</td><td>Others</td><td>SSU</td><td>&nbsp;</td><td>SSU\201410\AHM-000015</td><td>Low</td><td>Password – Creation / resetting</td><td>PMS WEST</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>27/10/2014</td><td>Reset passwords are as below
+ 
+p50630@pamac.com  ASdf^&amp;54 
+p48284@pamac.com  VVgh*&amp;34 
+p47115@pamac.com  GHtr**45</td><td>27/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>131</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>27/10/2014</td><td>DB Mortgage-Pan India-
+Required Other Panel and its text box for under Visible Items, 
+Required panel i.e. Reputation In Neighbourhood and its option accoding to attached template and its sequence.</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000076</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>28/10/2014</td><td>Given Requirement Related changes Related Export Report has been done..
+please check &amp; confirm</td><td>28/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>132</td><td>SONAL</td><td>ROHEKAR</td><td>27/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000077</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>28/10/2014</td><td>Reset password Falj@350 for P79380990
+Reset password Wuxe@443  for A86550990</td><td>27/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>133</td><td>SONAL</td><td>ROHEKAR</td><td>27/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000078</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>28/10/2014</td><td>Reset password is Xifq@415</td><td>27/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>134</td><td>AMIT</td><td>NAIK</td><td>27/10/2014</td><td>KINDLY ACTIVATE DOMAIN OF @sbi.co.in to Anand Kudale email id</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000014</td><td>Low</td><td>Domain Activation</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>28/10/2014</td><td>Domain of @sbi.co.in mapped for Anand Kudale email id</td><td>27/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>135</td><td>SONAL</td><td>ROHEKAR</td><td>27/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000079</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>28/10/2014</td><td>Reset password is Wavk@621</td><td>27/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>136</td><td>AMIT</td><td>NAIK</td><td>27/10/2014</td><td>Required case final status in FE payout Process Report. We herewith attached earlier payout process report .</td><td>PRITHVIRAJ P JOSHI</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000015</td><td>Low</td><td>New Requirement</td><td>PMS BVU</td><td>RUPESH VITTHAL ZODAGE</td><td>29/10/2014</td><td>Column name case final status have been incorporated in FE payout tray</td><td>28/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>137</td><td>SONAL</td><td>ROHEKAR</td><td>27/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000080</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>28/10/2014</td><td>Reset password is Mgan@811v</td><td>27/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>138</td><td>SONAL</td><td>ROHEKAR</td><td>27/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000081</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>28/10/2014</td><td>Reset password is Tetg@744</td><td>27/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>139</td><td>SONAL</td><td>ROHEKAR</td><td>27/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000082</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>28/10/2014</td><td>Reset password is Mjbv@063</td><td>27/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>140</td><td>AMIT</td><td>NAIK</td><td>27/10/2014</td><td>Add Daimler finance tray in IDOC PMS. Also set TAT for 48 hrs.</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PFRC</td><td>Approved</td><td>SSU\201410\MUM-000016</td><td>Low</td><td>Add New Client</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>28/10/2014</td><td>As discussed have mapped the client name as below as well as set the tat.</td><td>27/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>141</td><td>AMIT</td><td>NAIK</td><td>27/10/2014</td><td>kindly activate the following domains : @tata-aig.com, @tata-aig.in, @andromedabpo.in, @ltinsurance.com, @daimler.com, @pnbmetlife.co.in, @janalakshmi.com, @exidelife.in, @reliablebss.com for akshay.solanki@pamac.com e-mail ID.</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PDCR</td><td>Approved</td><td>SSU\201410\MUM-000017</td><td>Low</td><td>Domain Activation</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>28/10/2014</td><td>Given domains activated for Akshay Solanky's id</td><td>27/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>142</td><td>AMIT</td><td>NAIK</td><td>27/10/2014</td><td>Kindly open Narendra Gurav ( P47689 ) PMS PAN India location PMS ID : Mumbai, West, East, South, North and provide all Supervisor rights to him.</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PFRC</td><td>Approved</td><td>SSU\201410\MUM-000018</td><td>Low</td><td>Rights assigment</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>28/10/2014</td><td>One on yestrday.</td><td>31/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>143</td><td>SONAL</td><td>ROHEKAR</td><td>27/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000083</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>29/10/2014</td><td>Reset password is Okyk@866</td><td>28/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>144</td><td>SONAL</td><td>ROHEKAR</td><td>27/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000084</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>29/10/2014</td><td>Reset the same password for both ids . Password is 
+pamac@123</td><td>28/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>145</td><td>SONAL</td><td>ROHEKAR</td><td>27/10/2014</td><td>&nbsp;</td><td>MURUGAN  ODIYAR</td><td>&nbsp;</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\Hoc-000085</td><td>High</td><td>&nbsp;</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>29/10/2014</td><td>23rd lot ID created.</td><td>29/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>147</td><td>AMIT</td><td>NAIK</td><td>28/10/2014</td><td>LABEL GENERATION IS NOT AVAILABLE. REQUIRED BANK STATEMENT LABEL GENERATION .</td><td>PRITHVIRAJ P JOSHI</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\MUM-000019</td><td>High</td><td>Error</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>31/10/2014</td><td>Label generated for Essential Client IDOC veritype bank statement</td><td>29/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>149</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>28/10/2014</td><td>PMS CPV rights to be assigned to above emp.</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000088</td><td>Low</td><td>Rights assigment</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>29/10/2014</td><td>Pls provide the emp name</td><td>31/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>150</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>28/10/2014</td><td>Mail ID to be created for TARANNUM  MALLICK as tarannum.mallick@pamac.com.</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000089</td><td>Low</td><td>Mail Id creation</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>29/10/2014</td><td>New email has been created , Display name is TARANNUM  MALLICK and email id is tarannum.mallick@pamac.com; password is xxEE##99</td><td>29/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>152</td><td>RUPESH</td><td>ZODAGE</td><td>29/10/2014</td><td>Jitendra E - first line - senior banking - S &amp;B has to be capital
+Sachin Tirlotkar's name to be added from Employee Speak - Designation - AVP - Transaction Processing Unit
+In all content Pamac has to be in capital
+for Sameer Kudalkar - Add after designation - Value Added Services
+COO - It has to be a full form Chief Operating Officer
+IT/BPR instead of HSU/SSU
+Remove Yes Bank
+Remove Sachin Tirlotkar's name
+the addition of numbers details has to be in italics
+All roman number pointers has to be like read more after clicking the tab
+PFA FRC Services Content
+PAMAC Edge has to be for Accounts First &amp; Collections Service
+The addition of numbers has to be in italics
+PFA the current opening - updated
+Abhijeet Mitra Updated photograph</td><td>GANESH SAWANT</td><td>Add New Client</td><td>SSU</td><td>&nbsp;</td><td>SSU\201410\Hoc-000091</td><td>medium</td><td>New Requirement</td><td> PANINDIA locations</td><td>AKANKSHA VAIBHAV VIDHATE</td><td>08/11/2014</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>153</td><td>AMIT</td><td>NAIK</td><td>29/10/2014</td><td>IDOCS BULK PDF NOT GENERATED THROUGH PMS. PLS REFER ATTACHED SNAP SHOT</td><td>PRITHVIRAJ P JOSHI</td><td>Add New Client</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201410\MUM-000020</td><td>High</td><td>Error</td><td>PMS BVU</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>30/10/2014</td><td>Please Attached snap Shot related Error</td><td>29/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>154</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>29/10/2014</td><td>Kolkatta-Citi Bank- cases to be deleted</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000092</td><td>Low</td><td>Deletion of cases</td><td>PMS EAST</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>30/10/2014</td><td>Given cases has been deleted 
+please check &amp; confirm</td><td>30/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>155</td><td>AMIT</td><td>NAIK</td><td>30/10/2014</td><td>Kindly add following new FE Name &amp; # in PMS. VAIBHAV SARJERAO SALUNKHE ( P-53992 ), MOB # 8976715191.</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000021</td><td>Low</td><td>Others</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>31/10/2014</td><td>Have mapped Fe rights for given emp code.</td><td>30/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>156</td><td>SANTOSH</td><td>MORAJKAR</td><td>30/10/2014</td><td>Need to implement PD activity in PMS. Attached import format and MIS formats.</td><td>SANTOSH LAXMAN MORAJKAR</td><td>Add New Client</td><td>PCPA</td><td>&nbsp;</td><td>SSU\201410\Hoc-000093</td><td>High</td><td>New Requirement</td><td> PANINDIA locations</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>10/11/2014</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>157</td><td>SACHIN</td><td>TIRLOTKAR</td><td>30/10/2014</td><td>JFS Application Tracking System on PMS calculus</td><td>SACHIN TIRLOTKAR</td><td>Add New Client</td><td>PTPU</td><td>&nbsp;</td><td>SSU\201410\MUM-000022</td><td>High</td><td>New Requirement</td><td> PANINDIA locations</td><td>MANSWINI MANGESH MALI</td><td>15/11/2014</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>158</td><td>NIRALI</td><td>MODI</td><td>30/10/2014</td><td>&nbsp;</td><td>MAULIK TIKARIYA</td><td>Others</td><td>PCPA</td><td>&nbsp;</td><td>SSU\201410\AHM-000016</td><td>High</td><td>&nbsp;</td><td>PMS WEST</td><td>RUPESH VITTHAL ZODAGE</td><td>31/10/2014</td><td>Password : pamac@123</td><td>31/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>159</td><td>AMIT</td><td>NAIK</td><td>31/10/2014</td><td>KINDLY ACTIVATE DOMAIN OF @dhflpramerica.com to Akshay Solanki email id.</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PDCR</td><td>Approved</td><td>SSU\201410\MUM-000023</td><td>Low</td><td>Domain Activation</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>31/10/2014</td><td>Domain of *@dhflpramerica.com to Akshay Solanki email id.</td><td>31/10/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>160</td><td>AMIT</td><td>NAIK</td><td>31/10/2014</td><td>KINDLY ACTIVATE DOMAIN OF @siemens.com to jitendra.adwilkar@pamac.com email id.</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000024</td><td>Low</td><td>Domain Activation</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>01/11/2014</td><td>Domain of *@siemens.com mapped for your id.</td><td>03/11/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>161</td><td>JITENDRA</td><td>ADWILKAR</td><td>31/10/2014</td><td>Pls add said domain in my ID</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\MUM-000001</td><td>Low</td><td>Domain Activation</td><td> PANINDIA locations</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>01/11/2014</td><td>Domain of *@siemens.com mapped for your id.</td><td>03/11/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>162</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>31/10/2014</td><td>Kolkata-Ratnakar bank-Idoc-ITR case not reflected in Send to Client try. Please check-Customer name is Pankaj Kakrania</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201410\Hoc-000094</td><td>Low</td><td>Others</td><td>PMS EAST</td><td>RUPESH VITTHAL ZODAGE</td><td>01/11/2014</td><td>Done!!! TAT was not set.now its 24:00hrs</td><td>31/10/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>163</td><td>AMIT</td><td>NAIK</td><td>31/10/2014</td><td>KINDLY ACTIVATE DOMAIN OF @pnbmetlife.com to Akshay Solanki email id.</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PDCR</td><td>&nbsp;</td><td>SSU\201410\MUM-000025</td><td>High</td><td>Domain Activation</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>03/11/2014</td><td>We have already activated.</td><td>03/11/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>164</td><td>RAMCHANDRA</td><td>NARVEKAR</td><td>01/11/2014</td><td>KYC-HDFC Bank Sales- PAN India -content range to be increased against all pannel in the PDF export.</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>SSU\201411\Hoc-000001</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>AKANKSHA VAIBHAV VIDHATE</td><td>03/11/2014</td><td>This Requirment Is completed</td><td>01/11/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>165</td><td>JITENDRA</td><td>ADWILKAR</td><td>01/11/2014</td><td>cases to be deleted from axis bank tray location of kolkata &amp; lucknow  file attach</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201411\Hoc-000002</td><td>Low</td><td>Deletion of cases</td><td> PANINDIA locations</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>02/11/2014</td><td>Given Axis Bank Cases  has been deleted For Kolkata &amp; lucknow location\
+please check &amp; confirm,</td><td>01/11/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>166</td><td>RUPESH</td><td>ZODAGE</td><td>01/11/2014</td><td>Please create an excel report format same as our software tracker sheet in online application.Also create an export report format in excel for current status</td><td>GANESH SAWANT</td><td>Add New Client</td><td>SSU</td><td>&nbsp;</td><td>SSU\201411\Hoc-000003</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>02/11/2014</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>167</td><td>AMIT</td><td>NAIK</td><td>01/11/2014</td><td>KINDLY ACTIVATE DOMAIN OF @kotak.com to TUSHAR DHUMAL email id.</td><td>PRITHVIRAJ P JOSHI</td><td>Others</td><td>PCPV</td><td>&nbsp;</td><td>SSU\201411\MUM-000001</td><td>High</td><td>Domain Activation</td><td>PMS BVU</td><td>SAMRUDDHI RAVINDRA GAWDE</td><td>01/11/2014</td><td>Mapped.</td><td>01/11/2014</td>
+		</tr><tr style="background-color:White;">
+			<td>168</td><td>JITENDRA</td><td>ADWILKAR</td><td>01/11/2014</td><td>pls. delete the attach case id  from pms for axis bank</td><td>MURUGAN  ODIYAR</td><td>Others</td><td>PCPV</td><td>Approved</td><td>SSU\201411\Hoc-000004</td><td>Low</td><td>Deletion of cases</td><td> PANINDIA locations</td><td>ABHIJEET NANDKUMAR ZANJURNE</td><td>03/11/2014</td><td>Deleted!!!</td><td>03/11/2014</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>169</td><td>SANTOSH</td><td>MORAJKAR</td><td>03/11/2014</td><td>MIS output for Error Updation. MIS format will be share through mail.</td><td>SANTOSH LAXMAN MORAJKAR</td><td>Add New Client</td><td>PCPA</td><td>&nbsp;</td><td>SSU\201411\Hoc-000005</td><td>High</td><td>New Requirement</td><td> PANINDIA locations</td><td>AKANKSHA VAIBHAV VIDHATE</td><td>06/11/2014</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div>

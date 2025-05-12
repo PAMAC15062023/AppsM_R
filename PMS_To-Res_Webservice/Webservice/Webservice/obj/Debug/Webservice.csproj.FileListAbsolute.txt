@@ -1,0 +1,38 @@
+C:\Users\dell\Desktop\Webservice\Webservice\bin\Webservice.dll.config
+C:\Users\dell\Desktop\Webservice\Webservice\bin\Webservice.dll
+C:\Users\dell\Desktop\Webservice\Webservice\bin\Webservice.pdb
+C:\Users\dell\Desktop\Webservice\Webservice\bin\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\Webservice\Webservice\bin\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\Webservice\Webservice\obj\Debug\Webservice.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Webservice\Webservice\obj\Debug\Webservice.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Webservice\Webservice\obj\Debug\Webservice.csproj.CopyComplete
+C:\Users\dell\Desktop\Webservice\Webservice\obj\Debug\Webservice.dll
+C:\Users\dell\Desktop\Webservice\Webservice\obj\Debug\Webservice.pdb
+E:\PAMAC\Webservice Ramki Sir\Webservice\Webservice\bin\Webservice.dll.config
+E:\PAMAC\Webservice Ramki Sir\Webservice\Webservice\bin\Webservice.dll
+E:\PAMAC\Webservice Ramki Sir\Webservice\Webservice\bin\Webservice.pdb
+E:\PAMAC\Webservice Ramki Sir\Webservice\Webservice\bin\Newtonsoft.Json.dll
+E:\PAMAC\Webservice Ramki Sir\Webservice\Webservice\bin\Newtonsoft.Json.xml
+E:\PAMAC\Webservice Ramki Sir\Webservice\Webservice\obj\Debug\Webservice.csproj.CoreCompileInputs.cache
+E:\PAMAC\Webservice Ramki Sir\Webservice\Webservice\obj\Debug\Webservice.csproj.CopyComplete
+E:\PAMAC\Webservice Ramki Sir\Webservice\Webservice\obj\Debug\Webservice.dll
+E:\PAMAC\Webservice Ramki Sir\Webservice\Webservice\obj\Debug\Webservice.pdb
+E:\PAMAC\Webservice Ramki Sir\Webservice\Webservice\obj\Debug\Webservice.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Yasir\Webservice\Webservice\bin\Webservice.dll
+C:\Users\admin\Desktop\Yasir\Webservice\Webservice\bin\Webservice.pdb
+C:\Users\admin\Desktop\Yasir\Webservice\Webservice\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Yasir\Webservice\Webservice\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Yasir\Webservice\Webservice\obj\Debug\Webservice.dll
+C:\Users\admin\Desktop\Yasir\Webservice\Webservice\obj\Debug\Webservice.pdb
+C:\Users\PAMAC\Desktop\Webservice\Webservice\bin\Webservice.dll
+C:\Users\PAMAC\Desktop\Webservice\Webservice\bin\Webservice.pdb
+C:\Users\PAMAC\Desktop\Webservice\Webservice\bin\Newtonsoft.Json.dll
+C:\Users\PAMAC\Desktop\Webservice\Webservice\bin\Newtonsoft.Json.xml
+C:\Users\PAMAC\Desktop\Webservice\Webservice\obj\Debug\Webservice.dll
+C:\Users\PAMAC\Desktop\Webservice\Webservice\obj\Debug\Webservice.pdb
+C:\Users\PAMAC\Downloads\PMS_To-Res_Webservice\PMS_To-Res_Webservice\Webservice\Webservice\bin\Webservice.dll
+C:\Users\PAMAC\Downloads\PMS_To-Res_Webservice\PMS_To-Res_Webservice\Webservice\Webservice\bin\Webservice.pdb
+C:\Users\PAMAC\Downloads\PMS_To-Res_Webservice\PMS_To-Res_Webservice\Webservice\Webservice\bin\Newtonsoft.Json.dll
+C:\Users\PAMAC\Downloads\PMS_To-Res_Webservice\PMS_To-Res_Webservice\Webservice\Webservice\bin\Newtonsoft.Json.xml
+C:\Users\PAMAC\Downloads\PMS_To-Res_Webservice\PMS_To-Res_Webservice\Webservice\Webservice\obj\Debug\Webservice.dll
+C:\Users\PAMAC\Downloads\PMS_To-Res_Webservice\PMS_To-Res_Webservice\Webservice\Webservice\obj\Debug\Webservice.pdb

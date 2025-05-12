@@ -1,0 +1,322 @@
+<table border="0">
+	<tr style="height:20px;">
+		<td> </td>
+	</tr><tr>
+		<td class="FormHeading" colspan="20"><b><font size='3'>PAMAC FINSERVE PVT. LTD. </font></b> <br/><b><font size='2'>PAMAC FE PAYOUT PROCESS REPORT FromDate : 01/09/2014 ToDate 30/09/2014 </font></b> <br/></td>
+	</tr>
+</table><div>
+	<table cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GV3" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Product</th><th scope="col">case_rec_datetime</th><th scope="col">AssignDatetime</th><th scope="col">send_datetime</th><th scope="col">Case_id</th><th scope="col">Ref_No</th><th scope="col">AppliName</th><th scope="col">Verification_type_code</th><th scope="col">Client_Name</th><th scope="col">FeName</th><th scope="col">Area_Name</th><th scope="col">TotalPay</th><th scope="col">AuthorizeBy</th><th scope="col">AuthorizeDate</th>
+		</tr><tr>
+			<td>CC</td><td>08/09/2014</td><td>08/09/2014</td><td>08/09/2014</td><td>1015175671</td><td>HNM0688BND</td><td>VISHAL TALSHIBHAI VANANI  </td><td>BV</td><td>SCB - Credit Card </td><td>PARESH JAGJIVAN AHIR</td><td>&nbsp;</td><td>0.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310669</td><td>&nbsp;</td><td>GHANSHYAMBHAI  G PANSURIA  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>A K Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>08/09/2014</td><td>11/09/2014</td><td>11/09/2014</td><td>101309066</td><td>1152002</td><td>MR VISHALBHAI BHARATBHAI PATEL   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>JAVID SIDDIQI KHAN</td><td>A K Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310602</td><td>&nbsp;</td><td>MOTEEBHAI PARMABHAI BHUTKA  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>JAVID SIDDIQI KHAN</td><td>A K Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>18/09/2014</td><td>18/09/2014</td><td>18/09/2014</td><td>101228095</td><td>&nbsp;</td><td>BAKANI FASHIONS  </td><td>BV</td><td>Deutsche_Bank A/C opening</td><td>JAVID SIDDIQI KHAN</td><td>A K Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309826</td><td>&nbsp;</td><td>JIGNESHKUMAR BATUKBHAI KOSHIYA  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>A K Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309828</td><td>&nbsp;</td><td>DHANJIBHAI   M ZADAFIYA  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>A K Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>26/09/2014</td><td>26/09/2014</td><td>26/09/2014</td><td>101310089</td><td>&nbsp;</td><td>VAGHANI JITENDRA POPAT  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>A K Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>CC</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>1015176575</td><td>HPD3942BNP</td><td>PATEL MAHESH ROHIDAS  </td><td>RV</td><td>SCB - Credit Card </td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309028</td><td>1151885</td><td>MR HITENDRA M SHAH   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309801</td><td>&nbsp;</td><td>For You Boutique  </td><td>BV</td><td>Axis Bank  Merchant</td><td>JAVID SIDDIQI KHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>CC</td><td>06/09/2014</td><td>06/09/2014</td><td>06/09/2014</td><td>1015175634</td><td>HNJ5076GMF</td><td>MANOJKUMAR JHA  </td><td>RV</td><td>SCB - Credit Card </td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>17/09/2014</td><td>18/09/2014</td><td>18/09/2014</td><td>101309556</td><td>1152202</td><td>MR ANIL K BHIKADIYA   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>11/09/2014</td><td>11/09/2014</td><td>11/09/2014</td><td>101309204</td><td>&nbsp;</td><td>The Inside  </td><td>BV</td><td>Axis Bank  Merchant</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>CC</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>1015176576</td><td>HPC0548BPB</td><td>BIMAL C BHATT  </td><td>RV</td><td>SCB - Credit Card </td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310660</td><td>&nbsp;</td><td>TULSIRAM BHAGOJI UTTEKAR  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309800</td><td>&nbsp;</td><td>Sajni Lady Collection  </td><td>BV</td><td>Axis Bank  Merchant</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>CC</td><td>05/09/2014</td><td>05/09/2014</td><td>05/09/2014</td><td>1015175585</td><td>HNE0917BNP</td><td>DIPEN M RATHOD  </td><td>RV</td><td>SCB - Credit Card </td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>CC</td><td>22/09/2014</td><td>22/09/2014</td><td>22/09/2014</td><td>1015176694</td><td>HPF0582BND</td><td>SUMITKUMAR D VAGHELA  </td><td>RV</td><td>SCB - Credit Card </td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227588</td><td>2208208024</td><td>SARGAM DEVELOPERS  </td><td>BV</td><td>HDFC Liability One Time</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>26/09/2014</td><td>26/09/2014</td><td>26/09/2014</td><td>101310217</td><td>CC/ 22</td><td>BABULAL HIRALAL BOTHRA  </td><td>RV</td><td>Kapol Bank</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>11/09/2014</td><td>11/09/2014</td><td>11/09/2014</td><td>101309200</td><td>&nbsp;</td><td>V4 Collection  </td><td>BV</td><td>Axis Bank  Merchant</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309030</td><td>1151885</td><td>MRS KALPANA HITENDRA SHAH   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>CC</td><td>11/09/2014</td><td>11/09/2014</td><td>11/09/2014</td><td>1015175770</td><td>HNN9138KHB</td><td>ABHISHEK HITESHKUMAR SHAH  </td><td>RV</td><td>SCB - Credit Card </td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309029</td><td>1151885</td><td>MRS NANDAVATIBEN MAHENDRRAKUMAR SHAH   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>24/09/2014</td><td>24/09/2014</td><td>24/09/2014</td><td>101309964</td><td>2234901</td><td>CHINTAN MANIAR  </td><td>RV</td><td>SCB - Personal Loan</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Adajan</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310599</td><td>&nbsp;</td><td>MANISH SANTOSHBHAI MALI  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Amroli</td><td>40.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310502</td><td>&nbsp;</td><td>AJAYSINH NAGINBHAI PARMAR  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Amroli</td><td>40.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310601</td><td>&nbsp;</td><td>MOTEEBHAI PARMABHAI BHUTKA  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Amroli</td><td>40.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310521</td><td>&nbsp;</td><td>DAMODAR LAXMIBEN RAUT  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Amroli</td><td>40.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310600</td><td>&nbsp;</td><td>MANISH SANTOSHBHAI MALI  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Amroli</td><td>40.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310522</td><td>&nbsp;</td><td>SAVITABEN DAMODAR RAUT  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Amroli</td><td>40.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310520</td><td>&nbsp;</td><td>DAMODAR LAXMIBEN RAUT  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Amroli</td><td>40.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310560</td><td>&nbsp;</td><td>KIRAN MULSHANKAR BHATT  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Amroli</td><td>40.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>15/09/2014</td><td>16/09/2014</td><td>16/09/2014</td><td>101309376</td><td>1152184</td><td>KAVITA FASHION   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Bamroli Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310650</td><td>&nbsp;</td><td>SUNITA SANJIVBHAI PATRA  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>JAVID SIDDIQI KHAN</td><td>Bardoli</td><td>180.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310649</td><td>&nbsp;</td><td>SANJIVBHAI GANESHBHAI PATRA  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>JAVID SIDDIQI KHAN</td><td>Bardoli</td><td>180.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310648</td><td>&nbsp;</td><td>SANJIVBHAI GANESHBHAI PATRA  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>JAVID SIDDIQI KHAN</td><td>Bardoli</td><td>180.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227572</td><td>2208207991</td><td>MAHARAJA METALLIC  </td><td>BV</td><td>HDFC Liability One Time</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Begampura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227568</td><td>2208207958</td><td>SURAT DIAMOND WORKERS INDL CO-OP SOC LTD  </td><td>BV</td><td>HDFC Liability One Time</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Begampura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227583</td><td>2208208006</td><td>GREENCARD  </td><td>BV</td><td>HDFC Liability One Time</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Begampura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>17/09/2014</td><td>17/09/2014</td><td>17/09/2014</td><td>101228076</td><td>154539</td><td>TEJ EXIM  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Begampura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>CC</td><td>29/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>1015243387</td><td>4722448_290914_R</td><td>RAMESHCHANDRA M LIMBACHIA  1519715</td><td>RV</td><td>Axis Bank</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Begampura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227567</td><td>2208207955</td><td>MULTIPLE DIST323 GUJARAT ERTQUAKE RELIEF  </td><td>BV</td><td>HDFC Liability One Time</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Begampura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227577</td><td>2208207996</td><td>SHAHJEE TEXTILES  </td><td>BV</td><td>HDFC Liability One Time</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Begampura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227584</td><td>2208208007</td><td>JAGZ  </td><td>BV</td><td>HDFC Liability One Time</td><td>PARESH JAGJIVAN AHIR</td><td>Bhatar Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227585</td><td>2208208008</td><td>CITY SHOES  </td><td>BV</td><td>HDFC Liability One Time</td><td>PARESH JAGJIVAN AHIR</td><td>Bhatar Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101228157</td><td>66227</td><td>ANJUDEVI . MAHESHWARI  </td><td>RV</td><td>Kunvarji Finstock Ltd</td><td>PARESH JAGJIVAN AHIR</td><td>Bhatar Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227582</td><td>2208208005</td><td>JHM HOTELS INC-SPECIAL ACCOUNT  </td><td>BV</td><td>HDFC Liability One Time</td><td>PARESH JAGJIVAN AHIR</td><td>Bhatar Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227573</td><td>2208207992</td><td>DAIRY DEN KIOS LTD.  </td><td>BV</td><td>HDFC Liability One Time</td><td>PARESH JAGJIVAN AHIR</td><td>Bhatar Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227590</td><td>2208214056</td><td>M P DYE CHEM INDUSTRIES PVT LTD  </td><td>BV</td><td>HDFC Liability One Time</td><td>PARESH JAGJIVAN AHIR</td><td>Bhatar Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227574</td><td>2208207993</td><td>RAJSHREE TEXTILE TRADERS  </td><td>BV</td><td>HDFC Liability One Time</td><td>PARESH JAGJIVAN AHIR</td><td>Bhatar Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>01/09/2014</td><td>01/09/2014</td><td>01/09/2014</td><td>101227498</td><td>154523</td><td>UNNATI M DAKORIA U/G MINESH DAKORIA  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>PARESH JAGJIVAN AHIR</td><td>Bhatar Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>04/09/2014</td><td>101227560</td><td>154525</td><td>ANAND S CHAUTE  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>PARESH JAGJIVAN AHIR</td><td>Bhatar Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>05/09/2014</td><td>05/09/2014</td><td>05/09/2014</td><td>101227593</td><td>&nbsp;</td><td>Hiral Exports  </td><td>BV</td><td>Deutsche_Bank A/C opening</td><td>PARESH JAGJIVAN AHIR</td><td>Bhatar Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>16/09/2014</td><td>16/09/2014</td><td>16/09/2014</td><td>101228059</td><td>154533</td><td>AMIT KUMAR VIJAYBHAI MORE  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Citylight Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>04/09/2014</td><td>101227566</td><td>154531</td><td>Mukeshbhai Dharaiya  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Dabholi</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101228158</td><td>66525</td><td>HARSHABEN ASHWINBHAI PATEL  </td><td>RV</td><td>Kunvarji Finstock Ltd</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Dabholi</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227576</td><td>2208207995</td><td>OM INDUSTRIES  </td><td>BV</td><td>HDFC Liability One Time</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Dabholi</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>16/09/2014</td><td>16/09/2014</td><td>16/09/2014</td><td>101228060</td><td>154534</td><td>Rohit Zaveri  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Dabholi</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>16/09/2014</td><td>16/09/2014</td><td>16/09/2014</td><td>101228061</td><td>154535</td><td>Mukeshbhai Dharaiya  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Dabholi</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227575</td><td>2208207994</td><td>BOMBAY MAGNETIC RESONANCE IMAGING P L  </td><td>BV</td><td>HDFC Liability One Time</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Dabholi</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>19/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309683</td><td>1152233</td><td>MR SANJAY  GARG   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Ghod Dod Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>19/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309691</td><td>1152283</td><td>MRS SIMI  BATRA   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Ghod Dod Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>15/09/2014</td><td>16/09/2014</td><td>16/09/2014</td><td>101309372</td><td>1152145</td><td>MR ATUL  GOYAL   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Ghod Dod Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>15/09/2014</td><td>16/09/2014</td><td>16/09/2014</td><td>101309373</td><td>1152145</td><td>MRS SNEHA  GOYAL   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Ghod Dod Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309027</td><td>1151885</td><td>ARIHANT BELTING PRIVATE LIMITED   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Ghod Dod Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>19/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309685</td><td>1152274</td><td>MR SHIRISH PURSHOTTAM SHAH   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Ghod Dod Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310568</td><td>&nbsp;</td><td>KISHORKUMAR SHUKDEVBHAI MAHAJAN  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Hazira</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>CC</td><td>13/09/2014</td><td>13/09/2014</td><td>13/09/2014</td><td>1015175925</td><td>23821555</td><td>NISHANK  SHEKHAR  </td><td>RV</td><td>SCB - Credit Card </td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Hazira</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>26/09/2014</td><td>26/09/2014</td><td>26/09/2014</td><td>101310218</td><td>CC/ 22</td><td>NIRMALA DEVI B BOTHRA  </td><td>RV</td><td>Kapol Bank</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Honey Park Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>26/09/2014</td><td>26/09/2014</td><td>26/09/2014</td><td>101310220</td><td>CC/ 22</td><td>MANOJ B BOTHRA  </td><td>RV</td><td>Kapol Bank</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Honey Park Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>26/09/2014</td><td>26/09/2014</td><td>26/09/2014</td><td>101310219</td><td>CC/ 22</td><td>NITESH B BOTHRA  </td><td>RV</td><td>Kapol Bank</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Honey Park Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>16/09/2014</td><td>16/09/2014</td><td>16/09/2014</td><td>101228063</td><td>154537</td><td>PRAVIN NAROTTAM BAGAL  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>JAVID SIDDIQI KHAN</td><td>Jahangirpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>16/09/2014</td><td>16/09/2014</td><td>17/09/2014</td><td>101309470</td><td>1152148</td><td>MR SITARAM  GOYAL   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310513</td><td>&nbsp;</td><td>BHATTUBHAI GULABBHAI BORSE  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>16/09/2014</td><td>16/09/2014</td><td>17/09/2014</td><td>101309469</td><td>1152148</td><td>MRS KANTA SITARAM GOYAL   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310492</td><td>1152148</td><td>Goyal Knitfab Pvt Ltd  </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>15/09/2014</td><td>16/09/2014</td><td>16/09/2014</td><td>101309374</td><td>1152145</td><td>MRS KANTA SITARAM GOYAL   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>15/09/2014</td><td>16/09/2014</td><td>16/09/2014</td><td>101309375</td><td>1152145</td><td>MR SITARAM  GOYAL   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>16/09/2014</td><td>16/09/2014</td><td>17/09/2014</td><td>101309466</td><td>1152148</td><td>GOYAL KNITFAB PRIVATE LIMITED   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>16/09/2014</td><td>16/09/2014</td><td>17/09/2014</td><td>101309468</td><td>1152148</td><td>MRS SNEHA  GOYAL   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310533</td><td>&nbsp;</td><td>DHARMENDRA DUKHANTI CHAUHAN  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>16/09/2014</td><td>16/09/2014</td><td>17/09/2014</td><td>101309467</td><td>1152148</td><td>MR ATUL  GOYAL   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310531</td><td>&nbsp;</td><td>DUKHANTIBHAI NEVURBHAI CHAUHAN  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310532</td><td>&nbsp;</td><td>DUKHANTIBHAI NEVURBHAI CHAUHAN  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309031</td><td>1151967</td><td>KAST BHANJAN TEXTILES PVT LTD   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>15/09/2014</td><td>16/09/2014</td><td>16/09/2014</td><td>101309372</td><td>1152145</td><td>MR ATUL  GOYAL   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>JAVID SIDDIQI KHAN</td><td>Kadodara Char Rasta</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310510</td><td>&nbsp;</td><td>BHARTI KRUSHNA SONAVANE  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>JAVID SIDDIQI KHAN</td><td>Kamrej</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310511</td><td>&nbsp;</td><td>BHARTI KRUSHNA SONAVANE  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>JAVID SIDDIQI KHAN</td><td>Kamrej</td><td>70.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>26/09/2014</td><td>26/09/2014</td><td>26/09/2014</td><td>101228344</td><td>&nbsp;</td><td>Shree Fashion  </td><td>BV</td><td>Deutsche_Bank A/C opening</td><td>JAVID SIDDIQI KHAN</td><td>Kapodra</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101228160</td><td>39014</td><td>ALPESHKUMAR NANUBHAI DHOLARIYA  </td><td>RV</td><td>Kunvarji Finstock Ltd</td><td>JAVID SIDDIQI KHAN</td><td>Kapodra</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101228156</td><td>66226</td><td>NARESHKUMAR JIVANBHAI RADADIYA  </td><td>RV</td><td>Kunvarji Finstock Ltd</td><td>JAVID SIDDIQI KHAN</td><td>Kapodra</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101228159</td><td>39013</td><td>RAJENDRA NAGJIBHAI VIRADIYA  </td><td>RV</td><td>Kunvarji Finstock Ltd</td><td>JAVID SIDDIQI KHAN</td><td>Kapodra</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>16/09/2014</td><td>16/09/2014</td><td>16/09/2014</td><td>101228064</td><td>154538</td><td>KETANKUMAR KANSAGARA  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>JAVID SIDDIQI KHAN</td><td>Kapodra</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309035</td><td>1151980</td><td>MR VIPULKUMAR BHANUBHAI RAMANI   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310517</td><td>&nbsp;</td><td>CHHAGANBHAI UKABHAI ZANMERA  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310556</td><td>&nbsp;</td><td>JENTIBHAI DEVRAJBHAI DEVGANIYA  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309035</td><td>1151980</td><td>MR VIPULKUMAR BHANUBHAI RAMANI   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309821</td><td>&nbsp;</td><td>RAJESHBHAI DINESHBHAI GAJERA  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>26/09/2014</td><td>26/09/2014</td><td>26/09/2014</td><td>101310087</td><td>&nbsp;</td><td>HARESHKUMAR MANSUKHBHAI SORATHIA  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309825</td><td>&nbsp;</td><td>AMITKUMAR RAMANBHAI PATEL  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>26/09/2014</td><td>26/09/2014</td><td>26/09/2014</td><td>101310084</td><td>&nbsp;</td><td>VIPUL L SAVANI  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309037</td><td>1151980</td><td>MR VIJAYKUMAR B RAMANI   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309034</td><td>1151980</td><td>SHYAM TRADERS   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309037</td><td>1151980</td><td>MR VIJAYKUMAR B RAMANI   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>11/09/2014</td><td>11/09/2014</td><td>11/09/2014</td><td>101309202</td><td>&nbsp;</td><td>Shree Sai Gift And Ramakda  </td><td>BV</td><td>Axis Bank  Merchant</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310623</td><td>&nbsp;</td><td>NIRMALABEN DHANJIBHAI PARMAR  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310558</td><td>&nbsp;</td><td>SANJAY JENTIBHAI DEVGANIYA  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>28/09/2014</td><td>28/09/2014</td><td>28/09/2014</td><td>101310392</td><td>&nbsp;</td><td>KAMLABEN  HIMMATBHAI  MANGUKIYA  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309815</td><td>&nbsp;</td><td>ASHOK VRAJLAL HIRAPARA  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309827</td><td>&nbsp;</td><td>REKHA PRAVINBHAI DHOLAKIA  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309036</td><td>1151980</td><td>MR BHANUBHAI G RAMANI   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>26/09/2014</td><td>26/09/2014</td><td>26/09/2014</td><td>101310088</td><td>&nbsp;</td><td>BHARATBHAI P MANGROLIYA  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309036</td><td>1151980</td><td>MR BHANUBHAI G RAMANI   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>04/09/2014</td><td>101227565</td><td>154530</td><td>Rohit Zaveri  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>06/09/2014</td><td>09/09/2014</td><td>09/09/2014</td><td>101309038</td><td>1151980</td><td>ROHAN ENTERPRISE   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310670</td><td>&nbsp;</td><td>SAILESHKUMAR BALUBHAI RUPALA  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310557</td><td>&nbsp;</td><td>JENTIBHAI DEVRAJBHAI DEVGANIYA  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>26/09/2014</td><td>26/09/2014</td><td>26/09/2014</td><td>101310085</td><td>&nbsp;</td><td>MAHESHBHAI A MERULIYA  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310518</td><td>&nbsp;</td><td>CHHAGANBHAI UKABHAI ZANMERA  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>20/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309824</td><td>&nbsp;</td><td>VIJAYBHAI KARAMSHIBHAI  MAVANI  </td><td>BV</td><td>Fullerton_PD</td><td>OCL FE</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310629</td><td>&nbsp;</td><td>PINTUKUMAR SHREE JAGDISHCHANDRA KHATIK  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310628</td><td>&nbsp;</td><td>PINTUKUMAR SHREE JAGDISHCHANDRA KHATIK  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310519</td><td>&nbsp;</td><td>PARSOTAMBHAI UKABHAI PRAJAPATI  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310624</td><td>&nbsp;</td><td>NIRMALABEN DHANJIBHAI PARMAR  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Katargam</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>CC</td><td>22/09/2014</td><td>22/09/2014</td><td>22/09/2014</td><td>1015176697</td><td>HPF0834BNP</td><td>SAWLE GANESH BABULAL  </td><td>RV</td><td>SCB - Credit Card </td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Kim Char Rasta</td><td>110.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310663</td><td>&nbsp;</td><td>VIKARMBHAI SONDHABHAI BHOKALVA  </td><td>RV</td><td>Shubham Housing Finance_HL</td><td>JAVID SIDDIQI KHAN</td><td>Kim Char Rasta</td><td>110.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>30/09/2014</td><td>30/09/2014</td><td>30/09/2014</td><td>101310664</td><td>&nbsp;</td><td>VIKARMBHAI SONDHABHAI BHOKALVA  </td><td>BV</td><td>Shubham Housing Finance_HL</td><td>JAVID SIDDIQI KHAN</td><td>Kim Char Rasta</td><td>110.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>17/09/2014</td><td>18/09/2014</td><td>18/09/2014</td><td>101309558</td><td>1152202</td><td>MR ASHOKBHAI  BHIKADIYA   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>JAVID SIDDIQI KHAN</td><td>L H Road</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>24/09/2014</td><td>24/09/2014</td><td>24/09/2014</td><td>101228278</td><td>154540</td><td>SHREE SAMARATHAL ROAD LINES  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>JAVID SIDDIQI KHAN</td><td>Magob</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>01/09/2014</td><td>01/09/2014</td><td>01/09/2014</td><td>101227497</td><td>154522</td><td>LAXMI RAMAN PRINTS  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>JAVID SIDDIQI KHAN</td><td>Majuragate</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227581</td><td>2208208001</td><td>AMAR TEXTILES  </td><td>BV</td><td>HDFC Liability One Time</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Majuragate</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>04/09/2014</td><td>101227562</td><td>154527</td><td>VAIDMUTHA TEXTILE  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>JAVID SIDDIQI KHAN</td><td>Majuragate</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>04/09/2014</td><td>101227563</td><td>154528</td><td>VAIDMUTHA SAREES  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>JAVID SIDDIQI KHAN</td><td>Majuragate</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>04/09/2014</td><td>101227561</td><td>154526</td><td>SETH ENTERPRISE  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>JAVID SIDDIQI KHAN</td><td>Majuragate</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>04/09/2014</td><td>101227564</td><td>154529</td><td>MUKESH SALES  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>JAVID SIDDIQI KHAN</td><td>Majuragate</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>24/09/2014</td><td>24/09/2014</td><td>24/09/2014</td><td>101228281</td><td>154543</td><td>AVINASH JAIN  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>PARESH JAGJIVAN AHIR</td><td>Majuragate</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>16/09/2014</td><td>16/09/2014</td><td>16/09/2014</td><td>101228062</td><td>154536</td><td>HARIS GANGARAM GOSWAMI  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>JAVID SIDDIQI KHAN</td><td>Morabhagal</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>CC</td><td>05/09/2014</td><td>05/09/2014</td><td>05/09/2014</td><td>1015175586</td><td>HNE0919BNP</td><td>SAMNANI ROHIT MADATBHAI  </td><td>RV</td><td>SCB - Credit Card </td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Morabhagal</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>25/09/2014</td><td>25/09/2014</td><td>25/09/2014</td><td>101228343</td><td>154545</td><td>BHARAT MANGALPARA  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>JAVID SIDDIQI KHAN</td><td>Mota Varacha</td><td>40.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>04/09/2014</td><td>101227559</td><td>154524</td><td>CHIRAGKUMAR K LAKHANI  </td><td>RV</td><td>HDFC Bank – Liability Individual Verification</td><td>JAVID SIDDIQI KHAN</td><td>Mota Varacha</td><td>40.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>25/09/2014</td><td>25/09/2014</td><td>25/09/2014</td><td>101228285</td><td>&nbsp;</td><td>SHREE SHYAM FABRICS  </td><td>BV</td><td>Deutsche_Bank A/C opening</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Muglisara</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>02/09/2014</td><td>03/09/2014</td><td>03/09/2014</td><td>101308834</td><td>1151809</td><td>MRS JAYSHREEBEN NARESHCHANDRA INTWALA   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Nanpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>20/09/2014</td><td>22/09/2014</td><td>22/09/2014</td><td>101309795</td><td>1152346</td><td>MRS SONALBEN SHAUNAK KAPADIA   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>OCL FE</td><td>Nanpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>24/09/2014</td><td>25/09/2014</td><td>25/09/2014</td><td>101309953</td><td>1152459</td><td>DHIRAJ SONS THE MEGA STORE   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Nanpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>19/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309684</td><td>1152274</td><td>ECO CHEM SALES AND SERVICES   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Nanpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>KYC</td><td>04/09/2014</td><td>04/09/2014</td><td>15/09/2014</td><td>101227578</td><td>2208207997</td><td>ONLINE INFOTECH  </td><td>BV</td><td>HDFC Liability One Time</td><td>RAJESH PRAKASH BHAI CHAUHAN</td><td>Nanpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>24/09/2014</td><td>25/09/2014</td><td>25/09/2014</td><td>101309957</td><td>1152459</td><td>MRS REKHA PRAFUL MODI   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Nanpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>04/09/2014</td><td>06/09/2014</td><td>06/09/2014</td><td>101308932</td><td>1151886</td><td>MR DHAWAL KAILASH MALHOTRA   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Nanpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>19/09/2014</td><td>20/09/2014</td><td>20/09/2014</td><td>101309694</td><td>1152283</td><td>MR SUBIR ATAMPARKASH BATRA   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Nanpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>27/09/2014</td><td>29/09/2014</td><td>29/09/2014</td><td>101310232</td><td>1152555</td><td>MR VINODKUMAR MADANLALJI MARU   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Nanpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>27/09/2014</td><td>29/09/2014</td><td>29/09/2014</td><td>101310236</td><td>1152555</td><td>MRS RAJANI VINOD MARU   </td><td>RV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Nanpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>24/09/2014</td><td>25/09/2014</td><td>25/09/2014</td><td>101309955</td><td>1152459</td><td>MR PRAFUL DHIRAJLAL MODI   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>PARESH JAGJIVAN AHIR</td><td>Nanpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>20/09/2014</td><td>22/09/2014</td><td>22/09/2014</td><td>101309796</td><td>1152347</td><td>MR SHAUNAK K KAPADIA   </td><td>BV</td><td>DEUTSCHE BANK MORTGAGE LOAN</td><td>OCL FE</td><td>Nanpura</td><td>6.00</td><td>TUFEL IMTIYAZ SHAIKH</td><td>04/10/2014</td>
+		</tr><tr>
+			<td>RL</td><td>02/09/2014</td><t

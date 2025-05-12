@@ -1,0 +1,5 @@
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\PMSService\PMSService\bin\PMSService.dll
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\PMSService\PMSService\bin\PMSService.pdb
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\PMSService\PMSService\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\PMSService\PMSService\obj\Debug\PMSService.dll
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\PMSService\PMSService\obj\Debug\PMSService.pdb

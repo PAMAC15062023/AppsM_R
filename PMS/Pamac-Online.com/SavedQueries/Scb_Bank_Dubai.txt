@@ -1,0 +1,4 @@
+select ref_no as'Barcode',off_name as'Company Name',off_add_line_1 as'Address',off_add_line_2 as'Landmark',off_phone as'Phone', 
+first_name as'Contact Person',Mobile,SPL_INSTRUCTION as'Remarks' from cpv_cc_case_details a where cluster_id=1016 and centre_id=10172 and client_id=101111	
+and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE 
+

@@ -1,0 +1,53 @@
+<table border="0">
+	<tr style="height:20px;">
+		<td colspan="10"><b> <font size='3' color='black'>Payout upload status for the month:JUNE - 2020 </font></span></b> <br/><b><font size='3' color='black'><br/>Date and time of payout Upload :26/08/2020 14:44:53 </font></b> <br/> <b><font size='3' color='black'>Month-Year :JUNE 2020</font></b> <br/><b><font size='3' color='black'>Upload file name :Discrepancy.xls</font></b> <br/><b><font size='3' color='black'>Total number of Records :16</font></b><br/><b><font size='3' color='black'>Number of records Uploaded :12</font></b><br/><b><font size='3' color='black'>Number of records Rejected:4</font></b><br/></td>
+	</tr><tr>
+		<td colspan="20"></td>
+	</tr>
+</table><div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">QMS Code</th><th scope="col">CanvasserName</th><th scope="col">Base Fees Per Month</th><th scope="col">Designation</th><th scope="col">No of Days Worked</th><th scope="col">Eligible Salary</th><th scope="col">Total Incentive</th><th scope="col">Payable Location</th><th scope="col">Total Cases</th><th scope="col">NetPayout(Gross Amount)</th><th scope="col">Penalty Amount</th><th scope="col">Other Deductions</th><th scope="col">Payment Status</th><th scope="col">New Joinee Resigned</th><th scope="col">Final Date</th><th scope="col">Uploaded By</th><th scope="col">Uploaded Date</th><th scope="col">Remarks</th><th scope="col">Name as per Master</th>
+		</tr><tr>
+			<td>S02146</td><td>RAVI DILIPBHAI VIRSODIYA</td><td>10500</td><td>CanvasserYamaha</td><td>31</td><td>10500</td><td>0</td><td>Rajkot</td><td>1</td><td>10500</td><td>0</td><td>0</td><td>Paid</td><td>&nbsp;</td><td>&nbsp;</td><td>P65873</td><td>14/08/2020 15:23:36</td><td>Updated Sucessfully</td><td>RAVI DILIPBHAI VIRSODIYA</td>
+		</tr><tr>
+			<td>GP0881</td><td>Deepa Vijay Khiyani</td><td>12000</td><td>BDR</td><td>31</td><td>12000</td><td>0</td><td>Baroda</td><td>0</td><td>10200</td><td>0</td><td>0</td><td>Paid</td><td>&nbsp;</td><td>&nbsp;</td><td>P65873</td><td>26/08/2020 14:44:38</td><td>Updated Sucessfully</td><td>DEEPA VIJAY KHIYANI</td>
+		</tr><tr>
+			<td>HB0392</td><td>Kanzariya Suresh Ratilal</td><td>0</td><td>CanvasserSD</td><td>23</td><td>0</td><td>0</td><td>Morbi</td><td>1</td><td>0</td><td>0</td><td>0</td><td>No Paid</td><td>Resigned</td><td>08/06/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:39</td><td>Updated Sucessfully</td><td>KANZARIYA SURESH RATILAL</td>
+		</tr><tr>
+			<td>S00763</td><td>Tejash Surewshchandra Shah</td><td>14500</td><td>Canvasser Combined</td><td>25</td><td>11693.5483870968</td><td>0</td><td>Anand</td><td>0</td><td>11894</td><td>0</td><td>0</td><td>Paid</td><td>Resigned</td><td>09/06/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:39</td><td>Miss Macth Found in Master Name</td><td>TEJASH SURESHCHANDRA SHAH</td>
+		</tr><tr>
+			<td>S00859</td><td>Chhasatiya Niteshkumar Dilipsinh</td><td>10000</td><td>Canvasser Combined</td><td>13</td><td>4193.54838709677</td><td>0</td><td>Anand</td><td>0</td><td>4319</td><td>0</td><td>0</td><td>Paid</td><td>Resigned</td><td>28/05/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Updated Sucessfully</td><td>CHHASATIYA NITESHKUMAR DILIPSINH</td>
+		</tr><tr>
+			<td>S00860</td><td>Patel Dixitkumar Ashokbhai</td><td>0</td><td>CanvasserSD</td><td>17</td><td>0</td><td>0</td><td>Anand</td><td>0</td><td>0</td><td>0</td><td>0</td><td>No Paid</td><td>Resigned</td><td>31/05/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Updated Sucessfully</td><td>PATEL DIXITKUMAR ASHOKBHAI</td>
+		</tr><tr>
+			<td>S01726</td><td>RASHMI HARJIBHAI VAISHNAV</td><td>10000</td><td>BDR</td><td>31</td><td>10000</td><td>0</td><td>JAMNAgar</td><td>3</td><td>9575</td><td>0</td><td>0</td><td>Paid</td><td>&nbsp;</td><td>&nbsp;</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Updated Sucessfully</td><td>RASHMI HARJIBHAI VAISHNAV</td>
+		</tr><tr>
+			<td>S01727</td><td>Vikram Lakhabhai Gogra</td><td>11000</td><td>Canvasser</td><td>6</td><td>2129.03225806452</td><td>0</td><td>Morbi</td><td>5</td><td>2129</td><td>0</td><td>0</td><td>Paid</td><td>Resigned</td><td>21/05/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Updated Sucessfully</td><td>VIKRAM LAKHABHAI GOGRA</td>
+		</tr><tr>
+			<td>S01751</td><td>Dharmikgiri Mukeshgiri Goswami</td><td>9000</td><td>Canvasser Combined</td><td>15</td><td>4354.83870967742</td><td>0</td><td>Bhavnagar</td><td>1</td><td>4855</td><td>0</td><td>0</td><td>Paid</td><td>Resigned</td><td>01/06/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Updated Sucessfully</td><td>DHARMIKGIRI MUKESHGIRI GOSWAMI</td>
+		</tr><tr>
+			<td>S01833</td><td>Grishma Yogeshbhai Vyas</td><td>10000</td><td>Canvasser</td><td>15</td><td>4838.70967741935</td><td>0</td><td>MANAVADAR</td><td>0</td><td>4664</td><td>0</td><td>0</td><td>Paid</td><td>Resigned</td><td>30/05/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Miss Macth Found in Master Name</td><td>VYAS GRISHMA YOGESHBHAI</td>
+		</tr><tr>
+			<td>S01838</td><td>PRMAR RAVINDRA BHAI</td><td>0</td><td>CanvasserSD</td><td>31</td><td>0</td><td>0</td><td>HARIJ</td><td>0</td><td>0</td><td>0</td><td>0</td><td>No Paid</td><td>Resigned</td><td>14/06/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Updated Sucessfully</td><td>PRMAR RAVINDRA BHAI</td>
+		</tr><tr>
+			<td>S02016</td><td>Mayur Hasmukhbhai Patel</td><td>11000</td><td>BDR</td><td>23</td><td>8161.29032258064</td><td>0</td><td>Himmatnagar</td><td>0</td><td>7961</td><td>0</td><td>0</td><td>Paid</td><td>Resigned</td><td>08/06/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Updated Sucessfully</td><td>MAYUR HASMUKHBHAI PATEL</td>
+		</tr><tr>
+			<td>S02037</td><td>Palak Tiwari</td><td>16000</td><td>Team Leader</td><td>28</td><td>14451.6129032258</td><td>0</td><td>Ahmedabad</td><td>6</td><td>14452</td><td>0</td><td>0</td><td>Paid</td><td>Resigned</td><td>12/06/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Miss Macth Found in Master Name</td><td>TIWARI PALAK</td>
+		</tr><tr>
+			<td>S02039</td><td>MIHIR NILESHBHAI PAREKH</td><td>0</td><td>CanvasserSD</td><td>31</td><td>0</td><td>0</td><td>Rajkot</td><td>1</td><td>0</td><td>0</td><td>0</td><td>No Paid</td><td>&nbsp;</td><td>&nbsp;</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Updated Sucessfully</td><td>MIHIR NILESHBHAI PAREKH</td>
+		</tr><tr>
+			<td>S02092</td><td>Gopi Shaileshkumar Parekh</td><td>0</td><td>CanvasserSD</td><td>6</td><td>0</td><td>0</td><td>Ahmedabad</td><td>0</td><td>0</td><td>0</td><td>0</td><td>No Paid</td><td>Resigned</td><td>20/05/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Miss Macth Found in Master Name</td><td>PAREKH GOPIBEN</td>
+		</tr><tr>
+			<td>S02095</td><td>RAJNIKANT DEVAYATBHAI JARIYA</td><td>11000</td><td>Canvasser</td><td>21</td><td>7451.61290322581</td><td>0</td><td>Morbi</td><td>4</td><td>7452</td><td>0</td><td>0</td><td>Paid</td><td>Resigned</td><td>06/06/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:41</td><td>Updated Sucessfully</td><td>RAJNIKANT DEVAYATBHAI JARIYA</td>
+		</tr><tr>
+			<td>S02145</td><td>Shubham Ajaykumar Raval</td><td>10000</td><td>BDR</td><td>17</td><td>5483.87096774194</td><td>0</td><td>Cambay</td><td>1</td><td>5924</td><td>0</td><td>0</td><td>Paid</td><td>Resigned</td><td>01/06/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:41</td><td>Updated Sucessfully</td><td>SHUBHAM AJAYKUMAR RAVAL</td>
+		</tr>
+	</table>
+</div><table border="0">
+	<tr>
+		<td colspan="20"><b> <font size='3' color='black'><br/><br/>Note</font></span></b> <br/><b><font size='3' color='black'>*** Base Fees Per Month and Eligible Salary are considered that are furnished in the payout upload file. </font></b> <br/></td>
+	</tr><tr>
+		<td></td>
+	</tr>
+</table>

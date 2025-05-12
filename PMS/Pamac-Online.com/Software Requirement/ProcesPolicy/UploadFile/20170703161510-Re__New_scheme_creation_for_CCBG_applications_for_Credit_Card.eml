@@ -1,0 +1,2951 @@
+Received: from mail.pamac.com ([103.13.99.139]) by pamac.com ([192.168.0.35])
+	(with MultiPOP) (MDaemon.Standard.v6.8.5.R)
+	for <edp@pamac.com>; Sat, 01 Jul 2017 20:20:45 +0530
+Return-Path: shirish.salian@pamac.com
+Received: from mail.pamac.com (LHLO mail.pamac.com) (172.16.0.45) by
+ mail.pamac.com with LMTP; Sat, 1 Jul 2017 20:20:34 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id EDA0F961437;
+	Sat,  1 Jul 2017 20:20:33 +0530 (IST)
+Authentication-Results: mail.pamac.com (amavisd-new); dkim=neutral
+	reason="invalid (public key: not available)" header.d=pamac.com
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id 9IgIoucPT8cA; Sat,  1 Jul 2017 20:20:32 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id D6461961655;
+	Sat,  1 Jul 2017 20:20:31 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.9.2 mail.pamac.com D6461961655
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=pamac.com;
+	s=084B4786-4057-11E6-9BAC-5E1413FBF31E; t=1498920631;
+	bh=DWpPdbRMJp1DibDMYtB/QUHj+g6FoiyHIHmYcOXK6z0=;
+	h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+	b=hoyBz5OQPfnJ+Npl7WfiUMASlqi7Ww0nIVw2G1NzHr0xlXXL+AEH2e5SeD5SL+BJd
+	 YCnC9Aib5ou1pCFIXF1PzmQj3Fg+ykTyH69+hntiqiPj2fsN/i7cvlYelot4r8h8PH
+	 p2e8DgP8rFrOF2cw0f5K6Ofr3VH9SGNGdFOzJoV0=
+X-Virus-Scanned: amavisd-new at pamac.com
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id G7BMMLLA5qCZ; Sat,  1 Jul 2017 20:20:31 +0530 (IST)
+Received: from pamac.com (unknown [182.70.48.64])
+	by mail.pamac.com (Postfix) with ESMTPA id 2218C961437
+	for <edp@pamac.com>; Sat,  1 Jul 2017 20:20:30 +0530 (IST)
+Received: from WMUMINDUS12 ([192.168.5.69])
+	by pamac.com ([192.168.5.125])
+	with SMTP (MDaemon.PRO.v6.0.7.R)
+	for <edp@pamac.com>; Sat, 01 Jul 2017 20:19:48 +0530
+Message-ID: <DFA3110E3FF647CBB1E0EFB6166927EC@WMUMINDUS12>
+From: "Shirish Salian" <shirish.salian@pamac.com>
+To: "PAMAC - EDP" <edp@pamac.com>
+Cc: "Santosh Ghadge" <santosh.ghadge@pamac.com>,
+	"Unnata Puthran" <unnata.puthran@pamac.com>
+References: <002e01d2f221$580e7230$082b5690$@ghadge@pamac.com> <89947DAD89FD4CE294010483A670EC96@WMUMINDUS12> <98A76346F78A45ADBAA4E425BF9EF811@WHOEDP17>
+Subject: Re: New scheme creation for CCBG applications for Credit Card
+Date: Sat, 1 Jul 2017 20:20:24 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_0125_01D2F2A7.796A8550"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+X-Authenticated-Sender: shirish.salian@pamac.com
+X-MDMultiPOP: edp@pamac.com@mail.pamac.com
+X-MDRemoteIP: 103.13.99.139
+X-MDRcpt-To: edp@pamac.com
+X-MDaemon-Deliver-To: edp@pamac.com
+X-ForeignSender-IP: 103.13.99.139
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0125_01D2F2A7.796A8550
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0126_01D2F2A7.796A8550"
+
+
+------=_NextPart_001_0126_01D2F2A7.796A8550
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Team,
+
+For the time being kindly upload the 2 files as per below mail, we will =
+highlight you once we receive further communication from client.
+
+
+
+Regards,Shirish SalianMOB NO-8691920385 | Email: =
+shirish.salian@pamac.com | Website: www.pamac.com| PAMAC Group Banking =
+on our Credentials.
+
+
+
+  ----- Original Message -----=20
+  From: PAMAC - EDP=20
+  To: Shirish Salian=20
+  Cc: Santosh Ghadge ; Unnata Puthran=20
+  Sent: Saturday, July 01, 2017 5:59 PM
+  Subject: Re: New scheme creation for CCBG applications for Credit Card
+
+
+  Hi,
+
+  Its added now.
+
+  Kindly mention apart from master upload in supervisor page how many =
+new master you want to add in upload tag.
+
+
+  Reagrds,
+  Prachi Shinde.
+
+    ----- Original Message -----=20
+    From: Shirish Salian=20
+    To: PAMAC - EDP=20
+    Cc: Santosh Ghadge ; Unnata Puthran=20
+    Sent: Saturday, July 01, 2017 5:34 PM
+    Subject: Re: New scheme creation for CCBG applications for Credit =
+Card
+
+
+
+    Dear Team,
+
+    With reference to trial mail, kindly upload DSA and channel masters =
+as currently we do not have it.
+
+
+
+
+Regards,Shirish SalianMOB NO-8691920385 | Email: =
+shirish.salian@pamac.com | Website: www.pamac.com| PAMAC Group Banking =
+on our Credentials.
+
+
+
+
+
+
+
+
+
+      ----- Original Message -----=20
+      From: Santosh Ghadge=20
+      To: 'Unnata Puthran' ; 'Shirish Salian'=20
+      Sent: Saturday, July 01, 2017 9:50 AM
+      Subject: FW: New scheme creation for CCBG applications for Credit =
+Card
+
+
+      Dear Unnata/Shirish,=20
+
+      =20
+
+      Please upload the masters. Also speak to Yogesh jointly and =
+understand the required of software team and give me in detail to take =
+forward.=20
+
+      =20
+
+      Please close it today only.=20
+
+      =20
+
+      Regards,
+
+      =20
+
+      Santosh Ghadge
+
+      Manager - Mumbai CPA.=20
+
+
+
+      =20
+
+      From: Santosh Ghadge [mailto:santosh.ghadge@pamac.com]=20
+      Sent: Saturday, June 17, 2017 6:02 PM
+      To: 'yogesh.soundalkar@indusind.com'
+      Cc: 'Debasish De'; 'amit.shilotri@indusind.com'; =
+'vaibhav.bhange@indusind.com'; 'sahadeo.ghadi@indusind.com'; =
+'patel.kalpesh@indusind.com'; 'Viji'; 'Mahendra Jadhav'; =
+'unnata.puthran@pamac.com'
+      Subject: RE: New scheme creation for CCBG applications for Credit =
+Card
+
+      =20
+
+      Dear Yogesh,=20
+
+      =20
+
+      Unable to connect you. Request your time to understand this in =
+detail.=20
+
+      =20
+
+      Regards,
+
+      =20
+
+      Santosh Ghadge
+
+      Manager - Mumbai CPA.=20
+
+
+
+      =20
+
+      From: Yogesh Soundalkar [mailto:yogesh.soundalkar@indusind.com]=20
+      Sent: Friday, June 16, 2017 3:48 PM
+      To: yogesh.soundalkar@indusind.com
+      Cc: 'Debasish De'; amit.shilotri@indusind.com; =
+vaibhav.bhange@indusind.com; sahadeo.ghadi@indusind.com; =
+patel.kalpesh@indusind.com; 'Viji'
+      Subject: FW: New scheme creation for CCBG applications for Credit =
+Card
+      Importance: High
+
+      =20
+
+      Hi Agencies,
+
+                      We are pleased to announce launch of new sourcing =
+program for Card. Agencies will start receiving the applications for =
+processing very soon.
+
+      Pls find the attached Updated Scheme, Channel & DSA masters. Pls =
+upload & confirm Back.
+
+      =20
+
+      Also make the changes in s/w if required as per Transcription =
+guidelines. Please download this information to all your concern team & =
+start training.
+
+      =20
+
+      If you require more clarification on the same, pls feel free to =
+call me.
+
+      =20
+
+        15.. PIXCG / SLXCG/INXCG: - (CCBG applications)=20
+      =20
+
+      =B7         Mandatorily required CCBG Cards Cross Sell =
+Recommendation form
+
+      =20
+
+      =B7         If Recommendation form not provided than application =
+need park in discrepancy along with other discrepancy if any & case need =
+to referred back to sales and Business for clarification and documents
+
+      =20
+
+      =B7         Documents: Card applications form and KYC documents as =
+applicable. Signed CCBG Recommendation format to be attached to the =
+application form as per Format attached
+
+      =20
+
+      =B7         Point need to check in CCBG Recommendation format are =
+Name of the applicant, Company Name, Applicant Designation, =
+Location/City, Limit Recommended, ZH Name, ZH Signature
+
+      =20
+
+      =B7         ADB =3D Limit Recommended value mentioned in CCBG =
+Recommendation format
+
+      =20
+
+      =B7         In case applicant is Foreign nation -Valid work =
+permit, Valid Visa and Passport to be submitted with application for =
+Foreign national case
+
+      =20
+
+      =B7         NRI / PIO - FEMA declaration and repayments from IBL =
+NR account to be attached with application
+
+      =20
+
+      =B7         There is no RCU stamp on the form & document.=20
+
+      =20
+
+      =20
+
+      =B7         List of Authorized signatories to Recommendation =
+format is as appended below. =20
+
+      =20
+
+            Approving Authority=20
+           ECN
+           Reporting to
+          =20
+            Roopa Satish
+           5412
+           Suhail Chander
+          =20
+            Sanjeev Anand
+           2685
+           Suhail Chander
+          =20
+            Manish Modi
+           5677
+           Roopa Satish
+          =20
+            Sanjeet Anand
+           2685
+           Roopa Satish
+          =20
+            Gaurav Mittal
+           7258
+           Roopa Satish
+          =20
+            Pramod Kasat
+           50238
+           Roopa Satish
+          =20
+            Monu Jain
+           4663
+           Sanjeev Anand
+          =20
+            Alok Kedia
+           14041
+           Sanjeev Anand
+          =20
+            Srinivas Bonam
+           7778
+           Sanjeev Anand
+          =20
+
+      =20
+
+      =20
+
+      =20
+
+      =20
+
+
+      Thanks & Regards,
+
+      =20
+
+      Yogesh Soundalkar - Credit card/Personal Loans Operations
+
+      IndusInd Bank Limited.
+
+      PNA House, 3rd Floor, Plot No. 57,=20
+
+      Street No.17, MIDC, Andheri(E) , Mumbai - 400093
+
+      =20
+
+      ' : 022 - 61098343
+
+      7  : 7738295716
+
+      *    : yogesh.soundalkar@indusind.com=20
+
+      P  Save paper, print if you have to. Save energy, cc if you have =
+to.
+
+      =20
+
+      From: Bhavesh Jain [mailto:bhavesh.jain@indusind.com]=20
+      Sent: Thursday, June 01, 2017 10:47 AM
+      To: yogesh.soundalkar@indusind.com
+      Cc: 'Manish Goyle'; 'Sudhakaran Amin'; 'Ashwin Gupta'; =
+elijah.bandarkar@indusind.com; 'Rutuja Napnekar'; 'Viji'; =
+sahadeo.ghadi@indusind.com; amit.shilotri@indusind.com; =
+patel.kalpesh@indusind.com; 'Debasish De'; 'Parmanand Vaswani'; 'Mitesh =
+Sonchhatra'
+      Subject: RE: New scheme creation for CCBG applications
+
+      =20
+
+      Dear Yogesh,
+
+      =20
+
+      Pls check if no RCU check to be added in this. =20
+
+      =20
+
+      Regards,
+
+      Bhavesh Jain,=20
+
+      Credit Cards - Policy=20
+
+      C 202, Business Square, Solitaire Corp Park, Andheri (E), Mumbai - =
+400 093 ' 09833307391  * bhavesh.jain@indusind.com
+      P Save paper, print if you have to. Save energy, cc if you have =
+to.
+
+      =20
+
+      From: Yogesh Soundalkar [mailto:yogesh.soundalkar@indusind.com]=20
+      Sent: Tuesday, May 30, 2017 1:57 PM
+      To: bhavesh.jain@indusind.com
+      Cc: 'Manish Goyle'; 'Sudhakaran Amin'; 'Ashwin Gupta'; =
+elijah.bandarkar@indusind.com; 'Rutuja Napnekar'; 'Viji'; =
+sahadeo.ghadi@indusind.com; amit.shilotri@indusind.com; =
+patel.kalpesh@indusind.com; 'Debasish De'; 'Parmanand Vaswani'; 'Mitesh =
+Sonchhatra'
+      Subject: RE: New scheme creation for CCBG applications
+      Importance: High
+
+      =20
+
+      Dear Bhavesh,
+
+                      Pls find the below are the revised transcription =
+guidelines for mentioned schemes.
+
+      Pls check & validate so that we can circulate the same to Data =
+entry Vendors.=20
+
+      =20
+
+        15.. PIXCG / SLXCG/INXCG: - (CCBG applications)=20
+      =20
+
+      =B7         Mandatorily required CCBG Cards Cross Sell =
+Recommendation form
+
+      =20
+
+      =B7         If Recommendation form not provided than application =
+need park in discrepancy along with other discrepancy if any & case need =
+to referred back to sales and Business for clarification and documents
+
+      =20
+
+      =B7         Documents required as applications form and KYC as =
+normal current process. Signed CCBG Recommendation format to be attached =
+to the application form as per Format attached
+
+      =20
+
+      =B7         Point need to check in CCBG Recommendation format are =
+Name of the applicant, Company Name, Applicant Designation, =
+Location/City, Limit Recommended, ZH Name, ZH Signature/ ZH ECN
+
+      =20
+
+      =B7         ADB =3D Limit Recommended value mentioned in CCBG =
+Recommendation format
+
+      =20
+
+      =B7         In case applicant is Foreign nation -Valid work =
+permit, Valid Visa and Passport to be submitted with application for =
+Foreign national case
+
+      =20
+
+      =B7         NRI / PIO - FEMA declaration and repayments from IBL =
+NR account to be attached with application
+
+      =20
+
+      =20
+
+      =B7         List of Authorized signatories to Recommendation =
+format is as appended below. =20
+
+      =20
+
+            Approving Authority=20
+           ECN
+           Reporting to
+          =20
+            Roopa Satish
+           5412
+           Suhail Chander
+          =20
+            Sanjeev Anand
+           2685
+           Suhail Chander
+          =20
+            Manish Modi
+           5677
+           Roopa Satish
+          =20
+            Sanjeet Anand
+           2685
+           Roopa Satish
+          =20
+            Gaurav Mittal
+           7258
+           Roopa Satish
+          =20
+            Pramod Kasat
+           50238
+           Roopa Satish
+          =20
+            Monu Jain
+           4663
+           Sanjeev Anand
+          =20
+            Alok Kedia
+           14041
+           Sanjeev Anand
+          =20
+            Srinivas Bonam
+           7778
+           Sanjeev Anand
+          =20
+
+      =20
+
+      =20
+
+      =20
+
+
+      Thanks & Regards,
+
+      =20
+
+      Yogesh Soundalkar - Credit card/Personal Loans Operations
+
+      IndusInd Bank Limited.
+
+      PNA House, 3rd Floor, Plot No. 57,=20
+
+      Street No.17, MIDC, Andheri(E) , Mumbai - 400093
+
+      =20
+
+      ' : 022 - 61098343
+
+      7  : 7738295716
+
+      *    : yogesh.soundalkar@indusind.com=20
+
+      P  Save paper, print if you have to. Save energy, cc if you have =
+to.
+
+      =20
+
+ =
+*************************************************************************=
+****This Email and files transmitted are confidential and intended =
+solely forthe use of the individual or entity to whom they are =
+addressed. If youhave received this Email in error please notify the =
+system manager.Please note that any views or opinions presented in this =
+Email are solelythose of the author and do not necessarily represent =
+those of IndusIndBank Ltd. Finally, the recipient should check this =
+Email and anyattachments for the presence of viruses. IndusInd Bank Ltd. =
+accepts noliability for any damage caused by any virus transmitted by =
+this =
+Email.*******************************************************************=
+********** 
+------=_NextPart_001_0126_01D2F2A7.796A8550
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns=3D"http://www.w3.org/TR/REC-html40" xmlns:v =3D=20
+"urn:schemas-microsoft-com:vml" xmlns:o =3D=20
+"urn:schemas-microsoft-com:office:office" xmlns:w =3D=20
+"urn:schemas-microsoft-com:office:word" xmlns:x =3D=20
+"urn:schemas-microsoft-com:office:excel" xmlns:p =3D=20
+"urn:schemas-microsoft-com:office:powerpoint" xmlns:a =3D=20
+"urn:schemas-microsoft-com:office:access" xmlns:dt =3D=20
+"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:s =3D=20
+"uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882" xmlns:rs =3D=20
+"urn:schemas-microsoft-com:rowset" xmlns:z =3D "#RowsetSchema" xmlns:b =
+=3D=20
+"urn:schemas-microsoft-com:office:publisher" xmlns:ss =3D=20
+"urn:schemas-microsoft-com:office:spreadsheet" xmlns:c =3D=20
+"urn:schemas-microsoft-com:office:component:spreadsheet" xmlns:odc =3D=20
+"urn:schemas-microsoft-com:office:odc" xmlns:oa =3D=20
+"urn:schemas-microsoft-com:office:activation" xmlns:html =3D=20
+"http://www.w3.org/TR/REC-html40" xmlns:q =3D=20
+"http://schemas.xmlsoap.org/soap/envelope/" xmlns:rtc =3D=20
+"http://microsoft.com/officenet/conferencing" XMLNS:D =3D "DAV:" =
+XMLNS:Repl =3D=20
+"http://schemas.microsoft.com/repl/" xmlns:mt =3D=20
+"http://schemas.microsoft.com/sharepoint/soap/meetings/" xmlns:x2 =3D=20
+"http://schemas.microsoft.com/office/excel/2003/xml" xmlns:ppda =3D=20
+"http://www.passport.com/NameSpace.xsd" xmlns:ois =3D=20
+"http://schemas.microsoft.com/sharepoint/soap/ois/" xmlns:dir =3D=20
+"http://schemas.microsoft.com/sharepoint/soap/directory/" xmlns:ds =3D=20
+"http://www.w3.org/2000/09/xmldsig#" xmlns:dsp =3D=20
+"http://schemas.microsoft.com/sharepoint/dsp" xmlns:udc =3D=20
+"http://schemas.microsoft.com/data/udc" xmlns:xsd =3D=20
+"http://www.w3.org/2001/XMLSchema" xmlns:sub =3D=20
+"http://schemas.microsoft.com/sharepoint/soap/2002/1/alerts/" xmlns:ec =
+=3D=20
+"http://www.w3.org/2001/04/xmlenc#" xmlns:sp =3D=20
+"http://schemas.microsoft.com/sharepoint/" xmlns:sps =3D=20
+"http://schemas.microsoft.com/sharepoint/soap/" xmlns:xsi =3D=20
+"http://www.w3.org/2001/XMLSchema-instance" xmlns:udcs =3D=20
+"http://schemas.microsoft.com/data/udc/soap" xmlns:udcxf =3D=20
+"http://schemas.microsoft.com/data/udc/xmlfile" xmlns:udcp2p =3D=20
+"http://schemas.microsoft.com/data/udc/parttopart" xmlns:wf =3D=20
+"http://schemas.microsoft.com/sharepoint/soap/workflow/" xmlns:dsss =3D=20
+"http://schemas.microsoft.com/office/2006/digsig-setup" xmlns:dssi =3D=20
+"http://schemas.microsoft.com/office/2006/digsig" xmlns:mdssi =3D=20
+"http://schemas.openxmlformats.org/package/2006/digital-signature" =
+xmlns:mver =3D=20
+"http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:m =
+=3D=20
+"http://schemas.microsoft.com/office/2004/12/omml" xmlns:mrels =3D=20
+"http://schemas.openxmlformats.org/package/2006/relationships" =
+xmlns:spwp =3D=20
+"http://microsoft.com/sharepoint/webpartpages" xmlns:ex12t =3D=20
+"http://schemas.microsoft.com/exchange/services/2006/types" xmlns:ex12m =
+=3D=20
+"http://schemas.microsoft.com/exchange/services/2006/messages" =
+xmlns:pptsl =3D=20
+"http://schemas.microsoft.com/sharepoint/soap/SlideLibrary/" xmlns:spsl =
+=3D=20
+"http://microsoft.com/webservices/SharePointPortalServer/PublishedLinksSe=
+rvice"=20
+XMLNS:Z =3D "urn:schemas-microsoft-com:" xmlns:st =3D "=01"><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18702"><!--[if !mso]>
+<STYLE>v\:* {
+	BEHAVIOR: url(#default#VML)
+}
+o\:* {
+	BEHAVIOR: url(#default#VML)
+}
+w\:* {
+	BEHAVIOR: url(#default#VML)
+}
+.shape {
+	BEHAVIOR: url(#default#VML)
+}
+</STYLE>
+<![endif]-->
+<STYLE>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Wingdings 2";
+	panose-1:5 2 1 2 1 5 7 7 7 7;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Webdings;
+	panose-1:5 3 1 2 1 5 9 6 7 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Plain Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+pre
+	{mso-style-priority:99;
+	mso-style-link:"HTML Preformatted Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTML Preformatted Char";
+	mso-style-priority:99;
+	mso-style-link:"HTML Preformatted";
+	font-family:Consolas;}
+span.PlainTextChar
+	{mso-style-name:"Plain Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Plain Text";
+	font-family:"Times New Roman","serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle24
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle25
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle26
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle27
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle28
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle29
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle30
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle31
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle32
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle33
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle34
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle35
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle36
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle37
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle38
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle39
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle40
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle41
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle42
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle43
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle44
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle45
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle46
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle47
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle48
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle49
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle50
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle51
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle52
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle53
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle54
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle55
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle56
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle57
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle58
+	{mso-style-type:personal;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#000099;
+	font-weight:normal;
+	font-style:normal;}
+span.EmailStyle59
+	{mso-style-type:personal-reply;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#000099;
+	font-weight:normal;
+	font-style:normal;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:74326470;
+	mso-list-template-ids:-963482844;}
+@list l0:level1
+	{mso-level-start-at:15;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:177739867;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1961150878 -1040126828 1074331673 1074331675 =
+1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+@list l1:level1
+	{mso-level-start-at:15;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	color:windowtext;
+	mso-ansi-font-weight:bold;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:1.75in;
+	text-indent:-9.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:3.25in;
+	text-indent:-9.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:4.75in;
+	text-indent:-9.0pt;}
+@list l2
+	{mso-list-id:566958024;
+	mso-list-type:hybrid;
+	mso-list-template-ids:508737610 67698689 67698691 67698693 67698689 =
+67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.25in;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.25in;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.75in;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:4.25in;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.75in;
+	mso-level-number-position:left;
+	margin-left:4.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:1346634015;
+	mso-list-template-ids:1479968022;}
+@list l3:level1
+	{mso-level-start-at:15;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4
+	{mso-list-id:1398354722;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-145348596 67698689 67698691 67698693 67698689 =
+67698691 67698693 67698689 67698691 67698693;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.25in;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.25in;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.75in;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:4.25in;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.75in;
+	mso-level-number-position:left;
+	margin-left:4.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l5
+	{mso-list-id:1429351516;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1961150878 -1040126828 1074331673 1074331675 =
+1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+@list l5:level1
+	{mso-level-start-at:15;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	color:windowtext;
+	mso-ansi-font-weight:bold;}
+@list l5:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l5:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:1.75in;
+	text-indent:-9.0pt;}
+@list l5:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;}
+@list l5:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;}
+@list l5:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:3.25in;
+	text-indent:-9.0pt;}
+@list l5:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;}
+@list l5:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;}
+@list l5:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:4.75in;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</STYLE>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"3074" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]--></HEAD>
+<BODY lang=3DEN-US link=3Dblue bgColor=3D#ffffff vLink=3Dpurple>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet MS">Dear =
+Team,</FONT></DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet MS">For the time =
+being kindly=20
+upload the 2 files as per below mail, we will highlight you once we =
+receive=20
+further communication from client.</FONT></DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet MS"><PRE =
+class=3Dp0><SPAN style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; =
+COLOR: #333399; FONT-SIZE: 10pt">Regards,<o:p></o:p></SPAN></PRE><PRE =
+class=3Dp0><SPAN style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; =
+COLOR: #333399; FONT-SIZE: 10pt">Shirish Salian</SPAN></PRE><PRE =
+class=3Dp0><SPAN style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; =
+COLOR: #333399; FONT-SIZE: 10pt">MOB NO-8691920385 | Email: </SPAN><A =
+href=3D"mailto:shirish.salian@pamac.com"><SPAN style=3D"FONT-FAMILY: =
+'Trebuchet MS','sans-serif'; COLOR: #333399; FONT-SIZE: =
+10pt">shirish.salian@pamac.com</SPAN></A><SPAN style=3D"FONT-FAMILY: =
+'Trebuchet MS','sans-serif'; COLOR: #333399; FONT-SIZE: 10pt"> | =
+Website: </SPAN><A href=3D"http://www.pamac.com/"><SPAN =
+style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt">www.pamac.com</SPAN></A><SPAN style=3D"FONT-FAMILY: =
+'Trebuchet MS','sans-serif'; COLOR: #333399; FONT-SIZE: =
+10pt">|<o:p></o:p></SPAN></PRE><PRE class=3Dp0><SPAN =
+style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt">&nbsp;</SPAN></PRE><PRE class=3Dp0><SPAN =
+style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt"></SPAN>&nbsp;</PRE><PRE class=3Dp0><SPAN =
+style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt"></SPAN>&nbsp;</PRE><PRE class=3Dp0><SPAN =
+style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt"><o:p></o:p></SPAN>&nbsp;</PRE>
+<P class=3Dp0><B><SPAN=20
+style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt">PAMAC=20
+Group Banking on our Credentials.</SPAN></B><SPAN=20
+style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt"><o:p></o:p></SPAN></P>
+<P class=3Dp0><IMG id=3D_x0000_i1025 border=3D0=20
+src=3D"cid:CF4D375615B64276843A8A935B9A2FAD@WMUMANDAUT26" width=3D160=20
+height=3D184><o:p></o:p></P></FONT></DIV>
+<BLOCKQUOTE=20
+style=3D"BORDER-LEFT: #000080 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+dir=3Dltr>
+  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+  <DIV=20
+  style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+  <A title=3Dedp@pamac.com href=3D"mailto:edp@pamac.com">PAMAC - EDP</A> =
+</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A =
+title=3Dshirish.salian@pamac.com=20
+  href=3D"mailto:shirish.salian@pamac.com">Shirish Salian</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Cc:</B> <A =
+title=3Dsantosh.ghadge@pamac.com=20
+  href=3D"mailto:santosh.ghadge@pamac.com">Santosh Ghadge</A> ; <A=20
+  title=3Dunnata.puthran@pamac.com =
+href=3D"mailto:unnata.puthran@pamac.com">Unnata=20
+  Puthran</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Saturday, July 01, 2017 =
+5:59=20
+  PM</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> Re: New scheme =
+creation for CCBG=20
+  applications for Credit Card</DIV>
+  <DIV><BR></DIV>
+  <DIV><FONT color=3D#000080 face=3D"Trebuchet MS">Hi,</FONT></DIV>
+  <DIV><FONT color=3D#000080 face=3D"Trebuchet MS"></FONT>&nbsp;</DIV>
+  <DIV><FONT color=3D#000080 face=3D"Trebuchet MS">Its added =
+now.</FONT></DIV>
+  <DIV><FONT color=3D#000080 face=3D"Trebuchet MS"></FONT>&nbsp;</DIV>
+  <DIV><FONT color=3D#000080 face=3D"Trebuchet MS">Kindly mention apart =
+from master=20
+  upload in supervisor page how many new master you want to add in =
+upload=20
+  tag.</FONT></DIV>
+  <DIV><FONT color=3D#000080 face=3D"Trebuchet MS"></FONT>&nbsp;</DIV>
+  <DIV><FONT color=3D#000080 face=3D"Trebuchet MS"></FONT>&nbsp;</DIV>
+  <DIV><FONT color=3D#000080 face=3D"Trebuchet MS">Reagrds,</FONT></DIV>
+  <DIV><FONT color=3D#000080 face=3D"Trebuchet MS">Prachi =
+Shinde.</FONT></DIV>
+  <DIV><FONT color=3D#000080 face=3D"Trebuchet MS"></FONT>&nbsp;</DIV>
+  <BLOCKQUOTE=20
+  style=3D"BORDER-LEFT: #000080 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+  dir=3Dltr>
+    <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+    <DIV=20
+    style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+    <A title=3Dshirish.salian@pamac.com=20
+    href=3D"mailto:shirish.salian@pamac.com">Shirish Salian</A> </DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A title=3Dedp@pamac.com=20
+    href=3D"mailto:edp@pamac.com">PAMAC - EDP</A> </DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Cc:</B> <A =
+title=3Dsantosh.ghadge@pamac.com=20
+    href=3D"mailto:santosh.ghadge@pamac.com">Santosh Ghadge</A> ; <A=20
+    title=3Dunnata.puthran@pamac.com =
+href=3D"mailto:unnata.puthran@pamac.com">Unnata=20
+    Puthran</A> </DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Saturday, July 01, 2017 =
+5:34=20
+    PM</DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> Re: New scheme =
+creation for=20
+    CCBG applications for Credit Card</DIV>
+    <DIV><BR></DIV>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet MS">Dear =
+Team,</FONT></DIV>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet MS">With =
+reference to trial=20
+    mail,&nbsp;kindly upload&nbsp;DSA and channel masters as currently =
+we do not=20
+    have it.</FONT></DIV>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+    <DIV>&nbsp;</DIV><PRE class=3Dp0><SPAN style=3D"FONT-FAMILY: =
+'Trebuchet MS','sans-serif'; COLOR: #333399; FONT-SIZE: =
+10pt">Regards,<o:p></o:p></SPAN></PRE><PRE class=3Dp0><SPAN =
+style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt">Shirish Salian</SPAN></PRE><PRE class=3Dp0><SPAN =
+style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt">MOB NO-8691920385 | Email: </SPAN><A =
+href=3D"mailto:shirish.salian@pamac.com"><SPAN style=3D"FONT-FAMILY: =
+'Trebuchet MS','sans-serif'; COLOR: #333399; FONT-SIZE: =
+10pt">shirish.salian@pamac.com</SPAN></A><SPAN style=3D"FONT-FAMILY: =
+'Trebuchet MS','sans-serif'; COLOR: #333399; FONT-SIZE: 10pt"> | =
+Website: </SPAN><A href=3D"http://www.pamac.com"><SPAN =
+style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt">www.pamac.com</SPAN></A><SPAN style=3D"FONT-FAMILY: =
+'Trebuchet MS','sans-serif'; COLOR: #333399; FONT-SIZE: =
+10pt">|<o:p></o:p></SPAN></PRE><PRE class=3Dp0><SPAN =
+style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></PRE>
+    <P class=3Dp0><B><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt">PAMAC=20
+    Group Banking on our Credentials.</SPAN></B><SPAN=20
+    style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #333399; =
+FONT-SIZE: 10pt"><o:p></o:p></SPAN></P>
+    <P class=3Dp0><IMG id=3D_x0000_i1025 border=3D0=20
+    =
+src=3D"mhtml:mid://00000098/!cid:CF4D375615B64276843A8A935B9A2FAD@WMUMAND=
+AUT26"=20
+    width=3D160 height=3D184><o:p></o:p></P>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+    <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+    <BLOCKQUOTE=20
+    style=3D"BORDER-LEFT: #000080 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+    dir=3Dltr>
+      <DIV style=3D"FONT: 10pt arial">----- Original Message ----- =
+</DIV>
+      <DIV=20
+      style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+      <A title=3Dsantosh.ghadge@pamac.com=20
+      href=3D"mailto:santosh.ghadge@pamac.com">Santosh Ghadge</A> </DIV>
+      <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A =
+title=3Dunnata.puthran@pamac.com=20
+      href=3D"mailto:unnata.puthran@pamac.com">'Unnata Puthran'</A> ; <A =
+
+      title=3Dshirish.salian@pamac.com=20
+      href=3D"mailto:shirish.salian@pamac.com">'Shirish Salian'</A> =
+</DIV>
+      <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Saturday, July 01, =
+2017 9:50=20
+      AM</DIV>
+      <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> FW: New scheme =
+creation for=20
+      CCBG applications for Credit Card</DIV>
+      <DIV><BR></DIV>
+      <DIV class=3DSection1>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt">Dear=20
+      Unnata/Shirish, <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt">Please=20
+      upload the masters. Also speak to Yogesh jointly and understand =
+the=20
+      required of software team and give me in detail to take forward.=20
+      <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt">Please=20
+      close it today only. <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <DIV>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Regards,<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Santosh=20
+      Ghadge<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Manager=20
+      =96 Mumbai CPA. <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN style=3D"COLOR: #1f497d"><IMG =
+id=3D_x0000_i1026=20
+      alt=3Dcid:002e01d19607$caaeb600$3c00a8c0@WHOACC45=20
+      src=3D"cid:A85B4060461247D699A36B9ABC6A381C@WMUMINDUS12" =
+width=3D119=20
+      height=3D137></SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 8pt"><o:p></o:p></SPAN></P></DIV>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <DIV>
+      <DIV=20
+      style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; =
+PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: =
+#b5c4df 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: =
+10pt">From:</SPAN></B><SPAN=20
+      style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt"> =
+Santosh=20
+      Ghadge [mailto:santosh.ghadge@pamac.com] <BR><B>Sent:</B> =
+Saturday, June=20
+      17, 2017 6:02 PM<BR><B>To:</B> <A=20
+      =
+href=3D"mailto:'yogesh.soundalkar@indusind.com'">'yogesh.soundalkar@indus=
+ind.com'</A><BR><B>Cc:</B>=20
+      'Debasish De'; <A=20
+      =
+href=3D"mailto:'amit.shilotri@indusind.com'">'amit.shilotri@indusind.com'=
+</A>;=20
+      'vaibhav.bhange@indusind.com'; 'sahadeo.ghadi@indusind.com';=20
+      'patel.kalpesh@indusind.com'; 'Viji'; 'Mahendra Jadhav';=20
+      'unnata.puthran@pamac.com'<BR><B>Subject:</B> RE: New scheme =
+creation for=20
+      CCBG applications for Credit =
+Card<o:p></o:p></SPAN></P></DIV></DIV>
+      <P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt">Dear=20
+      Yogesh, <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt">Unable=20
+      to connect you. Request your time to understand this in detail.=20
+      <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <DIV>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Regards,<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Santosh=20
+      Ghadge<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt">Manager=20
+      =96 Mumbai CPA. <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN style=3D"COLOR: #1f497d"><IMG =
+id=3DPicture_x0020_1=20
+      alt=3Dcid:002e01d19607$caaeb600$3c00a8c0@WHOACC45=20
+      src=3D"cid:4CA5F3F0C76B40E1AE977536C69671DC@WMUMINDUS12" =
+width=3D119=20
+      height=3D137></SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 8pt"><o:p></o:p></SPAN></P></DIV>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <DIV>
+      <DIV=20
+      style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; =
+PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: =
+#b5c4df 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: =
+10pt">From:</SPAN></B><SPAN=20
+      style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt"> =
+Yogesh=20
+      Soundalkar [mailto:yogesh.soundalkar@indusind.com] =
+<BR><B>Sent:</B>=20
+      Friday, June 16, 2017 3:48 PM<BR><B>To:</B>=20
+      yogesh.soundalkar@indusind.com<BR><B>Cc:</B> 'Debasish De';=20
+      amit.shilotri@indusind.com; vaibhav.bhange@indusind.com;=20
+      sahadeo.ghadi@indusind.com; patel.kalpesh@indusind.com;=20
+      'Viji'<BR><B>Subject:</B> FW: New scheme creation for CCBG =
+applications=20
+      for Credit Card<BR><B>Importance:</B>=20
+      High<o:p></o:p></SPAN></P></DIV></DIV>
+      <P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+      <P class=3DMsoNormal>Hi Agencies,<o:p></o:p></P>
+      <P=20
+      =
+class=3DMsoNormal>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      We are pleased to announce launch of new sourcing program for =
+Card.=20
+      Agencies will start receiving the applications for processing very =
+
+      soon.<o:p></o:p></P>
+      <P class=3DMsoNormal>Pls find the attached Updated Scheme, Channel =
+&amp; DSA=20
+      masters. Pls upload &amp; confirm Back.<o:p></o:p></P>
+      <P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+      <P class=3DMsoNormal>Also make the changes in s/w if required as =
+per=20
+      Transcription guidelines. Please download this information to all =
+your=20
+      concern team &amp; start training.<o:p></o:p></P>
+      <P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+      <P class=3DMsoNormal><B>If you require more clarification on the =
+same, pls=20
+      feel free to call me.<o:p></o:p></B></P>
+      <P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+      <OL style=3D"MARGIN-TOP: 0in" type=3D1 start=3D15>
+        <LI style=3D"mso-list: l5 level1 lfo3" =
+class=3DMsoNormal><B><SPAN=20
+        style=3D"FONT-FAMILY: 'Verdana','sans-serif'">PIXCG / =
+SLXCG/INXCG: - (CCBG=20
+        applications) <o:p></o:p></SPAN></B></LI></OL>
+      <P style=3D"MARGIN-LEFT: 27pt" class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: =
+'Verdana','sans-serif'"><o:p>&nbsp;</o:p></SPAN></B></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l4 level1 lfo5"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt">Mandatorily=20
+      required CCBG Cards Cross Sell Recommendation =
+form<o:p></o:p></SPAN></P>
+      <P style=3D"TEXT-ALIGN: justify; MARGIN-LEFT: 0.75in" =
+class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l4 level1 lfo5"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: 10pt">If=20
+      Recommendation form not provided than application need park in =
+discrepancy=20
+      along with other discrepancy if any &amp; case need to referred =
+back to=20
+      sales and Business for clarification and =
+documents<o:p></o:p></SPAN></P>
+      <P class=3DMsoListParagraph><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l4 level1 lfo5"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt">Documents:=20
+      Card applications form and KYC documents as applicable. Signed =
+CCBG=20
+      Recommendation format to be attached to the application form as =
+per Format=20
+      attached<o:p></o:p></SPAN></P>
+      <P style=3D"TEXT-ALIGN: justify" class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l4 level1 lfo5"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt">Point need to=20
+      check in CCBG Recommendation format are <B>Name of the applicant, =
+Company=20
+      Name, Applicant Designation, Location/City, Limit Recommended, ZH =
+Name, ZH=20
+      Signature</B><o:p></o:p></SPAN></P>
+      <P style=3D"TEXT-ALIGN: justify" class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></B></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l2 level1 lfo7"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: 10pt">ADB =
+=3D Limit=20
+      Recommended value mentioned in CCBG Recommendation=20
+      format<o:p></o:p></SPAN></P>
+      <P style=3D"TEXT-ALIGN: justify; MARGIN-LEFT: 0.75in" =
+class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l2 level1 lfo7"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: 10pt">In =
+case=20
+      applicant is Foreign nation =96Valid work permit, Valid Visa and =
+Passport to=20
+      be submitted with application for Foreign national=20
+      case<o:p></o:p></SPAN></P>
+      <P class=3DMsoListParagraph><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l2 level1 lfo7"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: 10pt">NRI =
+/ PIO -=20
+      FEMA declaration and repayments from IBL NR account to be attached =
+with=20
+      application<o:p></o:p></SPAN></P>
+      <P class=3DMsoListParagraph><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l2 level1 lfo7"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt">There is no=20
+      RCU stamp on the form &amp; document. <o:p></o:p></SPAN></P>
+      <P style=3D"TEXT-ALIGN: justify; MARGIN-LEFT: 0.75in" =
+class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P style=3D"TEXT-ALIGN: justify" class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-list: l2 =
+level1 lfo7"=20
+      class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; COLOR: #1f497d; FONT-SIZE: =
+12pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt">List of=20
+      Authorized signatories to Recommendation format is as appended=20
+      below</SPAN><SPAN style=3D"COLOR: #1f497d">.&nbsp; </SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: #1f497d; =
+FONT-SIZE: 12pt"><o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"COLOR: #1f497d"><o:p>&nbsp;</o:p></SPAN></P>
+      <TABLE style=3D"BORDER-COLLAPSE: collapse; MARGIN-LEFT: 5.65pt"=20
+      class=3DMsoNormalTable border=3D0 cellSpacing=3D0 cellPadding=3D0>
+        <TBODY>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: windowtext 1pt solid; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><B><SPAN style=3D"COLOR: =
+black">Approving Authority=20
+            </SPAN></B><B><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></B></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: =
+windowtext 1pt solid; PADDING-TOP: 0in">
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><B><SPAN=20
+            style=3D"COLOR: black">ECN</SPAN></B><B><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></B></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: =
+windowtext 1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><B><SPAN style=3D"COLOR: =
+black">Reporting=20
+            to</SPAN></B><B><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></B></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Roopa=20
+            Satish</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in">
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">5412</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Suhail=20
+            Chander</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Sanjeev=20
+            Anand</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in">
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">2685</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Suhail=20
+            Chander</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Manish=20
+            Modi</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in"=20
+          noWrap>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">5677</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Roopa=20
+            Satish</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Sanjeet=20
+            Anand</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in">
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">2685</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Roopa=20
+            Satish</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Gaurav=20
+            Mittal</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in"=20
+          noWrap>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">7258</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Roopa=20
+            Satish</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Pramod=20
+            Kasat</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in"=20
+          noWrap>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">50238</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Roopa=20
+            Satish</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Monu =
+Jain</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in"=20
+          noWrap>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">4663</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Sanjeev=20
+            Anand</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Alok =
+Kedia</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in"=20
+          noWrap>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">14041</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Sanjeev=20
+            Anand</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Srinivas=20
+            Bonam</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in"=20
+          noWrap>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">7778</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: =
+5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext =
+1pt solid; PADDING-TOP: 0in">
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Sanjeev=20
+            Anand</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR></TBODY></TABLE>
+      <P style=3D"MARGIN-LEFT: 27pt" class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: =
+'Verdana','sans-serif'"><o:p>&nbsp;</o:p></SPAN></B></P>
+      <P style=3D"MARGIN-LEFT: 27pt" class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: =
+'Verdana','sans-serif'"><o:p>&nbsp;</o:p></SPAN></B></P>
+      <DIV>
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: black"=20
+      lang=3DEN-GB><o:p>&nbsp;</o:p></SPAN></B></P>
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: black"=20
+      lang=3DEN-GB><o:p>&nbsp;</o:p></SPAN></B></P>
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: black"=20
+      lang=3DEN-GB><BR></SPAN><SPAN style=3D"COLOR: #1f497d">Thanks =
+&amp;=20
+      Regards,<o:p></o:p></SPAN></B></P>
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"COLOR: #1f497d"><o:p>&nbsp;</o:p></SPAN></B></P>
+      <P class=3DMsoNormal><B><SPAN style=3D"COLOR: #1f497d">Yogesh =
+Soundalkar =96=20
+      Credit card/Personal Loans Operations<o:p></o:p></SPAN></B></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">IndusInd=20
+      Bank Limited.<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #215868; =
+FONT-SIZE: 10pt"=20
+      lang=3DEN-GB>PNA House, 3<SUP>rd</SUP> Floor, Plot No. 57,=20
+      <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #215868; =
+FONT-SIZE: 10pt"=20
+      lang=3DEN-GB>Street No.17, MIDC, Andheri</SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">(E)</SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #215868; =
+FONT-SIZE: 10pt"=20
+      lang=3DEN-GB> , Mumbai - 400093</SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #215868; =
+FONT-SIZE: 10pt"><o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Wingdings 2'; COLOR: black; FONT-SIZE: =
+10pt"=20
+      lang=3DEN-GB>' </SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">:=20
+      022 =96 61098343<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Wingdings 2'; COLOR: black; FONT-SIZE: =
+10pt"=20
+      lang=3DEN-GB>7 </SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">&nbsp;:=20
+      7738295716<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: Wingdings; COLOR: black; FONT-SIZE: 10pt"=20
+      lang=3DEN-GB>*</SPAN><SPAN=20
+      style=3D"COLOR: #1f497d; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp; =
+</SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">:=20
+      <A=20
+      =
+href=3D"mailto:yogesh.soundalkar@indusind.com">yogesh.soundalkar@indusind=
+.com</A>=20
+      <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: Webdings; COLOR: green; FONT-SIZE: =
+10pt">P</SPAN><I><SPAN=20
+      style=3D"COLOR: green; FONT-SIZE: 10pt"> <B>&nbsp;Save paper, =
+print if you=20
+      have to. Save energy, cc if you have to.</B></SPAN></I><SPAN=20
+      style=3D"COLOR: #1f497d"><o:p></o:p></SPAN></P></DIV>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"COLOR: #1f497d"><o:p>&nbsp;</o:p></SPAN></P>
+      <DIV>
+      <DIV=20
+      style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; =
+PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: =
+#b5c4df 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: =
+10pt">From:</SPAN></B><SPAN=20
+      style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt"> =
+Bhavesh Jain=20
+      [mailto:bhavesh.jain@indusind.com] <BR><B>Sent:</B> Thursday, June =
+01,=20
+      2017 10:47 AM<BR><B>To:</B> =
+yogesh.soundalkar@indusind.com<BR><B>Cc:</B>=20
+      'Manish Goyle'; 'Sudhakaran Amin'; 'Ashwin Gupta';=20
+      elijah.bandarkar@indusind.com; 'Rutuja Napnekar'; 'Viji';=20
+      sahadeo.ghadi@indusind.com; amit.shilotri@indusind.com;=20
+      patel.kalpesh@indusind.com; 'Debasish De'; 'Parmanand Vaswani'; =
+'Mitesh=20
+      Sonchhatra'<BR><B>Subject:</B> RE: New scheme creation for CCBG=20
+      applications<o:p></o:p></SPAN></P></DIV></DIV>
+      <P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+      <P class=3DMsoNormal><SPAN style=3D"COLOR: #1f497d">Dear=20
+      Yogesh,<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"COLOR: #1f497d"><o:p>&nbsp;</o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN style=3D"COLOR: #1f497d">Pls check if =
+no RCU check=20
+      to be added in this.&nbsp; <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"COLOR: #1f497d"><o:p>&nbsp;</o:p></SPAN></P>
+      <DIV>
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d"=20
+      lang=3DEN-GB>Regards,<o:p></o:p></SPAN></B></P>
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d" =
+lang=3DEN-GB>Bhavesh=20
+      Jain, <o:p></o:p></SPAN></B></P>
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d" =
+lang=3DEN-GB>Credit=20
+      Cards</SPAN></B><SPAN style=3D"COLOR: #1f497d" lang=3DEN-GB> =
+</SPAN><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d" =
+lang=3DEN-GB>- Policy=20
+      <o:p></o:p></SPAN></B></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"=20
+      lang=3DEN-GB>C 202, Business Square, Solitaire Corp Park, Andheri =
+(E),=20
+      Mumbai =96 400 093 </SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Wingdings 2'; COLOR: #1f497d; FONT-SIZE: =
+8pt"=20
+      lang=3DEN-GB>'</SPAN><SPAN style=3D"COLOR: =
+#1f497d">&nbsp;0</SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"=20
+      lang=3DFR>9833307391 </SPAN><SPAN style=3D"COLOR: =
+#1f497d">&nbsp;</SPAN><SPAN=20
+      style=3D"FONT-FAMILY: Wingdings; COLOR: black; FONT-SIZE: 8pt"=20
+      lang=3DEN-GB>*</SPAN><SPAN style=3D"COLOR: =
+#1f497d">&nbsp;</SPAN><A=20
+      href=3D"mailto:bhavesh.jain@indusind.com"><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; FONT-SIZE: =
+10pt">bhavesh.jain@indusind.com</SPAN></A><SPAN=20
+      style=3D"COLOR: #1f497d"><BR></SPAN><SPAN=20
+      style=3D"FONT-FAMILY: Webdings; COLOR: green; FONT-SIZE: =
+18pt">P</SPAN><I><SPAN=20
+      style=3D"COLOR: green; FONT-SIZE: 10pt"> Save paper, print if you =
+have to.=20
+      Save energy, cc if you have to.</SPAN></I><SPAN=20
+      style=3D"COLOR: #1f497d"><o:p></o:p></SPAN></P></DIV>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"COLOR: #1f497d"><o:p>&nbsp;</o:p></SPAN></P>
+      <DIV>
+      <DIV=20
+      style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; =
+PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: =
+#b5c4df 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: =
+10pt">From:</SPAN></B><SPAN=20
+      style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt"> =
+Yogesh=20
+      Soundalkar [mailto:yogesh.soundalkar@indusind.com] =
+<BR><B>Sent:</B>=20
+      Tuesday, May 30, 2017 1:57 PM<BR><B>To:</B>=20
+      bhavesh.jain@indusind.com<BR><B>Cc:</B> 'Manish Goyle'; =
+'Sudhakaran Amin';=20
+      'Ashwin Gupta'; elijah.bandarkar@indusind.com; 'Rutuja Napnekar'; =
+'Viji';=20
+      sahadeo.ghadi@indusind.com; amit.shilotri@indusind.com;=20
+      patel.kalpesh@indusind.com; 'Debasish De'; 'Parmanand Vaswani'; =
+'Mitesh=20
+      Sonchhatra'<BR><B>Subject:</B> RE: New scheme creation for CCBG=20
+      applications<BR><B>Importance:</B> =
+High<o:p></o:p></SPAN></P></DIV></DIV>
+      <P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+      <P class=3DMsoNormal><SPAN style=3D"COLOR: #1f497d">Dear=20
+      Bhavesh,<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"COLOR: =
+#1f497d">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      Pls find the below are the revised transcription guidelines for =
+mentioned=20
+      schemes.<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN style=3D"COLOR: #1f497d">Pls check =
+&amp; validate=20
+      so that we can circulate the same to Data entry Vendors.=20
+      <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: black"=20
+      lang=3DEN-GB><o:p>&nbsp;</o:p></SPAN></B></P>
+      <OL style=3D"MARGIN-TOP: 0in" type=3D1 start=3D15>
+        <LI style=3D"mso-list: l1 level1 lfo10" =
+class=3DMsoNormal><B><SPAN=20
+        style=3D"FONT-FAMILY: 'Verdana','sans-serif'">PIXCG / =
+SLXCG/INXCG: - (CCBG=20
+        applications) <o:p></o:p></SPAN></B></LI></OL>
+      <P style=3D"MARGIN-LEFT: 27pt" class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: =
+'Verdana','sans-serif'"><o:p>&nbsp;</o:p></SPAN></B></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l4 level1 lfo5"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt">Mandatorily=20
+      required CCBG Cards Cross Sell Recommendation =
+form<o:p></o:p></SPAN></P>
+      <P style=3D"TEXT-ALIGN: justify; MARGIN-LEFT: 0.75in" =
+class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l4 level1 lfo5"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: 10pt">If=20
+      Recommendation form not provided than application need park in =
+discrepancy=20
+      along with other discrepancy if any &amp; case need to referred =
+back to=20
+      sales and Business for clarification and =
+documents<o:p></o:p></SPAN></P>
+      <P class=3DMsoListParagraph><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l4 level1 lfo5"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt">Documents=20
+      required as applications form and KYC as normal current process. =
+Signed=20
+      CCBG Recommendation format to be attached to the application form =
+as per=20
+      Format attached<o:p></o:p></SPAN></P>
+      <P style=3D"TEXT-ALIGN: justify" class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l4 level1 lfo5"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt">Point need to=20
+      check in CCBG Recommendation format are <B>Name of the applicant, =
+Company=20
+      Name, Applicant Designation, Location/City, Limit Recommended, ZH =
+Name, ZH=20
+      Signature/ ZH ECN</B><o:p></o:p></SPAN></P>
+      <P style=3D"TEXT-ALIGN: justify" class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></B></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l2 level1 lfo7"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: 10pt">ADB =
+=3D Limit=20
+      Recommended value mentioned in CCBG Recommendation=20
+      format<o:p></o:p></SPAN></P>
+      <P style=3D"TEXT-ALIGN: justify; MARGIN-LEFT: 0.75in" =
+class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l2 level1 lfo7"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: 10pt">In =
+case=20
+      applicant is Foreign nation =96Valid work permit, Valid Visa and =
+Passport to=20
+      be submitted with application for Foreign national=20
+      case<o:p></o:p></SPAN></P>
+      <P class=3DMsoListParagraph><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-ALIGN: justify; TEXT-INDENT: -0.25in; MARGIN-LEFT: =
+0.75in; mso-list: l2 level1 lfo7"=20
+      class=3DMsoNormal><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; FONT-SIZE: 10pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: 10pt">NRI =
+/ PIO -=20
+      FEMA declaration and repayments from IBL NR account to be attached =
+with=20
+      application<o:p></o:p></SPAN></P>
+      <P class=3DMsoListParagraph><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P style=3D"TEXT-ALIGN: justify" class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P=20
+      style=3D"TEXT-INDENT: -0.25in; MARGIN-LEFT: 0.75in; mso-list: l2 =
+level1 lfo7"=20
+      class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol; COLOR: #1f497d; FONT-SIZE: =
+12pt"><SPAN=20
+      style=3D"mso-list: Ignore">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN></SPAN><![endif]><SPAN=20
+      style=3D"FONT-FAMILY: 'Verdana','sans-serif'; FONT-SIZE: =
+10pt">List of=20
+      Authorized signatories to Recommendation format is as appended=20
+      below</SPAN><SPAN style=3D"COLOR: #1f497d">.&nbsp; </SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: #1f497d; =
+FONT-SIZE: 12pt"><o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"COLOR: #1f497d"><o:p>&nbsp;</o:p></SPAN></P>
+      <TABLE=20
+      style=3D"WIDTH: 294.45pt; BORDER-COLLAPSE: collapse; MARGIN-LEFT: =
+5.65pt"=20
+      class=3DMsoNormalTable border=3D0 cellSpacing=3D0 cellPadding=3D0 =
+width=3D393>
+        <TBODY>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+98.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: windowtext =
+1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><B><SPAN style=3D"COLOR: =
+black">Approving Authority=20
+            </SPAN></B><B><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></B></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: windowtext 1pt solid; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><B><SPAN=20
+            style=3D"COLOR: black">ECN</SPAN></B><B><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></B></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: windowtext 1pt solid; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><B><SPAN style=3D"COLOR: =
+black">Reporting=20
+            to</SPAN></B><B><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></B></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+98.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Roopa=20
+            Satish</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">5412</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Suhail=20
+            Chander</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+98.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Sanjeev=20
+            Anand</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">2685</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Suhail=20
+            Chander</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+98.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Manish=20
+            Modi</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131 noWrap>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">5677</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Roopa=20
+            Satish</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+98.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Sanjeet=20
+            Anand</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">2685</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Roopa=20
+            Satish</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+98.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Gaurav=20
+            Mittal</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131 noWrap>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">7258</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Roopa=20
+            Satish</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+98.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Pramod=20
+            Kasat</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131 noWrap>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">50238</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Roopa=20
+            Satish</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+98.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Monu =
+Jain</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131 noWrap>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">4663</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Sanjeev=20
+            Anand</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+98.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Alok =
+Kedia</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131 noWrap>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">14041</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Sanjeev=20
+            Anand</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR>
+        <TR style=3D"HEIGHT: 14.6pt">
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+98.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Srinivas=20
+            Bonam</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131 noWrap>
+            <P style=3D"TEXT-ALIGN: center" class=3DMsoNormal =
+align=3Dcenter><SPAN=20
+            style=3D"COLOR: #273545">7778</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+#273545"><o:p></o:p></SPAN></P></TD>
+          <TD=20
+          style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+medium none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 98.15pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 14.6pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+          width=3D131>
+            <P class=3DMsoNormal><SPAN style=3D"COLOR: black">Sanjeev=20
+            Anand</SPAN><SPAN=20
+            style=3D"FONT-FAMILY: 'Arial','sans-serif'; COLOR: =
+black"><o:p></o:p></SPAN></P></TD></TR></TBODY></TABLE>
+      <P style=3D"MARGIN-LEFT: 27pt" class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: =
+'Verdana','sans-serif'"><o:p>&nbsp;</o:p></SPAN></B></P>
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: black"=20
+      lang=3DEN-GB><o:p>&nbsp;</o:p></SPAN></B></P>
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: black"=20
+      lang=3DEN-GB><o:p>&nbsp;</o:p></SPAN></B></P>
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: black"=20
+      lang=3DEN-GB><BR></SPAN><SPAN style=3D"COLOR: #1f497d">Thanks =
+&amp;=20
+      Regards,<o:p></o:p></SPAN></B></P>
+      <P class=3DMsoNormal><B><SPAN=20
+      style=3D"COLOR: #1f497d"><o:p>&nbsp;</o:p></SPAN></B></P>
+      <P class=3DMsoNormal><B><SPAN style=3D"COLOR: #1f497d">Yogesh =
+Soundalkar =96=20
+      Credit card/Personal Loans Operations<o:p></o:p></SPAN></B></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">IndusInd=20
+      Bank Limited.<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #215868; =
+FONT-SIZE: 10pt"=20
+      lang=3DEN-GB>PNA House, 3<SUP>rd</SUP> Floor, Plot No. 57,=20
+      <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #215868; =
+FONT-SIZE: 10pt"=20
+      lang=3DEN-GB>Street No.17, MIDC, Andheri</SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">(E)</SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #215868; =
+FONT-SIZE: 10pt"=20
+      lang=3DEN-GB> , Mumbai - 400093</SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #215868; =
+FONT-SIZE: 10pt"><o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Wingdings 2'; COLOR: black; FONT-SIZE: =
+10pt"=20
+      lang=3DEN-GB>' </SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">:=20
+      022 =96 61098343<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: 'Wingdings 2'; COLOR: black; FONT-SIZE: =
+10pt"=20
+      lang=3DEN-GB>7 </SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">&nbsp;:=20
+      7738295716<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: Wingdings; COLOR: black; FONT-SIZE: 10pt"=20
+      lang=3DEN-GB>*</SPAN><SPAN=20
+      style=3D"COLOR: #1f497d; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp; =
+</SPAN><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">:=20
+      </SPAN><A href=3D"mailto:yogesh.soundalkar@indusind.com"><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; FONT-SIZE: =
+10pt">yogesh.soundalkar@indusind.com</SPAN></A><SPAN=20
+      style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">=20
+      <o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"FONT-FAMILY: Webdings; COLOR: green; FONT-SIZE: =
+10pt">P</SPAN><I><SPAN=20
+      style=3D"COLOR: green; FONT-SIZE: 10pt"> <B>&nbsp;Save paper, =
+print if you=20
+      have to. Save energy, cc if you have to.</B></SPAN></I><SPAN=20
+      style=3D"COLOR: #1f497d"><o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal><SPAN=20
+      style=3D"COLOR: =
+#1f497d"><o:p>&nbsp;</o:p></SPAN></P><PRE><o:p>&nbsp;</o:p></PRE><PRE>***=
+*************************************************************************=
+*<o:p></o:p></PRE><PRE>This Email and files transmitted are confidential =
+and intended solely for<o:p></o:p></PRE><PRE>the use of the individual =
+or entity to whom they are addressed. If you<o:p></o:p></PRE><PRE>have =
+received this Email in error please notify the system =
+manager.<o:p></o:p></PRE><PRE>Please note that any views or opinions =
+presented in this Email are solely<o:p></o:p></PRE><PRE>those of the =
+author and do not necessarily represent those of =
+IndusInd<o:p></o:p></PRE><PRE>Bank Ltd. Finally, the recipient should =
+check this Email and any<o:p></o:p></PRE><PRE>attachments for the =
+presence of viruses. IndusInd Bank Ltd. accepts =
+no<o:p></o:p></PRE><PRE>liability for any damage caused by any virus =
+transmitted by this =
+Email.<o:p></o:p></PRE><PRE>*********************************************=
+********************************<o:p></o:p></PRE><PRE><o:p>&nbsp;</o:p></=
+PRE></DIV></BLOCKQUOTE></BLOCKQUOTE></BLOCKQUOTE></BODY></HTML>
+
+------=_NextPart_001_0126_01D2F2A7.796A8550--
+
+------=_NextPart_000_0125_01D2F2A7.796A8550
+Content-Type: image/jpeg;
+	name="image004.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <A85B4060461247D699A36B9ABC6A381C@WMUMINDUS12>
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIf
+IiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCACJAHcDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiik
+zQAtFJmjNAC0UmaM0ALRSUUALRSZpN1ADqKTNGaAFooooAKKKKACmscdKY7qkbOzYVRkk9q4LV/E
+V7rF39ksN6Qs21Qn3pP/AK1bUqMqrsuhy4nFQoRvLd9DsLvXdNsyVmvI1I6gHJ/KqZ8YaKD/AMfD
+H6Rmsew8DM6B765Ksf4Iu34mn3XgZPKLWd228dFkGQa3VPDJ2cjidbHNc0YKxtQeJ9IuGCpeICez
+cfzrUjlWVQyMrA9CDmvJbi3ltZ3t549siHBU9vpVnTtWvdLlD20xC55jY5U/hW88AnG9NnLTzeUZ
+ctWJ6rUUs6x55BYKTsB5P0FZFrqzatYw3Nmr5D4niVhuHtz701iLuZdS05FuLqNvJkUyYVP734iv
+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
+
+------=_NextPart_000_0125_01D2F2A7.796A8550
+Content-Type: image/jpeg;
+	name="image001.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <4CA5F3F0C76B40E1AE977536C69671DC@WMUMINDUS12>
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIf
+IiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCACJAHcDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiik
+zQAtFJmjNAC0UmaM0ALRSUUALRSZpN1ADqKTNGaAFooooAKKKKACmscdKY7qkbOzYVRkk9q4LV/E
+V7rF39ksN6Qs21Qn3pP/AK1bUqMqrsuhy4nFQoRvLd9DsLvXdNsyVmvI1I6gHJ/KqZ8YaKD/AMfD
+H6Rmsew8DM6B765Ksf4Iu34mn3XgZPKLWd228dFkGQa3VPDJ2cjidbHNc0YKxtQeJ9IuGCpeICez
+cfzrUjlWVQyMrA9CDmvJbi3ltZ3t549siHBU9vpVnTtWvdLlD20xC55jY5U/hW88AnG9NnLTzeUZ
+ctWJ6rUUs6x55BYKTsB5P0FZFrqzatYw3Nmr5D4niVhuHtz701iLuZdS05FuLqNvJkUyYVP734iv
+NcWnZnuxqxlFSi7pl46qDdW0KQuyTpu80fdWoYb3UGgk82ONJA4WNm4DDP8AhU62TrdyzG5cwyRh
+Bb8BV9SKYui2P2KK0aIyRQvvQOxJBBznNJWC8nsiQ3c41FbcW5MPllmm9D6U6C+8yOHzI/LklUts
+J+6B3NNNhCL57xdyzyJsJ3cAfSqzWt7a2cUCf6czPtleY7SEJ56UWT2Dma3RqJIsih42DKehByDT
+6wRcPFdiw0r5hFJmfgbUJ559Bj0rdFK1i07jqKKKBmL4okeLw/clMgkY49Ca84ikeCRXicoynKsD
+zXq19aJe2UttJ92RSDXnl54Z1SzmKC2edAfleMZyP6V6mBqwjFxk9T5/NaNSU4zgm0b3hvxPNd3K
+WN9hnfPlygYyfQ11g6cdK4jw14dvF1GO8u4jDHFyqt94n/Cu3Y4XJ4FcuKVNVP3Z6GXyqujeqcL4
+5iRNUgkUYZ4vm98GuarV8SaiNS1mR0OYoxsQ+uOp/OsqvZw0XGlFM+axk1OvOUdjc8JPdHWFhguD
+EjfNIMZ3gdq74+Raxu2EiQZZiBgfU1x/gixdrmW/YERquxD/AHj3rdv4W1e/FgSRaQ4efBx5h7L9
+O5rysXaVZpbI97L1Knhk7avYrSaxqOqsyaJbqIBwbubhT/ujvVR9NvpCWu/EFwG/6ZJtX6CtW7Yp
+OkJHk2aEJwNvzdiD6e1MjjDRM8EqvHGSFjk55+vesoyt8Ksaypc799t/gZyW+t2RzaaqLkYB8m5X
+Gf8AgVa2ma0t5KbW5ha1vEGTC/8AEPVT3FV2j2ERyxtCZT65Bz2xUstgdTs/ndFuoXJhnTgqe3/1
+xRNqW/3lU4Spu8fuLt5ayyQOLOUW0zkEyhAelPtL2C5kmhik3yW7bJRjGDTdOuWu7NWlG2ZSUkX0
+YcGm3CXMdzC9sYI4S2bguMEjtisPJnUtPeRfzRTV6cUVOpqOxTSMd6dmmseMnHFACZHc1yHifxMu
+HsLF8npLKD09h71F4m8UGQvY2DkL0kmXqfUCqWk+ErzUAJbjNtCeRkfMw+lehQoRgvaVXbyPGxWK
+qVZeww6v3ZhKCxCICWPAUDJNbej+G5bvURBfxywIE8zG37w9M9q7PTdDsNLQfZ4VL95G5Y/jUqC7
+Goyl3iNrsHloB84bvn2q6uOck1BGdDKlCSlVd/Int7eK2gWGBFRFGFAHSktrfyTIx+9I5ZjT2lRT
+guoPoTiq8uqWMM5glu4lkGMqzYxXm6s9r3FbyK+oSGOdRP8ANbt94Mvygf41A9pbXM+Y5zBGiAvG
+uNpXt9DWhPJaSlbado2Mw+WNj97HcVSi0zTvtMkUMjb0IaSLfnHpx6VqmrGMld6WZHE1yJDOqiSN
+c5dW3B8njArSsrQW8TYADSMXbHrUVkLG3E6WrKNr5lAb7pqdL23a1+0rMhhwTvzxipk2y4JJXbHx
+QCKWR14EhBI96j1C3gurOWG4QvEy/Mo6kDmnW95BdqWhkDgdcVK5O04x04qNbmmlivpsyXFhFLFH
+JEhXCpIuGAHrRRpy3S2gF5JFJNk5aIYXGeKKTtcIX5UWeneuP8W+IHV20y0chsfvnX/0EV02p3gs
+dOnucf6tCR9a80sI7u+1OPyEE1wz+Z83TPqfau7B0k7zlsjzMyryjalDdnW+G/DUdpEl7eoGnIBR
+T0jH+NdOro3AdT7A1wGu2fiGEGa8uGlhPUwt8q/hWEs0ituWWRT2Ic5rZ4aVf33I5FjoYO1NU2vX
+c9drMuTZWmsRTyCQTzxlAwyUAHPPYVwlv4i1a2AEd65A7PhqZea3qV+my4uiyHqiDaDUrL6ilq9D
+SebUnHRO5PqV8dX8SLIhOwyqiYPYGtm9tJL3xNeWURQNNZqhZxwoz+prK8J2LXetRyY/d2/zk+/Y
+V2M18sV1IPKIZeAwjyW49aWJqKnJQj0QsFRliIOpPq7nO38b2skV/F5siaW6Qq/ZlAw+fzq7Jb3V
+34huL7TJ0SVVjVgx4ZCvX6itWO/WQCPbgMCcNDwe9KL1Y41l27Qx2/6kg8Vy+2O/6nrvpv8AMwNN
+byNN1O2jZ5JJrwxAn7xz1P8AOq7xTroWoaOiO32SdXCH7zRE5rpmuxAcmJQDhvli559qb/aXPmLC
+dxOCfK/rTdffQlYJpJc2ysXbGaC4tUaFgV2jgdqXUJ4rWwlmmDmNV+YICWx7AUywuUuEcqu3B/ub
+c+9Nleaa7iFpcQ+XE+LlCNx6cD2NY7yudj92NiXTbeG1sIorcMIwuVDkk4PPOaKtL0oqJbmkVZGH
+4rjuJ9Ekit42kZmX5UGSRmsjwZYXNtfXDXNrJFmMBS64712e0U1iqLuJAA6k8YrojXapumlozknh
+VKuqrewjIrjawBBGCCOtcrrHgxJmafTWETnkxN90/T0rffVYQSIYprgj/nkhI/PpVdtVvj9zRpyP
+VpFFKlOpTd4MdenRrR5ampwc2harA217CXPqoyKsWfhbVrxwGtzAnd5e34V2B1m/XltFuCP9h1NJ
+/wAJLFHxdWF7b+7Qkj9K7XjK7VkkeWsvwqldyYtppsmiW9vb6fEkoZ/9JkdsNj1FX4ja3e54pRJt
+Yhir9D6VWt/EGk3LYS9jDf3XO0/rT5bINbbdMmS1LSiR3iUHdzz+dcEuZu8tz1oOMVam9Oxb+xwk
+gkEkdMseKX7JF/tf99Gq4uroXksb2pFukYZZQ2Sx7jFRDW7f7FDdyRzxrM4RVaM7gSe4qbM19pEu
+i1iB/i/76NNNtEOMN/30aiGobr57NYJd6R795XCn2z61XC6jf2sLsxsJVky6DD7lB6Z96XKwc101
+HzzusMyaZ5U9zGwDRs/T6+nFWba0hgaSSOFI3mO6QqPvH3p0VtBFK8kcSq8hy7AYLfWpsUeQ1F7s
+hWRhcNG3IwGX+tFNB3XjYPCJg/UmimS2yxxio5Io5CC4DAdAelOJAGeMCuYc3nie8lihna302Fih
+dD80zDr+FOMebrYmrU5LJK7fQ2p9Y020+WW9hQjtuqsfFGjsCFv4t2OM5xSW3hPRrdcfZFkP96Ql
+s1OfD2kMObCH/vmr/c+Zl/tL7IytOFqbuKZb+1+U7iElPBOcgA9jx+VWvN1W2uGZR9ptiGfs2OTh
+R+lOm8IaLL0tfLPqjEVVbwi1uc6dqtzbsOgJ3CjlpvZ/ePnxEfiin6Mkjmgv1hGpaTGpnfYu4DOf
+Ug81EumaSbgJYX09nMxOFhc4OOpweMe9Bj8T2bBm+y6gqcruG1h9KgXVLS3Mn27TbqwlkRk8zaXR
+c9cY6CqUai+F3IdSi/jjZ+aL0La7Agkgmt9Th7Z/duR9elTR+ILdXEeoQS2Mmf8Alqvy/gw4qnbT
+eaY20/VIpIVRUMMbhTx359eKJL7V4Yw15ZiVADuVU4POBms3L+ZGsY9YT+/U6GKaKVN8UiyKe6nI
+p4PHSuXxp/mFmsJbNypfMMm3IHU8d/bvV/T4DeWwngv71EJwBIQT/Kp93uaKU+xtc1XnulRhFH+8
+lboo7e59BUI01iMS3lxID23bf5VZgtYrddsaBfXHU0tEO7fQLeHyk+Y7nblj6mipsUUi7Fa7Vvsc
+4TO4xkL9cVm+FTH/AGBbBMblBD+u7PNbJxjFYs+l3djePeaQUHmnMttJ9xz6g9jVxs04mFSLU1NK
+9jazTqxk1yZPlu9KvIn77E3j8CKd/a8swxa6bdOT3kUIP1pOEkWq0HsX7u4W3t3lYgBRx7ntTrYS
+GBPN5faN31qlDZXM8yXGoOpKHMcEf3EPqfU1pAYpNIqN2+YMUhQN1AI96dS0i7Gbc6Dpl026WziL
+f3guD+YqFfD8cJ/0W8u7f2WUkfkc1sUVfPLuZexhe9jMXT7vADX3mAHPzwqatwQNCoUuCB2CgCrF
+FS3ctRSExRS0UigooooATAoxmlooATFG0UtFACYFFLRQAlLRRQAUUUUAFFFFABRRRQAUUUUAf//Z
+
+------=_NextPart_000_0125_01D2F2A7.796A8550--
+

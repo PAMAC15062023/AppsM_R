@@ -1,0 +1,1406 @@
+Return-Path: zafar.abbas@pamac.com
+Received: from mail.pamac.com (LHLO mail.pamac.com) (172.16.0.45) by
+ mail.pamac.com with LMTP; Thu, 14 Sep 2017 13:08:40 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id 56B0F961703;
+	Thu, 14 Sep 2017 13:08:40 +0530 (IST)
+X-Spam-Flag: NO
+X-Spam-Score: 1.31
+X-Spam-Level: *
+X-Spam-Status: No, score=1.31 tagged_above=-10 required=6.6
+	tests=[ALL_TRUSTED=-1, BAYES_00=-1.9, DEAR_SOMETHING=1.973,
+	DKIM_SIGNED=0.1, HTML_MESSAGE=0.001, HTTP_ESCAPED_HOST=1.125,
+	MSGID_MULTIPLE_AT=1, T_DKIM_INVALID=0.01, URIBL_BLOCKED=0.001]
+	autolearn=no autolearn_force=no
+Authentication-Results: mail.pamac.com (amavisd-new); dkim=neutral
+	reason="invalid (public key: not available)" header.d=pamac.com
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id O1aoyHwyPkBp; Thu, 14 Sep 2017 13:08:37 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id AD9279616FD;
+	Thu, 14 Sep 2017 13:08:37 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.9.2 mail.pamac.com AD9279616FD
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=pamac.com;
+	s=084B4786-4057-11E6-9BAC-5E1413FBF31E; t=1505374717;
+	bh=LjKMW/yiUNQhTD8tg2I2A72Zuyac4+Y2/s4UfLO35yU=;
+	h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type;
+	b=muNj70qaqr9pqaMSmQeu5q6X+OKIhtdZwaDefA+QUqh2Bi9s/Qj5j7xRa7282d/pP
+	 BaU1wjYNQy6P1EJHT9M8GyBXk/zz4l46aSUr7J6cd8vHogeIAAoADRBAQOT2GY2Ti+
+	 0jxsbDljslj3u3/L7WjdqxTkqbDxgmH5vr6ftnG4=
+X-Virus-Scanned: amavisd-new at pamac.com
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id hmzvKFiNJ8y3; Thu, 14 Sep 2017 13:08:37 +0530 (IST)
+Received: from ZafarAbbas (unknown [122.160.23.9])
+	by mail.pamac.com (Postfix) with ESMTPA id 07ECE961703;
+	Thu, 14 Sep 2017 13:08:31 +0530 (IST)
+From: "Zafar Abbas" <zafar.abbas@pamac.com>
+To: "'PAMAC Delhi-kmpl cpa OPS'" <kmplcpa.ops@pamac.com>,
+	"'PAMAC - North HR Support Unit'" <north.hrsupport@pamac.com>,
+	"'Sarita Minj'" <sarita.minj@pamac.com>
+Cc: "'Harish Arora'" <harish.arora@pamac.com>,
+	"'Md. Adil'" <md.adil@pamac.com>,
+	"'Babar Mian'" <babar.mian@pamac.com>,
+	"'Sandil'" <sandil@pamac.com>,
+	<amit.mishra@pamac.com>,
+	"'Amit Gulati'" <amit.gulati@pamac.com>,
+	"'Santosh Vishwakarma'" <santosh.vishwakarma@pamac.com>
+References: <005b01d32bae$9f6470a0$de2d51e0$@com> <017101d32bb0$3b2f4b30$b18de190$@ops@pamac.com>
+In-Reply-To:
+Subject: RE: pf number and Esic card
+Date: Thu, 14 Sep 2017 13:08:30 +0530
+Message-ID: <014a01d32d2c$79474080$6bd5c180$@abbas@pamac.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_014B_01D32D5A.92FF7C80"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdMcxtOyhuy6S6XwTsKJcuH8TN+nbQBgcrAAA1lxqwAAACIagAAusL1wADChNVA=
+Content-Language: en-us
+X-Trained: 2
+X-MS-ContentScanSkipped: [zafar.abbas@pamac.com] in AutoSpamWhiteList
+X-ForeignSender-IP: 122.160.23.9
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_014B_01D32D5A.92FF7C80
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_014C_01D32D5A.92FF7C80"
+
+
+------=_NextPart_001_014C_01D32D5A.92FF7C80
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear All- is there any body bothering from HR team to revert on this.
+
+ 
+
+Dear Babar-Request your help since Local HR & H.O. HR responsible desk are
+not able to revert on this.
+
+ 
+
+Regards,
+
+Zafar Abbas.
+
+ 
+
+From: Zafar Abbas [mailto:zafar.abbas@pamac.com] 
+Sent: Wednesday, September 13, 2017 1:58 PM
+To: 'PAMAC Delhi-kmpl cpa OPS'; 'PAMAC - North HR Support Unit'; 'Sarita
+Minj'
+Cc: 'Harish Arora'; 'Md. Adil'; 'Babar Mian'; 'Sandil';
+'amit.mishra@pamac.com'; 'Amit Gulati'; 'Santosh Vishwakarma'
+Subject: RE: pf number and Esic card
+
+ 
+
+Dear Sarita / Santosh-Please revert on this query, time have spent over 20
+days.
+
+ 
+
+Regards,
+
+Zafar Abbas.
+
+ 
+
+From: PAMAC Delhi-kmpl cpa OPS [mailto:kmplcpa.ops@pamac.com] 
+Sent: Tuesday, September 12, 2017 3:47 PM
+To: 'PAMAC - North HR Support Unit'
+Cc: 'Harish Arora'; 'Md. Adil'; 'Zafar Abbas'; 'Babar Mian'; 'Sandil';
+amit.mishra@pamac.com; 'Amit Gulati'
+Subject: RE: pf number and Esic card
+
+ 
+
+Dear Sir,
+
+ 
+
+Plz provide the pf no or UAN number,  Last 3-4 months pf amount is deducted
+from my account and nobody  give me my pf number.
+
+ 
+
+Kindly provide my PF number ASAP.
+
+ 
+
+Regards,
+
+Vikas kumar (P-59524)
+
+Mob -9097374314
+
+ 
+
+From: Sandil [mailto:sandil@pamac.com] 
+Sent: Tuesday, September 12, 2017 3:35 PM
+To: 'PAMAC - North HR Support Unit'
+Cc: 'Harish Arora'; 'Md. Adil'; 'Zafar Abbas'; kmplcpa.ops@pamac.com; 'Babar
+Mian'
+Subject: RE: pf number and Esic card
+
+ 
+
+Dear Hr,
+
+ 
+
+Please share the same
+
+ 
+
+sandil
+
+ 
+
+From: Sandil [mailto:sandil@pamac.com] 
+Sent: Saturday, August 26, 2017 2:24 PM
+To: 'PAMAC - North HR Support Unit'
+Cc: 'Harish Arora'; 'Md. Adil'; 'Zafar Abbas'
+Subject: RE: pf number and Esic card
+
+ 
+
+Dear Sir
+
+ 
+
+ 
+
+Please share the below resource  detail 
+
+ 
+
+
+P59524
+
+VIKASH KUMAR
+
+ 
+
+ 
+
+From: Sandil [mailto:sandil@pamac.com] 
+Sent: Thursday, August 24, 2017 4:21 PM
+To: 'PAMAC - North HR Support Unit'
+Cc: 'Harish Arora'; 'Md. Adil'
+Subject: pf number and Esic card
+
+ 
+
+ 
+
+ 
+
+Dear Sir,
+
+ 
+
+ 
+
+ Please share PF Number below resource, And also need the ESIC Card of the
+below resource  
+
+   
+
+ 
+
+
+P59524
+
+VIKASH KUMAR
+
+ 
+
+ 
+
+Thanks and Regards
+
+
+Sandil
+PAMAC Delhi - KMPL CPA Unit 
+Tel: +91 | Mobile: +91 81307 05167 I Email: sandil@pamac.com | Website:
+<http://www.pamac.com> www.pamac.com  |
+
+PAMAC Group - Banking on our Credentials.
+
+Disclaimer: This e-mail is confidential. It may also be legally privileged.
+If you are not the addressee you may not copy, forward, disclose or use any
+part of it. If you have received this message in error, please delete it and
+all copies from your system and notify the sender immediately by return
+e-mail.
+Internet communications cannot be guaranteed to be timely, secure, error or
+virus-free. The sender does not accept liability for any errors or
+omissions.
+****************************************************************************
+****************************************************************************
+********************************************
+P Please don't print this e-mail unless you really need to. Let us save the
+Mother Earth
+
+ 
+
+
+------=_NextPart_001_014C_01D32D5A.92FF7C80
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" =
+xmlns:p=3D"urn:schemas-microsoft-com:office:powerpoint" =
+xmlns:a=3D"urn:schemas-microsoft-com:office:access" =
+xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" =
+xmlns:s=3D"uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882" =
+xmlns:rs=3D"urn:schemas-microsoft-com:rowset" xmlns:z=3D"#RowsetSchema" =
+xmlns:b=3D"urn:schemas-microsoft-com:office:publisher" =
+xmlns:ss=3D"urn:schemas-microsoft-com:office:spreadsheet" =
+xmlns:c=3D"urn:schemas-microsoft-com:office:component:spreadsheet" =
+xmlns:odc=3D"urn:schemas-microsoft-com:office:odc" =
+xmlns:oa=3D"urn:schemas-microsoft-com:office:activation" =
+xmlns:html=3D"http://www.w3.org/TR/REC-html40" =
+xmlns:q=3D"http://schemas.xmlsoap.org/soap/envelope/" =
+xmlns:rtc=3D"http://microsoft.com/officenet/conferencing" =
+xmlns:D=3D"DAV:" xmlns:Repl=3D"http://schemas.microsoft.com/repl/" =
+xmlns:mt=3D"http://schemas.microsoft.com/sharepoint/soap/meetings/" =
+xmlns:x2=3D"http://schemas.microsoft.com/office/excel/2003/xml" =
+xmlns:ppda=3D"http://www.passport.com/NameSpace.xsd" =
+xmlns:ois=3D"http://schemas.microsoft.com/sharepoint/soap/ois/" =
+xmlns:dir=3D"http://schemas.microsoft.com/sharepoint/soap/directory/" =
+xmlns:ds=3D"http://www.w3.org/2000/09/xmldsig#" =
+xmlns:dsp=3D"http://schemas.microsoft.com/sharepoint/dsp" =
+xmlns:udc=3D"http://schemas.microsoft.com/data/udc" =
+xmlns:xsd=3D"http://www.w3.org/2001/XMLSchema" =
+xmlns:sub=3D"http://schemas.microsoft.com/sharepoint/soap/2002/1/alerts/"=
+ xmlns:ec=3D"http://www.w3.org/2001/04/xmlenc#" =
+xmlns:sp=3D"http://schemas.microsoft.com/sharepoint/" =
+xmlns:sps=3D"http://schemas.microsoft.com/sharepoint/soap/" =
+xmlns:xsi=3D"http://www.w3.org/2001/XMLSchema-instance" =
+xmlns:udcs=3D"http://schemas.microsoft.com/data/udc/soap" =
+xmlns:udcxf=3D"http://schemas.microsoft.com/data/udc/xmlfile" =
+xmlns:udcp2p=3D"http://schemas.microsoft.com/data/udc/parttopart" =
+xmlns:wf=3D"http://schemas.microsoft.com/sharepoint/soap/workflow/" =
+xmlns:dsss=3D"http://schemas.microsoft.com/office/2006/digsig-setup" =
+xmlns:dssi=3D"http://schemas.microsoft.com/office/2006/digsig" =
+xmlns:mdssi=3D"http://schemas.openxmlformats.org/package/2006/digital-sig=
+nature" =
+xmlns:mver=3D"http://schemas.openxmlformats.org/markup-compatibility/2006=
+" xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns:mrels=3D"http://schemas.openxmlformats.org/package/2006/relationshi=
+ps" xmlns:spwp=3D"http://microsoft.com/sharepoint/webpartpages" =
+xmlns:ex12t=3D"http://schemas.microsoft.com/exchange/services/2006/types"=
+ =
+xmlns:ex12m=3D"http://schemas.microsoft.com/exchange/services/2006/messag=
+es" =
+xmlns:pptsl=3D"http://schemas.microsoft.com/sharepoint/soap/SlideLibrary/=
+" =
+xmlns:spsl=3D"http://microsoft.com/webservices/SharePointPortalServer/Pub=
+lishedLinksService" xmlns:Z=3D"urn:schemas-microsoft-com:" =
+xmlns:st=3D"&#1;" xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:Webdings;
+	panose-1:5 3 1 2 1 5 9 6 7 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#000066;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#000066;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#000066;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#000066;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle22
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Dear All- is there any body bothering from HR team to =
+revert on
+this.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><b><u><span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Dear Babar-Request your help since Local HR &amp; H.O. HR =
+responsible
+desk are not able to revert on this.<o:p></o:p></span></u></b></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Regards,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Zafar Abbas.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";
+color:windowtext'>From:</span></b><span =
+style=3D'font-size:10.0pt;font-family:
+"Tahoma","sans-serif";color:windowtext'> Zafar Abbas
+[mailto:zafar.abbas@pamac.com] <br>
+<b>Sent:</b> Wednesday, September 13, 2017 1:58 PM<br>
+<b>To:</b> 'PAMAC Delhi-kmpl cpa OPS'; 'PAMAC - North HR Support Unit'; =
+'Sarita
+Minj'<br>
+<b>Cc:</b> 'Harish Arora'; 'Md. Adil'; 'Babar Mian'; 'Sandil';
+'amit.mishra@pamac.com'; 'Amit Gulati'; 'Santosh Vishwakarma'<br>
+<b>Subject:</b> RE: pf number and Esic card<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Dear Sarita / Santosh-Please revert on this query, time =
+have
+spent over 20 days.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Regards,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Zafar Abbas.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";
+color:windowtext'>From:</span></b><span =
+style=3D'font-size:10.0pt;font-family:
+"Tahoma","sans-serif";color:windowtext'> PAMAC Delhi-kmpl cpa OPS
+[mailto:kmplcpa.ops@pamac.com] <br>
+<b>Sent:</b> Tuesday, September 12, 2017 3:47 PM<br>
+<b>To:</b> 'PAMAC - North HR Support Unit'<br>
+<b>Cc:</b> 'Harish Arora'; 'Md. Adil'; 'Zafar Abbas'; 'Babar Mian'; =
+'Sandil';
+amit.mishra@pamac.com; 'Amit Gulati'<br>
+<b>Subject:</b> RE: pf number and Esic card<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#1F497D'>Dear
+Sir,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o=
+:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#1F497D'>Plz
+provide the pf no or UAN number, &nbsp;Last 3-4 months pf amount is =
+deducted
+from my account and nobody &nbsp;give me my pf =
+number.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o=
+:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#1F497D'>Kindly
+provide my PF number ASAP.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o=
+:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#1F497D'>Regards,<o:p><=
+/o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#1F497D'>Vikas
+kumar (P-59524)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#1F497D'>Mob
+-9097374314<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#1F497D'>&nbsp;<o:p></o=
+:p></span></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";
+color:windowtext'>From:</span></b><span =
+style=3D'font-size:10.0pt;font-family:
+"Tahoma","sans-serif";color:windowtext'> Sandil =
+[mailto:sandil@pamac.com] <br>
+<b>Sent:</b> Tuesday, September 12, 2017 3:35 PM<br>
+<b>To:</b> 'PAMAC - North HR Support Unit'<br>
+<b>Cc:</b> 'Harish Arora'; 'Md. Adil'; 'Zafar Abbas'; =
+kmplcpa.ops@pamac.com;
+'Babar Mian'<br>
+<b>Subject:</b> RE: pf number and Esic card<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Dear Hr,<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Please share the same<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>sandil<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";
+color:windowtext'>From:</span></b><span =
+style=3D'font-size:10.0pt;font-family:
+"Tahoma","sans-serif";color:windowtext'> Sandil =
+[mailto:sandil@pamac.com] <br>
+<b>Sent:</b> Saturday, August 26, 2017 2:24 PM<br>
+<b>To:</b> 'PAMAC - North HR Support Unit'<br>
+<b>Cc:</b> 'Harish Arora'; 'Md. Adil'; 'Zafar Abbas'<br>
+<b>Subject:</b> RE: pf number and Esic card<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Dear Sir<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Please share the below resource&nbsp; detail =
+<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<table class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D240
+ style=3D'width:2.5in;margin-left:-1.25pt;border-collapse:collapse'>
+ <tr style=3D'height:15.75pt'>
+  <td width=3D87 nowrap valign=3Dbottom =
+style=3D'width:65.0pt;border:solid windowtext 1.0pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'>
+  <p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><b><span
+  =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";color:black'=
+>P59524<o:p></o:p></span></b></p>
+  </td>
+  <td width=3D153 nowrap valign=3Dbottom =
+style=3D'width:115.0pt;border:solid windowtext 1.0pt;
+  border-left:none;background:white;padding:0in 5.4pt 0in =
+5.4pt;height:15.75pt'>
+  <p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><b><span
+  =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";color:black'=
+>VIKASH
+  KUMAR<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";
+color:windowtext'>From:</span></b><span =
+style=3D'font-size:10.0pt;font-family:
+"Tahoma","sans-serif";color:windowtext'> Sandil =
+[mailto:sandil@pamac.com] <br>
+<b>Sent:</b> Thursday, August 24, 2017 4:21 PM<br>
+<b>To:</b> 'PAMAC - North HR Support Unit'<br>
+<b>Cc:</b> 'Harish Arora'; 'Md. Adil'<br>
+<b>Subject:</b> pf number and Esic card<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char'><span =
+style=3D'font-size:10.0pt;
+color:navy'>Dear Sir,</span><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:5.0pt;margin-right:0in;margin-bottom:
+5.0pt;margin-left:0in;layout-grid-mode:char'><span =
+style=3D'font-size:10.0pt;
+color:navy'>&nbsp;</span><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:5.0pt;margin-right:0in;margin-bottom:
+5.0pt;margin-left:0in;layout-grid-mode:char'><span =
+style=3D'font-size:10.0pt;
+color:navy'>&nbsp;</span><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:5.0pt;margin-right:0in;margin-bottom:
+5.0pt;margin-left:0in;layout-grid-mode:char'><span =
+style=3D'font-size:10.0pt;
+color:navy'>&nbsp;Please share PF Number below resource, And also need =
+the ESIC
+Card of the below resource &nbsp;</span><span style=3D'font-size:12.0pt;
+font-family:"Times New Roman","serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:5.0pt;margin-right:0in;margin-bottom:
+5.0pt;margin-left:0in;layout-grid-mode:char'><span =
+style=3D'font-size:10.0pt;
+color:navy'>&nbsp;&nbsp;&nbsp;</span><span =
+style=3D'font-size:12.0pt;font-family:
+"Times New Roman","serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:5.0pt;margin-right:0in;margin-bottom:
+5.0pt;margin-left:0in;layout-grid-mode:char'><span =
+style=3D'font-size:10.0pt;
+color:navy'>&nbsp;</span><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p></o:p></span></p>
+
+<table class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D240
+ style=3D'width:2.5in;margin-left:-1.25pt;border-collapse:collapse'>
+ <tr style=3D'height:15.75pt'>
+  <td width=3D87 nowrap valign=3Dbottom =
+style=3D'width:65.0pt;border:solid windowtext 1.0pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'>
+  <p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><b><span
+  =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";color:black'=
+>P59524<o:p></o:p></span></b></p>
+  </td>
+  <td width=3D153 nowrap valign=3Dbottom =
+style=3D'width:115.0pt;border:solid windowtext 1.0pt;
+  border-left:none;background:white;padding:0in 5.4pt 0in =
+5.4pt;height:15.75pt'>
+  <p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><b><span
+  =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";color:black'=
+>VIKASH
+  KUMAR<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:5.0pt;margin-right:0in;margin-bottom:
+5.0pt;margin-left:0in;layout-grid-mode:char'><span =
+style=3D'font-size:12.0pt;
+font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:5.0pt;margin-right:0in;margin-bottom:
+5.0pt;margin-left:0in;layout-grid-mode:char'><span =
+style=3D'font-size:10.0pt;
+color:navy'>&nbsp;</span><span =
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:5.0pt;margin-right:0in;margin-bottom:
+5.0pt;margin-left:0in;layout-grid-mode:char'><span =
+style=3D'font-size:10.0pt;
+color:navy'>Thanks and Regards</span><span =
+style=3D'font-size:12.0pt;font-family:
+"Times New Roman","serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:5.0pt;margin-right:0in;margin-bottom:
+5.0pt;margin-left:0in;layout-grid-mode:char'><span =
+style=3D'font-size:10.0pt;
+color:navy'><br>
+Sandil<br>
+PAMAC Delhi - KMPL CPA Unit <br>
+Tel: +91 | Mobile: +91 81307 05167 I Email: </span><u><span =
+style=3D'font-size:
+10.0pt;color:#1F497D'>sandil@pamac.com</span></u><span =
+style=3D'font-size:10.0pt;
+color:navy'> | Website: </span><span =
+style=3D'font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href=3D"http://www.pamac.com"><span =
+style=3D'font-size:10.0pt;font-family:"Trebuchet =
+MS","sans-serif"'>www.pamac.com</span></a></span><span
+style=3D'font-size:10.0pt;color:navy'>&nbsp; |</span><span =
+style=3D'font-size:12.0pt;
+font-family:"Times New Roman","serif"'><o:p></o:p></span></p>
+
+<div style=3D'border:none;border-bottom:solid black 3.0pt;padding:0in =
+0in 1.0pt 0in'>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:5.0pt;margin-right:0in;margin-bottom:
+5.0pt;margin-left:0in;layout-grid-mode:char'><b><span =
+style=3D'font-size:10.0pt;
+color:navy'>PAMAC Group &#8211; Banking on our =
+Credentials.</span></b><span
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p></o:p></span></p>
+
+</div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:5.0pt;margin-right:0in;margin-bottom:
+5.0pt;margin-left:0in;layout-grid-mode:char'><span =
+style=3D'font-size:10.0pt;
+color:navy'>Disclaimer: This e-mail is confidential. It may also be =
+legally
+privileged. If you are not the addressee you may not copy, forward, =
+disclose or
+use any part of it. If you have received this message in error, please =
+delete
+it and all copies from your system and notify the sender immediately by =
+return
+e-mail.<br>
+Internet communications cannot be guaranteed to be timely, secure, error =
+or
+virus-free. The sender does not accept liability for any errors or =
+omissions.<br>
+*************************************************************************=
+*************************************************************************=
+**************************************************</span><span
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif";color:#3333FF'><br>
+</span><b><i><span =
+style=3D'font-size:24.0pt;font-family:Webdings;color:green'>P</span></i><=
+/b><b><span
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif";color:green'> </span></b><b><i><span
+style=3D'font-size:10.0pt;color:green'>Please don't print this e-mail =
+unless you
+really need to. Let us save the Mother Earth</span></i></b><span
+style=3D'font-size:12.0pt;font-family:"Times New =
+Roman","serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_001_014C_01D32D5A.92FF7C80--
+
+------=_NextPart_000_014B_01D32D5A.92FF7C80
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment
+
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id CF6E49616D1
+	for <zafar.abbas@pamac.com>; Wed, 13 Sep 2017 16:27:45 +0530 (IST)
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id YHi-GofDIJpB for <zafar.abbas@pamac.com>;
+	Wed, 13 Sep 2017 16:27:45 +0530 (IST)
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id jgEGGWwdVwrh for <zafar.abbas@pamac.com>;
+	Wed, 13 Sep 2017 16:27:45 +0530 (IST)
+Received: from NDELEX186 ([192.168.1.64])
+	by pamac.com ([192.168.1.64])
+	with SMTP (MDaemon.PRO.v6.0.7.R)
+	for <zafar.abbas@pamac.com>; Wed, 13 Sep 2017 16:28:25 +0530
+Received: from pamac.com (unknown [122.160.72.24])
+	by mail.pamac.com (Postfix) with ESMTPA id 66B38961519
+	for <zafar.abbas@pamac.com>; Wed, 13 Sep 2017 16:27:44 +0530 (IST)
+Received: from mail.pamac.com (LHLO mail.pamac.com) (172.16.0.45) by
+ mail.pamac.com with LMTP; Wed, 13 Sep 2017 16:27:46 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id 51725961437
+	for <zafar.abbas@pamac.com>; Wed, 13 Sep 2017 16:27:46 +0530 (IST)
+Return-Path: <north.hrsupport@pamac.com>
+From: "PAMAC - North HR Support Unit" <north.hrsupport@pamac.com>
+To: "Santosh Vishwakarma" <santosh.vishwakarma@pamac.com>
+Cc: "Sandil" <sandil@pamac.com>,
+	"Harish Arora" <harish.arora@pamac.com>,
+	"Zafar Abbas" <zafar.abbas@pamac.com>,
+	<amit.mishra@pamac.com>
+References: <AE7529DA21544B058591FE0EB52D4890@AmitMishra>
+Subject: Re: PF No Require
+Date: Wed, 13 Sep 2017 16:28:25 +0530
+Message-ID: <2DAC8D3C55184CB087AB09F4CD1D6511@NDELEX186>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0145_01D32D5A.92FF7C80"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdMsfyGYq9SeAv3yTp+GXk7azgd+Iw==
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0145_01D32D5A.92FF7C80
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0146_01D32D5A.92FF7C80"
+
+
+------=_NextPart_001_0146_01D32D5A.92FF7C80
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Santosh,
+=20
+Pls....  Share.
+=20
+=20
+Regards....Ajay
+=20
+----- Original Message -----=20
+From: Amit  <mailto:amit.mishra@pamac.com> Mishra=20
+To: PAMAC - NORTH - HR Support Unit <mailto:north.hrsupport@pamac.com> =20
+Cc: Sandil <mailto:sandil@pamac.com>  ; Harish Arora
+<mailto:harish.arora@pamac.com>  ; Zafar  <mailto:zafar.abbas@pamac.com>
+Abbas ; santosh.vishwakarma@pamac.com=20
+Sent: Wednesday, September 13, 2017 2:50 PM
+Subject: PF No Require
+
+=20
+Dear Ajay,
+=20
+Please update us PF No of Mr.Vikash Kumar( P59524)
+=20
+ =20
+Regards,=20
+
+Amit Mishra
+Asst. Vice President
+Tel: +91 011 4777 2221 | Mobile: +91 98995 70711 | Skype amitmishra1010
+|Email:  <mailto:amit.mishra@pamac.com> amit.mishra@pamac.com | Website:
+<http://www.pamac.com> www.pamac.com  |
+
+
+
+PAMAC Group =96 Banking on our Credentials.
+
+*************************************************************************=
+***
+*************************************************=20
+Disclaimer: This e-mail is confidential. It may also be legally =
+privileged.
+If you are not the addressee you may not copy, forward, disclose or use =
+any
+part of it. If you have received this message in error, please delete it =
+and
+all copies from your system and notify the sender immediately by return
+e-mail.
+Internet communications cannot be guaranteed to be timely, secure, error =
+or
+virus-free. The sender does not accept liability for any errors or
+omissions.
+*************************************************************************=
+***
+*************************************************
+P Please don't print this e-mail unless you really need to. Let us save =
+the
+Mother Earth.
+=20
+=20
+
+------=_NextPart_001_0146_01D32D5A.92FF7C80
+Content-Type: text/html;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_0050_01D32CAD.52A7A840";
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:v =3D "urn:schemas-microsoft-com:vml" xmlns:o =3D=20
+"urn:schemas-microsoft-com:office:office" xmlns:w =3D=20
+"urn:schemas-microsoft-com:office:word" xmlns:x =3D=20
+"urn:schemas-microsoft-com:office:excel" xmlns:p =3D=20
+"urn:schemas-microsoft-com:office:powerpoint" xmlns:a =3D=20
+"urn:schemas-microsoft-com:office:access" xmlns:dt =3D=20
+"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:s =3D=20
+"uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882" xmlns:rs =3D=20
+"urn:schemas-microsoft-com:rowset" xmlns:z =3D "#RowsetSchema" xmlns:b =
+=3D=20
+"urn:schemas-microsoft-com:office:publisher" xmlns:ss =3D=20
+"urn:schemas-microsoft-com:office:spreadsheet" xmlns:c =3D=20
+"urn:schemas-microsoft-com:office:component:spreadsheet" xmlns:odc =3D=20
+"urn:schemas-microsoft-com:office:odc" xmlns:oa =3D=20
+"urn:schemas-microsoft-com:office:activation" xmlns:html =3D=20
+"http://www.w3.org/TR/REC-html40" xmlns:q =3D=20
+"http://schemas.xmlsoap.org/soap/envelope/" xmlns:rtc =3D=20
+"http://microsoft.com/officenet/conferencing" XMLNS:D =3D "DAV:" =
+XMLNS:Repl =3D=20
+"http://schemas.microsoft.com/repl/" xmlns:mt =3D=20
+"http://schemas.microsoft.com/sharepoint/soap/meetings/" xmlns:x2 =3D=20
+"http://schemas.microsoft.com/office/excel/2003/xml" xmlns:ppda =3D=20
+"http://www.passport.com/NameSpace.xsd" xmlns:ois =3D=20
+"http://schemas.microsoft.com/sharepoint/soap/ois/" xmlns:dir =3D=20
+"http://schemas.microsoft.com/sharepoint/soap/directory/" xmlns:ds =3D=20
+"http://www.w3.org/2000/09/xmldsig#" xmlns:dsp =3D=20
+"http://schemas.microsoft.com/sharepoint/dsp" xmlns:udc =3D=20
+"http://schemas.microsoft.com/data/udc" xmlns:xsd =3D=20
+"http://www.w3.org/2001/XMLSchema" xmlns:sub =3D=20
+"http://schemas.microsoft.com/sharepoint/soap/2002/1/alerts/" xmlns:ec =
+=3D=20
+"http://www.w3.org/2001/04/xmlenc#" xmlns:sp =3D=20
+"http://schemas.microsoft.com/sharepoint/" xmlns:sps =3D=20
+"http://schemas.microsoft.com/sharepoint/soap/" xmlns:xsi =3D=20
+"http://www.w3.org/2001/XMLSchema-instance" xmlns:udcs =3D=20
+"http://schemas.microsoft.com/data/udc/soap" xmlns:udcxf =3D=20
+"http://schemas.microsoft.com/data/udc/xmlfile" xmlns:udcp2p =3D=20
+"http://schemas.microsoft.com/data/udc/parttopart" xmlns:st =3D =
+"=01"><HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3DWindows-1252">
+<TITLE>Dear</TITLE><BASE href=3D"file://D:\Outlook Settings\">
+
+<META name=3DProgId content=3DWord.Document>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.23580">
+<META name=3DOriginator content=3D"Microsoft Word 11"><LINK =
+rel=3DFile-List=20
+href=3D"Email%20Signature_files/filelist.xml"><LINK rel=3DEdit-Time-Data =
+
+href=3D"Email%20Signature_files/editdata.mso"><!--[if !mso]>
+<STYLE>v\:* {
+	BEHAVIOR: url(#default#VML)
+}
+o\:* {
+	BEHAVIOR: url(#default#VML)
+}
+w\:* {
+	BEHAVIOR: url(#default#VML)
+}
+.shape {
+	BEHAVIOR: url(#default#VML)
+}
+</STYLE>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>ibm4</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>*</o:LastAuthor>
+  <o:Revision>5</o:Revision>
+  <o:TotalTime>26</o:TotalTime>
+  <o:Created>2015-04-11T07:33:00Z</o:Created>
+  <o:LastSaved>2015-04-11T07:46:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>167</o:Words>
+  <o:Characters>954</o:Characters>
+  <o:Lines>7</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1119</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>160</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<STYLE>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:Webdings;
+	panose-1:5 3 1 2 1 5 9 6 7 3;
+	mso-font-charset:2;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:#3333FF;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:45.0pt 45.0pt 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</STYLE>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"7170"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]--></HEAD>
+<BODY style=3D"tab-interval: .5in" lang=3DEN-US link=3D#3333ff =
+bgColor=3D#ffffff=20
+vLink=3Dpurple>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet MS">Hi =
+Santosh,</FONT></DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet MS">Pls....&nbsp;=20
+Share.</FONT></DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS">Regards....Ajay</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<BLOCKQUOTE=20
+style=3D"BORDER-LEFT: #000080 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+dir=3Dltr>
+  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+  <DIV=20
+  style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+  <A title=3Damit.mishra@pamac.com =
+href=3D"mailto:amit.mishra@pamac.com">Amit=20
+  Mishra</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A =
+title=3Dnorth.hrsupport@pamac.com=20
+  href=3D"mailto:north.hrsupport@pamac.com">PAMAC - NORTH - HR Support =
+Unit</A>=20
+  </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Cc:</B> <A title=3Dsandil@pamac.com =
+
+  href=3D"mailto:sandil@pamac.com">Sandil</A> ; <A =
+title=3Dharish.arora@pamac.com=20
+  href=3D"mailto:harish.arora@pamac.com">Harish Arora</A> ; <A=20
+  title=3Dzafar.abbas@pamac.com =
+href=3D"mailto:zafar.abbas@pamac.com">Zafar=20
+  Abbas</A> ; <A title=3Dsantosh.vishwakarma@pamac.com=20
+  =
+href=3D"mailto:santosh.vishwakarma@pamac.com">santosh.vishwakarma@pamac.c=
+om</A>=20
+  </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Wednesday, September 13, =
+2017 2:50=20
+  PM</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> PF No Require</DIV>
+  <DIV><BR></DIV>
+  <DIV>&nbsp;</DIV>
+  <DIV class=3DSection1>
+  <P style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"=20
+  class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt">Dear=20
+  Ajay,</SPAN></P>
+  <P style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"=20
+  class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt"></SPAN>&nbsp;</P>
+  <P style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"=20
+  class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt">Please=20
+  update us PF No of Mr.Vikash Kumar( P59524)</SPAN></P>
+  <P style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"=20
+  class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P style=3D"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"=20
+  class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt">Regards,=20
+  <BR><BR>Amit Mishra<BR>Asst. Vice President<BR></SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: 10pt; =
+mso-ansi-language: IT"=20
+  lang=3DIT>Tel: +91&nbsp;011 </SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt">4777=20
+  2221</SPAN><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: 10pt; =
+mso-ansi-language: IT"=20
+  lang=3DIT>&nbsp;</SPAN></B><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: 10pt; =
+mso-ansi-language: IT"=20
+  lang=3DIT>| Mobile: +91&nbsp;98995 70711&nbsp;| Skype amitmishra1010=20
+  |Email:&nbsp;<U><A href=3D"mailto:amit.mishra@pamac.com"><SPAN=20
+  style=3D"COLOR: navy">amit.mishra@pamac.com</SPAN></A></U>&nbsp;| =
+Website: <U><A=20
+  href=3D"http://www.pamac.com"><SPAN=20
+  style=3D"COLOR: navy">www.pamac.com</SPAN></A></U>&nbsp; =
+|<BR><BR><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75" =
+coordsize=3D"21600,21600" o:spt=3D"75"
+ o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe" filled=3D"f" =
+stroked=3D"f">
+ <v:stroke joinstyle=3D"miter"/>
+ <v:formulas>
+  <v:f eqn=3D"if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn=3D"sum @0 1 0"/>
+  <v:f eqn=3D"sum 0 0 @1"/>
+  <v:f eqn=3D"prod @2 1 2"/>
+  <v:f eqn=3D"prod @3 21600 pixelWidth"/>
+  <v:f eqn=3D"prod @3 21600 pixelHeight"/>
+  <v:f eqn=3D"sum @0 0 1"/>
+  <v:f eqn=3D"prod @6 1 2"/>
+  <v:f eqn=3D"prod @7 21600 pixelWidth"/>
+  <v:f eqn=3D"sum @8 21600 0"/>
+  <v:f eqn=3D"prod @7 21600 pixelHeight"/>
+  <v:f eqn=3D"sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" =
+o:connecttype=3D"rect"/>
+ <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
+</v:shapetype><v:shape id=3D"_x0000_i1025" type=3D"#_x0000_t75" =
+style=3D'width:98.25pt;
+ height:108pt'>
+ <v:imagedata src=3D"Email%20Signature_files/image002.jpg" =
+o:title=3D"Logo"/>
+</v:shape><![endif]--><![if !vml]><IMG border=3D0=20
+  src=3D"cid:B1C1233210CA4DFD8E4CC3A64B60746E@NDELEX186" width=3D131 =
+height=3D144=20
+  v:shapes=3D"_x0000_i1025"><![endif]><o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: 10pt; =
+mso-ansi-language: IT"=20
+  lang=3DIT><BR></SPAN><SPAN class=3DGramE><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt">PAMAC Group=20
+  =96 Banking on&nbsp;our&nbsp;Credentials.</SPAN></B></SPAN><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt"><BR></SPAN></B><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: 10pt; =
+mso-ansi-language: IT"=20
+  lang=3DIT><BR></SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt">*******************************************************************=
+**********************************************************&nbsp;</SPAN><S=
+PAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: #000099; FONT-SIZE: =
+10pt"><o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt">Disclaimer:=20
+  This e-mail is confidential. It may also be legally privileged. If you =
+are not=20
+  the addressee you may not copy, forward, disclose or use any part of =
+it. If=20
+  you have received this message in error, please delete it and all =
+copies from=20
+  your system and notify the sender immediately by return =
+e-mail.<BR>Internet=20
+  communications cannot be guaranteed to be timely, secure, error or =
+virus-free.=20
+  The sender does not accept liability for any errors or=20
+  =
+omissions.<BR>***********************************************************=
+******************************************************************<BR></S=
+PAN><B><I><SPAN=20
+  style=3D"FONT-FAMILY: Webdings; COLOR: green; FONT-SIZE: =
+24pt">P</SPAN><SPAN=20
+  style=3D"COLOR: green"> </SPAN></I></B><B><I><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: green; FONT-SIZE: =
+10pt">Please=20
+  don't print this e-mail unless you really need to. Let&nbsp;us save =
+the Mother=20
+  Earth.</SPAN></I></B><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt"><o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS'; COLOR: navy; FONT-SIZE: =
+10pt"><o:p>&nbsp;</o:p></SPAN></P></DIV></BLOCKQUOTE></BODY></HTML>
+
+------=_NextPart_001_0146_01D32D5A.92FF7C80--
+
+------=_NextPart_000_0145_01D32D5A.92FF7C80
+Content-Type: image/jpeg;
+	name="image001.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <B1C1233210CA4DFD8E4CC3A64B60746E@NDELEX186>
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIf
+IiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCACQAIMDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiik
+oAWikyKMigBaKTIozQAtFJS0AFFJQSB1oAWik3D1ozQAtFFFABRRRQAUUUUAFNY4GaC2ATXP674p
+i0wm3gQS3GORnhfr/hVwhKbtEyq1YUo802bxYAZPFRm5gU/NPGPqwrz5ZfEHiGQtG0rrnnadiCiX
+wjq6KWMcch9A/P611LDRWkpJM814+ctadNtdz0FbqBjhZkY+zCpAwPIOa8kkhltZmjlR4pF6g5BF
+W7LXNSsWBiumZR1R/mFavASteLuYxzZKVpxsepZpScCsDQvE8GqfuZVENwB90nhvpWhFqHnTzQZj
+Rlcoi7ssTjOcelcE4Sg7SPYpVoVY80WXGlRWVWOC5woPc4zVOXVrYR3LQt5rWozIo/z7VQs3b7Qd
+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
+
+------=_NextPart_000_0145_01D32D5A.92FF7C80--
+
+------=_NextPart_000_014B_01D32D5A.92FF7C80--
+
+
+

@@ -1,0 +1,27 @@
+select '' as 'Sr.No',CUSTOMER_ID,AGENCY_CODE as 'Agency Code',CUSTOMER_CODE as 'CUSTCODE',APP_FNAME as 'CUSTOMER_NAME',
+APP_ADDR1 as 'CCADDR1',APP_ADDR2 as 'CCADDR2',APP_ADDR3 as 'CCADDR3',APP_CITY as 'CCCITY',APP_PINCODE as 'CCZIP',CSEMPLOYER,
+AGENT,Agency_code2 as'AGENCY_CODE',FAXACTIVE,CELL_ACTIVATED_DATE,CELLNO,a.REF_NO as 'CO_ID',COMP_PHONE1 as 'CCTN',COMP_PHONE2 as 'CCTN2',
+a.Comp_Credit_Status as 'CREDITSTATUS_DESC',CREATED_DATE,OPID,PRGNAME,BILL_PLAN,SCHEME,COMP_ADDR1 as 'COADDR1',COMP_ADDR2 as 'COADDR2',
+COMP_ADDR3 as 'COADDR3',COMP_STREET as 'COSTREET',COMP_CITY as 'COCITY',COMP_PINCODE as 'COZIP',APP_PHONE1 as 'COTN',
+APP_PHONE2 as 'COTN2',CH_REASON_DESC,PREVIOUS_CREDITSTATUS,INTERIM_CREDIT_STATUS,STATUS,DESIGNATION,EXISTING_CELL_NO as 'Existing Number',
+PROMO_PACK,IPOS as 'IPOS/PPFT Comments',ZONAL_WITH_STD as 'Zone',comment_reason as COMMENTS,b.Sub_Info_Audit as 'Sub Info Audit',
+Audit_Job_Desc as 'Audit Job Desc',RISK_RATING_BILLING as 'RiskRating',NATURE_OF_BUSINESS as 'NatureOfBuss',Sim_Used_By as 'SimUsedBy',
+Email,a.credit_stat as 'CREDIT_STATUS',b.Final_credit_status_id as 'Disc Code',d.remark as 'PV Comments',CONTACTIBILITY as 'Contactibility (NM)',
+b.App_met as 'Sub met (Y/N)',DOC_SIGHTED as 'Docs Sighted',occupation_id as 'Occupation',b.zonal as 'TB/ FB done during Telecalling',
+Voucher_no as 'Time Slots',FIRST_Bill_EXP as 'First Bill Explanation (Y/N)',tarif_plan as 'Tariff Explanations (Y/N)',d.ATTEMPT_DATETIME as 'VisitDate',
+b.add_date as 'DateOfVerification',b.fe_name as 'Field Executive',b.fun_card as 'SupervisorName', CASE_REC_DATETIME as 'Date Cases Received',a.SEND_DATETIME as 'Date cases sent',b.ip_comments as 'Preferred Mode of communication',
+b.pv_tag as 'Preferred language of communication'
+from CPV_QC_Case_Details e, CPV_CELLULAR_CASES a, CPV_CELLULAR_VERIFICATION b,
+CPV_CELLULAR_VERI_ATTEMPTS d where e.case_id=a.case_id and a.case_id=b.case_id and
+a.case_id=d.case_id and b.case_id=d.case_id and a.case_type_id='3'
+and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+group by CELLNO,AGENCY_CODE,Documents,CUSTOMER_CODE,a.REF_NO,CUSTOMER_ID,TMCODE_DESC,TITLE,APP_FNAME,APP_LNAME,
+CELL_ACTIVATED_DATE,BILLCYCLE,CUSTOMER_CLASS,CSEMPLOYER,APP_ADDR1,APP_ADDR2,APP_ADDR3,APP_CITY,APP_PINCODE,APP_PHONE1,
+APP_PHONE2,COMP_NAME,COMP_ADDR1,COMP_ADDR2,COMP_ADDR3,COMP_STREET,COMP_CITY,COMP_PINCODE,COMP_PHONE1,COMP_PHONE2,
+COMP_SCHEM,AGENT,AUTHORISED_SIGNATORY,TYPE_OF_COMPANY,JOB_DESC,EXISTING_CELL_NO,PROMO_PACK,IPOS,ZONAL_WITH_STD,DESIGNATION,
+comment_reason ,b.Sub_Info_Audit,Audit_Job_Desc,RISK_RATING_BILLING,NATURE_OF_BUSINESS,Sim_Used_By,Email,a.credit_stat,
+b.Final_credit_status_id,pv_tag ,CONTACTIBILITY,b.App_met,DOC_SIGHTED,occupation_id ,Voucher_no,CH_REASON_DESC,PREVIOUS_CREDITSTATUS,
+FIRST_Bill_EXP,tarif_plan ,b.add_date ,b.fe_name,CASE_REC_DATETIME,Agency_code2,FAXACTIVE,OPID,PRGNAME,BILL_PLAN,
+a.SEND_DATETIME,b.ddb,b.fun_card,waivers,a.Comp_Credit_Status,d.remark,b.zonal,b.ip_comments, d.ATTEMPT_DATETIME,b.pv_tag,INTERIM_CREDIT_STATUS,
+CREATED_DATE,SCHEME,STATUS
+

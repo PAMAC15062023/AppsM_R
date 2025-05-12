@@ -1,0 +1,27 @@
+<table border="0">
+	<tr style="height:20px;">
+		<td colspan="10"><b> <font size='3' color='black'>Payout upload status for the month:JUNE - 2020 </font></span></b> <br/><b><font size='3' color='black'><br/>Date and time of payout Upload :26/08/2020 14:44:58 </font></b> <br/> <b><font size='3' color='black'>Month-Year :JUNE 2020</font></b> <br/><b><font size='3' color='black'>Upload file name :ERROR.xls</font></b> <br/><b><font size='3' color='black'>Total number of Records :16</font></b><br/><b><font size='3' color='black'>Number of records Uploaded :12</font></b><br/><b><font size='3' color='black'>Number of records Rejected:4</font></b><br/></td>
+	</tr><tr>
+		<td colspan="20"></td>
+	</tr>
+</table><div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">QMS Code</th><th scope="col">CanvasserName</th><th scope="col">Base Fees Per Month</th><th scope="col">Designation</th><th scope="col">No of Days Worked</th><th scope="col">Eligible Salary</th><th scope="col">Total Incentive</th><th scope="col">Payable Location</th><th scope="col">Total Cases</th><th scope="col">NetPayout(Gross Amount)</th><th scope="col">Penalty Amount</th><th scope="col">Other Deductions</th><th scope="col">Payment Status</th><th scope="col">New Joinee Resigned</th><th scope="col">Final Date</th><th scope="col">Uploaded By</th><th scope="col">Uploaded Date</th><th scope="col">Remarks</th><th scope="col">Name as per Master</th>
+		</tr><tr>
+			<td>S00763</td><td>Tejash Surewshchandra Shah</td><td>14500</td><td>Canvasser Combined</td><td>25</td><td>11693.5483870968</td><td>0</td><td>Anand</td><td>0</td><td>11894</td><td>0</td><td>0</td><td>Paid</td><td>Resigned</td><td>09/06/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:39</td><td>Miss Macth Found in Master Name</td><td>TEJASH SURESHCHANDRA SHAH</td>
+		</tr><tr>
+			<td>S01833</td><td>Grishma Yogeshbhai Vyas</td><td>10000</td><td>Canvasser</td><td>15</td><td>4838.70967741935</td><td>0</td><td>MANAVADAR</td><td>0</td><td>4664</td><td>0</td><td>0</td><td>Paid</td><td>Resigned</td><td>30/05/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Miss Macth Found in Master Name</td><td>VYAS GRISHMA YOGESHBHAI</td>
+		</tr><tr>
+			<td>S02037</td><td>Palak Tiwari</td><td>16000</td><td>Team Leader</td><td>28</td><td>14451.6129032258</td><td>0</td><td>Ahmedabad</td><td>6</td><td>14452</td><td>0</td><td>0</td><td>Paid</td><td>Resigned</td><td>12/06/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Miss Macth Found in Master Name</td><td>TIWARI PALAK</td>
+		</tr><tr>
+			<td>S02092</td><td>Gopi Shaileshkumar Parekh</td><td>0</td><td>CanvasserSD</td><td>6</td><td>0</td><td>0</td><td>Ahmedabad</td><td>0</td><td>0</td><td>0</td><td>0</td><td>No Paid</td><td>Resigned</td><td>20/05/2020 00:00:00</td><td>P65873</td><td>26/08/2020 14:44:40</td><td>Miss Macth Found in Master Name</td><td>PAREKH GOPIBEN</td>
+		</tr>
+	</table>
+</div><table border="0">
+	<tr>
+		<td colspan="20"><b> <font size='3' color='black'><br/><br/>Note</font></span></b> <br/><b><font size='3' color='black'>*** Base Fees Per Month and Eligible Salary are considered that are furnished in the payout upload file. </font></b> <br/></td>
+	</tr><tr>
+		<td></td>
+	</tr>
+</table>

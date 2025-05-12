@@ -1,0 +1,59 @@
+set Dateformat dmy
+
+Declare @FromDate Varchar(12)
+Declare @ToDate Varchar(12)
+
+Declare @pFromDate Datetime
+Declare @pToDate Datetime
+
+Set @FromDate='01/06/2010'
+Set @ToDate='30/06/2010'
+
+Set @pFromDate=@FromDate
+Set @pToDate=@ToDate
+
+
+	Select 
+		VerificationType ,
+		Sum(RECOMMENDATION_Positive) as Positive ,
+		Sum(RECOMMENDATION_Negative) as Negative
+	From
+		(
+		Select 
+		
+		CASE CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID 
+				When 1 then 'RV' 	
+				When 2 then 'BV'
+				When 3 then 'BT'
+				When 4 then 'RT' 
+				End as VerificationType,		
+		 		
+		CASE RECOMMENDATION
+				When 'Positive' then  1	
+				Else 0 
+				End as RECOMMENDATION_Positive,	
+		CASE RECOMMENDATION
+				When 'Negative' then  1	
+				Else 0 
+				End as RECOMMENDATION_Negative 			  
+
+		 
+		   
+		From CPV_CC_CASE_Details CASE_Details 
+		Left Outer Join CPV_CC_CASE_VERIFICATIONTYPE CASE_VERIFICATIONTYPE 
+		On CASE_Details.Case_Id=CASE_VERIFICATIONTYPE.Case_Id
+		
+		Left Outer Join CPV_CC_VERI_DESCRIPTION VERI_DESC
+		On VERI_DESC.Case_Id=CASE_DETAILS.Case_Id	
+		And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=VERI_DESC.VERIFICATION_TYPE_ID
+		
+		Left Outer Join CPV_CC_VERI_DESCRIPTION1 VERI_DESC1
+		On VERI_DESC1.Case_Id=CASE_DETAILS.Case_Id	
+		And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=VERI_DESC1.VERIFICATION_TYPE_ID
+
+
+		Where 
+		 @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+		 )Asas Group By VerificationType
+	
+ 

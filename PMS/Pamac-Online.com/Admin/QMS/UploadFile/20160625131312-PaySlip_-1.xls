@@ -1,0 +1,15 @@
+<table border="0">
+	<tr style="height:20px;">
+		<td> </td>
+	</tr><tr>
+		<td colspan="20"><b><font size='3'>PAMAC FINSERVE PVT. LTD., MUMBAI</font></b> <br/><b><font size='2'>PAMAC PaySlip For : March 2016 </font></b> <br/></td>
+	</tr>
+</table><div>
+	<table cellspacing="1" cellpadding="1" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GV2" style="width:100%;font-weight:normal;font-size:8pt;font-family:Arial;color:Black;border-width:1px;border-style:Solid;border-color:Transparent;background-color:White;">
+		<tr style="color:Black;background-color:#D0D5D8;font-family:Arial;font-size:8pt;font-weight:bold;height:20px;">
+			<th scope="col">UID</th><th scope="col">Emp_Code</th><th scope="col">Month_of_PaySlip</th><th scope="col">Salary_Year</th><th scope="col">Earning_Basic_Earned</th><th scope="col">Days_In_Month</th><th scope="col">Present</th><th scope="col">WkDay</th><th scope="col">Absent</th><th scope="col">Remaining_PL</th><th scope="col">Remaining_SL</th><th scope="col">Remaining_CL</th><th scope="col">Adjusted__PL</th><th scope="col">Adjusted_SL</th><th scope="col">Adjusted_CL</th><th scope="col">Basic_Earned</th><th scope="col">DA_Earned</th><th scope="col">HRA_Earned</th><th scope="col">Convenyance_Allowance</th><th scope="col">Derived_Incentives</th><th scope="col">Other_Allowance</th><th scope="col">LTA</th><th scope="col">OT_Earning</th><th scope="col">Provident_Fund</th><th scope="col">ESIC</th><th scope="col">Professional_Tax</th><th scope="col">Income_Tax</th><th scope="col">TDS</th><th scope="col">Salary_Advance</th><th scope="col">Other_Deduction</th><th scope="col">Loan_Deduction</th><th scope="col">Insurance_Deduction</th><th scope="col">Fix_Deduction</th><th scope="col">LWF</th><th scope="col">Gross_Earning</th><th scope="col">Gross_Deduction</th><th scope="col">Net_Salary</th><th scope="col">Designation</th><th scope="col">PF_No</th><th scope="col">OTWorking</th><th scope="col">FullName</th><th scope="col">Department</th><th scope="col">Centre_name</th><th scope="col">Status</th><th scope="col">RequestDate</th><th scope="col">Net_Salary_In_Word</th><th scope="col">Medical_Reimbush</th><th scope="col">Washing</th><th scope="col">Emp_Type</th>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>37525</td><td>P52279</td><td>March</td><td>2016</td><td>2510</td><td>31</td><td>31</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2510</td><td>0</td><td>1883</td><td>628</td><td>1107</td><td>0</td><td>0</td><td>0</td><td>301</td><td>122</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6990</td><td>423</td><td>6567</td><td>REVIEWER</td><td>11299</td><td>0</td><td>KAMALA KUMAR VANGALAPUDI</td><td>&nbsp;</td><td>&nbsp;</td><td>false</td><td>&nbsp;</td><td>X</td><td>862.00</td><td>0.00</td><td>Salaried</td>
+		</tr>
+	</table>
+</div>

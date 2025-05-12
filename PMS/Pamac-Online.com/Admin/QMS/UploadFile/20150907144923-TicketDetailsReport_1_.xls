@@ -1,0 +1,252 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="TicketDetailsReport%201%20_files/filelist.xml">
+<link rel=Edit-Time-Data href="TicketDetailsReport%201%20_files/editdata.mso">
+<link rel=OLE-Object-Data href="TicketDetailsReport%201%20_files/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>RNK2</o:LastAuthor>
+  <o:Created>2015-09-07T09:21:23Z</o:Created>
+  <o:LastSaved>2015-09-07T09:21:23Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	white-space:normal;}
+.xl25
+	{mso-style-parent:style0;
+	font-size:13.5pt;
+	font-weight:700;
+	white-space:normal;}
+.xl26
+	{mso-style-parent:style0;
+	color:blue;
+	font-weight:700;
+	white-space:normal;}
+.xl27
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid black;
+	white-space:normal;}
+.xl28
+	{mso-style-parent:style0;
+	border:.5pt solid black;
+	white-space:normal;}
+.xl29
+	{mso-style-parent:style0;
+	mso-number-format:"Short Date";
+	border:.5pt solid black;
+	white-space:normal;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>TicketDetailsReport 1 </x:Name>
+    <x:WorksheetOptions>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9210</x:WindowHeight>
+  <x:WindowWidth>15195</x:WindowWidth>
+  <x:WindowTopX>0</x:WindowTopX>
+  <x:WindowTopY>60</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1941 style='border-collapse:
+ collapse;table-layout:fixed;width:1458pt'>
+ <col width=139 style='mso-width-source:userset;mso-width-alt:5083;width:104pt'>
+ <col width=20 style='mso-width-source:userset;mso-width-alt:731;width:15pt'>
+ <col width=49 style='mso-width-source:userset;mso-width-alt:1792;width:37pt'>
+ <col width=84 style='mso-width-source:userset;mso-width-alt:3072;width:63pt'>
+ <col width=81 style='mso-width-source:userset;mso-width-alt:2962;width:61pt'>
+ <col width=119 style='mso-width-source:userset;mso-width-alt:4352;width:89pt'>
+ <col width=130 style='mso-width-source:userset;mso-width-alt:4754;width:98pt'>
+ <col width=150 style='mso-width-source:userset;mso-width-alt:5485;width:113pt'>
+ <col width=256 style='mso-width-source:userset;mso-width-alt:9362;width:192pt'>
+ <col width=126 style='mso-width-source:userset;mso-width-alt:4608;width:95pt'>
+ <col width=95 style='mso-width-source:userset;mso-width-alt:3474;width:71pt'>
+ <col width=94 style='mso-width-source:userset;mso-width-alt:3437;width:71pt'>
+ <col width=84 style='mso-width-source:userset;mso-width-alt:3072;width:63pt'>
+ <col width=94 style='mso-width-source:userset;mso-width-alt:3437;width:71pt'>
+ <col width=100 style='mso-width-source:userset;mso-width-alt:3657;width:75pt'>
+ <col width=64 span=5 style='width:48pt'>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl24 width=139 style='height:15.0pt;width:104pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=49 style='width:37pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=81 style='width:61pt'></td>
+  <td width=119 style='width:89pt'></td>
+  <td width=130 style='width:98pt'></td>
+  <td width=150 style='width:113pt'></td>
+  <td width=256 style='width:192pt'></td>
+  <td width=126 style='width:95pt'></td>
+  <td width=95 style='width:71pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=100 style='width:75pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+ </tr>
+ <tr height=23 style='mso-height-source:userset;height:17.25pt'>
+  <td colspan=20 height=23 class=xl25 width=1941 style='height:17.25pt;
+  width:1458pt'>PAMAC FINSERVE PVT. LTD.</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td colspan=20 height=17 class=xl26 width=1941 style='height:12.75pt;
+  width:1458pt'>Ticket Details Report.</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl27 width=139 style='height:12.75pt;width:104pt'>Ticket_No</td>
+  <td class=xl27 width=20 style='border-left:none;width:15pt'>ID</td>
+  <td class=xl27 width=49 style='border-left:none;width:37pt'>Centre</td>
+  <td class=xl27 width=84 style='border-left:none;width:63pt'>User_Name</td>
+  <td class=xl27 width=81 style='border-left:none;width:61pt'>Department</td>
+  <td class=xl27 width=119 style='border-left:none;width:89pt'>QMS_Department</td>
+  <td class=xl27 width=130 style='border-left:none;width:98pt'>QMS_User</td>
+  <td class=xl27 width=150 style='border-left:none;width:113pt'>Problem</td>
+  <td class=xl27 width=256 style='border-left:none;width:192pt'>Remark</td>
+  <td class=xl27 width=126 style='border-left:none;width:95pt'>DownloadFilePath</td>
+  <td class=xl27 width=95 style='border-left:none;width:71pt'>File_Attached</td>
+  <td class=xl27 width=94 style='border-left:none;width:71pt'>Created_Date</td>
+  <td class=xl27 width=84 style='border-left:none;width:63pt'>TicketStatus</td>
+  <td class=xl27 width=94 style='border-left:none;width:71pt'>QMS_Remark</td>
+  <td class=xl27 width=100 style='border-left:none;width:75pt'>FollowRemark</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=34 style='height:25.5pt'>
+  <td height=34 class=xl28 width=139 style='height:25.5pt;border-top:none;
+  width:104pt'>HR\201509\DL-000004</td>
+  <td class=xl28 width=20 style='border-top:none;border-left:none;width:15pt'>&nbsp;</td>
+  <td class=xl28 width=49 style='border-top:none;border-left:none;width:37pt'>Delhi</td>
+  <td class=xl28 width=84 style='border-top:none;border-left:none;width:63pt'>jitender
+  singh</td>
+  <td class=xl28 width=81 style='border-top:none;border-left:none;width:61pt'>PCPA</td>
+  <td class=xl28 width=119 style='border-top:none;border-left:none;width:89pt'>HR</td>
+  <td class=xl28 width=130 style='border-top:none;border-left:none;width:98pt'>SHANKAR
+  DEVARE</td>
+  <td class=xl28 width=150 style='border-top:none;border-left:none;width:113pt'>Salary
+  Slip Requirement</td>
+  <td class=xl28 width=256 style='border-top:none;border-left:none;width:192pt'>I
+  WANT MY SALARY SLIP EMP CODE P-54286</td>
+  <td class=xl28 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
+  <td class=xl28 width=95 style='border-top:none;border-left:none;width:71pt'>No</td>
+  <td class=xl29 align=right width=94 style='border-top:none;border-left:none;
+  width:71pt' x:num="42194">7/9/2015</td>
+  <td class=xl28 width=84 style='border-top:none;border-left:none;width:63pt'>&nbsp;</td>
+  <td class=xl28 width=94 style='border-top:none;border-left:none;width:71pt'>&nbsp;</td>
+  <td class=xl28 width=100 style='border-top:none;border-left:none;width:75pt'>&nbsp;</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=139 style='width:104pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=49 style='width:37pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=81 style='width:61pt'></td>
+  <td width=119 style='width:89pt'></td>
+  <td width=130 style='width:98pt'></td>
+  <td width=150 style='width:113pt'></td>
+  <td width=256 style='width:192pt'></td>
+  <td width=126 style='width:95pt'></td>
+  <td width=95 style='width:71pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=100 style='width:75pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

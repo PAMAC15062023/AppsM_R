@@ -1,0 +1,76 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="PC_ImportSystem" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+
+
+  <script type="text/javascript">
+    window.onhelp = OpenMyHelp;
+
+    function OpenMyHelp () {
+      window.showHelp ('help.chm', null);
+        // cancels opening the default Help dialog of the browser
+      return false;
+    }
+  </script>
+
+<head id="Head1" runat="server">
+    <title>PAMAC Online</title>
+
+    <link href="../StyleSheet_EBC.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table cellpadding="0" cellspacing="0" border="0" style="width: 100%">
+                <tr>
+                    <td style="text-align: left; width: 491px; height: 40px;" align="left" class="reportTitleIncome">
+                        <asp:Menu ID="Menu1" runat="server" Width="500px" StaticEnableDefaultPopOutImage="False"
+                            Orientation="Horizontal" Font-Bold="True" StaticSubMenuIndent="" Height="2px">
+                            <StaticMenuItemStyle HorizontalPadding="8px" VerticalPadding="2px" />
+                            <DynamicHoverStyle CssClass="topbar" ForeColor="White" />
+                            <DynamicMenuStyle CssClass="reportTitle" />
+                            <StaticSelectedStyle CssClass="reportTitle" />
+                            <DynamicSelectedStyle CssClass="Info" />
+                            <DynamicMenuItemStyle HorizontalPadding="8px" VerticalPadding="2px" />
+                        </asp:Menu>
+                       
+                    </td>
+                    <td class="reportTitleIncome" style="width: 43%; height: 40px">
+                        <table border="0" cellpadding="0" cellspacing="0" class="Infos" id="TABLE1" style="width: 101%"  >
+                            <tr>
+                                <td style="height: 13px">
+                                    <asp:Label ID="lblHierarchy" runat="server" Font-Bold="False"></asp:Label></td>
+                                <td style="height: 13px"  >
+                                     </td>
+                                <td style="height: 13px">
+                                    <asp:Label ID="lblName" runat="server"></asp:Label></td>
+                                <td style="height: 13px" >
+                                    </td>
+                                <td style="height: 13px; width: 69px;">
+                                    <a href="../../OrganizationTree.aspx" target="_parent"><strong>[My PMS]</strong></a>
+                                  
+                                    </td>
+                                <td style="height: 13px"  >
+                                   <strong><asp:Label ID="lblZone" runat="server" Width="63px" CssClass="BlueBold"></asp:Label></strong> </td>
+                                <td style="width: 61px; height: 13px;">
+                                    <a href="../../Logout.aspx" target="_parent"><strong>[Sign Out]</strong></a></td>
+                            </tr>
+                        </table>
+                        </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="height: 232px">
+                        <asp:ContentPlaceHolder ID="C1" runat="server">
+                            &nbsp;</asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

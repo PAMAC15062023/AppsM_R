@@ -1,0 +1,3570 @@
+From: "Software Support" <software.support@pamac.com>
+To: "SOFTWARE SUPPORT" <software.support@pamac.com>
+References: <5337693E753D4634A94F8A5D8192354D@Abhijeet>
+Subject: Re: UAT OBSERVATIONS
+Date: Tue, 20 Jun 2017 12:38:10 +0530
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_001D_01D2E9C2.134FA680"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_001D_01D2E9C2.134FA680
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_001_001E_01D2E9C2.1351F070"
+
+
+------=_NextPart_001_001E_01D2E9C2.1351F070
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_002_001F_01D2E9C2.1351F070"
+
+
+------=_NextPart_002_001F_01D2E9C2.1351F070
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi sir ,
+
+Its pending from long.Multiple follow up is going on.Kindly Consolidate =
+it  and  discuss to close it asap.
+
+
+Regards,
+Rani Pingale.
+  ----- Original Message -----=20
+  From: SOFTWARE SUPPORT=20
+  To: SSU2=20
+  Sent: Saturday, June 03, 2017 3:07 PM
+  Subject: Fw: UAT OBSERVATIONS
+
+
+  fyi
+  ----- Original Message -----=20
+  From: Ganesh Sawant=20
+  To: 'Mahendra Jadhav' ; 'SOFTWARE SUPPORT' ; 'Santosh Ghadge' ; =
+'Unnata Puthran'=20
+  Cc: 'Rajesh Patel'=20
+  Sent: Saturday, June 03, 2017 1:01 PM
+  Subject: RE: UAT OBSERVATIONS
+
+
+  Hi Mahendra
+
+  =20
+
+  Please make note of the our revert on the points as below.
+
+  =20
+
+  Most of the requirements are the new requirement hence we needed ops =
+confirmation to implement  the same. We have given the due date to =
+implement the new changes basis if we received the confirmation from the =
+Ops today.
+
+  =20
+
+  For the Points highlighted in yellow, we required ops help to =
+understand the flow.
+
+  =20
+
+        Details
+       Remark
+       Due date
+      =20
+        =D8  Interest Pop up is not coming up in the system.
+       It's New requirement=20
+       6/6/2017
+      =20
+
+              =20
+            =20
+       =20
+       =20
+      =20
+        =20
+       =20
+       =20
+      =20
+        =20
+       =20
+       =20
+      =20
+        =20
+       =20
+       =20
+      =20
+        =20
+       =20
+       =20
+      =20
+        =20
+       =20
+       =20
+      =20
+        =20
+       =20
+       =20
+      =20
+        Bank Staff has to provide the checklist (All Check Points) needs =
+to be covered which will be first page of the system.
+       It's New requirement=20
+       Due date will be shared basis of the Mandatory list receipt from =
+the bank
+      =20
+        =D8  MICR Code Field needs to be captured by USER.
+       It's New requirement=20
+       5/6/2017
+      =20
+        =D8  Mandatory Fields needs to be provided by bank.
+       It's New requirement=20
+       Due date will be shared basis of the Mandatory list receipt from =
+the bank
+      =20
+        =D8  Repayment Account no should be populated from Daily Dump.
+       It was communicated for Balance Transfer for Repayment no such =
+information was received from the Bank hence it will be considered as =
+new requirement.  Needed Ops help to understand the flow
+       =20
+      =20
+        =D8  Disbursement Details other than Repayment account Approval =
+needs to be available. (checklist)
+       It's New requirement=20
+       Due date will be shared basis of the Mandatory list receipt from =
+the bank
+      =20
+        =D8  Disbursement account no autopopulated from los dump.
+       It was communicated for Balance Transfer for Repayment no such =
+information was received from the Bank hence it will be considered as =
+new requirement.  Needed Ops help to understand the flow
+       =20
+      =20
+        =D8  Benificiary Name needs to be manually captured (same as per =
+Cheque name or bank statement)
+       Presently it is auto populate which Bank wants same to be =
+captured manually. Hence it is new requirement
+       5/6/2017
+      =20
+        =D8  Total Deduction Tab needs to be removed from Receipt page.
+       It's New requirement=20
+       6/6/2017
+      =20
+        =D8  Receipt page details needs to be Freezed.
+       It's New requirement=20
+       6/6/2017
+      =20
+        =D8  Database change rightes needs to be offered to Operational =
+staff. (needs to discuss) (Repayment Account no wrongly captured in =
+Approved LOS Dump) / Stamp Duty (flexibility to change) in Receipt page.
+       It's New requirement  - It's challenging for the Ops team and in =
+case of any wrong update from Ops team it will lead error in the =
+software hence  Required Ops team confirmation to assign the rights as =
+Software team will not be responsible
+       Basis Ops team confirmation rights assignment will be workout
+      =20
+        =D8  Same Discrepancies captured by the system (should not be =
+allowed). (D1 and D2 Stage)
+       It's New requirement=20
+       Basis of receipt of the master date will be assigned
+      =20
+        =D8  Different discrepancies raised by D1 and D2 needs to be =
+highlighted in Discrepant MIS. Duplicate Discrepancies needs to be =
+removed.
+       It's New requirement - Bank officials to share Panel wise  =
+discripancies mater=20
+       Basis of receipt of the master date will be assigned
+      =20
+        =D8  Discrepant File record should not be moved to QC.
+       It's new requirement
+       5/6/2017
+      =20
+        =D8  Multiple BT Top Amount
+       It's new requirement
+       6/6/2017
+      =20
+        =20
+       =20
+       =20
+      =20
+        =D8  BT Top Up Amount needs to be calculated as follows.
+       It's new requirement
+       6/6/2017
+      =20
+        =20
+       =20
+       =20
+      =20
+        =D8  BT Top Up Amount =3D Net Disbursal Amount- BT Amount =
+payable to Financier (1)- BT Amount Payable to Financier (2)
+       It's formula given for info
+       -
+      =20
+        =D8  Multiple BT Loan Account no and Amount needs to be taken =
+from LOS Approved Dump .
+       =20
+       =20
+      =20
+        =D8  BT Top Up Details needs to be automatically populated as =
+per disbursement details.
+       =20
+       =20
+      =20
+        =D8  Borrwer name on Recipt page TABS needs to be removed.
+       It's new requirement
+       5/6/2017
+      =20
+        =D8  TAB DSA Subvention needs to be available for data entry if =
+the case pertains to DSA. (the logic needs to be based on Pre-database)
+       It's new requirement
+       5/6/2017
+      =20
+        =D8  100% cases to be uploaded in software (basis on images =
+receipt). Not approved cases (basis on LOS Dump) needs to be highlighted =
+through Discrepancy MIS.
+       It's new requirement
+       Need to understand the process flow from Ops which will be done =
+on Monday -5/6/2017 and accordingly date will be assigned
+      =20
+
+  =20
+
+  =20
+
+  Regards,
+
+  Ganesh Sawant.
+
+  Asst. Vice President=20
+
+  Tel: +91 22 2419 2260  | Mobile: +91 98201 25907 | Email: =
+ganesh.sawant@pamac.com | Website: www.pamac.com| Follow us:=20
+
+  =20
+
+  PAMAC Group - Banking on our Credentials.
+
+
+
+  =
+*************************************************************************=
+****************************************************=20
+
+  Disclaimer: This e-mail is confidential. It may also be legally =
+privileged. If you are not the addressee you may not copy, forward, =
+disclose or use any part of it. If you have received this message in =
+error, please delete it and all copies from your system and notify the =
+sender immediately by return e-mail.
+
+
+  Internet communications cannot be guaranteed to be timely, secure, =
+error or virus-free. The sender does not accept liability for any errors =
+or omissions.
+
+  =
+*************************************************************************=
+****************************************************
+
+  Please don't print this e-mail unless you really need to. Let us save =
+the Mother Earth.
+
+  =20
+
+  =20
+
+  From: Mahendra Jadhav [mailto:mahendra.jadhav@pamac.com]=20
+  Sent: Friday, June 2, 2017 10:58 AM
+  To: 'SOFTWARE SUPPORT'; Santosh Ghadge; Unnata Puthran
+  Cc: mahesh.bajaj@indusind.com; 'Ganesh Sawant'; 'Rajesh Patel'; =
+rajan.athalye@indusind.com
+  Subject: RE: UAT OBSERVATIONS
+
+  =20
+
+  Hi Santosh/Abhi/Prachi,
+
+  =20
+
+  Let us revert on each point with timeline and resolution today itself=20
+
+  =20
+
+  Thanks & Regards,
+
+  =20
+
+  Mahendra Jadhav
+
+  Sr. Manager - CPA Services.=20
+
+  Cell # +91 98195 23908
+
+  WE are spreading our wings, do visit our revamped website for more =
+details - www.pamac.com
+
+  =20
+
+  =20
+
+  From: Rajan Athalye [mailto:rajan.athalye@indusind.com]=20
+  Sent: 01 June 2017 06:13
+  To: 'SOFTWARE SUPPORT'; Mahendra Jadhav
+  Cc: mahesh.bajaj@indusind.com
+  Subject: UAT OBSERVATIONS
+
+  =20
+
+  Dear All,
+
+  =20
+
+  =D8  Interest Pop up is not coming up in the system.
+
+  =20
+
+  =20
+
+
+
+
+  Bank Staff has to provide the checklist (All Check Points) needs to be =
+covered which will be first page of the system.
+
+  =D8  MICR Code Field needs to be captured by USER.
+
+  =D8  Mandatory Fields needs to be provided by bank.
+
+  =D8  Repayment Account no should be populated from Daily Dump.
+
+  =D8  Disbursement Details other than Repayment account Approval needs =
+to be available. (checklist)
+
+  =D8  Disbursement account no autopopulated from los dump.
+
+  =D8  Benificiary Name needs to be manually captured (same as per =
+Cheque name or bank statement)
+
+  =D8  Total Deduction Tab needs to be removed from Receipt page.
+
+  =D8  Receipt page details needs to be Freezed.
+
+  =D8  Database change rightes needs to be offered to Operational staff. =
+(needs to discuss) (Repayment Account no wrongly captured in Approved =
+LOS Dump) / Stamp Duty (flexibility to change) in Receipt page.
+
+  =D8  Same Discrepancies captured by the system (should not be =
+allowed). (D1 and D2 Stage)
+
+  =D8  Different discrepancies raised by D1 and D2 needs to be =
+highlighted in Discrepant MIS. Duplicate Discrepancies needs to be =
+removed.
+
+  =D8  Discrepant File record should not be moved to QC.
+
+  =D8  Multiple BT Top Amount
+
+  =20
+
+  =D8  BT Top Up Amount needs to be calculated as follows.
+
+  =20
+
+  =D8  BT Top Up Amount =3D Net Disbursal Amount- BT Amount payable to =
+Financier (1)- BT Amount Payable to Financier (2)
+
+  =D8  Multiple BT Loan Account no and Amount needs to be taken from LOS =
+Approved Dump .
+
+  =D8  BT Top Up Details needs to be automatically populated as per =
+disbursement details.
+
+  =D8  Borrwer name on Recipt page TABS needs to be removed.
+
+  =D8  TAB DSA Subvention needs to be available for data entry if the =
+case pertains to DSA. (the logic needs to be based on Pre-database)
+
+  =D8  100% cases to be uploaded in software (basis on images receipt). =
+Not approved cases (basis on LOS Dump) needs to be highlighted through =
+Discrepancy MIS.
+
+  =20
+
+  =20
+
+  Rajan Athalye, Senior Manager -Credit Card Operations
+  IndusInd Bank Limited.
+
+  3rd floor, PNA house, Street No-17, Plot No-57,=20
+
+  MIDC, Andheri - East, Mumbai - 400093.
+
+  ' : 022 - 61098371
+
+  ' : 9920385311
+
+  *    : rajan.athalye@indusind.com
+
+  P  Save paper, print if you have to. Save energy, cc if you have to.
+
+  =20
+
+ =
+*************************************************************************=
+****This Email and files transmitted are confidential and intended =
+solely forthe use of the individual or entity to whom they are =
+addressed. If youhave received this Email in error please notify the =
+system manager.Please note that any views or opinions presented in this =
+Email are solelythose of the author and do not necessarily represent =
+those of IndusIndBank Ltd. Finally, the recipient should check this =
+Email and anyattachments for the presence of viruses. IndusInd Bank Ltd. =
+accepts noliability for any damage caused by any virus transmitted by =
+this =
+Email.*******************************************************************=
+********** 
+------=_NextPart_002_001F_01D2E9C2.1351F070
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns=3D"http://www.w3.org/TR/REC-html40" xmlns:v =3D=20
+"urn:schemas-microsoft-com:vml" xmlns:o =3D=20
+"urn:schemas-microsoft-com:office:office" xmlns:w =3D=20
+"urn:schemas-microsoft-com:office:word" xmlns:x =3D=20
+"urn:schemas-microsoft-com:office:excel" xmlns:m =3D=20
+"http://schemas.microsoft.com/office/2004/12/omml"><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18702"><!--[if !mso]>
+<STYLE>v\:* {
+	BEHAVIOR: url(#default#VML)
+}
+o\:* {
+	BEHAVIOR: url(#default#VML)
+}
+w\:* {
+	BEHAVIOR: url(#default#VML)
+}
+.shape {
+	BEHAVIOR: url(#default#VML)
+}
+</STYLE>
+<![endif]-->
+<STYLE><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:Webdings;
+	panose-1:5 3 1 2 1 5 9 6 7 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Wingdings 2";
+	panose-1:5 2 1 2 1 5 7 7 7 7;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+pre
+	{mso-style-priority:99;
+	mso-style-link:"HTML Preformatted Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTML Preformatted Char";
+	mso-style-priority:99;
+	mso-style-link:"HTML Preformatted";
+	font-family:Consolas;
+	mso-fareast-language:EN-US;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle23
+	{mso-style-type:personal;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#000099;
+	font-weight:normal;
+	font-style:normal;}
+span.EmailStyle24
+	{mso-style-type:personal-reply;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#1F497D;
+	font-weight:normal;
+	font-style:normal;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1170608212;
+	mso-list-type:hybrid;
+	mso-list-template-ids:703132462 1074331659 1074331651 1074331653 =
+1074331649 1074331651 1074331653 1074331649 1074331651 1074331653;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></STYLE>
+<!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1027" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></HEAD>
+<BODY lang=3DEN-US link=3Dblue bgColor=3D#ffffff vLink=3Dpurple>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet MS">Hi sir =
+,</FONT></DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet MS">Its pending =
+from=20
+long.Multiple follow up is going on.Kindly=20
+Consolidate&nbsp;it&nbsp;&nbsp;</FONT><FONT color=3D#000080 size=3D2=20
+face=3D"Trebuchet MS">and &nbsp;discuss to close it asap.</FONT></DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS"></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS">Regards,</FONT></DIV>
+<DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet MS">Rani =
+Pingale.</FONT></DIV>
+<BLOCKQUOTE=20
+style=3D"BORDER-LEFT: #000080 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+dir=3Dltr>
+  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+  <DIV=20
+  style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+  <A title=3Dsoftware.support@pamac.com=20
+  href=3D"mailto:software.support@pamac.com">SOFTWARE SUPPORT</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A title=3Dssu2@pamac.com=20
+  href=3D"mailto:ssu2@pamac.com">SSU2</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Saturday, June 03, 2017 =
+3:07=20
+  PM</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> Fw: UAT =
+OBSERVATIONS</DIV>
+  <DIV><BR></DIV>
+  <DIV><FONT color=3D#000080 size=3D2 face=3D"Trebuchet =
+MS">fyi</FONT></DIV>
+  <DIV style=3D"FONT: 10pt arial">----- Original Message -----=20
+  <DIV style=3D"BACKGROUND: #e4e4e4; font-color: black"><B>From:</B> <A=20
+  title=3Dganesh.sawant@pamac.com =
+href=3D"mailto:ganesh.sawant@pamac.com">Ganesh=20
+  Sawant</A> </DIV>
+  <DIV><B>To:</B> <A title=3Dmahendra.jadhav@pamac.com=20
+  href=3D"mailto:mahendra.jadhav@pamac.com">'Mahendra Jadhav'</A> ; <A=20
+  title=3Dsoftware.support@pamac.com=20
+  href=3D"mailto:software.support@pamac.com">'SOFTWARE SUPPORT'</A> ; <A =
+
+  title=3Dsantosh.ghadge@pamac.com =
+href=3D"mailto:santosh.ghadge@pamac.com">'Santosh=20
+  Ghadge'</A> ; <A title=3Dunnata.puthran@pamac.com=20
+  href=3D"mailto:unnata.puthran@pamac.com">'Unnata Puthran'</A> </DIV>
+  <DIV><B>Cc:</B> <A title=3Drajesh.patel@pamac.com=20
+  href=3D"mailto:rajesh.patel@pamac.com">'Rajesh Patel'</A> </DIV>
+  <DIV><B>Sent:</B> Saturday, June 03, 2017 1:01 PM</DIV>
+  <DIV><B>Subject:</B> RE: UAT OBSERVATIONS</DIV></DIV>
+  <DIV><BR></DIV>
+  <DIV class=3DWordSection1>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">Hi=20
+  Mahendra<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">Please=20
+  make note of the our revert on the points as =
+below.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">Most=20
+  of the requirements are the new requirement hence we needed ops =
+confirmation=20
+  to implement &nbsp;the same. We have given the due date to implement =
+the new=20
+  changes basis if we received the confirmation from the Ops=20
+  today.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt">For=20
+  the Points highlighted in yellow, we required ops help to understand =
+the=20
+  flow.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <TABLE style=3D"WIDTH: 680pt; BORDER-COLLAPSE: collapse; MARGIN-LEFT: =
+-0.65pt"=20
+  class=3DMsoNormalTable border=3D0 cellSpacing=3D0 cellPadding=3D0 =
+width=3D907>
+    <TBODY>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: windowtext =
+1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">Details<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: windowtext 1pt solid; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">Remark<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: windowtext 1pt solid; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">Due=20
+        date<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-IN>=D8&nbsp; Interest Pop up is not coming up in the=20
+        system.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        New requirement <o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P style=3D"TEXT-ALIGN: right" class=3DMsoNormal =
+align=3Dright><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">6/6/2017<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 410.8pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D548 noWrap>
+        <P class=3DMsoNormal><!--[if gte vml 1]><v:shapetype =
+id=3D"_x0000_t75" coordsize=3D"21600,21600" o:spt=3D"75" =
+o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe" filled=3D"f" =
+stroked=3D"f">
+<v:stroke joinstyle=3D"miter" />
+<v:formulas>
+<v:f eqn=3D"if lineDrawn pixelLineWidth 0" />
+<v:f eqn=3D"sum @0 1 0" />
+<v:f eqn=3D"sum 0 0 @1" />
+<v:f eqn=3D"prod @2 1 2" />
+<v:f eqn=3D"prod @3 21600 pixelWidth" />
+<v:f eqn=3D"prod @3 21600 pixelHeight" />
+<v:f eqn=3D"sum @0 0 1" />
+<v:f eqn=3D"prod @6 1 2" />
+<v:f eqn=3D"prod @7 21600 pixelWidth" />
+<v:f eqn=3D"sum @8 21600 0" />
+<v:f eqn=3D"prod @7 21600 pixelHeight" />
+<v:f eqn=3D"sum @10 21600 0" />
+</v:formulas>
+<v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect" =
+/>
+<o:lock v:ext=3D"edit" aspectratio=3D"t" />
+</v:shapetype><v:shape id=3D"Picture_x0020_4" o:spid=3D"_x0000_s1026" =
+type=3D"#_x0000_t75" alt=3D"Description: =
+cid:image001.png@01D2DB8F.1AE9EC70" =
+style=3D'position:absolute;margin-left:24.75pt;margin-top:1.5pt;width:280=
+.5pt;height:95.25pt;z-index:251658240;visibility:visible;mso-wrap-style:s=
+quare;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt=
+;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bo=
+ttom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:=
+text;mso-position-vertical:absolute;mso-position-vertical-relative:text;m=
+so-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-heigh=
+t-relative:page'>
+<v:imagedata src=3D"cid:image005.png@01D2DC64.320F27A0" =
+o:href=3D"cid:image001.png@01D2DB8F.1AE9EC70" />
+</v:shape><![endif]--><![if !vml]><SPAN=20
+        style=3D"Z-INDEX: 251658240; POSITION: absolute; MARGIN-TOP: =
+2px; WIDTH: 374px; HEIGHT: 127px; MARGIN-LEFT: 33px; mso-ignore: =
+vglayout"><IMG=20
+        alt=3D"Description: cid:image001.png@01D2DB8F.1AE9EC70"=20
+        src=3D"cid:4F91EE4A87E74255999F41AE007D6AC6@whoedp18" =
+width=3D374 height=3D127=20
+        v:shapes=3D"Picture_x0020_4"></SPAN><![endif]><SPAN =
+style=3D"COLOR: black"=20
+        lang=3DEN-IN><o:p></o:p></SPAN></P>
+        <TABLE class=3DMsoNormalTable border=3D0 cellSpacing=3D0 =
+cellPadding=3D0>
+          <TBODY>
+          <TR style=3D"HEIGHT: 15.75pt">
+            <TD=20
+            style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; WIDTH: =
+410pt; PADDING-RIGHT: 0in; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+            width=3D547>
+              <P class=3DMsoNormal><SPAN=20
+              style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: =
+10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR></TBODY></TABLE></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-IN>&nbsp;</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 45pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 45pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt; mso-fareast-language: EN-IN"=20
+        lang=3DEN-GB>Bank Staff has to provide the checklist (All Check =
+Points)=20
+        needs to be covered which will be first page of the =
+system.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 45pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        New requirement <o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 45pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">Due=20
+        date will be shared basis of the Mandatory list receipt from the =
+
+        bank<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; MICR Code Field needs to be captured by=20
+        USER.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        New requirement <o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P style=3D"TEXT-ALIGN: right" class=3DMsoNormal =
+align=3Dright><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">5/6/2017<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 45pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 45pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Mandatory Fields needs to be provided by=20
+        bank.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 45pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        New requirement <o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 45pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">Due=20
+        date will be shared basis of the Mandatory list receipt from the =
+
+        bank<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 120pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 120pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Repayment Account no should be populated =
+from Daily=20
+        Dump.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; BACKGROUND: yellow; HEIGHT: 120pt; BORDER-TOP: =
+medium none; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It=20
+        was communicated for Balance Transfer for Repayment no such =
+information=20
+        was received from the Bank hence it will be considered as new=20
+        requirement.&nbsp; Needed Ops help to understand the=20
+        flow<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 120pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 45pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 45pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Disbursement Details other than Repayment =
+account=20
+        Approval needs to be available. (checklist)</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 45pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        New requirement <o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 45pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">Due=20
+        date will be shared basis of the Mandatory list receipt from the =
+
+        bank<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 120pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 120pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Disbursement account no autopopulated =
+from los=20
+        dump.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; BACKGROUND: yellow; HEIGHT: 120pt; BORDER-TOP: =
+medium none; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It=20
+        was communicated for Balance Transfer for Repayment no such =
+information=20
+        was received from the Bank hence it will be considered as new=20
+        requirement.&nbsp; Needed Ops help to understand the=20
+        flow<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 120pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Benificiary Name needs to be manually =
+captured (same=20
+        as per Cheque name or bank statement)</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">Presently=20
+        it is auto populate which Bank wants same to be captured =
+manually. Hence=20
+        it is new requirement<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P style=3D"TEXT-ALIGN: right" class=3DMsoNormal =
+align=3Dright><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">5/6/2017<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Total Deduction Tab needs to be removed =
+from Receipt=20
+        page.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        New requirement <o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P style=3D"TEXT-ALIGN: right" class=3DMsoNormal =
+align=3Dright><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">6/6/2017<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Receipt page details needs to be =
+Freezed.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        New requirement <o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P style=3D"TEXT-ALIGN: right" class=3DMsoNormal =
+align=3Dright><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">6/6/2017<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 150pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 150pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Database change rightes needs to be =
+offered to=20
+        Operational staff. (needs to discuss) (Repayment Account no =
+wrongly=20
+        captured in Approved LOS Dump) / Stamp Duty (flexibility to =
+change) in=20
+        Receipt page.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 150pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        New requirement&nbsp; - It's challenging for the Ops team and in =
+case of=20
+        any wrong update from Ops team it will lead error in the =
+software=20
+        hence&nbsp; Required Ops team confirmation to assign the rights =
+as=20
+        Software team will not be responsible<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 150pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">Basis=20
+        Ops team confirmation rights assignment will be=20
+        workout<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 30pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 30pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Same Discrepancies captured by the system =
+(should not=20
+        be allowed). (D1 and D2 Stage)</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 30pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        New requirement <o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 30pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">Basis=20
+        of receipt of the master date will be=20
+    assigned<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 45pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 45pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Different discrepancies raised by D1 and =
+D2 needs to=20
+        be highlighted in Discrepant MIS. Duplicate Discrepancies needs =
+to be=20
+        removed.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 45pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        New requirement - Bank officials to share Panel wise&nbsp; =
+discripancies=20
+        mater <o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 45pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">Basis=20
+        of receipt of the master date will be=20
+    assigned<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Discrepant File record should not be =
+moved to=20
+        QC.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        new requirement<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P style=3D"TEXT-ALIGN: right" class=3DMsoNormal =
+align=3Dright><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">5/6/2017<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Multiple BT Top Amount</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        new requirement<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P style=3D"TEXT-ALIGN: right" class=3DMsoNormal =
+align=3Dright><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">6/6/2017<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt; mso-fareast-language: EN-IN"=20
+        lang=3DEN-GB>&nbsp;</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; BT Top Up Amount needs to be calculated =
+as=20
+        follows.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        new requirement<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P style=3D"TEXT-ALIGN: right" class=3DMsoNormal =
+align=3Dright><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">6/6/2017<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt; mso-fareast-language: EN-IN"=20
+        lang=3DEN-GB>&nbsp;</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 30pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 30pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; BT Top Up Amount =3D Net Disbursal =
+Amount- BT Amount=20
+        payable to Financier (1)- BT Amount Payable to Financier =
+(2)</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 30pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        formula given for info<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 30pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">-<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 30pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 30pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Multiple BT Loan Account no and Amount =
+needs to be=20
+        taken from LOS Approved Dump .</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; BACKGROUND: yellow; HEIGHT: 30pt; BORDER-TOP: =
+medium none; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 30pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; BT Top Up Details needs to be =
+automatically populated=20
+        as per disbursement details.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">&nbsp;<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 15.75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; Borrwer name on Recipt page TABS needs to =
+be=20
+        removed.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        new requirement<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 15.75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P style=3D"TEXT-ALIGN: right" class=3DMsoNormal =
+align=3Dright><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">5/6/2017<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 30pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 30pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; TAB DSA Subvention needs to be available =
+for data=20
+        entry if the case pertains to DSA. (the logic needs to be based =
+on=20
+        Pre-database)</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 30pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        new requirement<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 30pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P style=3D"TEXT-ALIGN: right" class=3DMsoNormal =
+align=3Dright><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">5/6/2017<o:p></o:p></SPAN></P></TD></TR>
+    <TR style=3D"HEIGHT: 75pt">
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: =
+windowtext 1pt solid; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: =
+410.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      width=3D548>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"=20
+        lang=3DEN-GB>=D8&nbsp; 100% cases to be uploaded in software =
+(basis on=20
+        images receipt). Not approved cases (basis on LOS Dump) needs to =
+be=20
+        highlighted through Discrepancy MIS.</SPAN><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt"><o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 129.65pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D173>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">It's=20
+        new requirement<o:p></o:p></SPAN></P></TD>
+      <TD=20
+      style=3D"BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0in; PADDING-LEFT: 5.4pt; WIDTH: 139.55pt; =
+PADDING-RIGHT: 5.4pt; HEIGHT: 75pt; BORDER-TOP: medium none; =
+BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0in"=20
+      vAlign=3Dbottom width=3D186>
+        <P class=3DMsoNormal><SPAN=20
+        style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: =
+#002060; FONT-SIZE: 10pt">Need=20
+        to understand the process flow from Ops which will be done on =
+Monday=20
+        -5/6/2017 and accordingly date will be=20
+    assigned<o:p></o:p></SPAN></P></TD></TR></TBODY></TABLE>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <DIV>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; mso-fareast-language: =
+EN-IN">Regards,<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN">Ganesh=20
+  Sawant.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN">Asst.=20
+  Vice President <o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN"=20
+  lang=3DIT>Tel: +91 22 2419 2260&nbsp; | Mobile: +91 98201 25907 | =
+Email: <A=20
+  href=3D"mailto:ganesh.sawant@pamac.com">ganesh.sawant@pamac.com</A> | =
+Website:=20
+  </SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+mso-fareast-language: EN-IN"><A=20
+  title=3Dhttp://www.pamac.com|/ href=3D"http://www.pamac.com|/"><SPAN=20
+  style=3D"COLOR: navy; FONT-SIZE: 10pt"=20
+  lang=3DIT>www.pamac.com|</SPAN></A></SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN">=20
+  </SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN"=20
+  lang=3DEN-IN>Follow us:</SPAN><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10.5pt; mso-fareast-language: EN-IN"=20
+  lang=3DEN-IN> </SPAN></B><A=20
+  =
+href=3D"https://www.facebook.com/pages/PAMAC-Finserve-Pvt-Ltd/61098812225=
+2971?ref=3Dbr_rs"><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; TEXT-DECORATION: none"><IMG=20
+  id=3D_x0000_i1028 border=3D0 alt=3D"Description: Description: fnew"=20
+  src=3D"cid:686C32E23B6B483DBEBC1E7D85AB55A4@whoedp18" width=3D24=20
+  height=3D24></SPAN></A><A=20
+  =
+href=3D"https://www.linkedin.com/company/pamac?trk=3Dtyah&amp;trkInfo=3Dt=
+arId%3A1410862164918%2Ctas%3APAMAC%2Cidx%3A1-1-1"><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; TEXT-DECORATION: none"><IMG=20
+  id=3DPicture_x0020_2 border=3D0 alt=3D"Description: Description: in"=20
+  src=3D"cid:29D2FA50B9264B1DBBB4EA1D18AEC234@whoedp18" width=3D24=20
+  height=3D24></SPAN></A><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN"><o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; mso-fareast-language: =
+EN-IN"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN">PAMAC=20
+  Group =96 Banking on our Credentials.<o:p></o:p></SPAN></B></P>
+  <P class=3DMsoNormal><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt"><IMG=20
+  id=3DPicture_x0020_3 border=3D0 alt=3D"Description: Description: logo" =
+
+  src=3D"cid:5AB3E62453E04CE486E1BDE85D9A2216@whoedp18" width=3D158=20
+  height=3D153></SPAN></B><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 12pt; mso-fareast-language: EN-IN"><o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; mso-fareast-language: =
+EN-IN">******************************************************************=
+***********************************************************=20
+  <o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN">Disclaimer:=20
+  This e-mail is confidential. It may also be legally privileged. If you =
+are not=20
+  the addressee you may not copy, forward, disclose or use any part of =
+it. If=20
+  you have received this message in error, please delete it and all =
+copies from=20
+  your system and notify the sender immediately by return=20
+  e-mail.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN"><BR>Internet=20
+  communications cannot be guaranteed to be timely, secure, error or =
+virus-free.=20
+  The sender does not accept liability for any errors or=20
+  omissions.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: navy; =
+FONT-SIZE: 10pt; mso-fareast-language: =
+EN-IN">******************************************************************=
+***********************************************************<o:p></o:p></S=
+PAN></P>
+  <P class=3DMsoNormal><B><I><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: green; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN">Please=20
+  don't print this e-mail unless you really need to. Let us save the =
+Mother=20
+  Earth.</SPAN></I></B><SPAN=20
+  style=3D"FONT-FAMILY: 'Times New Roman','serif'; COLOR: green; =
+FONT-SIZE: 12pt; mso-fareast-language: EN-IN"><o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN style=3D"COLOR: #1f497d"=20
+  lang=3DEN-IN><o:p>&nbsp;</o:p></SPAN></P></DIV>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #1f497d; =
+FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+  <DIV>
+  <DIV=20
+  style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; =
+PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: =
+#b5c4df 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+  <P class=3DMsoNormal><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: =
+10pt">From:</SPAN></B><SPAN=20
+  style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt"> =
+Mahendra Jadhav=20
+  [mailto:mahendra.jadhav@pamac.com] <BR><B>Sent:</B> Friday, June 2, =
+2017 10:58=20
+  AM<BR><B>To:</B> 'SOFTWARE SUPPORT'; Santosh Ghadge; Unnata=20
+  Puthran<BR><B>Cc:</B> mahesh.bajaj@indusind.com; 'Ganesh Sawant'; =
+'Rajesh=20
+  Patel'; rajan.athalye@indusind.com<BR><B>Subject:</B> RE: UAT=20
+  OBSERVATIONS<o:p></o:p></SPAN></P></DIV></DIV>
+  <P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt"=20
+  lang=3DEN-IN>Hi Santosh/Abhi/Prachi,<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt"=20
+  lang=3DEN-IN><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt"=20
+  lang=3DEN-IN>Let us revert on each point with timeline and resolution =
+today=20
+  itself <o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt"=20
+  lang=3DEN-IN><o:p>&nbsp;</o:p></SPAN></P>
+  <DIV>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN">Thanks=20
+  &amp; Regards,<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt; mso-fareast-language: =
+EN-IN"><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN">Mahendra=20
+  Jadhav<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN">Sr.=20
+  Manager =96 CPA Services. <o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN">Cell=20
+  # +91 98195 23908<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt; mso-fareast-language: EN-IN">WE=20
+  are spreading our wings, do visit our revamped website for more =
+details =96 <A=20
+  href=3D"http://www.pamac.com/"><SPAN=20
+  style=3D"COLOR: =
+#000099">www.pamac.com</SPAN></A><o:p></o:p></SPAN></B></P>
+  <P class=3DMsoNormal><SPAN style=3D"COLOR: #000099; =
+mso-fareast-language: EN-IN"=20
+  lang=3DEN-IN><o:p>&nbsp;</o:p></SPAN></P></DIV>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Trebuchet MS','sans-serif'; COLOR: #000099; =
+FONT-SIZE: 10pt"=20
+  lang=3DEN-IN><o:p>&nbsp;</o:p></SPAN></P>
+  <DIV>
+  <DIV=20
+  style=3D"BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; =
+PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: =
+#b5c4df 1pt solid; BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+  <P class=3DMsoNormal><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt; =
+mso-fareast-language: EN-IN">From:</SPAN></B><SPAN=20
+  style=3D"FONT-FAMILY: 'Tahoma','sans-serif'; FONT-SIZE: 10pt; =
+mso-fareast-language: EN-IN">=20
+  Rajan Athalye [mailto:rajan.athalye@indusind.com] <BR><B>Sent:</B> 01 =
+June=20
+  2017 06:13<BR><B>To:</B> 'SOFTWARE SUPPORT'; Mahendra =
+Jadhav<BR><B>Cc:</B>=20
+  mahesh.bajaj@indusind.com<BR><B>Subject:</B> UAT=20
+  OBSERVATIONS<o:p></o:p></SPAN></P></DIV></DIV>
+  <P class=3DMsoNormal><SPAN lang=3DEN-IN><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN lang=3DEN-IN>Dear =
+All,<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN lang=3DEN-IN><o:p>&nbsp;</o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings" lang=3DEN-IN><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN lang=3DEN-IN>Interest Pop up is =
+not coming=20
+  up in the system.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN lang=3DEN-IN><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN lang=3DEN-IN><o:p>&nbsp;</o:p></SPAN></P>
+  <P class=3DMsoListParagraph><SPAN style=3D"mso-fareast-language: =
+EN-IN"=20
+  lang=3DEN-IN><IMG id=3DPicture_x0020_1 border=3D0=20
+  src=3D"cid:DE30CA779B4D4BC484AC4D7C708B55F7@whoedp18" width=3D442=20
+  height=3D127></SPAN><SPAN lang=3DEN-IN><o:p></o:p></SPAN></P>
+  <P class=3DMsoListParagraph><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: black; =
+mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB><BR></SPAN></B><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Bank Staff has to provide the checklist (All Check =
+Points) needs to=20
+  be covered which will be first page of the =
+system.<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>MICR Code Field needs to be captured by =
+USER.<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Mandatory Fields needs to be provided by=20
+bank.<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Repayment Account no should be populated from Daily=20
+  Dump.<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Disbursement Details other than Repayment account =
+Approval needs to=20
+  be available. (checklist)<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Disbursement account no autopopulated from los=20
+  dump.<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Benificiary Name needs to be manually captured (same as =
+per Cheque=20
+  name or bank statement)<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Total Deduction Tab needs to be removed from Receipt=20
+  page.<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Receipt page details needs to be =
+Freezed.<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; BACKGROUND: yellow; =
+mso-fareast-language: EN-IN; mso-highlight: yellow"=20
+  lang=3DEN-GB>Database change rightes needs to be offered to =
+Operational staff.=20
+  (needs to discuss) (Repayment Account no wrongly captured in Approved =
+LOS=20
+  Dump) / Stamp Duty (flexibility to change) in Receipt =
+page.</SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB><o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Same Discrepancies captured by the system (should not be =
+allowed).=20
+  (D1 and D2 Stage)<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Different discrepancies raised by D1 and D2 needs to be =
+highlighted=20
+  in Discrepant MIS. Duplicate Discrepancies needs to be=20
+  removed.<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Discrepant File record should not be moved to=20
+  QC.<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; BACKGROUND: yellow; =
+mso-fareast-language: EN-IN; mso-highlight: yellow"=20
+  lang=3DEN-GB>Multiple BT Top Amount</SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB><o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB><o:p>&nbsp;</o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>BT Top Up Amount needs to be calculated as=20
+  follows.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB><o:p>&nbsp;</o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>BT Top Up Amount =3D Net Disbursal Amount- BT Amount =
+payable to=20
+  Financier (1)- BT Amount Payable to Financier =
+(2)<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Multiple BT Loan Account no and Amount needs to be taken =
+from LOS=20
+  Approved Dump .<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>BT Top Up Details needs to be automatically populated as =
+per=20
+  disbursement details.<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Borrwer name on Recipt page TABS needs to be=20
+  removed.<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>TAB DSA Subvention needs to be available for data entry =
+if the case=20
+  pertains to DSA. (the logic needs to be based on=20
+  Pre-database)<o:p></o:p></SPAN></P>
+  <P style=3D"TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo2"=20
+  class=3DMsoListParagraph><![if !supportLists]><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; mso-fareast-language: EN-IN" =
+lang=3DEN-GB><SPAN=20
+  style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+  </SPAN></SPAN></SPAN><![endif]><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>100% cases to be uploaded in software (basis on images =
+receipt).=20
+  Not approved cases (basis on LOS Dump) needs to be highlighted through =
+
+  Discrepancy MIS.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB><o:p>&nbsp;</o:p></SPAN></B></P>
+  <P class=3DMsoNormal><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB><o:p>&nbsp;</o:p></SPAN></B></P>
+  <P class=3DMsoNormal><B><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; =
+mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>Rajan Athalye, Senior Manager -Credit Card=20
+  Operations</SPAN></B><SPAN style=3D"COLOR: #1f497d; =
+mso-fareast-language: EN-IN"=20
+  lang=3DEN-IN><BR></SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; FONT-SIZE: =
+10pt; mso-fareast-language: EN-IN">IndusInd=20
+  Bank Limited.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; FONT-SIZE: =
+10pt; mso-fareast-language: EN-IN">3<SUP>rd</SUP>=20
+  floor, PNA house, Street No-17, Plot No-57, <o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; FONT-SIZE: =
+10pt; mso-fareast-language: EN-IN">MIDC,=20
+  Andheri - East, Mumbai - 400093.<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Wingdings 2'; COLOR: #1f497d; FONT-SIZE: 10pt; =
+mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>' </SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; FONT-SIZE: =
+10pt; mso-fareast-language: EN-IN">:=20
+  022 =96 61098371<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: 'Wingdings 2'; COLOR: #1f497d; FONT-SIZE: 10pt; =
+mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>' </SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; FONT-SIZE: =
+10pt; mso-fareast-language: EN-IN">:=20
+  9920385311<o:p></o:p></SPAN></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: Wingdings; COLOR: #1f497d; FONT-SIZE: 10pt; =
+mso-fareast-language: EN-IN"=20
+  lang=3DEN-GB>*</SPAN><SPAN=20
+  style=3D"COLOR: #1f497d; FONT-SIZE: 10pt; mso-fareast-language: =
+EN-IN">&nbsp;&nbsp;&nbsp;=20
+  </SPAN><SPAN=20
+  style=3D"FONT-FAMILY: 'Cambria','serif'; COLOR: #1f497d; FONT-SIZE: =
+10pt; mso-fareast-language: EN-IN">:=20
+  </SPAN><B><U><SPAN style=3D"COLOR: #1f497d; mso-fareast-language: =
+EN-IN"=20
+  lang=3DEN-IN><A=20
+  =
+href=3D"mailto:rajan.athalye@indusind.com">rajan.athalye@indusind.com</A>=
+<o:p></o:p></SPAN></U></B></P>
+  <P class=3DMsoNormal><SPAN=20
+  style=3D"FONT-FAMILY: Webdings; COLOR: green; FONT-SIZE: 10pt; =
+mso-fareast-language: EN-IN">P</SPAN><I><SPAN=20
+  style=3D"COLOR: green; FONT-SIZE: 10pt; mso-fareast-language: EN-IN">=20
+  <B>&nbsp;Save paper, print if you have to. Save energy, cc if you have =
+
+  to.</B></SPAN></I><B><I><SPAN=20
+  style=3D"FONT-SIZE: 10pt; mso-fareast-language: =
+EN-IN"><o:p></o:p></SPAN></I></B></P>
+  <P class=3DMsoNormal><SPAN =
+lang=3DEN-IN><o:p>&nbsp;</o:p></SPAN></P><PRE><SPAN =
+lang=3DEN-IN><o:p>&nbsp;</o:p></SPAN></PRE><PRE><SPAN =
+lang=3DEN-IN>************************************************************=
+*****************<o:p></o:p></SPAN></PRE><PRE><SPAN lang=3DEN-IN>This =
+Email and files transmitted are confidential and intended solely =
+for<o:p></o:p></SPAN></PRE><PRE><SPAN lang=3DEN-IN>the use of the =
+individual or entity to whom they are addressed. If =
+you<o:p></o:p></SPAN></PRE><PRE><SPAN lang=3DEN-IN>have received this =
+Email in error please notify the system =
+manager.<o:p></o:p></SPAN></PRE><PRE><SPAN lang=3DEN-IN>Please note that =
+any views or opinions presented in this Email are =
+solely<o:p></o:p></SPAN></PRE><PRE><SPAN lang=3DEN-IN>those of the =
+author and do not necessarily represent those of =
+IndusInd<o:p></o:p></SPAN></PRE><PRE><SPAN lang=3DEN-IN>Bank Ltd. =
+Finally, the recipient should check this Email and =
+any<o:p></o:p></SPAN></PRE><PRE><SPAN lang=3DEN-IN>attachments for the =
+presence of viruses. IndusInd Bank Ltd. accepts =
+no<o:p></o:p></SPAN></PRE><PRE><SPAN lang=3DEN-IN>liability for any =
+damage caused by any virus transmitted by this =
+Email.<o:p></o:p></SPAN></PRE><PRE><SPAN =
+lang=3DEN-IN>************************************************************=
+*****************<o:p></o:p></SPAN></PRE><PRE><SPAN =
+lang=3DEN-IN><o:p>&nbsp;</o:p></SPAN></PRE></DIV></BLOCKQUOTE></BODY></HT=
+ML>
+
+------=_NextPart_002_001F_01D2E9C2.1351F070--
+
+------=_NextPart_001_001E_01D2E9C2.1351F070
+Content-Type: image/jpeg;
+	name="image006.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <4F91EE4A87E74255999F41AE007D6AC6@whoedp18>
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCAB/AXYDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDo/Dvh
+uzm02C+1G0iurq6jEp89Q6orcqFB4HGOetazeHNKI/5A+nf+Aqf4VZ0ZgnhWxdcblsIyPqIxWNoX
+iGRNNvL27ubi9t4Iomfz0jgdJG6qN2wbcFSCfwJpXCxcPhrSx/zCdO/8BI/8KRdC0leG0jTv/AVP
+8KgHja3aZp2tpF0z7CtyJiUzuLldv3vUY9M98Vat/EFje6LNqkYYQwsUZAVdt2QAAVJBySMYPemB
+E+h6VnjSNO/8BU/wqJtC0ztpOnf+Akf+FQ3us3E11ZWlvaXltM12I7lCIi6LtLDqSMHHUZ4B71Jc
+ak+nazeCU3NzExhjgtolXh3z0PHp3NArjk0PTAedJ07/AMBI/wDCpDomlY/5BGnf+Aqf4VTPiqNL
+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
+
+------=_NextPart_001_001E_01D2E9C2.1351F070
+Content-Type: image/gif;
+	name="image002.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <686C32E23B6B483DBEBC1E7D85AB55A4@whoedp18>
+
+R0lGODlhGAAYAPcAAAAAAP///5Ot3nya1P7+//39/vb3/Pb3++js9/P1+zFTpEJrzkNry0FoxThZ
+qEVsyjlZpkJnvzxcqUluxlV50VN2zFFzxWmL3GeI12aG0mmJ1k9lmk5jlXCN0193sV52r3WS1151
+rV1zqVlsmoWZyZqw5aCv0ylKmCtNnTBSojRZrjNYqjthuTdaq0Fqxz9nwTlerzldrjFQl0JqyD9l
+vj1iuTlcrDhbqjVVoD9lvT5kuj5juj5juTlcqzdYpTZXojRUnENrx0FnwT1itT1htTxfsTterzhZ
+pURrx0NqxENpw0JowUFnv0Bluz1hsjterUFmvUFmu0BluT9ktz9jtj5isz1hsTtdqjpbpz9jtD5h
+sj5hsT1grzxfrDtdqTlZozdWnUpz0jpapDlZoUZrv0VpvEdswURouENmtTxco0VotklruUhptUZn
+sElqt0hqs0hps0FeokZlrUVlq05xv01vvERip2CH4F+F3l6D2lFvsmqO4V5+x2eJ2Fx5vVp3uVt5
+ulp2tll1tFVvq1l0sVhzr2F/wF98vE5lmWqIz05kl2mHyVVto0xikmeDw0xhkEpfjGyIymB5tF94
+skxgj2qGxU1ij2qFw2mDwGiCvl10qlpwpFRpmWiBvGaAuWZ/uFxypmmCvXaT0mR8smZ/tXWPynqT
+yZWt5VppiV5sipys0F9ofc/Y7NPb7ejt+ElqsExts1R4vlBwsVN0t1+Bw1d1s2KDxGGBwGWGxmWF
+xGeHx2eHxWmJyGmJx22MynCQznGQzHaV0nGPyXiW1HCMxnSSzICc0oOd0Wl+qJSx6Yym3Yaf0G+E
+rY2m14uj0qC56brJ5uLo9Ofs9ubr9fDz+fb4/GSHyGWGxGSFwmaGw2mKx2iIxW2PzWqKx22Oy2yM
+yG+Py3WV0nOTz3WV0XSUz3yb1HqY0YKe04Gd0YWh1m6FsIum13aMtmyApZey5JSu3pKs246n1X2T
+vKC665Gp1Z2036S75qS646C23qW64Km8373M6L/N59/m8/n7/f///yH5BAEAAP8ALAAAAAAYABgA
+AAj/AP8JHEiwoEGDyp69E8CwocOGz9ypI5jsXroBGDNiLDdgWLBw4wbUm9dOIDt75sSRW8lypThu
+6/Dly7fuV71lAuXB8wasp0+f4PYRCEAUmjVjzQQyS6ftm9OnTnHpI0oVmq1i8ZSeu7ata6+vvXjh
+6kc1Gj96toQ5E4gMHbZs2XJd26ULFy1f1Ygm6BaL1i5hOP9Z8iQL0K1cuBL7OhbPH1Fqy44Rm1WL
+lEBIg2SASTPnFaw3pqiKDqDqRJxRAikVAjLmy5cjEBSEGk3VBAo7lv89IoRDDBYJV7q0OMSqVQGi
+/lixIpFizieBjQT9wOKlSxcuW4qoUHOA6DQjK3pc/5HjSSCHQD4kXN9SJQsVInW6B5CGpoiVJ206
+mf/j4LqWKlRIIUUNdBhAFAJnEFFFEXBkIpAigNyAXRZTSBEFFDlYkFcACJQxBRVOsIHJg37YsAWF
+UkDBxBIvaHggGTpIMYQblwiEiB8xAJhiBEso0UAFGyJgRg5NTLFGjf9sYAgMAUaxYhJIuAAkUa5M
+wAQUPNThiECMlOLEEE1AsQSUDzBAAVUJTCAEEyws8odAqERSiRQ70PBCAzMwsEAYp5RQgjJBvMAE
+H8MwMhAni4iSSAYZYHDBBXvscQceeeTRhwYgdKBHQauMsAkoImgSwgceSCLJJB58EIIIm6Ry0Kuw
+DgIUEAA7
+
+------=_NextPart_001_001E_01D2E9C2.1351F070
+Content-Type: image/gif;
+	name="image003.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <29D2FA50B9264B1DBBB4EA1D18AEC234@whoedp18>
+
+R0lGODlhGAAYAPcAAAAAAP///5HK4YvF3IjD2oTB2YO0yYC/2P3+/+r0+fr8/TZVYyc5QdPo8uTx
+9+z1+TCXwDOWvTaZwDibwhpGWBxHWECfxUOhxkWkykaly0Wixz6StEWhxkijyEmjx06pzUylyE+q
+zk2myUSRsFKqzlat0CZLWytOXWey0Giz0S9QXWu10m+31GCdtXG30zNSX3S51Xi+2ni92Xa61nu/
+2nm71megt3y913/B232+2GujuYLD3YC/2YHA2WqdsYbE3YTB2oXC2ovI4IjD23Snu4nE3IrE3IzF
+3InB15fS65bR6pLM42WMnZLK4o/H3YO1yYGyxoS1ypLI3n6swFd3hJXK35jL4JnM4J3N4aDP4qLQ
+47DX58/n8eHw9uPx9+Lw9ufz+Oby9/X6/BmBqBd0lgw8ThuErByFrR2Grh6Hrx+IsCGKsiGJsSOL
+syWNtSePtyiRuCiNsy2WvyyTuiN1lC6Xvy2RuBVEVjCYvzGYwC+TuTGVuzOZwDWawTWZvzebwjeb
+wTaawDqiyjylzTqgxzqfxjibwTaVuTWRtTuhyDmcwjSPsTOLrShthxU5RzyhyDqdwzygxxtIWTaP
+sTmRskGjyT+fxECgxUOhxUShxR9JWUejxyBJWUqny0KVtUuozCJLWkeYt0+nyVCnyVGoylWqy1ms
+zFqtzF+vzipOW2Oxz1SXsGSy0GSxz2q31FqaszBSXm661mu10V6ctG+303W92XO51HW61WSftnvA
+23e71Xm81nq91n/C3H2+136+14bG34TC2YjG3obD2o/N5YnE226crovF25LO5Y3G3I7H3JDH3G2P
+nJ/P4arV5a3W5qzV5a/X5rHY57Xa6MTi7cnk7svl79ns897v9eXy9+n0+O73+vr9/uz2+f///wAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAN4ALAAAAAAYABgA
+AAj/AL0JHEiwoEGDVKZEMcCwoUOGT6AwKWgsyRIBGDNq1NhECRIGApkRO1IsyLAgA1KqXJnyGDIi
+An0ICeLEGjZowQjo3MlTZxFhAnX8uEEtQAAETnoUWMq0aQEgwBZ4s7FjVzWjAZz8OsC1q9cDPHa8
+8IYLBy9l1xJM4+WrrdsbcN3m6AXLWwsau2C4gEFrVw0YgHXZ2nVjl60au3blUuFtlgwWWrp0aQDD
+yJfLWJ4l2KZty94ZMRi/qrUimtFtKYZg7YbV6LQVtmqd8LbK1SktRsGMutX6wTWs3HSxipXK2wgS
+Gq7kBmELK5dSHLJgPdKhhAlvoT5csGI0zCZaWKtY7PCASoHRZBpCgPLmqZOlKkazYZKF1YklDabE
+GDVy6RMnbxtgAIkU8VmCAlbJQGJBKfoFQAAkGWjiDSWV9OGEUQ4oogpWx/QBCSkNFtBHJRV4M0kk
+ECRjlBd9oILVEBD8IUKDPeTxCAXeLFKIHMsY1Q0fLhp1jBx9gIBVAXUQIok3jBCShyzSbNFMH6Js
+sYU0KfABSCbOXNkKH4k44k0jgyjSRx114AHJBGjW4SEkirTZByGIDHSIIBMYAkgggUjghx8RBLqH
+HnrYYcccctxBEB1xwPGGG5C2sQYbaqSBxhlmmDEGGWUc5OmnAgUEADs=
+
+------=_NextPart_001_001E_01D2E9C2.1351F070
+Content-Type: image/jpeg;
+	name="image004.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <5AB3E62453E04CE486E1BDE85D9A2216@whoedp18>
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCACZAJ4DASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiii
+gBKM0McU0uFGSQPrQJuw7NFVH1KyiP7y6gU+8gpo1fT2+7eW5PtKP8arlfYj2sO6+8u5oqOOeOUZ
+R1YeqnNPBz2qWrFpp7MdRSUE0DCjNRm4QTLCxxIylgPUDGf5iqSaxFcpdi0DNJbqTyOCRkcfitID
+Rz6ijNZFtrEl1pz3EcCM6lFAV8q24KeuO27n6VLe6qLB7aOSPfJMQCqnpkgcevJFMDSpaqpdhr2S
+2CPujRXLY+U5zwD68VNFMs0YkTlCMg+o9aAJKKQHJI9KWgAooooAQ0hbFK3SsPxVqTadpDeUcSyH
+Yp9OP/rVUIuclFGdWoqcHJlPXfF6WTtb2SrLMv3mPKr/AI1zHmavrsp2tPcEHnacKv8AIfzqhAY1
+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
+
+------=_NextPart_001_001E_01D2E9C2.1351F070
+Content-Type: image/png;
+	name="image005.png"
+Content-Transfer-Encoding: base64
+Content-ID: <DE30CA779B4D4BC484AC4D7C708B55F7@whoedp18>
+
+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
+KqPw/wGynIYwxPyNXgAAAABJRU5ErkJggg==
+
+------=_NextPart_001_001E_01D2E9C2.1351F070--
+
+------=_NextPart_000_001D_01D2E9C2.134FA680
+Content-Type: application/vnd.ms-excel;
+	name="IndusPost_Pending.xls"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="IndusPost_Pending.xls"
+
+0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAPgADAP7/CQAGAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA
+EAAALAAAAAEAAAD+////AAAAAAAAAAD/////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////9
+////MAAAAAMAAAAEAAAABQAAAAYAAAAHAAAACAAAAAkAAAAKAAAACwAAAAwAAAANAAAADgAAAA8A
+AAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZAAAAGgAAABsAAAAcAAAAHQAA
+AB4AAAAfAAAAIAAAACEAAAAiAAAAIwAAACQAAAAlAAAAJgAAACcAAAAoAAAAKQAAACoAAAArAAAA
+/v////7///8uAAAALwAAADEAAAD+/////v//////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////1IA
+bwBvAHQAIABFAG4AdAByAHkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAWAAUA//////////8CAAAAIAgCAAAAAADAAAAAAAAARgAAAAAAAAAAAAAAAEBrKrCT6dIB
+LQAAAEAGAAAAAAAAVwBvAHIAawBiAG8AbwBrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAABIAAgH///////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAACAAAAEFIAAAAAAABFAFQARQB4AHQARABhAHQAYQAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAACAQEAAAADAAAA/////wAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABaAgAAAAAAAAUAUwB1AG0AbQBhAHIAeQBJ
+AG4AZgBvAHIAbQBhAHQAaQBvAG4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAIB/////wQA
+AAD/////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAKwBAAAAAAAACQgQ
+AAAGBQC7Dc0HwYABAAYGAADhAAIAsATBAAIAAADiAAAAXABwAAUAAUEAZABtAGkAbgAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCAAIAsARhAQIAAADAAQAAPQEGAAEA
+AgADABkAAgAAABIAAgAAABMAAgAAAK8BAgAAALwBAgAAAD0AEgAAAAAAWE1IITgAAAAAAAEAWAJA
+AAIAAACNAAIAAAAiAAIAAAAOAAIAAQC3AQIAAADaAAIAAAAxAB4A3AAAAAgAkAEAAAACAAAHAUMA
+YQBsAGkAYgByAGkAMQAeAAAAAAD/f5ABAAAAAgAABwFDAGEAbABpAGIAcgBpADEAHgAAAAAA/3+Q
+AQAAAAIAAAcBQwBhAGwAaQBiAHIAaQAxAB4AAAAAAP9/kAEAAAACAAAHAUMAYQBsAGkAYgByAGkA
+MQAoAMgAAAAIAJABAAAAAgAADAFUAHIAZQBiAHUAYwBoAGUAdAAgAE0AUwAxAB4A3AAAAAgAkAEA
+AAACAAAHAUMAYQBsAGkAYgByAGkAMQAeANwAAAAJAJABAAAAAgAABwFDAGEAbABpAGIAcgBpADEA
+HgDcAAAANgC8AgAAAAIAAAcBQwBhAGwAaQBiAHIAaQAxAB4ALAEAADYAvAIAAAACAAAHAUMAYQBs
+AGkAYgByAGkAMQAeANwAAgAXAJABAAAAAgAABwFDAGEAbABpAGIAcgBpADEAHgDcAAAAFACQAQAA
+AQIAAAcBQwBhAGwAaQBiAHIAaQAxAB4A3AAAAAwAkAEAAAECAAAHAUMAYQBsAGkAYgByAGkAMQAe
+AAQBAAA2ALwCAAAAAgAABwFDAGEAbABpAGIAcgBpADEAHgDcAAAAEwCQAQAAAAIAAAcBQwBhAGwA
+aQBiAHIAaQAxAB4A3AAAAAkAvAIAAAACAAAHAUMAYQBsAGkAYgByAGkAMQAeANwAAAAQAJABAAAA
+AgAABwFDAGEAbABpAGIAcgBpADEAHgDcAAAAPwC8AgAAAAIAAAcBQwBhAGwAaQBiAHIAaQAxAB4A
+3AAAABEAkAEAAAACAAAHAUMAYQBsAGkAYgByAGkAMQAeANwAAAAKAJABAAAAAgAABwFDAGEAbABp
+AGIAcgBpADEAHgDcAAAACAC8AgAAAAIAAAcBQwBhAGwAaQBiAHIAaQAxAB4A3AAAADUAkAEAAAAC
+AAAHAUMAYQBsAGkAYgByAGkAMQAeANwAAAA1ALwCAAAAAgAABwFDAGEAbABpAGIAcgBpADEAHgBo
+AQAANgC8AgAAAAIAAAcBQwBhAGwAaQBiAHIAaQAxAB4A3AAAAD4AkAEAAAACAAAHAUMAYQBsAGkA
+YgByAGkAHgQzAAUAFwABIgAkACIAIwAsACMAIwAwAF8AKQA7AFwAKAAiACQAIgAjACwAIwAjADAA
+XAApAB4EPQAGABwAASIAJAAiACMALAAjACMAMABfACkAOwBbAFIAZQBkAF0AXAAoACIAJAAiACMA
+LAAjACMAMABcACkAHgQ/AAcAHQABIgAkACIAIwAsACMAIwAwAC4AMAAwAF8AKQA7AFwAKAAiACQA
+IgAjACwAIwAjADAALgAwADAAXAApAB4ESQAIACIAASIAJAAiACMALAAjACMAMAAuADAAMABfACkA
+OwBbAFIAZQBkAF0AXAAoACIAJAAiACMALAAjACMAMAAuADAAMABcACkAHgRpACoAMgABXwAoACIA
+JAAiACoAIAAjACwAIwAjADAAXwApADsAXwAoACIAJAAiACoAIABcACgAIwAsACMAIwAwAFwAKQA7
+AF8AKAAiACQAIgAqACAAIgAtACIAXwApADsAXwAoAEAAXwApAB4EVwApACkAAV8AKAAqACAAIwAs
+ACMAIwAwAF8AKQA7AF8AKAAqACAAXAAoACMALAAjACMAMABcACkAOwBfACgAKgAgACIALQAiAF8A
+KQA7AF8AKABAAF8AKQAeBHkALAA6AAFfACgAIgAkACIAKgAgACMALAAjACMAMAAuADAAMABfACkA
+OwBfACgAIgAkACIAKgAgAFwAKAAjACwAIwAjADAALgAwADAAXAApADsAXwAoACIAJAAiACoAIAAi
+AC0AIgA/AD8AXwApADsAXwAoAEAAXwApAB4EZwArADEAAV8AKAAqACAAIwAsACMAIwAwAC4AMAAw
+AF8AKQA7AF8AKAAqACAAXAAoACMALAAjACMAMAAuADAAMABcACkAOwBfACgAKgAgACIALQAiAD8A
+PwBfACkAOwBfACgAQABfACkAHgQvABcAFQABXAAkACMALAAjACMAMABfACkAOwBcACgAXAAkACMA
+LAAjACMAMABcACkAHgQ5ABgAGgABXAAkACMALAAjACMAMABfACkAOwBbAFIAZQBkAF0AXAAoAFwA
+JAAjACwAIwAjADAAXAApAB4EOwAZABsAAVwAJAAjACwAIwAjADAALgAwADAAXwApADsAXAAoAFwA
+JAAjACwAIwAjADAALgAwADAAXAApAB4ERQAaACAAAVwAJAAjACwAIwAjADAALgAwADAAXwApADsA
+WwBSAGUAZABdAFwAKABcACQAIwAsACMAIwAwAC4AMAAwAFwAKQAeBFcAsAApAAFfACAAKgAgACMA
+LAAjACMAMABfACAAOwBfACAAKgAgAFwALQAjACwAIwAjADAAXwAgADsAXwAgACoAIAAiAC0AIgBf
+ACAAOwBfACAAQABfACAAHgRnALEAMQABXwAgACoAIAAjACwAIwAjADAALgAwADAAXwAgADsAXwAg
+ACoAIABcAC0AIwAsACMAIwAwAC4AMAAwAF8AIAA7AF8AIAAqACAAIgAtACIAPwA/AF8AIAA7AF8A
+IABAAF8AIADgABQAAAAAAPX/EAAAAAAAQCBAIAAAwCDgABQAAQAAAPX/EAAA9AAAAAAAAAAAwCDg
+ABQAAQAAAPX/EAAA9AAAAAAAAAAAwCDgABQAAgAAAPX/EAAA9AAAAAAAAAAAwCDgABQAAgAAAPX/
+EAAA9AAAAAAAAAAAwCDgABQAAAAAAPX/EAAA9AAAAAAAAAAAwCDgABQAAAAAAPX/EAAA9AAAAAAA
+AAAAwCDgABQAAAAAAPX/EAAA9AAAAAAAAAAAwCDgABQAAAAAAPX/EAAA9AAAAAAAAAAAwCDgABQA
+AAAAAPX/EAAA9AAAAAAAAAAAwCDgABQAAAAAAPX/EAAA9AAAAAAAAAAAwCDgABQAAAAAAPX/EAAA
+9AAAAAAAAAAAwCDgABQAAAAAAPX/EAAA9AAAAAAAAAAAwCDgABQAAAAAAPX/EAAA9AAAAAAAAAAA
+wCDgABQAAAAAAPX/EAAA9AAAAAAAAAAAwCDgABQAAAAAAAEAEAAAAAAAQCBAIAACwCDgABQABgAA
+APX/EAAAtAAAQCBAIAAEHyDgABQAAACxAPX/EAAA+AAAQCBAIAAAwCDgABQAAACwAPX/EAAA+AAA
+QCBAIAAAwCDgABQAAAAqAPX/EAAA+AAAQCBAIAAAwCDgABQAAAAsAPX/EAAA+AAAQCBAIAAAwCDg
+ABQAAAAJAPX/EAAA+AAAQCBAIAAAwCDgABQADwAAAPX/EAAAlGZmvx+/HwAENyDgABQADQAAAPX/
+EAAA1AAgQCBAGAAAwCDgABQAAAAAAPX/EAAAnBERFgsWCwAEGiDgABQADAAAAPX/EAAA9AAAQCBA
+IAAAwCDgABQABwAAAPX/EAAAtAAAQCBAIAAELyDgABQACwAAAPX/EAAA9AAAQCBAIAAAwCDgABQA
+BgAAAPX/EAAAtAAAQCBAIAAEFiDgABQAEwAAAPX/EAAA9AAAQCBAIAAAwCDgABQABgAAAPX/EAAA
+tAAAQCBAIAAELyDgABQAFwAAAPX/EAAA9AAAQCBAIAAAwCDgABQACgAAAPX/EAAA9AAAQCBAIAAA
+wCDgABQACQAAAPX/EAAA1AAgQCBAGAAAwCDgABQACAAAAPX/EAAA1AAgQCBAFgAAwCDgABQACAAA
+APX/EAAA9AAAQCBAIAAAwCDgABQAGAAAAPX/EAAAlBERlwuXCwAELyDgABQABwAAAPX/EAAAtAAA
+QCBAIAAEFiDgABQAEgAAAPX/EAAAtAAAQCBAIAAEKiDgABQAEQAAAPX/EAAAlBERvx+/HwAECSDg
+ABQABgAAAPX/EAAAtAAAQCBAIAAEGyDgABQAFgAAAPX/EAAAlBERlwuXCwAECSDgABQAFQAAAPX/
+EAAA1ABgQCBAGgAAwCDgABQAFAAAAPX/EAAA1ABhQCAwGAAAwCDgABQAEAAAAPX/EAAAtAAAQCBA
+IAAELSDgABQADgAAAPX/EAAAtAAAQCBAIAAEKyDgABQABwAAAPX/EAAAtAAAQCBAIAAEMCDgABQA
+BgAAAPX/EAAAtAAAQCBAIAAEHyDgABQABwAAAPX/EAAAtAAAQCBAIAAELCDgABQABwAAAPX/EAAA
+tAAAQCBAIAAENSDgABQABgAAAPX/EAAAtAAAQCBAIAAEGiDgABQABgAAAPX/EAAAtAAAQCBAIAAE
+KiDgABQABwAAAPX/EAAAtAAAQCBAIAAELyDgABQABwAAAPX/EAAAtAAAQCBAIAAENyDgABQABgAA
+APX/EAAAtAAAQCBAIAAECSDgABQABwAAAPX/EAAAtAAAQCBAIAAEMyDgABQABgAAAPX/EAAAtAAA
+QCBAIAAEGiDgABQABgAAAPX/EAAAtAAAQCBAIAAEKyDgABQABwAAAPX/EAAAtAAAQCBAIAAENiDg
+ABQABgAAAPX/EAAAtAAAQCBAIAAEHyDgABQABwAAAPX/EAAAtAAAQCBAIAAEGCDgABQABwAAAPX/
+EAAAtAAAQCBAIAAEOSDgABQABgAAAPX/EAAAtAAAQCBAIAAEFiDgABQABwAAAPX/EAAAtAAAQCBA
+IAAEFiDgABQAAAAAAAEAEAAAEAAAQCBAIAACwCDgABQABQAAAAEAGAAAeBERQCBAIAAGHyDgABQA
+BQAAAAEAKAAAeBERQCBAIAAGHyDgABQABQAAAAEAGAAAOBERQCBAIAACwCDgABQABQAAAAEAGAAA
+OBERQCBAIAACwCDgABQABQAAAAEAKAAAOBERQCBAIAACwCDgABQABQAAAAEAKAAAeBERQCBAIAAG
+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
+ZW1lL3RoZW1lL1BLAQIUAAoAAAAAAIdO4kAAAAAAAAAAAAAAAAASAAAAAAAAAAAAEAAAABsIAAB0
+aGVtZS90aGVtZS9fcmVscy9QSwECFAAUAAAACACHTuJADdGQn68AAAAbAQAAJwAAAAAAAAABACAA
+AABLCAAAdGhlbWUvdGhlbWUvX3JlbHMvdGhlbWVNYW5hZ2VyLnhtbC5yZWxzUEsBAhQAFAAAAAgA
+h07iQEwdltDbBQAAIBkAABYAAAAAAAAAAQAgAAAABQEAAHRoZW1lL3RoZW1lL3RoZW1lMS54bWxQ
+SwECFAAUAAAACACHTuJAa3mWFn0AAACKAAAAHAAAAAAAAAABACAAAABOAAAAdGhlbWUvdGhlbWUv
+dGhlbWVNYW5hZ2VyLnhtbFBLBQYAAAAACQAJAD8CAABoCgAAAACMCBAAjAgAAAAAAAAAAAAAAAAA
+AI4IWACOCAAAAAAAAAAAAACQAAAAEQARAFQAYQBiAGwAZQBTAHQAeQBsAGUATQBlAGQAaQB1AG0A
+MgBQAGkAdgBvAHQAUwB0AHkAbABlAEwAaQBnAGgAdAAxADYAYAECAAAAhQAUAF5JAAAAAAYBUwBo
+AGUAZQB0ADEAhQAUACBPAAAAAAYBUwBoAGUAZQB0ADIAhQAUAJhQAAAAAAYBUwBoAGUAZQB0ADMA
+mggYAJoIAAAAAAAAAAAAAAEAAAAAAAAAAgAAAIwABAABAAEAwQEIAMEBAACNNAIAIgACAAAA/ACB
+ECkAAAAdAAAABQABcwByACAAbgBvAAcAAUQAZQB0AGEAaQBsAHMABgABUgBlAG0AYQByAGsACAAB
+RAB1AGUAIABkAGEAdABlABkAAVIAZQBtAGEAcgBrACAAZgByAG8AbQAgAHMAbwBmAHQAdwBhAHIA
+ZQAgAHQAZQBhAG0AdgABQgBhAG4AawAgAFMAdABhAGYAZgAgAGgAYQBzACAAdABvACAAcAByAG8A
+dgBpAGQAZQAgAHQAaABlACAAYwBoAGUAYwBrAGwAaQBzAHQAIAAoAEEAbABsACAAQwBoAGUAYwBr
+ACAAUABvAGkAbgB0AHMAKQAgAG4AZQBlAGQAcwAgAHQAbwAgAGIAZQAgAGMAbwB2AGUAcgBlAGQA
+IAB3AGgAaQBjAGgAIAB3AGkAbABsACAAYgBlACAAZgBpAHIAcwB0ACAAcABhAGcAZQAgAG8AZgAg
+AHQAaABlACAAcwB5AHMAdABlAG0ALgAUAAFJAHQAJwBzACAATgBlAHcAIAByAGUAcQB1AGkAcgBl
+AG0AZQBuAHQASQABRAB1AGUAIABkAGEAdABlACAAdwBpAGwAbAAgAGIAZQAgAHMAaABhAHIAZQBk
+ACAAYgBhAHMAaQBzACAAbwBmACAAdABoAGUAIABNAGEAbgBkAGEAdABvAHIAeQAgAGwAaQBzAHQA
+IAByAGUAYwBlAGkAcAB0ACAAZgByAG8AbQAgAHQAaABlACAAYgBhAG4AawAdAAFoAG8AdwAgAHQA
+bwAgAGQAZQB2AGUAbABvAHAAIABtAGEAbgBkAGEAdABvAHIAeQAgAGwAaQBzAHQAMAABoAAgAE0A
+YQBuAGQAYQB0AG8AcgB5ACAARgBpAGUAbABkAHMAIABuAGUAZQBkAHMAIAB0AG8AIABiAGUAIABw
+AHIAbwB2AGkAZABlAGQAIABiAHkAIABiAGEAbgBrAC4AEgABcABlAG4AZABpAG4AZwAgAGYAcgBv
+AG0AIABiAGEAbgBrACAAOwABoAAgAFIAZQBwAGEAeQBtAGUAbgB0ACAAQQBjAGMAbwB1AG4AdAAg
+AG4AbwAgAHMAaABvAHUAbABkACAAYgBlACAAcABvAHAAdQBsAGEAdABlAGQAIABmAHIAbwBtACAA
+RABhAGkAbAB5ACAARAB1AG0AcAAuAL0AAUkAdAAgAHcAYQBzACAAYwBvAG0AbQB1AG4AaQBjAGEA
+dABlAGQAIABmAG8AcgAgAEIAYQBsAGEAbgBjAGUAIABUAHIAYQBuAHMAZgBlAHIAIABmAG8AcgAg
+AFIAZQBwAGEAeQBtAGUAbgB0ACAAbgBvACAAcwB1AGMAaAAgAGkAbgBmAG8AcgBtAGEAdABpAG8A
+bgAgAHcAYQBzACAAcgBlAGMAZQBpAHYAZQBkACAAZgByAG8AbQAgAHQAaABlACAAQgBhAG4AawAg
+AGgAZQBuAGMAZQAgAGkAdAAgAHcAaQBsAGwAIABiAGUAIABjAG8AbgBzAGkAZABlAHIAZQBkACAA
+YQBzACAAbgBlAHcAIAByAGUAcQB1AGkAcgBlAG0AZQBuAHQALgCgACAATgBlAGUAZABlAGQAIABP
+AHAAcwAgAGgAZQBsAHAAIAB0AG8AIAB1AG4AZABlAHIAcwB0AGEAbgBkACAAdABoAGUAIABmAGwA
+bwB3ACQAAUsAaQBuAGQAbAB5ACAAYwBvAG4AZgBpAHIAbQAgAHcAaABpAGMAaAAgAGEAYwBjACAA
+bgBvACAAdABvACAAZgBlAHQAYwBoAF8AAaAAIABEAGkAcwBiAHUAcgBzAGUAbQBlAG4AdAAgAEQA
+ZQB0AGEAaQBsAHMAIABvAHQAaABlAHIAIAB0AGgAYQBuACAAUgBlAHAAYQB5AG0AZQBuAHQAIABh
+AGMAYwBvAHUAbgB0ACAAQQBwAHAAcgBvAHYAYQBsACAAbgBlAGUAZABzACAAdABvACAAYgBlACAA
+YQB2AGEAaQBsAGEAYgBsAGUALgAgACgAYwBoAGUAYwBrAGwAaQBzAHQAKQAlAAFOAG8AdAAgAGEA
+YgBsAGUAIAB0AG8AIAB1AG4AZABlAHIAcwB0AGEAbgBkACAAawBpAG4AZABsAHkAIABlAHgAcABs
+AGEAaQBuADYAAaAAIABEAGkAcwBiAHUAcgBzAGUAbQBlAG4AdAAgAGEAYwBjAG8AdQBuAHQAIABu
+AG8AIABhAHUAdABvAHAAbwBwAHUAbABhAHQAZQBkACAAZgByAG8AbQAgAGwAbwBzACAAZAB1AG0A
+cAAuAMkAAaAAIABEAGEAdABhAGIAYQBzAGUAIABjAGgAYQBuAGcAZQAgAHIAaQBnAGgAdABlAHMA
+IABuAGUAZQBkAHMAIAB0AG8AIABiAGUAIABvAGYAZgBlAHIAZQBkACAAdABvACAATwBwAGUAcgBh
+AHQAaQBvAG4AYQBsACAAcwB0AGEAZgBmAC4AIAAoAG4AZQBlAGQAcwAgAHQAbwAgAGQAaQBzAGMA
+dQBzAHMAKQAgACgAUgBlAHAAYQB5AG0AZQBuAHQAIABBAGMAYwBvAHUAbgB0ACAAbgBvACAAdwBy
+AG8AbgBnAGwAeQAgAGMAYQBwAHQAdQByAGUAZAAgAGkAbgAgAEEAcABwAHIAbwB2AGUAZAAgAEwA
+TwBTACAARAB1AG0AcAApACAALwAgAFMAdABhAG0AcAAgAEQAdQB0AHkAIAAoAGYAbABlAHgAaQBi
+AGkAbABpAHQAeQAgAHQAbwAgAGMAaABhAG4AZwBlACkAIABpAG4AIABSAGUAYwBlAGkAcAB0ACAA
+cABhAGcAZQAuAO4AAUkAdAAnAHMAIABOAGUAdwAgAHIAZQBxAHUAaQByAGUAbQBlAG4AdACgACAA
+LQAgAEkAdAAnAHMAIABjAGgAYQBsAGwAZQBuAGcAaQBuAGcAIABmAG8AcgAgAHQAaABlACAATwBw
+AHMAIAB0AGUAYQBtACAAYQBuAGQAIABpAG4AIABjAGEAcwBlACAAbwBmACAAYQBuAHkAIAB3AHIA
+bwBuAGcAIAB1AHAAZABhAHQAZQAgAGYAcgBvAG0AIABPAHAAcwAgAHQAZQBhAG0AIABpAHQAIAB3
+AGkAbABsACAAbABlAGEAZAAgAGUAcgByAG8AcgAgAGkAbgAgAHQAaABlACAAcwBvAGYAdAB3AGEA
+cgBlACAAaABlAG4AYwBlAKAAIABSAGUAcQB1AGkAcgBlAGQAIABPAHAAcwAgAHQAZQBhAG0AIABj
+AG8AbgBmAGkAcgBtAGEAdABpAG8AbgAgAHQAbwAgAGEAcwBzAGkAZwBuACAAdABoAGUAIAByAGkA
+ZwBoAHQAcwAgAGEAcwAgAFMAbwBmAHQAdwBhAHIAZQAgAHQAZQBhAG0AIAB3AGkAbABsACAAbgBv
+AHQAIABiAGUAIAByAGUAcwBwAG8AbgBzAGkAYgBsAGUAPQABQgBhAHMAaQBzACAATwBwAHMAIAB0
+AGUAYQBtACAAYwBvAG4AZgBpAHIAbQBhAHQAaQBvAG4AIAByAGkAZwBoAHQAcwAgAGEAcwBzAGkA
+ZwBuAG0AZQBuAHQAIAB3AGkAbABsACAAYgBlACAAdwBvAHIAawBvAHUAdAAOAAFLAGkAbgBkAGwA
+eQAgAGQAaQBzAGMAdQBzAHMAVgABoAAgAFMAYQBtAGUAIABEAGkAcwBjAHIAZQBwAGEAbgBjAGkA
+ZQBzACAAYwBhAHAAdAB1AHIAZQBkACAAYgB5ACAAdABoAGUAIABzAHkAcwB0AGUAbQAgACgAcwBo
+AG8AdQBsAGQAIABuAG8AdAAgAGIAZQAgAGEAbABsAG8AdwBlAGQAKQAuACAAKABEADEAIABhAG4A
+ZAAgAEQAMgAgAFMAdABhAGcAZQApADQAAUIAYQBzAGkAcwAgAG8AZgAgAHIAZQBjAGUAaQBwAHQA
+IABvAGYAIAB0AGgAZQAgAG0AYQBzAHQAZQByACAAZABhAHQAZQAgAHcAaQBsAGwAIABiAGUAIABh
+AHMAcwBpAGcAbgBlAGQAhAABIABEAGkAZgBmAGUAcgBlAG4AdAAgAGQAaQBzAGMAcgBlAHAAYQBu
+AGMAaQBlAHMAIAByAGEAaQBzAGUAZAAgAGIAeQAgAEQAMQAgAGEAbgBkACAARAAyACAAbgBlAGUA
+ZABzACAAdABvACAAYgBlACAAaABpAGcAaABsAGkAZwBoAHQAZQBkACAAaQBuACAARABpAHMAYwBy
+AGUAcABhAG4AdAAgAE0ASQBTAC4AIABEAHUAcABsAGkAYwBhAHQAZQAgAEQAaQBzAGMAcgBlAHAA
+YQBuAGMAaQBlAHMAIABuAGUAZQBkAHMAIAB0AG8AIABiAGUAIAByAGUAbQBvAHYAZQBkAC4ATgAB
+SQB0ACcAcwAgAE4AZQB3ACAAcgBlAHEAdQBpAHIAZQBtAGUAbgB0ACAALQAgAEIAYQBuAGsAIABv
+AGYAZgBpAGMAaQBhAGwAcwAgAHQAbwAgAHMAaABhAHIAZQAgAFAAYQBuAGUAbAAgAHcAaQBzAGUA
+oAAgAGQAaQBzAGMAcgBpAHAAYQBuAGMAaQBlAHMAIABtAGEAdABlAHIAmAABMQAwADAAJQAgAGMA
+YQBzAGUAcwAgAHQAbwAgAGIAZQAgAHUAcABsAG8AYQBkAGUAZAAgAGkAbgAgAHMAbwBmAHQAdwBh
+AHIAZQAgACgAYgBhAHMAaQBzACAAbwBuACAAaQBtAGEAZwBlAHMAIAByAGUAYwBlAGkAcAB0ACkA
+LgAgAE4AbwB0ACAAYQBwAHAAcgBvAHYAZQBkACAAYwBhAHMAZQBzACAAKABiAGEAcwBpAHMAIABv
+AG4AIABMAE8AUwAgAEQAdQBtAHAAKQAgAG4AZQBlAGQAcwAgAHQAbwAgAGIAZQAgAGgAaQBnAGgA
+bABpAGcAaAB0AGUAZAAgAHQAaAByAG8AdQBnAGgAIABEAGkAcwBjAHIAZQBwAGEAbgBjAHkAIABN
+AEkAUwAuABQAAUkAdAAnAHMAIABuAGUAdwAgAHIAZQBxAHUAaQByAGUAbQBlAG4AdAB5AAFOAGUA
+ZQBkACAAdABvACAAdQBuAGQAZQByAHMAdABhAG4AZAAgAHQAaABlACAAcAByAG8AYwBlAHMAcwAg
+AGYAbABvAHcAIABmAHIAbwBtACAATwBwAHMAIAB3AGgAaQBjAGgAIAB3AGkAbABsACAAYgBlACAA
+ZABvAG4AZQAgAG8AbgAgAE0AbwBuAGQAYQB5ACAALQA1AC8ANgAvADIAMAAxADcAIABhAG4AZAAg
+AGEAYwBjAG8AcgBkAGkAbgBnAGwAeQAgAGQAYQB0AGUAIAB3AGkAbABsACAAYgBlACAAYQBzAHMA
+aQBnAG4AZQBkAFMAAaAAIABNAHUAbAB0AGkAcABsAGUAIABCAFQAIABMAG8AYQBuACAAQQBjAGMA
+bwB1AG4AdAAgAG4AbwAgAGEAbgBkACAAQQBtAG8AdQBuAHQAIABuAGUAZQBkAHMAIAB0AG8AIABi
+AGUAIAB0AGEAawBlAG4AIABmAHIAbwBtACAATABPAFMAIABBAHAAcAByAG8AdgBlAGQAIABEAHUA
+bQBwACAALgD/AAoAHQDTOAAADAAAAAoAAAAJCBAAAAYQALsNzQfBgAEAAAYAAAsCFAAAAAAAAAAA
+AAsAAAAlBwAAtE4AAA0AAgABAAwAAgBkAA8AAgABABEAAgAAABAACAD8qfHSTWJQP18AAgABACoA
+AgAAACsAAgAAAIIAAgABAIAACAAAAAAAAAAAACUCBAAAAB0BgQACAMEEFAAAABUAAACDAAIAAACE
+AAIAAAAmAAgAAAAAAAAA6D8nAAgAAAAAAAAA6D8oAAgAAAAAAAAA8D8pAAgAAAAAAAAA8D+hACIA
+CQBkAAEAAQABAAYAAAAAAFK4HoXrUeA/UrgehetR4D8BAJwIJgCcCAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAADAAAAAAAAAAAAFUAAgAIAH0ADAAAAAAAAAlAAAAABAB9AAwAAQABAIAuQAACAAQA
+fQAMAAIAAgAAIEAAAgAEAH0ADAADAAMAICtAAAIABAB9AAwABAAEACAhQAACAAQAfQAMAAUAAAEA
+CUAAAAAEAAACDgAAAAAACwAAAAAABQAAAAgCEAAAAAAABQAsAQAAAAAAAQ8ACAIQAAEAAAAFAJ8F
+AAAAAEABDwAIAhAAAgAAAAUAWAIAAAAAAAEPAAgCEAADAAAABQDcBQAAAAAAAQ8ACAIQAAQAAAAF
+AFgCAAAAAAABDwAIAhAABQAAAAUA3AUAAAAAAAEPAAgCEAAGAAAABQAIBwAAAAAAAQ8ACAIQAAcA
+AAAFAFgCAAAAAAABDwAIAhAACAAAAAUAhAMAAAAAAAEPAAgCEAAJAAAABQCEAwAAAAAAAQ8ACAIQ
+AAoAAAAFAFgCAAAAAAABDwD9AAoAAAAAAEEAAAAAAP0ACgAAAAEAQgABAAAA/QAKAAAAAgBCAAIA
+AAD9AAoAAAADAEIAAwAAAP0ACgAAAAQAQQAEAAAAfgIKAAEAAABDAAAA8D/9AAoAAQABAEQABQAA
+AP0ACgABAAIARQAGAAAA/QAKAAEAAwBFAAcAAAD9AAoAAQAEAEQACAAAAH4CCgACAAAAQwAAAABA
+/QAKAAIAAQBEAAkAAAD9AAoAAgACAEUABgAAAP0ACgACAAMARQAHAAAA/QAKAAIABABEAAoAAAB+
+AgoAAwAAAEMAAAAIQP0ACgADAAEARAALAAAA/QAKAAMAAgBGAAwAAAABAgYAAwADAEMA/QAKAAMA
+BABEAA0AAAB+AgoABAAAAEMAAAAQQP0ACgAEAAEARAAOAAAA/QAKAAQAAgBFAAYAAAD9AAoABAAD
+AEUABwAAAP0ACgAEAAQARAAPAAAAfgIKAAUAAABDAAAAFED9AAoABQABAEQAEAAAAP0ACgAFAAIA
+RgAMAAAAAQIGAAUAAwBDAP0ACgAFAAQARAANAAAAfgIKAAYAAABDAAAAGED9AAoABgABAEQAEQAA
+AP0ACgAGAAIARQASAAAA/QAKAAYAAwBFABMAAAD9AAoABgAEAEQAFAAAAH4CCgAHAAAAQwAAABxA
+/QAKAAcAAQBEABUAAAD9AAoABwACAEUABgAAAP0ACgAHAAMARQAWAAAA/QAKAAcABABEABQAAAB+
+AgoACAAAAEMAAAAgQP0ACgAIAAEARAAXAAAA/QAKAAgAAgBFABgAAAD9AAoACAADAEUAFgAAAP0A
+CgAIAAQARAAUAAAAfgIKAAkAAABDAAAAIkD9AAoACQABAEQAGQAAAP0ACgAJAAIARQAaAAAA/QAK
+AAkAAwBFABsAAAD9AAoACQAEAEQAFAAAAH4CCgAKAAAAQwAAACRA/QAKAAoAAQBEABwAAAC+AAoA
+CgACAEMAQwADAP0ACgAKAAQARAAUAAAA1wAaAMgDAADIAEYARgBGAEIARgBCAEYARgBGAEYAPgIS
+ALYGAAAAAEAAAABkAAAAAAAAAB0ADwADBQADAAAAAQAFAAUAAwOZAAIAAAlnCBcAZwgAAAAAAAAA
+AAAAAgAB/////wNEAAAKAAAACQgQAAAGEAC7Dc0HwYABAAAGAAALAhAAAAAAAAAAAAAAAAAAJQcA
+AA0AAgABAAwAAgBkAA8AAgABABEAAgAAABAACAD8qfHSTWJQP18AAgABACoAAgAAACsAAgAAAIIA
+AgABAIAACAAAAAAAAAAAACUCBAAAAB0BgQACAMEEFAAAABUAAACDAAIAAACEAAIAAAAmAAgAAAAA
+AAAA6D8nAAgAAAAAAAAA6D8oAAgAAAAAAAAA8D8pAAgAAAAAAAAA8D+hACIACQBkAAEAAQABAAYA
+AAAAAFK4HoXrUeA/UrgehetR4D8BAJwIJgCcCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAA
+AAAAAAAAAFUAAgAIAAACDgAAAAAAAAAAAAAAAAAAAD4CEgC2AAAAAABAAAAAZAAAAAAAAAAdAA8A
+AwAAAAAAAAEAAAAAAAAAmQACAAAJZwgXAGcIAAAAAAAAAAAAAAIAAf////8DRAAACgAAAAkIEAAA
+BhAAuw3NB8GAAQAABgAACwIQAAAAAAAAAAAAAAAAACUHAAANAAIAAQAMAAIAZAAPAAIAAQARAAIA
+AAAQAAgA/Knx0k1iUD9fAAIAAQAqAAIAAAArAAIAAACCAAIAAQCAAAgAAAAAAAAAAAAlAgQAAAAd
+AYEAAgDBBBQAAAAVAAAAgwACAAAAhAACAAAAJgAIAAAAAAAAAOg/JwAIAAAAAAAAAOg/KAAIAAAA
+AAAAAPA/KQAIAAAAAAAAAPA/oQAiAAkAZAABAAEAAQAGAAAAAABSuB6F61HgP1K4HoXrUeA/AQCc
+CCYAnAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABVAAIACAAAAg4AAAAAAAAA
+AAAAAAAAAAA+AhIAtgAAAAAAQAAAAGQAAAAAAAAAHQAPAAMAAAAAAAABAAAAAAAAAJkAAgAACWcI
+FwBnCAAAAAAAAAAAAAACAAH/////A0QAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAQAAAAIAAAADAAAABAAAAAUAAAAGAAAABwAAAAgAAAAJAAAA/v///wsAAAAM
+AAAADQAAAA4AAAAPAAAAEAAAAP7///8SAAAAEwAAABQAAAAVAAAAFgAAABcAAAAYAAAA/v//////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+//////////////8JCBAAAQYAD5oC1QcAAAAACAAAAPsPPgLeV+NBRwD///8BAADA/wAAAAAAAMD/
+AAAAAAAAwP8AAAAAAADA/wAAAAAAAMD/AAAAAAAAwP8AAAAAAADA/wAAAAAAAMD/AAAAAAAAwP8A
+AAAAAADA/wAAAAAAAMD/AAAAAAAAwP8AAAAAAADA/wAAAAAAAMD/AAAAAAAAwP8AAAAAAAAAAAAA
+oAAAAMD/AAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAACepwAAAMD/ABAE
+AAAAwP8AnqcAAAAAAAAAAAAAAMD/AACgAAAAwP8AAAAAAADA/wAAoAAAAMD/AAAAAAAAwP8AAKAA
+AADA/wAAAAAAAMD/AAAAAAAAwP8AEAQAAADA/wAQBAAAAMD/AAAAAAAAwP8AnqcAAADA/wAAoAAA
+AMD/AACgAAAAwP8AnqcAAADA/wAAoAAAAMD/AJ6nAAAAwP8AEAQAAADA/wAYBgAAAMD/AACgAAAA
+wP8AAKAAAADA/wAAoAAAAMD/AACgAAAAwP8AAKAAAADA/wAAoAAAAMD/AACgAAAAwP8AAKAAAADA
+/wAAoAAAAMD/AACgAAAAwP8AAKAAAADA/wAAoAAAAMD/AACgAAAAwP8AAKAAAADA/wAAoAAAAMD/
+AACgAAAAwP8AAKAAAADA/wAAoAAAAMD/AACgAAAAwP8AAKAAAADA/xAAAAAAAAAAEJ7nAAAAwP8Y
+nucAAADA/xCeBwAAAEDAEJ4HAAAAwP8YngcAAADA/xie5wAAAMD/CgAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/v8AAAUBAgAAAAAAAAAAAAAAAAAAAAAAAQAAAOCFn/L5
+T2gQq5EIACsns9kwAAAAfAEAABEAAAABAAAAoAAAAAAAAICoAAAAAgAAALAAAAADAAAAvAAAAAQA
+AADIAAAABQAAANwAAAAGAAAA6AAAAAcAAAD0AAAACAAAAAABAAAJAAAADAEAAAwAAAAYAQAADQAA
+ACQBAAAOAAAAMAEAAA8AAAA4AQAAEAAAAEABAAASAAAASAEAABMAAAB0AQAAAAAAAAAAAAAAAAAA
+AAAAAAIAAACwBAAAEwAAAAkEAAAfAAAAAQAAAAAAAAAfAAAAAQAAAAAAAAAfAAAABgAAAEEAZABt
+AGkAbgAAAB8AAAABAAAAAAAAAB8AAAABAAAAAAAAAB8AAAABAAAAAAAAAB8AAAABAAAAAAAAAB8A
+AAABAAAAAAAAAEAAAAAA24xDkenSAUAAAACA2Qiwk+nSAQMAAAAAAAAAAwAAAAAAAAADAAAAAAAA
+AB8AAAARAAAAVwBQAFMAIABTAHAAcgBlAGEAZABzAGgAZQBlAHQAcwAAAAAAAwAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAP7/AAAFAQIAAAAAAAAAAAAAAAAAAAAAAAIAAAAC1c3VnC4bEJOXCAAr
+LPmuRAAAAAXVzdWcLhsQk5cIACss+a5cAQAAGAEAABAAAAABAAAAiAAAAAAAAICQAAAADwAAAJgA
+AAACAAAApAAAAA4AAACwAAAABgAAALwAAAAFAAAAxAAAABEAAADMAAAAAwAAANQAAAAEAAAA4AAA
+AAcAAADoAAAACAAAAPAAAAAJAAAA+AAAAAoAAAAAAQAACwAAAAgBAAAQAAAAEAEAAAIAAACwBAAA
+EwAAAAkEAAAfAAAAAQAAAAAAAAAfAAAAAQAAAAAAAAAfAAAAAQAAAAAAAAADAAAAAAAAAAMAAAAA
+AAAAAwAAAAAAAAAfAAAAAQAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAMA
+AAAAAAAACwAAAAAAAAALAAAAAAAAAJgAAAAEAAAAAAAAACgAAAABAAAAXAAAAAAAAIBkAAAAAgAA
+AGwAAAABAAAAAgAAABMAAABLAFMATwBQAHIAbwBkAHUAYwB0AEIAdQBpAGwAZABWAGUAcgAAAAAA
+AgAAALAEAAAFAEQAbwBjAHUAbQBlAG4AdABTAHUAbQBtAGEAcgB5AEkAbgBmAG8AcgBtAGEAdABp
+AG8AbgAAAAAAAAAAAAAAOAACAP///////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAABEAAAD0AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////AAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////
+//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAP///////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAABMAAAAJBAAAHwAAABEAAAAxADAAMwAzAC0AMQAwAC4AMgAuADAALgA1ADgAMQAxAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAA
+
+------=_NextPart_000_001D_01D2E9C2.134FA680--

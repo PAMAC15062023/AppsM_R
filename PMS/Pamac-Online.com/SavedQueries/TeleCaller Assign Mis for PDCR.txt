@@ -1,0 +1,6 @@
+select case_details.Case_id,Ref_no,convert(varchar,case_rec_datetime,103) as'Recd Date', First_Name,Verification_code,isnull(res_add_line_1,'')+ + isnull(res_add_line_2,'')+ + isnull(res_add_line_3,'') as Address,
+Res_city,Res_state,Res_pin_code,Fullname as 'TeleCaller Name'from cpv_cc_case_details case_details inner join CPV_CC_TC_CASE_MAPPING tc_mapping on
+case_details.case_id=tc_mapping.case_id inner join employee_master emp_details on 
+tc_mapping.tc_id=emp_details.emp_id where case_details.client_id=101145 
+and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+

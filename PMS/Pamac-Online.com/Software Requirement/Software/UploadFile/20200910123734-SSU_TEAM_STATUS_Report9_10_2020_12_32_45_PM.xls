@@ -1,0 +1,91 @@
+<table border="0">
+	<tr style="height:10px;">
+		<td colspan="10"><b> <span style='background-color:Gray'> <font size='4'>PAMAC FINSERVE PVT. LTD.</font></span></b> <br/><b><font size='2' color='blue'>SSU TEAM STATUS Report.</font></b> <br/></td>
+	</tr><tr>
+		<td colspan="20"></td>
+	</tr>
+</table><div>
+	<table cellspacing="1" cellpadding="1" rules="all" border="1" id="ctl00_C1_GrdView" style="width:850px;height:450px;font-weight:normal;font-size:8pt;font-family:Arial;color:Black;border-width:1px;border-style:Solid;border-color:Transparent;background-color:White;">
+		<tr style="color:Black;background-color:#D0D5D8;font-family:Arial;font-size:8pt;font-weight:bold;height:20px;">
+			<th scope="col">Serial No</th><th scope="col">First Name</th><th scope="col">Last Name</th><th scope="col">Centre</th><th scope="col">RequestDate</th><th scope="col">Suggestion</th><th scope="col">Vertical Name</th><th scope="col">Requirement Type</th><th scope="col">Vertical Type</th><th scope="col">Approve Status</th><th scope="col">Over All Remark</th><th scope="col">Ticket No</th><th scope="col">priority</th><th scope="col">Requirement Type1</th><th scope="col">Implemented At</th><th scope="col">Developer Name</th><th scope="col">DueDate</th><th scope="col">Problem Solution</th><th scope="col">Ticket Close Date</th>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>1</td><td>PRACHI</td><td>SHINDE</td><td>MUMBAI</td><td>05/03/2020</td><td>Test Remaer Test Remaer</td><td>GANESH SAWANT</td><td>Add New Client</td><td>SSU</td><td>deleted</td><td>&nbsp;</td><td>SSU\202003\MUM-000001</td><td>Low</td><td>Error</td><td> PANINDIA locations</td><td>OMKAR  BHOSLE</td><td>06/03/2020</td><td>&nbsp;</td><td>05/03/2020</td>
+		</tr><tr style="background-color:White;">
+			<td>2</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>14/07/2020</td><td>password reset required for pms login </td><td>GANESH SAWANT</td><td>Add New Client</td><td>SSU</td><td>deleted</td><td>&nbsp;</td><td>SSU\202007\Hoc-000001</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>3</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>29/07/2020</td><td>Patty cash entry Delete Patty cash entry Delete</td><td>GANESH SAWANT</td><td>Add New Client</td><td>SSU</td><td>deleted</td><td>NA</td><td>SSU\202007\Hoc-000002</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>OMKAR  BHOSLE</td><td>31/07/2020</td><td>NA</td><td>29/07/2020</td>
+		</tr><tr style="background-color:White;">
+			<td>4</td><td>PRACHI</td><td>SHINDE</td><td>MUMBAI</td><td>31/07/2020</td><td>test Ganesh please approve request</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>deleted</td><td>&nbsp;</td><td>SSU\202007\MUM-000001</td><td>Low</td><td>New Requirement</td><td>PMS WEST</td><td>OMKAR  BHOSLE</td><td>03/08/2020</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>5</td><td>PRACHI</td><td>SHINDE</td><td>MUMBAI</td><td>31/07/2020</td><td>test Ganesh please approve request</td><td>GANESH SAWANT</td><td>Add New Client</td><td>SSU</td><td>deleted</td><td>&nbsp;</td><td>SSU\202007\MUM-000002</td><td>Low</td><td>Error</td><td>PMS WEST</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>6</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>04/08/2020</td><td> </td><td>&nbsp;</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>&nbsp;</td><td>SSU\202008\Hoc-000001</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>7</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>04/08/2020</td><td> </td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>&nbsp;</td><td>SSU\202008\Hoc-000002</td><td>Low</td><td>Error</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>8</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>04/08/2020</td><td> </td><td>PRITHVIRAJ P JOSHI</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>&nbsp;</td><td>SSU\202008\Hoc-000004</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>9</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>04/08/2020</td><td> </td><td>PRITHVIRAJ P JOSHI</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>&nbsp;</td><td>SSU\202008\Hoc-000005</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>10</td><td>Prajakta</td><td>wagh</td><td>HO Centre</td><td>11/08/2020</td><td>&amp;nbsp; </td><td>prachi</td><td>&nbsp;</td><td>SSU</td><td>Approved</td><td>tryygghjkl</td><td>SSU\202008\Hoc-000006</td><td>Low</td><td>Data Dump</td><td> PANINDIA locations</td><td>PRACHI PRADIP SHINDE</td><td>15/08/2020</td><td>coorect this program pms</td><td>12/08/2020</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>11</td><td>Prajakta</td><td>wagh</td><td>HO Centre</td><td>12/08/2020</td><td>&amp;nbsp; </td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202008\Hoc-000007</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>PRACHI PRADIP SHINDE</td><td>15/08/2020</td><td>&nbsp;</td><td>12/08/2020</td>
+		</tr><tr style="background-color:White;">
+			<td>12</td><td>Prajakta</td><td>wagh</td><td>HO Centre</td><td>12/08/2020</td><td>&amp;nbsp; </td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202008\Hoc-000008</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>PRACHI PRADIP SHINDE</td><td>15/08/2020</td><td>&nbsp;</td><td>12/08/2020</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>13</td><td>Prajakta</td><td>wagh</td><td>HO Centre</td><td>12/08/2020</td><td>&amp;nbsp; </td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>Pending</td><td>SSU\202008\Hoc-000009</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>Yasir  Siddiqui</td><td>16/08/2020</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>14</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>14/08/2020</td><td>to be required date less than request date </td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202008\Hoc-000010</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>PRACHI PRADIP SHINDE</td><td>31/12/2020</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>15</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>08/09/2020</td><td>reqeust date prior to today </td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>&nbsp;</td><td>&nbsp;</td><td>SSU\202008\Hoc-000011</td><td>Low</td><td>Enhacement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>16</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>14/08/2020</td><td>Generic process flow issue We need full retification</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Reject</td><td>&nbsp;</td><td>SSU\202008\Hoc-000012</td><td>Low</td><td>Error</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>17</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>14/08/2020</td><td>new - admin and agreement do not follow the flow</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Reject</td><td>&nbsp;</td><td>SSU\202008\Hoc-000013</td><td>Reject</td><td>Enhacement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>18</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>15/08/2020</td><td>auxilo error please read the process fow document</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202008\Hoc-000014</td><td>medium</td><td>Enhacement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>19</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>21/08/2020</td><td>fsghj dfsghh</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>&nbsp;</td><td>SSU\202008\Hoc-000019</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>20</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>25/08/2020</td><td>DFGHJK FGHJK</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>&nbsp;</td><td>SSU\202008\Hoc-000021</td><td>Low</td><td>Error</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>21</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>25/08/2020</td><td>fsghj dfsghh</td><td>MURUGAN  ODIYAR</td><td>Add New Client</td><td>PCPV</td><td>Approved</td><td>&nbsp;</td><td>SSU\202008\Hoc-000023</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>22</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>04/09/2020</td><td>praju111111 prajau123456</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Deleted</td><td>&nbsp;</td><td>SSU\202008\Hoc-000025</td><td>Reject</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>23</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>31/08/2020</td><td>bad good</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202008\Hoc-000026</td><td>Reject</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>24</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>02/09/2020</td><td>sample sample test</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202009\Hoc-000001</td><td>Reject</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>25</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>04/09/2020</td><td>ss ss12</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202009\Hoc-000002</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>26</td><td>Yasir</td><td>Siddiqui</td><td>HO Centre</td><td>02/09/2020</td><td>xx yy</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202009\Hoc-000003</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>27</td><td>Yasir</td><td>Siddiqui</td><td>HO Centre</td><td>02/09/2020</td><td>xx yy</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>InProgress</td><td>SSU\202009\Hoc-000004</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>Yasir  Siddiqui</td><td>02/09/2020</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>28</td><td>Yasir</td><td>Siddiqui</td><td>HO Centre</td><td>02/09/2020</td><td>dfgh dfgh</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202009\Hoc-000005</td><td>Reject</td><td>New Requirement</td><td> PANINDIA locations</td><td>Prajakta Mangaldasa wagh</td><td>01/09/2020</td><td>&nbsp;</td><td>08/09/2020</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>29</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>04/09/2020</td><td>praju111111 prajau123456</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202009\Hoc-000006</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>30</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>04/09/2020</td><td>tyujk1456 tyuik</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Deleted</td><td>&nbsp;</td><td>SSU\202009\Hoc-000007</td><td>Reject</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>31</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>04/09/2020</td><td>rtyuiok llllllllllll</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202009\Hoc-000008</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>32</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>04/09/2020</td><td>babu1 babu2</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>&nbsp;</td><td>&nbsp;</td><td>SSU\202009\Hoc-000009</td><td>Low</td><td>&nbsp;</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>33</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>04/09/2020</td><td>babu1 babu2</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Deleted</td><td>&nbsp;</td><td>SSU\202009\Hoc-000010</td><td>Reject</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>34</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>04/09/2020</td><td>Test Test2</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202009\Hoc-000011</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>35</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>05/09/2020</td><td>Test5 test5s</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>&nbsp;</td><td>&nbsp;</td><td>SSU\202009\Hoc-000012</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>36</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>05/09/2020</td><td>Test2 Test3</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>&nbsp;</td><td>&nbsp;</td><td>SSU\202009\Hoc-000013</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>37</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>07/09/2020</td><td>Test6 test6</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Approved</td><td>&nbsp;</td><td>SSU\202009\Hoc-000014</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:White;">
+			<td>38</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>07/09/2020</td><td>s s</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>&nbsp;</td><td>&nbsp;</td><td>SSU\202009\Hoc-000015</td><td>Low</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>39</td><td>PRACHI</td><td>SHINDE</td><td>HO Centre</td><td>09/09/2020</td><td>Test8 Test9</td><td>prachi</td><td>Add New Client</td><td>SSU</td><td>Deleted</td><td>Deleted</td><td>SSU\202009\Hoc-000016</td><td>Reject</td><td>New Requirement</td><td> PANINDIA locations</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div>

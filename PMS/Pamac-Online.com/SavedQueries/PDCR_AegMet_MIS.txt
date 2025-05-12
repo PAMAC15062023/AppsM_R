@@ -1,0 +1,22 @@
+select ''as[Sr No],department as[Policy Status],priority as[Due / Ludd],region as[Ptp Date],OS_BALANCE as[Approx Time],
+first_name as[Customer Name],ref_no as[Reference No / Loan No],pmt_add_line_1 as[Address],pmt_landmark as[Nearby Station],
+phone_1 as[Tele No],phone_2 as[Tele No2],designation as[Mode],Reversal_Amount as[Amount],pmt_city as[City],'PAMAC'as[Agency],
+status_name as[Final Status],
+--(Select top 1 convert(varchar,attempt_date_time,103) From CPV_CC_VERI_ATTEMPTS  VERI_ATTEMPTS Where VERI_ATTEMPTS.Case_Id=case_det.Case_Id and subremark='Pickedup') as [Pickdup Date],
+--(select top 1 subremark from CPV_CC_VERI_ATTEMPTS  VERI_ATTEMPTS Where VERI_ATTEMPTS.Case_Id=case_det.Case_Id and VERI_ATTEMPTS.remark not like'Select') as [Tele Status],
+--(Select top 1 Remark From CPV_CC_VERI_ATTEMPTS  VERI_ATTEMPTS Where VERI_ATTEMPTS.Case_Id=case_det.Case_Id and VERI_ATTEMPTS.remark not like'Select') as [PickedUp Feedback],
+convert(varchar,attempt_date_time,103) as[Pickdup Date],subremark as[Tele Status],Remark as[PickedUp Feedback],
+veri_det.Despatch_date,defaulted_with as[Bank Name],flooring as[Cheque No],roofing as[Receipt No],feName as[FE Name],
+emp_details.Mobile as[FE Mobile],emp_details1.Fullname as 'TME Name',convert(varchar,case_rec_datetime,103) as[Received Date],
+''as[Visited Date],spouse_name as[Acknowledgement No],entrance_motorable as[OCL Cases],spouse_occu as[Proposal Form Detail],
+stanLiving as[Receipt Received Date],fevisit as[Visit Status],verification_code as[Activity] 
+from CPV_CC_VERI_ATTEMPTS veri_attem 
+left outer join CPV_CC_CASE_DETAILS case_det on case_det.case_id=veri_attem.case_id
+left outer join CPV_CC_VERI_DETAILS veri_det on case_det.case_id=veri_det.case_id
+left outer join case_status_master case_mas on case_mas.case_status_id=veri_det.case_status_id
+left outer join CPV_CC_FE_CASE_MAPPING fe_map on case_det.case_id=fe_map.case_id 
+left outer join employee_master emp_details on fe_map.fe_id=emp_details.emp_id
+left outer join CPV_CC_TC_CASE_MAPPING tc_mapping on case_det.case_id=tc_mapping.case_id 
+left outer join employee_master emp_details1 on tc_mapping.tc_id=emp_details1.emp_id 
+where subremark not like '%Select%' and case_det.client_id in(101139,101128,101123,101144) and 
+@ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE

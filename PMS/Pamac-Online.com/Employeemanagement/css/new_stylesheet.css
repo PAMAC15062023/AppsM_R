@@ -1,0 +1,66 @@
+﻿body {
+}
+
+.text
+{
+	font-family:Courier New;
+	font-size:13px;
+	font-style:normal;
+	font-weight:normal;
+	color:Black;
+}
+
+/*.tbl_heading
+{
+	background-color:White;
+    font-family :Courier New;
+	font-size:15px;
+	font-style:normal;
+	font-weight:bold;
+	color:Black;	
+}*/
+
+.td_color_text
+{
+	background-color:White;
+	font-family:Courier New;
+	font-size:13px;
+	font-style:normal;
+	font-weight:normal;
+	color:Black;
+	
+}
+
+.alginment
+
+{
+	table-layout:fixed;
+	width:auto;
+}
+
+
+  .Grid 
+  {
+	background-color: #fff; 
+	margin: 5px 0  10px 0; 
+	border: solid  1px #525252;
+	 border-collapse:collapse; 
+	 font-family:Calibri;
+	  color: #474747;
+	  
+  }
+  
+  
+  .lbl_txt
+{
+	font-family:Courier New;
+	font-size:11px;
+	font-style:normal;
+	font-weight:normal;
+	color:ButtonHighlight;
+}
+.star
+{
+	color:Red;
+	font-weight:bold;
+}

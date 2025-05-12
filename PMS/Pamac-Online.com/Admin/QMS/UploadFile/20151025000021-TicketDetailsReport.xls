@@ -1,0 +1,336 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Author>ICICI-26</o:Author>
+     <o:Created>2015-10-24T23:57:15</o:Created>
+     <o:LastSaved>2015-10-24T23:57:41</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">1033-9.1.0.4759</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:windowtext;
+	font-size:13.5pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#0000FF;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#800080;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font5
+	{color:#0000FF;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Times New Roman;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"Normal";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"Comma";
+	mso-style-id:3;}
+.style17
+	{mso-number-format:"_\(\\$* \#\,\#\#0\.00_\)\;_\(\\$* \\\(\#\,\#\#0\.00\\\)\;_\(\\$* \0022-\0022??_\)\;_\(\@_\)";
+	mso-style-name:"Currency";
+	mso-style-id:4;}
+.style18
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"Comma[0]";
+	mso-style-id:6;}
+.style19
+	{mso-number-format:"0%";
+	mso-style-name:"Percent";
+	mso-style-id:5;}
+.style20
+	{mso-number-format:"_\(\\$* \#\,\#\#0_\)\;_\(\\$* \\\(\#\,\#\#0\\\)\;_\(\\$* \0022-\0022_\)\;_\(\@_\)";
+	mso-style-name:"Currency[0]";
+	mso-style-id:7;}
+.style21
+	{color:#0000FF;
+	font-size:12.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Times New Roman;
+	mso-style-name:"Hyperlink";
+	mso-style-id:8;}
+.style22
+	{color:#800080;
+	font-size:12.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Times New Roman;
+	mso-style-name:"Followed Hyperlink";
+	mso-style-id:9;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Times New Roman;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl24
+	{mso-style-parent:style0;
+	white-space:normal;}
+.xl25
+	{mso-style-parent:style0;
+	white-space:normal;
+	font-size:13.5pt;
+	font-weight:700;}
+.xl26
+	{mso-style-parent:style0;
+	white-space:normal;
+	color:#0000FF;
+	font-size:10.0pt;
+	font-weight:700;}
+.xl27
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-weight:700;
+	border:.5pt solid windowtext;}
+.xl28
+	{mso-style-parent:style0;
+	white-space:normal;
+	border:.5pt solid windowtext;}
+.xl29
+	{mso-style-parent:style0;
+	mso-number-format:"m\\/d\\/yyyy";
+	white-space:normal;
+	border:.5pt solid windowtext;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>TicketDetailsReport</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>315</x:DefaultRowHeight>
+        <x:Selected/>
+        <x:LeftColumnVisible>9</x:LeftColumnVisible>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>11</x:ActiveCol>
+          <x:ActiveRow>9</x:ActiveRow>
+          <x:RangeSelection>L10</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:Print>
+         <x:ValidPrinterInfo/>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>8550</x:WindowHeight>
+     <x:WindowWidth>15270</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="2428" border="0" cellpadding="0" cellspacing="0" style='width:1821.00pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="171" style='mso-width-source:userset;mso-width-alt:5472;'/>
+   <col width="35" style='mso-width-source:userset;mso-width-alt:1120;'/>
+   <col width="57" style='mso-width-source:userset;mso-width-alt:1824;'/>
+   <col width="151" style='mso-width-source:userset;mso-width-alt:4832;'/>
+   <col width="92" style='mso-width-source:userset;mso-width-alt:2944;'/>
+   <col width="142" style='mso-width-source:userset;mso-width-alt:4544;'/>
+   <col width="160" style='mso-width-source:userset;mso-width-alt:5120;'/>
+   <col width="120" style='mso-width-source:userset;mso-width-alt:3840;'/>
+   <col width="288" style='mso-width-source:userset;mso-width-alt:9216;'/>
+   <col width="138" style='mso-width-source:userset;mso-width-alt:4416;'/>
+   <col width="107" style='mso-width-source:userset;mso-width-alt:3424;'/>
+   <col width="109" style='mso-width-source:userset;mso-width-alt:3488;'/>
+   <col width="98" style='mso-width-source:userset;mso-width-alt:3136;'/>
+   <col width="288" style='mso-width-source:userset;mso-width-alt:9216;'/>
+   <col width="112" style='mso-width-source:userset;mso-width-alt:3584;'/>
+   <col width="72" span="5" style='width:54.00pt;'/>
+   <tr height="20" style='height:15.00pt;mso-height-source:userset;mso-height-alt:300;'>
+    <td class="xl24" height="20" width="171" style='height:15.00pt;width:128.25pt;'></td>
+    <td width="35" style='width:26.25pt;'></td>
+    <td width="57" style='width:42.75pt;'></td>
+    <td width="151" style='width:113.25pt;'></td>
+    <td width="92" style='width:69.00pt;'></td>
+    <td width="142" style='width:106.50pt;'></td>
+    <td width="160" style='width:120.00pt;'></td>
+    <td width="120" style='width:90.00pt;'></td>
+    <td width="288" style='width:216.00pt;'></td>
+    <td width="138" style='width:103.50pt;'></td>
+    <td width="107" style='width:80.25pt;'></td>
+    <td width="109" style='width:81.75pt;'></td>
+    <td width="98" style='width:73.50pt;'></td>
+    <td width="288" style='width:216.00pt;'></td>
+    <td width="112" style='width:84.00pt;'></td>
+    <td width="72" style='width:54.00pt;'></td>
+    <td width="72" style='width:54.00pt;'></td>
+    <td width="72" style='width:54.00pt;'></td>
+    <td width="72" style='width:54.00pt;'></td>
+    <td width="72" style='width:54.00pt;'></td>
+   </tr>
+   <tr height="23" style='height:17.25pt;mso-height-source:userset;mso-height-alt:345;'>
+    <td class="xl25" height="23" colspan="20" style='height:17.25pt;border-right:none;border-bottom:none;' x:str>PAMAC FINSERVE PVT. LTD.</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;mso-height-source:userset;mso-height-alt:315;'>
+    <td class="xl26" height="21" colspan="20" style='height:15.75pt;border-right:none;border-bottom:none;' x:str>Ticket Details Report.</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" style='height:15.75pt;' x:str>Ticket_No</td>
+    <td class="xl27" x:str>ID</td>
+    <td class="xl27" x:str>Centre</td>
+    <td class="xl27" x:str>User_Name</td>
+    <td class="xl27" x:str>Department</td>
+    <td class="xl27" x:str>QMS_Department</td>
+    <td class="xl27" x:str>QMS_User</td>
+    <td class="xl27" x:str>Problem</td>
+    <td class="xl27" x:str>Remark</td>
+    <td class="xl27" x:str>DownloadFilePath</td>
+    <td class="xl27" x:str>File_Attached</td>
+    <td class="xl27" x:str>Created_Date</td>
+    <td class="xl27" x:str>TicketStatus</td>
+    <td class="xl27" x:str>QMS_Remark</td>
+    <td class="xl27" x:str>FollowRemark</td>
+    <td colspan="5" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="42" style='height:31.50pt;'>
+    <td class="xl28" height="42" style='height:31.50pt;' x:str>HR\201510\DL-000001</td>
+    <td class="xl28" align="right" x:num>247</td>
+    <td class="xl28" x:str>Delhi</td>
+    <td class="xl28" x:str>GAJENDRA SINGH</td>
+    <td class="xl28" x:str>PCPA</td>
+    <td class="xl28" x:str>HR</td>
+    <td class="xl28" x:str>SHANKAR DEVARE</td>
+    <td class="xl28" x:str>PF No. Required</td>
+    <td class="xl28" x:str>PLS PROVIDE THE UPDATED PF NO..</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>No</td>
+    <td class="xl29" align="right" x:num="42104.">4/10/2015</td>
+    <td class="xl28" x:str>FollowUp</td>
+    <td class="xl28" x:str>Hi what is your emp. code - have you check this with North HR</td>
+    <td class="xl28" x:str>P-52135</td>
+    <td colspan="5" style='mso-ignore:colspan;'></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="171" style='width:128;'></td>
+     <td width="35" style='width:26;'></td>
+     <td width="57" style='width:43;'></td>
+     <td width="151" style='width:113;'></td>
+     <td width="92" style='width:69;'></td>
+     <td width="142" style='width:107;'></td>
+     <td width="160" style='width:120;'></td>
+     <td width="120" style='width:90;'></td>
+     <td width="288" style='width:216;'></td>
+     <td width="138" style='width:104;'></td>
+     <td width="107" style='width:80;'></td>
+     <td width="109" style='width:82;'></td>
+     <td width="98" style='width:74;'></td>
+     <td width="288" style='width:216;'></td>
+     <td width="112" style='width:84;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>

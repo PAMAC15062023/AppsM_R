@@ -1,0 +1,582 @@
+From: "Mangesh Hande" <mangesh.hande@pamac.com>
+To: <rupesh.zodage@pamac.com>
+Cc: "Santosh Morajkar" <santosh.morajkar@pamac.com>,
+	"Ganesh Sawant" <ganesh.sawant@pamac.com>,
+	"Babar Mian" <babar.mian@pamac.com>
+Subject: Teamspace scanner software development
+Date: Tue, 17 Feb 2015 16:33:33 +0530
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0212_01D04ACF.785E3530"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0212_01D04ACF.785E3530
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Date :- 2014Date :-17th February 2015.
+=20
+
+Hi Rupesh,
+
+=20
+
+As discussed, need to update online Assets tracking system in PMS for =
+TSF ICICI Bank EDP Activity. Also need to generate billing tracker from =
+system itself.=20
+
+=20
+
+Below details needs to incorporate as a masters.
+
+=20
+
+=D8  We will provide the total count of Scanners with serial number, =
+make and model, purchase date, Warranty/AMC ect.=20
+
+=D8  We will provide the total count of Systems along with serial =
+number, vendor name, rental start date, and monthly rental.
+
+=D8  We will provide the total count of dongles with ESN number and =
+telecommunication company.
+
+=D8  Insurance details of Assets.
+
+=D8  Dealer Master List with state and spoke locations.
+
+=D8  Above all the assets are mapped with respective dealer and =
+individual Employee.
+
+=D8  You need to link the above assets and dealer name with TSF HR staff =
+details.
+
+=D8  Unique reference number automatically generate by system for each =
+dealer.
+
+=D8  Assets transfer option needs to create for any assets movement from =
+one dealer to another dealer.
+
+=D8  Complaint tracker needs to update for each assets at local branch =
+level. Complaint MIS output required at central team=20
+
+=D8  Rights of assets movements are remains with central team.
+
+=D8  New Dealer addition rights are remains with central team.
+
+=D8  Deactivation of any dealer - rights remains with central team.
+
+=D8  Below MIS Required (Formats will be share by SM):
+
+=B7         End to End Assets Tracker
+
+=B7         Each Assets Tracker
+
+=B7         Complaint Tracker
+
+=B7         Billing Tracker
+
+=B7         Staff Details
+
+=20
+
+Please confirm your availability to discussed on above process in =
+detailed.
+
+=20
+
+Regards,
+
+Mangesh Hande
+
+Manager - Admin=20
+
+Tel: +91 22 2419 2247 | Mobile: +91 9867 718564 | Email: =
+mangesh.hande@pamac.com| Website: www.pamac.com|
+
+PAMAC Group - Banking on our Credentials.
+
+=20
+
+*************************************************************************=
+****************************************************=20
+
+Disclaimer: This e-mail is confidential. It may also be legally =
+privileged. If you are not the addressee you may not copy, forward, =
+disclose or use any part of it. If you have received this message in =
+error, please delete it and all copies from your system and notify the =
+sender immediately by return e-mail.
+
+
+Internet communications cannot be guaranteed to be timely, secure, error =
+or virus-free. The sender does not accept liability for any errors or =
+omissions.
+
+*************************************************************************=
+****************************************************
+
+P Please don't print this e-mail unless you really need to. Let us save =
+the Mother Earth.
+
+=20
+
+=20
+
+------=_NextPart_000_0212_01D04ACF.785E3530
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns=3D"http://www.w3.org/TR/REC-html40" xmlns:v =3D=20
+"urn:schemas-microsoft-com:vml" xmlns:o =3D=20
+"urn:schemas-microsoft-com:office:office" xmlns:w =3D=20
+"urn:schemas-microsoft-com:office:word" xmlns:m =3D=20
+"http://schemas.microsoft.com/office/2004/12/omml"><HEAD><TITLE>Date :- =
+2014</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2900.5512" name=3DGENERATOR><BASE =
+href=3Dfile:///D:\>
+<STYLE>@font-face {
+	font-family: Wingdings;
+}
+@font-face {
+	font-family: Cambria Math;
+}
+@font-face {
+	font-family: Calibri;
+}
+@font-face {
+	font-family: Tahoma;
+}
+@font-face {
+	font-family: Trebuchet MS;
+}
+@page WordSection1 {size: 8.5in 11.0in; margin: 1.0in 1.25in 1.0in =
+1.25in; }
+P.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"
+}
+LI.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"
+}
+DIV.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"
+}
+A:link {
+	COLOR: blue; TEXT-DECORATION: underline
+}
+SPAN.MsoHyperlink {
+	COLOR: blue; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: purple; TEXT-DECORATION: underline
+}
+SPAN.MsoHyperlinkFollowed {
+	COLOR: purple; TEXT-DECORATION: underline
+}
+P.MsoListParagraph {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.5in; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-priority: 34
+}
+LI.MsoListParagraph {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.5in; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-priority: 34
+}
+DIV.MsoListParagraph {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.5in; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-priority: 34
+}
+P.normalfrutiger47lightcn {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; FONT-FAMILY: =
+"Times New Roman","serif"; mso-style-name: normalfrutiger47lightcn; =
+mso-margin-top-alt: auto; mso-margin-bottom-alt: auto
+}
+LI.normalfrutiger47lightcn {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; FONT-FAMILY: =
+"Times New Roman","serif"; mso-style-name: normalfrutiger47lightcn; =
+mso-margin-top-alt: auto; mso-margin-bottom-alt: auto
+}
+DIV.normalfrutiger47lightcn {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; FONT-FAMILY: =
+"Times New Roman","serif"; mso-style-name: normalfrutiger47lightcn; =
+mso-margin-top-alt: auto; mso-margin-bottom-alt: auto
+}
+SPAN.EmailStyle20 {
+	COLOR: #1f497d; FONT-FAMILY: "Calibri","sans-serif"; mso-style-type: =
+personal-reply
+}
+.MsoChpDefault {
+	FONT-SIZE: 10pt; mso-style-type: export-only
+}
+DIV.WordSection1 {
+	page: WordSection1
+}
+OL {
+	MARGIN-BOTTOM: 0in
+}
+UL {
+	MARGIN-BOTTOM: 0in
+}
+</STYLE>
+<!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></HEAD>
+<BODY lang=3DEN-US vLink=3Dpurple link=3Dblue bgColor=3Dwhite>
+<DIV><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Date=20
+:-1</SPAN><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: #1f497d; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">7</SPAN><SUP><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">th</SPAN></SUP><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: #1f497d; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">=20
+</SPAN><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">February&nbsp;2015.</SPAN><o:p></o:p></DIV>
+<DIV class=3DWordSection1>
+<P class=3DMsoNormal>&nbsp;<SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"><o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Hi=20
+Rupesh,<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal>&nbsp;<SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"><o:p></o:p></SPAN></P>
+<DIV>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">As=20
+discussed, need to update online Assets tracking system in PMS for TSF =
+ICICI=20
+Bank EDP Activity. Also need to generate billing tracker from system =
+itself.=20
+<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Below=20
+details needs to incorporate as a masters.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">We=20
+will provide the total count of Scanners with serial number, make and =
+model,=20
+purchase date, Warranty/AMC ect. <o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">We=20
+will provide the total count of Systems along with serial number, vendor =
+name,=20
+rental start date, and monthly rental.<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">We=20
+will provide the total count of dongles with ESN number and =
+telecommunication=20
+company.<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Insurance=20
+details of Assets.<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Dealer=20
+Master List with state and spoke locations.<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Above=20
+all the assets are mapped with respective dealer and individual=20
+Employee.<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">You=20
+need to link the above assets and dealer name with TSF HR staff=20
+details.<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Unique=20
+reference number automatically generate by system for each=20
+dealer.<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Assets=20
+transfer option needs to create for any assets movement from one dealer =
+to=20
+another dealer.<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Complaint=20
+tracker needs to update for each assets at local branch level. Complaint =
+MIS=20
+output required at central team&nbsp;</SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Rights=20
+of assets movements are remains with central team.<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">New=20
+Dealer addition rights are remains with central =
+team.<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Deactivation=20
+of any dealer =96 rights remains with central =
+team.<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"TEXT-INDENT: -0.25in; mso-list: l2 level1 lfo3"><![if =
+!supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Wingdings"><SPAN=20
+style=3D"mso-list: Ignore">=D8<SPAN style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Below=20
+MIS Required (Formats will be share by SM):<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"MARGIN-LEFT: 1in; TEXT-INDENT: -0.25in; mso-list: l2 level2 =
+lfo3"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: #1f497d; FONT-FAMILY: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">End=20
+to End Assets Tracker<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"MARGIN-LEFT: 1in; TEXT-INDENT: -0.25in; mso-list: l2 level2 =
+lfo3"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: #1f497d; FONT-FAMILY: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Each=20
+Assets Tracker<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"MARGIN-LEFT: 1in; TEXT-INDENT: -0.25in; mso-list: l2 level2 =
+lfo3"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: #1f497d; FONT-FAMILY: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Complaint=20
+Tracker<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"MARGIN-LEFT: 1in; TEXT-INDENT: -0.25in; mso-list: l2 level2 =
+lfo3"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: #1f497d; FONT-FAMILY: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Billing=20
+Tracker<o:p></o:p></SPAN></P>
+<P class=3DMsoListParagraph=20
+style=3D"MARGIN-LEFT: 1in; TEXT-INDENT: -0.25in; mso-list: l2 level2 =
+lfo3"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: #1f497d; FONT-FAMILY: Symbol"><SPAN=20
+style=3D"mso-list: Ignore">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Staff=20
+Details<o:p></o:p></SPAN></P></DIV>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Please=20
+confirm your availability to discussed on above process in=20
+detailed.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 11pt; COLOR: #1f497d; FONT-FAMILY: =
+'Calibri','sans-serif'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Regards,<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Mangesh=20
+Hande<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Manager=20
+- Admin <o:p></o:p></SPAN></P>
+<P class=3Dnormalfrutiger47lightcn style=3D"MARGIN: 0in 0in =
+0pt"><STRONG><SPAN=20
+lang=3DIT=20
+style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: =
+'Trebuchet MS','sans-serif'">T</SPAN></STRONG><SPAN=20
+lang=3DIT=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">el:=20
++91 22&nbsp;2419 2247&nbsp;| Mobile: +91 9867 718564 | Email:&nbsp;<U><A =
+
+href=3D"mailto:mangesh.hande@pamac.com|">mangesh.hande@pamac.com|</A></U>=
+=20
+Website:&nbsp;<A=20
+href=3D"http://www.pamac.com/">www.pamac.com</A>|</SPAN><STRONG><SPAN =
+lang=3DFR=20
+style=3D"FONT-WEIGHT: normal"><o:p></o:p></SPAN></STRONG></P>
+<P class=3Dnormalfrutiger47lightcn style=3D"MARGIN: 0in 0in =
+0pt"><STRONG><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">PAMAC=20
+Group =96 Banking =
+on&nbsp;our&nbsp;Credentials.</SPAN></STRONG><o:p></o:p></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">*******************************************************=
+**********************************************************************&nb=
+sp;<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Disclaimer:=20
+This e-mail is confidential. It may also be legally privileged. If you =
+are not=20
+the addressee you may not copy, forward, disclose or use any part of it. =
+If you=20
+have received this message in error, please delete it and all copies =
+from your=20
+system and notify the sender immediately by return =
+e-mail.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"><BR>Internet=20
+communications cannot be guaranteed to be timely, secure, error or =
+virus-free.=20
+The sender does not accept liability for any errors or=20
+omissions.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">*******************************************************=
+**********************************************************************<o:=
+p></o:p></SPAN></P>
+<P class=3DMsoNormal><EM><B><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: green; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">P=20
+Please</SPAN></B></EM><B><I><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: green; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">=20
+don't print this e-mail unless you really need to. Let&nbsp;us save the =
+Mother=20
+Earth.</SPAN></I></B><B><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"><o:p></o:p></SPAN></B></P>
+<P class=3DMsoNormal><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal><o:p>&nbsp;</o:p></P></DIV></BODY></HTML>
+
+------=_NextPart_000_0212_01D04ACF.785E3530--

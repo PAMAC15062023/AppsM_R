@@ -1,0 +1,416 @@
+<style>
+
+ /* Font Definitions */
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Verdana Black";
+	panose-1:2 11 10 4 2 1 2 2 2 4;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-right:0pt;
+	text-indent:0pt;
+	margin-top:0pt;
+	margin-bottom:6.0pt;
+	line-height:119%;
+	text-align:left;
+	font-family:Verdana;
+	font-size:7.619pt;
+	color:navy;}
+p.MsoOrganizationName, li.MsoOrganizationName, div.MsoOrganizationName
+	{margin-right:0pt;
+	text-indent:0pt;
+	margin-top:0pt;
+	margin-bottom:0pt;
+	line-height:119%;
+	text-align:left;
+	font-family:Verdana;
+	font-size:15.2857pt;
+	color:#969696;}
+p.MsoTagline, li.MsoTagline, div.MsoTagline
+	{margin-right:0pt;
+	text-indent:0pt;
+	margin-top:0pt;
+	margin-bottom:0pt;
+	line-height:119%;
+	text-align:left;
+	font-family:Verdana;
+	font-size:10.1904pt;
+	color:navy;}
+p.MsoAccentText, li.MsoAccentText, div.MsoAccentText
+	{margin-right:0pt;
+	text-indent:0pt;
+	margin-top:0pt;
+	margin-bottom:0pt;
+	line-height:119%;
+	text-align:left;
+	font-family:Verdana;
+	font-size:6.857pt;
+	color:navy;}
+ol
+	{margin-top:0in;
+	margin-bottom:0in;
+	margin-left:-2197in;}
+ul
+	{margin-top:0in;
+	margin-bottom:0in;
+	margin-left:-2197in;}
+@page
+	{size:6.0302in 11.0in;}
+
+.navigation-bar {
+    width: 100%;  /* i'm assuming full width */
+    height: 80px; /* change it to desired width */
+    background-color: black; /* change to desired color */
+}
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 10px;    /* if you want it vertically middle of the navbar. */
+}
+.navigation-bar > a {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    height: 80px;        /* if you want it to take the full height of the bar */
+    line-height: 80px;    /* if you want it vertically middle of the navbar */
+}
+
+nav{
+	width: 100%;
+	background:white;
+	overflow:auto;
+	margin-left:600px;
+	font-family:Verdana;
+	list-style: none;
+
+	
+}
+nav ul {
+	padding:0;
+	margin: 0 0o 0 150px;
+	list-style: none;
+}
+li{
+	float:left;
+}
+
+nav a{
+	width: 75px;
+	display: block;
+	padding: 20px  10px;
+	text-decoration:none;
+	font-size: 12px;
+	font-family:Verdana;
+	color:blue;
+	text-align:center;
+}
+
+
+body { 
+	margin:0;
+	padding:0;
+	background:#B0F8AA;
+	overflow-x: hidden;
+  
+	
+<!--	overflow-y: hidden;  !-->
+}
+
+
+.bg-img {
+  /* The image used */
+/*  background-image: url("image1192.png");*/
+
+  /* min-height: 380px;  */
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+
+  /* Needed to position the navbar */
+  position: relative;
+}
+
+/* Position the navbar container inside the image */
+.container {
+  position: relative;
+  margin-left: 500px;
+  width: auto;
+ 
+}
+
+/* The navbar */
+.topnav {
+  overflow: none;
+  background-color: #000000;
+  display:inline-block;
+  width:866px;
+  list-style: none;
+  
+ 
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  color: #FFFFFF;
+  text-align: center;
+  display:block;
+  padding: 14px 16px ;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  
+  }
+ .bimage {
+	 postion:absolute;
+	  width:500px;
+	  left:1px;top:0px;height:48px
+  } 
+  .mainimage {
+	 postion:absolute;
+	  width:100%;
+	  height:70%
+	  } 
+  .tabimagepos {
+	  width:400px;
+	   top:550px;height:48px; 
+	 
+  } 
+
+ .tabimage {
+	 postion:absolute;
+	  width:350px;;
+	  height:48px;0%
+  } 
+
+   .textarea1 {
+	 postion:relative;z-index:150;
+	width:350px;
+	rows="10" ;
+	cols="40" ;
+
+	height:200px;
+  } 
+  	.textarea2 {
+		width:1220px;
+		rows="10" ;
+		cols="190" ;
+		height:320px;  
+  } 
+     .textarea3 {
+			width:350px;
+			rows="20" ;
+			cols="30" ;
+			height:400px;  
+  }
+   .mapimage {
+	 postion:absolute;
+	  width:400px;
+	  height:300px;
+  } 
+/*  This is the beginning of screen resolution level modifications */
+	  
+  @media screen and (min-width: 1101px) and (max-width: 1300px)  {
+		  .container  {
+			margin-left: 474;
+			font-size: 12px;
+			font-style: italic;
+			color: #666;
+		  }
+		  .topnav {
+				  overflow: none;
+				  background-color: #000000;
+				  display:inline-block;
+				  width:806px;
+				  list-style: none;
+         }
+			.topnav a {
+		  float: left;
+		  color: #FFFFFF;
+		  text-align: center;
+		  display:block;
+		  padding: 14px 16px ;
+		  text-decoration: none;
+		  font-size: 17px;
+		}
+		 .bimage {
+			 postion:absolute;
+			  width:474px;
+			  left:1px;top:0px;height:48px
+		} 
+		.mainimage {
+			 postion:absolute;
+			  width:100%;
+			  height:70%;
+        } 
+		 .tabimage {
+			 postion:absolute;
+			  width:300px;;
+			  left:1px;top:0px;height:48px
+		} 
+
+		 .textarea1 {
+			width:300px;
+			rows="10" ;
+			cols="30" ;
+		
+			height:250px;  
+        } 
+			.textarea2 {
+		width:1150px;
+		rows="10" ;
+		cols="190" ;
+		height:320px;  
+       } 
+	      .textarea3 {
+			width:300px;
+			rows="20" ;
+			cols="30" ;
+			height:405px;  
+  }
+
+ }
+  @media screen and (max-width: 1100px) and (min-width: 1001px){
+		  .container  {
+			margin-left: 373px;
+			height:45px
+			font-size: 12px;
+			font-style: italic;
+			color: #666;
+		  }
+		  .topnav {
+			  overflow: none;
+			  background-color: #000000;
+			  display:inline-block;
+			  width:651px;
+			  list-style: none;
+		   }
+		  .topnav a {
+		  float: left;
+		  color: #FFFFFF;
+		  text-align: center;
+		  display:block;
+		  padding: 14px 10px ;
+		  text-decoration: underline;
+		  font-size: 17px;
+		}
+		 .bimage {
+	 postion:absolute;
+	  width:373px;
+	  left:1px;top:0px;height:48px
+        } 
+				 .mainimage {
+			 postion:absolute;
+			  width:100%;
+			  height:65%;
+        } 
+		.tabimage {
+			 postion:absolute;
+			  width:300px;;
+			  left:1px;top:0px;height:48px
+		} 
+		
+		 .textarea1 {
+			width:300px;
+			rows="15" ;
+			cols="30" ;
+			height:250px;  
+        }   	
+		.textarea2 {
+		width:900px;
+		rows="10" ;
+		cols="190" ;
+		height:320px;  
+       } 
+	       .textarea3 {
+			width:300px;
+			rows="20" ;
+			cols="30" ;
+			height:450px;  
+  }
+}
+  @media screen and (max-width: 1000px) and (min-width: 800px){
+		  .container  {
+			margin-left: 273px;
+			height:45px
+			font-size: 12px;
+			font-style: italic;
+			color: #666;
+		  }
+		  .topnav {
+			  overflow: none;
+			  background-color: #000000;
+			  display:inline-block;
+			  width:525px;
+			  list-style: none;
+		   }
+		  .topnav a {
+		  float: left;
+		  color: #FFFFFF;
+		  text-align: center;
+		  display:block;
+		  padding: 14px 6px ;
+		  text-decoration: none;
+		  font-size: 14px;
+		}
+		 .bimage {
+			 postion:absolute;
+			  width:273px;
+			  left:1px;top:0px;height:48px
+        } 
+		 .mainimage {
+			 postion:absolute;
+			  width:100%;
+			  height:60%;
+        } 
+		.tabimage {
+			 postion:absolute;
+			  width:250px;;
+			  left:1px;top:0px;height:48px
+		} 
+		 .textarea1 {
+			width:250px;
+			rows="20" ;
+			cols="30" ;
+			
+			height:350px;  
+        } 
+			.textarea2 {
+		width:640px;
+		rows="45" ;
+		cols="190" ;
+		height:450px;  
+  } 
+       .textarea3 {
+			width:235px;
+			rows="20" ;
+			cols="30" ;
+			height:500px;  
+  }
+
+     .mapimage {
+	 postion:absolute;
+	  width:400px;
+	  height:300px;
+  } 
+     .mapimagepos {
+	 postion:absolute;
+	  left:400px;
+	  top:1%;
+	  height:300px;
+  } 
+
+}
+
+</style>

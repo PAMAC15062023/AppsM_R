@@ -1,0 +1,2619 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Author>Ram Narvekar</o:Author>
+     <o:Created>2014-12-10T17:54:40</o:Created>
+     <o:LastSaved>2014-12-10T17:59:04</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">1033-9.1.0.4674</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#000000;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#0000FF;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#800080;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Times New Roman;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"Normal";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"Comma";
+	mso-style-id:3;}
+.style17
+	{mso-number-format:"_\(\\$* \#\,\#\#0\.00_\)\;_\(\\$* \\\(\#\,\#\#0\.00\\\)\;_\(\\$* \0022-\0022??_\)\;_\(\@_\)";
+	mso-style-name:"Currency";
+	mso-style-id:4;}
+.style18
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"Comma[0]";
+	mso-style-id:6;}
+.style19
+	{mso-number-format:"0%";
+	mso-style-name:"Percent";
+	mso-style-id:5;}
+.style20
+	{mso-number-format:"_\(\\$* \#\,\#\#0_\)\;_\(\\$* \\\(\#\,\#\#0\\\)\;_\(\\$* \0022-\0022_\)\;_\(\@_\)";
+	mso-style-name:"Currency[0]";
+	mso-style-id:7;}
+.style21
+	{color:#0000FF;
+	font-size:12.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Times New Roman;
+	mso-style-name:"Hyperlink";
+	mso-style-id:8;}
+.style22
+	{color:#800080;
+	font-size:12.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Times New Roman;
+	mso-style-name:"Followed Hyperlink";
+	mso-style-id:9;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Times New Roman;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl24
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#CCCCFF;
+	color:#000000;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial;
+	border-left:1.0pt solid windowtext;
+	border-top:1.0pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;}
+.xl25
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#CCCCFF;
+	color:#000000;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial;
+	border-left:.5pt solid windowtext;
+	border-top:1.0pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;}
+.xl26
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#CCCCFF;
+	color:#000000;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial;
+	border-left:.5pt solid windowtext;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;}
+.xl27
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#000000;
+	font-size:8.0pt;
+	font-family:Arial;
+	border-left:1.0pt solid windowtext;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;}
+.xl28
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#000000;
+	font-size:8.0pt;
+	font-family:Arial;
+	border:.5pt solid windowtext;}
+.xl29
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#000000;
+	font-size:8.0pt;
+	font-family:Arial;
+	border-left:.5pt solid windowtext;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;}
+.xl30
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#000000;
+	font-size:8.0pt;
+	font-family:Arial;
+	border-left:1.0pt solid windowtext;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;}
+.xl31
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#000000;
+	font-size:8.0pt;
+	font-family:Arial;
+	border-left:.5pt solid windowtext;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;}
+.xl32
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#000000;
+	font-size:8.0pt;
+	font-family:Arial;
+	border-left:.5pt solid windowtext;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>Pincode_Master</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>315</x:DefaultRowHeight>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>0</x:ActiveCol>
+          <x:ActiveRow>0</x:ActiveRow>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:FilterOn/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:Print>
+         <x:ValidPrinterInfo/>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>7860</x:WindowHeight>
+     <x:WindowWidth>18600</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="575" border="0" cellpadding="0" cellspacing="0" style='width:431.25pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="75" style='mso-width-source:userset;mso-width-alt:2400;'/>
+   <col width="258" style='mso-width-source:userset;mso-width-alt:8256;'/>
+   <col width="89" style='mso-width-source:userset;mso-width-alt:2848;'/>
+   <col width="95" style='mso-width-source:userset;mso-width-alt:3040;'/>
+   <col width="58" style='mso-width-source:userset;mso-width-alt:1856;'/>
+   <tr height="20" style='height:15.00pt;mso-height-source:userset;mso-height-alt:300;'>
+    <td class="xl24" height="20" width="75" x:autofilter="all" x:autofilterrange="$A$1:E328" style='height:15.00pt;width:56.25pt;' x:str>Pincode No.</td>
+    <td class="xl25" width="258" x:autofilter="all" style='width:193.50pt;' x:str>Area Name</td>
+    <td class="xl25" width="89" x:autofilter="custom" x:autofiltervalue="=10" style='width:66.75pt;' x:str>Fixed ICL Rate</td>
+    <td class="xl25" width="95" x:autofilter="all" style='width:71.25pt;' x:str>Fixed OCL Rate</td>
+    <td class="xl26" width="58" x:autofilter="all" style='width:43.50pt;' x:str>Is Active</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>734001</td>
+    <td class="xl28" x:str>SILIGURI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700002</td>
+    <td class="xl28" x:str>KASHIPUR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700003</td>
+    <td class="xl28" x:str>BAGHBAZAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700004</td>
+    <td class="xl28" x:str>SHYAMBAZAAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700005</td>
+    <td class="xl28" x:str>HATKHOLA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700007</td>
+    <td class="xl28" x:str>BURRABAZAAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700008</td>
+    <td class="xl28" x:str>BARISHA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700009</td>
+    <td class="xl28" x:str>RAJA RAM MOHAN ROY SARANI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700010</td>
+    <td class="xl28" x:str>BELLIAGHATA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700011</td>
+    <td class="xl28" x:str>NARKEL DANGA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700012</td>
+    <td class="xl28" x:str>BOWBAZAAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700013</td>
+    <td class="xl28" x:str>DHARAMTALLA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700014</td>
+    <td class="xl28" x:str>ENTALLY</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700015</td>
+    <td class="xl28" x:str>TANGRA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700016</td>
+    <td class="xl28" x:str>PARK STREET</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700017</td>
+    <td class="xl28" x:str>PARK CIRCUS</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700019</td>
+    <td class="xl28" x:str>BALLYGUNGE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700020</td>
+    <td class="xl28" x:str>ELGIN ROAD(LALA LAJPAT S)</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700021</td>
+    <td class="xl28" x:str>FORT WILLIAM</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700022</td>
+    <td class="xl28" x:str>HASTINGS</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700023</td>
+    <td class="xl28" x:str>KHIDERPORE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700024</td>
+    <td class="xl28" x:str>GARDEN REACH</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700025</td>
+    <td class="xl28" x:str>BHOWANIPORE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700026</td>
+    <td class="xl28" x:str>KALIGHAT</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700027</td>
+    <td class="xl28" x:str>ALIPORE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700028</td>
+    <td class="xl28" x:str>DUMDUM</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700029</td>
+    <td class="xl28" x:str>SARAT BOSE ROAD</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700030</td>
+    <td class="xl28" x:str>GHUGHUDANGA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700031</td>
+    <td class="xl28" x:str>DHAKURIA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700032</td>
+    <td class="xl28" x:str>JADAVPUR UNIVERSITY</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700033</td>
+    <td class="xl28" x:str>TOLLYGUNGE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700034</td>
+    <td class="xl28" x:str>BEHALA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700035</td>
+    <td class="xl28" x:str>ALAMBAZAAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700036</td>
+    <td class="xl28" x:str>BARAHNAGAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700037</td>
+    <td class="xl28" x:str>BELGACHIA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700038</td>
+    <td class="xl28" x:str>GHUGHUDANGA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700039</td>
+    <td class="xl28" x:str>TILJALA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700040</td>
+    <td class="xl28" x:str>REGENT PARK</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700041</td>
+    <td class="xl28" x:str>PASHIMPUTTAIRI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700042</td>
+    <td class="xl28" x:str>KASBA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700043</td>
+    <td class="xl28" x:str>S.E.RAILWAY(G.R.)</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700045</td>
+    <td class="xl28" x:str>LAKE GARDENS</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700046</td>
+    <td class="xl28" x:str>GOBINDO KHATIK ROAD</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700047</td>
+    <td class="xl28" x:str>NAKTALLA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700048</td>
+    <td class="xl28" x:str>SREE BHUMI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700049</td>
+    <td class="xl28" x:str>NIMTA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700050</td>
+    <td class="xl28" x:str>SITHI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700051</td>
+    <td class="xl28" x:str>BIRATI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700052</td>
+    <td class="xl28" x:str>CCU AIRPORT</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700053</td>
+    <td class="xl28" x:str>NEW ALIPORE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700054</td>
+    <td class="xl28" x:str>KANKURGACHI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700055</td>
+    <td class="xl28" x:str>BANGUR AVENUE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700056</td>
+    <td class="xl28" x:str>BELGHORIA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700057</td>
+    <td class="xl28" x:str>ARIADAHA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700058</td>
+    <td class="xl28" x:str>KAMARHATI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700059</td>
+    <td class="xl28" x:str>DESHBANDHU NAGAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700060</td>
+    <td class="xl28" x:str>PARNASHREE PALLY</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700061</td>
+    <td class="xl28" x:str>SARSUNA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700062</td>
+    <td class="xl28" x:str>RAJBHAWAN</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700063</td>
+    <td class="xl28" x:str>THAKURPUR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700064</td>
+    <td class="xl28" x:str>SALT LAKE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700065</td>
+    <td class="xl28" x:str>RABINDRANAGAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700067</td>
+    <td class="xl28" x:str>ULTADANGA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700068</td>
+    <td class="xl28" x:str>JODHPUR PARK</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700069</td>
+    <td class="xl28" x:str>ESPLANADE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700070</td>
+    <td class="xl28" x:str>BANSDRONI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700071</td>
+    <td class="xl28" x:str>RUSSEL ST(MIDDELTON ROW)</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700072</td>
+    <td class="xl28" x:str>PRINCEP STREET</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700073</td>
+    <td class="xl28" x:str>CHITTARANJAN AVENUE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700074</td>
+    <td class="xl28" x:str>MOTIJHEEL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700075</td>
+    <td class="xl28" x:str>SANTOSHPUR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700076</td>
+    <td class="xl28" x:str>DAKSHINESHWA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700077</td>
+    <td class="xl28" x:str>BADIA PARA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700078</td>
+    <td class="xl28" x:str>HALTU</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700079</td>
+    <td class="xl28" x:str>ITALGACHA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700080</td>
+    <td class="xl28" x:str>MALL ROAD</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700081</td>
+    <td class="xl28" x:str>RAJBARI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700082</td>
+    <td class="xl28" x:str>H.A.L.TOWNSHIP</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700083</td>
+    <td class="xl28" x:str>NADAN NAGARA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700084</td>
+    <td class="xl28" x:str>GARIA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700085</td>
+    <td class="xl28" x:str>K G BOSE SARANI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700086</td>
+    <td class="xl28" x:str>BAGHAJATIN</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700087</td>
+    <td class="xl28" x:str>LINDSAY STREET (NEW MKT)</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700088</td>
+    <td class="xl28" x:str>TARATOLA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700089</td>
+    <td class="xl28" x:str>LAKE TOWN</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700090</td>
+    <td class="xl28" x:str>NAWPARA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700091</td>
+    <td class="xl28" x:str>SECH BHAVAN (SALT LAKE)</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700092</td>
+    <td class="xl28" x:str>REGENT ESTATE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700093</td>
+    <td class="xl28" x:str>PURBA PUTIARI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700094</td>
+    <td class="xl28" x:str>PANCHA SAYAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700095</td>
+    <td class="xl28" x:str>GOLF GREEN</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700096</td>
+    <td class="xl28" x:str>BRAHAMAPUR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700097</td>
+    <td class="xl28" x:str>PURBACHAL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700098</td>
+    <td class="xl28" x:str>SAI COMPLEX</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700101</td>
+    <td class="xl28" x:str>PRAFULLA KANNAN</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700102</td>
+    <td class="xl28" x:str>KRISHNAPUR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700105</td>
+    <td class="xl28" x:str>DHAPA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700106</td>
+    <td class="xl28" x:str>SALT LAKE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700107</td>
+    <td class="xl28" x:str>KASBA INDUSTRIAL ESTATE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700108</td>
+    <td class="xl28" x:str>104 B.T. ROAD TENAMENT</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700109</td>
+    <td class="xl28" x:str>AGARPARA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700110</td>
+    <td class="xl28" x:str>SODEPORE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700111</td>
+    <td class="xl28" x:str>GHOLA BAZAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700112</td>
+    <td class="xl28" x:str>PANSHILA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700113</td>
+    <td class="xl28" x:str>NATA GARH</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700114</td>
+    <td class="xl28" x:str>PANIHATI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700115</td>
+    <td class="xl28" x:str>SUKHCHAN</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700116</td>
+    <td class="xl28" x:str>BALARAM DHARMA SOPAN</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700117</td>
+    <td class="xl28" x:str>KHARDAH</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700118</td>
+    <td class="xl28" x:str>RAHARA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700119</td>
+    <td class="xl28" x:str>TITA GARH</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700120</td>
+    <td class="xl28" x:str>BARRACKPORE H.O.</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700121</td>
+    <td class="xl28" x:str>NILGUNJ BAZAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700122</td>
+    <td class="xl28" x:str>NONA CHANDAN PUKUR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700124</td>
+    <td class="xl28" x:str>BARASAT H.O.</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700125</td>
+    <td class="xl28" x:str>NOAPARA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700126</td>
+    <td class="xl28" x:str>NAVAPALLY</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700127</td>
+    <td class="xl28" x:str>HRIDAYPUR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700129</td>
+    <td class="xl28" x:str>MADHYAMGRAM</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700130</td>
+    <td class="xl28" x:str>MADHYAMBAZAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700131</td>
+    <td class="xl28" x:str>NEW BARRACKPORE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700133</td>
+    <td class="xl28" x:str>MICHAEL NAGAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711101</td>
+    <td class="xl28" x:str>HOWRAH H.O.</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711102</td>
+    <td class="xl28" x:str>SHIBPORE</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711103</td>
+    <td class="xl28" x:str>BOTANICAL GARDEN</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711104</td>
+    <td class="xl28" x:str>SANTRA GACHI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711105</td>
+    <td class="xl28" x:str>DASH NAGAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711106</td>
+    <td class="xl28" x:str>SALKIA H.O.</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711107</td>
+    <td class="xl28" x:str>GHUSURI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711201</td>
+    <td class="xl28" x:str>BALLY</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711202</td>
+    <td class="xl28" x:str>BELUR MATH</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711203</td>
+    <td class="xl28" x:str>BHATTANAGAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711204</td>
+    <td class="xl28" x:str>LILUAH</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711205</td>
+    <td class="xl28" x:str>SAMABAY PALLY</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711227</td>
+    <td class="xl28" x:str>GOSH PARA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712101</td>
+    <td class="xl28" x:str>CHINSURA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712102</td>
+    <td class="xl28" x:str>CHINSURA R. S.</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712103</td>
+    <td class="xl28" x:str>HOOGHLY</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712104</td>
+    <td class="xl28" x:str>SAHA GUNJ</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712105</td>
+    <td class="xl28" x:str>BURO SHIBTOLLA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712123</td>
+    <td class="xl28" x:str>BANDEL JN.</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712124</td>
+    <td class="xl28" x:str>BHADRESHWAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712125</td>
+    <td class="xl28" x:str>TELINIPARA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712136</td>
+    <td class="xl28" x:str>CHANDANNAGAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712150</td>
+    <td class="xl28" x:str>RABINDRA NAGAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712201</td>
+    <td class="xl28" x:str>SHRIRAMPUR H.O.</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712202</td>
+    <td class="xl28" x:str>SHRIRAMPUR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712203</td>
+    <td class="xl28" x:str>MALLICK PARA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712204</td>
+    <td class="xl28" x:str>CHHATRA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712205</td>
+    <td class="xl28" x:str>MORE PUKUR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712221</td>
+    <td class="xl28" x:str>ENGASH</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712222</td>
+    <td class="xl28" x:str>BAIDYA BATI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712223</td>
+    <td class="xl28" x:str>SHEORAPHULY</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712232</td>
+    <td class="xl28" x:str>BHADRAKALI</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712233</td>
+    <td class="xl28" x:str>HIND MOTOR HOOGHLY</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712235</td>
+    <td class="xl28" x:str>KONNAGAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712246</td>
+    <td class="xl28" x:str>NABA GRAM</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712248</td>
+    <td class="xl28" x:str>RISHRA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712249</td>
+    <td class="xl28" x:str>PROVASH NAGAR</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>712258</td>
+    <td class="xl28" x:str>UTTARPARA</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700018</td>
+    <td class="xl28" x:str>BARTALA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700066</td>
+    <td class="xl28" x:str>BIDHANNAGAR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700103</td>
+    <td class="xl28" x:str>NARENDRAPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700134</td>
+    <td class="xl28" x:str>NILACHAL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700135</td>
+    <td class="xl28" x:str>GOPALPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700136</td>
+    <td class="xl28" x:str>RAJARHAT</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700137</td>
+    <td class="xl28" x:str>BUDGE BUDGE</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711108</td>
+    <td class="xl28" x:str>NETAJIGARH</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711109</td>
+    <td class="xl28" x:str>DANESH SEQUE LANE</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711302</td>
+    <td class="xl28" x:str>ANDUL MOURI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711306</td>
+    <td class="xl28" x:str>BANKSARA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711311</td>
+    <td class="xl28" x:str>JWAGACHA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711321</td>
+    <td class="xl28" x:str>G.I. PRESS COLONY</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711323</td>
+    <td class="xl28" x:str>KONA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711402</td>
+    <td class="xl28" x:str>BALTIKURI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711403</td>
+    <td class="xl28" x:str>BANKRA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>712224</td>
+    <td class="xl28" x:str>CHADITALA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>712245</td>
+    <td class="xl28" x:str>MAKHLA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>712247</td>
+    <td class="xl28" x:str>RAGHUNATHPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>712310</td>
+    <td class="xl28" x:str>DANKUNI COAL COMPLEX</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743122</td>
+    <td class="xl28" x:str>BENGAL ENAMEL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743123</td>
+    <td class="xl28" x:str>BHAT PARA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743124</td>
+    <td class="xl28" x:str>E.S.D. MASHINARY</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743125</td>
+    <td class="xl28" x:str>JAGADDAL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743126</td>
+    <td class="xl28" x:str>KANKINARA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743127</td>
+    <td class="xl28" x:str>SHYAMNAGAR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743128</td>
+    <td class="xl28" x:str>ATHPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743129</td>
+    <td class="xl28" x:str>FINGAPARA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743133</td>
+    <td class="xl28" x:str>GARULIA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743134</td>
+    <td class="xl28" x:str>HALISAHAR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743135</td>
+    <td class="xl28" x:str>HAJI NAGAR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743136</td>
+    <td class="xl28" x:str>NABA NAGAR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743144</td>
+    <td class="xl28" x:str>MARUADHAM MONDAL PARA ICH</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743145</td>
+    <td class="xl28" x:str>KANCHRAPARA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743165</td>
+    <td class="xl28" x:str>NAIHATI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743166</td>
+    <td class="xl28" x:str>GARIFA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700154</td>
+    <td class="xl28" x:str>BORAL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700156</td>
+    <td class="xl28" x:str>RAJARHAT</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>712148</td>
+    <td class="xl28" x:str>MAGRA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>712304</td>
+    <td class="xl28" x:str>JWANAI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700139</td>
+    <td class="xl28" x:str>VIVEKANANDA PALLY</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700140</td>
+    <td class="xl28" x:str>BATANAGAR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700141</td>
+    <td class="xl28" x:str>MAHESHTALA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700143</td>
+    <td class="xl28" x:str>SARKAR POOL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700144</td>
+    <td class="xl28" x:str>BARUIPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700150</td>
+    <td class="xl28" x:str>SONARPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700156</td>
+    <td class="xl28" x:str>NEW TOWN</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700157</td>
+    <td class="xl28" x:str>RAJARHAT / NEW TOWN</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700044</td>
+    <td class="xl28" x:str>BADARTALA_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700099</td>
+    <td class="xl28" x:str>KALIKAPUR_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700100</td>
+    <td class="xl28" x:str>V.I.P.NAGAR_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700123</td>
+    <td class="xl28" x:str>TALPUKUR_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700128</td>
+    <td class="xl28" x:str>NABAPALLY / BADU_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700132</td>
+    <td class="xl28" x:str>GANGANAGAR_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>711224</td>
+    <td class="xl28" x:str>DANKUNI_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700044</td>
+    <td class="xl28" x:str>BADARTALA_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700099</td>
+    <td class="xl28" x:str>KALIKAPUR_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700100</td>
+    <td class="xl28" x:str>V.I.P.NAGAR_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700123</td>
+    <td class="xl28" x:str>TALPUKUR_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700128</td>
+    <td class="xl28" x:str>NABAPALLY / BADU_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700132</td>
+    <td class="xl28" x:str>GANGANAGAR_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711224</td>
+    <td class="xl28" x:str>DANKUNI_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751001</td>
+    <td class="xl28" x:str>Bhubaneswar G.P.O.</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751004</td>
+    <td class="xl28" x:str>Utkal University</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751005</td>
+    <td class="xl28" x:str>Sainik School</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751006</td>
+    <td class="xl28" x:str>Budheshwari Colony</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751007</td>
+    <td class="xl28" x:str>Sahidnagar</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751008</td>
+    <td class="xl28" x:str>Raj Bhawan</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751009</td>
+    <td class="xl28" x:str>Bhubaneswar Airport</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751010</td>
+    <td class="xl28" x:str>Rasulgarh</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751011</td>
+    <td class="xl28" x:str>C.R.P. Lines</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751012</td>
+    <td class="xl28" x:str>Nayapalli</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751013</td>
+    <td class="xl28" x:str>Laboratory</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751014</td>
+    <td class="xl28" x:str>B.J.B. Nagar</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751015</td>
+    <td class="xl28" x:str>I.R.C. Village</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751018</td>
+    <td class="xl28" x:str>Brit Colony</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751020</td>
+    <td class="xl28" x:str>Palashpalli</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751022</td>
+    <td class="xl28" x:str>Janpath</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>751021</td>
+    <td class="xl28" x:str>Sailashree Vihar</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>751023</td>
+    <td class="xl28" x:str>Part of Sailashree Vihar</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>751024</td>
+    <td class="xl28" x:str>K.I.I.T.</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>751031</td>
+    <td class="xl28" x:str>Chandraka Industrial Estate</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751002</td>
+    <td class="xl28" x:str>Old Bhubaneswar_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751003</td>
+    <td class="xl28" x:str>Baramunda_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751016</td>
+    <td class="xl28" x:str>Chandrashekharpur_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751017</td>
+    <td class="xl28" x:str>Mancheshwar_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751019</td>
+    <td class="xl28" x:str>Jagamara_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>751030</td>
+    <td class="xl28" x:str>Khandagiri_ICL</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>751002</td>
+    <td class="xl28" x:str>Old Bhubaneswar_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>751003</td>
+    <td class="xl28" x:str>Baramunda_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>751016</td>
+    <td class="xl28" x:str>Chandrashekharpur_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>751017</td>
+    <td class="xl28" x:str>Mancheshwar_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>751019</td>
+    <td class="xl28" x:str>Jagamara_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>751030</td>
+    <td class="xl28" x:str>Khandagiri_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700006</td>
+    <td class="xl28" x:str>Girish Park</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700104</td>
+    <td class="xl28" x:str>Joka</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>722154</td>
+    <td class="xl28" x:str>KARAK BERIA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>741235</td>
+    <td class="xl28" x:str>KALYANI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>742147</td>
+    <td class="xl28" x:str>KHARGRAM</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711412</td>
+    <td class="xl28" x:str>DEBIPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743503</td>
+    <td class="xl28" x:str>SUKDEVPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>826001</td>
+    <td class="xl28" x:str>Dhanbad</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>734203</td>
+    <td class="xl28" x:str>Darjeeling</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>825107</td>
+    <td class="xl28" x:str>Jharkhand</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>734002</td>
+    <td class="xl28" x:str>SILIGURI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="21" style='height:15.75pt;'>
+    <td class="xl27" height="21" align="right" style='height:15.75pt;' x:num>700001</td>
+    <td class="xl28" x:str>GPO</td>
+    <td class="xl28" align="right" x:num>10</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711312</td>
+    <td class="xl28" x:str>MUGKALYAN</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>741245</td>
+    <td class="xl28" x:str>MADANPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>713104</td>
+    <td class="xl28" x:str>RAJBATI BURDWAN</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743701</td>
+    <td class="xl28" x:str>SANEKPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700145</td>
+    <td class="xl28" x:str>RAJPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700158</td>
+    <td class="xl28" x:str>MICHAEL NAGAR_OCL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>732122</td>
+    <td class="xl28" x:str>Maldah</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>741155</td>
+    <td class="xl28" x:str>PALASHIPARA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>741156</td>
+    <td class="xl28" x:str>SAHEBNAGAR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>712409</td>
+    <td class="xl28" x:str>SINGUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>742149</td>
+    <td class="xl28" x:str>Murshidabad</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700151</td>
+    <td class="xl28" x:str>DAKSHIN JAGADDAL</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711302</td>
+    <td class="xl28" x:str>Duilya</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700145</td>
+    <td class="xl28" x:str>Bamangachi</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>713365</td>
+    <td class="xl28" x:str>CHITTARANJAN</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>742101</td>
+    <td class="xl28" x:str>BERHAMPORE</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>713337</td>
+    <td class="xl28" x:str>Jamuriya</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700153</td>
+    <td class="xl28" x:str>LASKARPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>734003</td>
+    <td class="xl28" x:str>[10:12:08 AM] Rohan Modak: AKASH DEBNATH</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743411</td>
+    <td class="xl28" x:str>Basirhat</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>734003</td>
+    <td class="xl28" x:str>CHAMPASARI, SILIGURI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743426</td>
+    <td class="xl28" x:str>HASNABAD</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>736174</td>
+    <td class="xl28" x:str>BARANACHINA, COOCH BEHAR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>712512</td>
+    <td class="xl28" x:str>KALNA, BURDWAN</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>713130</td>
+    <td class="xl28" x:str>KATWA, BURDWAN</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>721602</td>
+    <td class="xl28" x:str>Haldia, Purba Midinapur</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743437</td>
+    <td class="xl28" x:str>BASIRHAT, 24 PGS N</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>629171</td>
+    <td class="xl28" x:str>KANYAKUMARI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743502</td>
+    <td class="xl28" x:str>Gangapur</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700148</td>
+    <td class="xl28" x:str>Harinavi</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>742123</td>
+    <td class="xl28" x:str>Jiaganj</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711113</td>
+    <td class="xl28" x:str>Baltikuri</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711411</td>
+    <td class="xl28" x:str>Domjur</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>713201</td>
+    <td class="xl28" x:str>DURGAPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700152</td>
+    <td class="xl28" x:str>DADPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>781012</td>
+    <td class="xl28" x:str>JALUKBARI, GUWAHATI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700159</td>
+    <td class="xl28" x:str>GOURANGA NAGAR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743263</td>
+    <td class="xl28" x:str>HABRA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743384</td>
+    <td class="xl28" x:str>BAWALI, SOUTH 24 PGS</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>712702</td>
+    <td class="xl28" x:str>BORIJAHATI, HOOGHLY</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>721636</td>
+    <td class="xl28" x:str>Tamluk, Paschim Medinipore</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743355</td>
+    <td class="xl28" x:str>MAGRAHAT, S 24 PGS</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>400018</td>
+    <td class="xl28" x:str>MUMBAI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711110</td>
+    <td class="xl28" x:str>BAKSARA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>712138</td>
+    <td class="xl28" x:str>NOAPARA, SINGUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743222</td>
+    <td class="xl28" x:str>ASHOKE NAGAR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>400610</td>
+    <td class="xl28" x:str>THANE (W), MUMBAI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>400098</td>
+    <td class="xl28" x:str>SANTACRUZ EAST, MUMBAI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>734301</td>
+    <td class="xl28" x:str>KALIMPONG</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743513</td>
+    <td class="xl28" x:str>AMTALA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>741126</td>
+    <td class="xl28" x:str>BIRPUR, NADIA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>743319</td>
+    <td class="xl28" x:str>BUDGE BUDGE</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>711313</td>
+    <td class="xl28" x:str>SAKRAIL, HOWRAH</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>700147</td>
+    <td class="xl28" x:str>SUBHASGRAM, S 24 PGS</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>208022</td>
+    <td class="xl28" x:str>KANPUR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>490020</td>
+    <td class="xl28" x:str>BHILAI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>741415</td>
+    <td class="xl28" x:str>PANCHLA, HOWRAH</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>713123</td>
+    <td class="xl28" x:str>DAKSHINKHANDA, MURSHIDABAD</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>110034</td>
+    <td class="xl28" x:str>pritam pur</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl27" height="0" align="right" style='height:0.00pt;' x:num>0</td>
+    <td class="xl28" x:str>DUBAI</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl29" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl30" height="0" align="right" style='height:0.00pt;' x:num>400025</td>
+    <td class="xl31" x:str>SAWARKAR RD, MUMBAI</td>
+    <td class="xl31" align="right" x:num>0</td>
+    <td class="xl31" align="right" x:num>0</td>
+    <td class="xl32" align="center" x:bool="TRUE">TRUE</td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="75" style='width:56;'></td>
+     <td width="258" style='width:194;'></td>
+     <td width="89" style='width:67;'></td>
+     <td width="95" style='width:71;'></td>
+     <td width="58" style='width:44;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>

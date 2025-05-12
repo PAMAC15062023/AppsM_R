@@ -1,0 +1,174 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="salaryMasterPage.master.cs" Inherits="salaryMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Leave Management</title>
+    
+    <link href="css/new_stylesheet.css" rel="stylesheet" type="text/css" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/tcal.js"></script>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table>
+            <tr>
+                <td colspan="13" rowspan="2" style="height: 19px">
+                    <div id="menubar" style="width: 1197px">
+                        <ul id="menu">
+                            <li>
+                                <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="">Home</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Add_new_leave.aspx">Leave Management</asp:HyperLink>
+                            </li>
+                            <li  class="current">
+                                <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="">Salary</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/resignation_frm.aspx">Resignation Management</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="">Testimonials</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="">Contact Us</asp:HyperLink>
+                            </li>
+                            <li></li>
+                        </ul>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+                <td rowspan="8" style="width: 1849px; height: 19px">
+                </td>
+                <td align="left" rowspan="8" style="width: 5225px; height: 19px" valign="top">
+                    <table style="height: 153px; background-color: white">
+                        <tr>
+                            <td align="center" class="tdcls" colspan="3" rowspan="1" style="width: 262px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="tdcls" colspan="3" rowspan="6" style="width: 262px; background-color: #ededf1">
+                                <h4>
+                                    Menu</h4>
+                            </td>
+                        </tr>
+                        <tr>
+                        </tr>
+                        <tr>
+                        </tr>
+                        <tr>
+                        </tr>
+                        <tr>
+                        </tr>
+                        <tr>
+                        </tr>
+                        <tr>
+                            <td align="left" class="tdcls" colspan="3" rowspan="1" style="width: 262px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="" colspan="3" rowspan="1" style="width: 262px; height: 3px;
+                                background-color: #f2f2f4">
+                                <h4>
+                                    Add New Leave</h4>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="tdcls" style="height: 1px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="3" rowspan="1" style="width: 262px; color: black; height: 2px">
+                                <asp:HyperLink ID="HyperLink7" runat="server" CssClass="clink">Leave Monthly</asp:HyperLink></td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="tdcls" colspan="3" rowspan="1" style="width: 262px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" colspan="2" rowspan="1" style="width: 477px; color: black; height: 2px">
+                                <asp:HyperLink ID="HyperLink8" runat="server" CssClass="clink">Leave Weekly</asp:HyperLink></td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="tdcls" colspan="3" rowspan="1" style="width: 262px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="" colspan="3" rowspan="1" style="width: 262px; height: 2px;
+                                background-color: #f2f2f4">
+                                <asp:HyperLink ID="HyperLink9" runat="server" CssClass="clink"><h4>Leave Balance</h4></asp:HyperLink></td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="tdcls" colspan="3" rowspan="1" style="width: 262px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="" colspan="3" rowspan="1" style="width: 262px; height: 2px;
+                                background-color: #f2f2f4">
+                                <asp:HyperLink ID="HyperLink10" runat="server" CssClass="clink"><h4>Cancel Leave</h4></asp:HyperLink></td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="tdcls" colspan="3" rowspan="1" style="width: 262px; height: 1px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="" colspan="3" rowspan="1" style="width: 262px; height: 2px;
+                                background-color: #f2f2f4">
+                                <asp:HyperLink ID="HyperLink11" runat="server" CssClass="clink"><h4>View Leave Status</h4></asp:HyperLink></td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="tdcls" colspan="3" rowspan="1" style="width: 262px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="" colspan="3" rowspan="1" style="width: 262px; height: 2px;
+                                background-color: #f2f2f4">
+                                <asp:HyperLink ID="HyperLink12" runat="server" CssClass="clink"><h4>Holiday Calender</h4></asp:HyperLink></td>
+                        </tr>
+                        <tr>
+                            <td align="left" class="tdcls" colspan="3" rowspan="1" style="width: 262px; height: 1px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="3" rowspan="2" style="width: 262px; height: 5px">
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td rowspan="8" style="width: 17942px; height: 19px; background-color: #f2f2f4" valign="top">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td colspan="9" rowspan="8" style="width: 1043px; height: 19px">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+        </table>
+    
+    
+        
+    </div>
+    </form>
+</body>
+</html>

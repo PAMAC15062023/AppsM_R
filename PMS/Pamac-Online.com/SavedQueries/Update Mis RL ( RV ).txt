@@ -1,0 +1,14 @@
+select c.case_id,c.ref_no,ISNULL(c.FIRST_NAME,'')+' '+ISNULL(c.MIDDLE_NAME,'')+' '+ISNULL(c.LAST_NAME,'') AS App_name,
+e.verification_type_code as VerificationCode,f.client_name,a.Address_Confirmed,a.Landmark,a.Name_Neighbour1,a.CONFIRM_Neighbour1,a.Name_Neighbour2,a.CONFIRM_Neighbour2
+,a.Door_Locked,a.Colour_of_Door,a.Nameplate_on_door,a.Name_Society_Board,a.Society_Board_Sighted,a.PERSON_CONTACTED,
+a.Relationship,a.DOB,a.YEARS_AT_RESIDENCE,a.Ownership_RESIDENCE,a.Permanent_address,a.EDUCATION_BACKGROUND, 
+a.MARITAL_STATUS,a.No_of_earning_member,a.No_of_dependent,a.SPOUSE_DETAILS,a.OTHER_DETAILS,a.CREDIT_CARD_LIMIT,
+a.If_Vehicle_exist,a.Vehicle_Type,a.Type_of_Add_Proof,a.Locating_address,a.Locality,a.Type,a.Type_of_House,a.Area_of_House,
+a.interior_Premises,a.ASSETS,a.Standard_of_Living,a.Exterior_Premises,a.Approximate_Value,a.How_Cooperative,
+a.Behavior_Person_Contacted,a.Affliated_Political_Party,a.Residence_address_negative,a.Verifier_Comments,a.FE_RESPONSE
+from CPV_RL_VERIFICATION_RVRT a,CPV_RL_CASE_DETAILS c,CPV_RL_CASE_VERIFICATIONTYPE d,VERIFICATION_TYPE_MASTER e,client_master f
+where a.case_id=c.case_id and a.case_id=d.case_id and a.verification_type_id=d.verification_type_id and 
+e.verification_type_id=a.verification_type_id and e.verification_type_id=d.verification_type_id and c.client_id=f.client_id and a.verification_type_id=1
+AND @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+
+

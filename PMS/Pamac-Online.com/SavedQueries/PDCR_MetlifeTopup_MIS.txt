@@ -1,0 +1,19 @@
+select distinct''as[Sr No],phone_1 as[Date],ref_no as[Policy No],first_name as[PI Name],off_name as[PO Name],off_phone as[PO PHONE 2],
+res_phone as[PO MOBILE NO],Reversal_Amount as[Top UP Amnt],date_2 as[Appointment Date],phone_2 as[Time of Appointment],
+OS_BALANCE as[Channel],res_add_line_1 as[Address],res_city as[City],region as[State],Res_pin_code as[Pin Code],emi as[Agent],
+convert(varchar,case_rec_datetime,103) as[Received Date],off_city as[PAMAC City],Residence_Internal as[Picked up date],
+SUPERVISOR_REMARKS as[Pickup Feedback],Flooring as[Cheque #],Actual_Number as[Cheque Date],defaulted_with as[Bank Name],
+BRANCH as[Bank Branch],DEFAULT_AMOUNT as[Amount],veri_det.Despatch_date as[Disp Date],roofing as[Receipt No],emp_details.fullname as[FE Name],
+emp_details.Mobile as[FE Contact],emp_details1.Fullname as [TME Name],BRANCH as[Deposit Metlife Branch],INFO_REFUSED as[Month]
+from cpv_dcr_VERI_ATTEMPTS veri_attem 
+left outer join cpv_dcr_CASE_DETAILS case_det on case_det.case_id=veri_attem.case_id
+left outer join cpv_dcr_Veri_Description Veri_des on case_det.case_id=Veri_des.case_id
+left outer join cpv_dcr_VERI_DETAILS veri_det on case_det.case_id=veri_det.case_id
+left outer join case_status_master case_mas on case_mas.case_status_id=veri_det.case_status_id
+left outer join cpv_dcr_FE_CASE_MAPPING fe_map on case_det.case_id=fe_map.case_id 
+left outer join employee_master emp_details on fe_map.fe_id=emp_details.emp_id
+left outer join cpv_dcr_TC_CASE_MAPPING tc_mapping on case_det.case_id=tc_mapping.case_id 
+left outer join employee_master emp_details1 on tc_mapping.tc_id=emp_details1.emp_id 
+where subremark not like '%Select%' and case_det.client_id in(101177) and veri_attem.Verification_type_id='39' and 
+@ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+

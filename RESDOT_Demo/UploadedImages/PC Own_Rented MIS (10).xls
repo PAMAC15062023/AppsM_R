@@ -1,0 +1,159 @@
+<table>
+	<tr style="height:20px;">
+		<td> </td>
+	</tr><tr>
+		<td colspan="20"><b><font size='3'>PAMAC FINSERVE PVT. LTD.</font></b> <br/><b><font size='2' color='blue'> PC Own/Rented MIS For Date : 01/01/2010 To : 20/01/2024 </font></b> <br/></td>
+	</tr>
+</table><div>
+	<table cellspacing="1" cellpadding="1" rules="all" id="C1_GV" style="width:766px;font-weight:normal;font-size:8pt;font-family:Arial;color:Black;border-width:1px;border-style:Solid;border-color:Transparent;background-color:White;">
+		<tr style="color:Black;background-color:#D0D5D8;font-family:Arial;font-size:8pt;font-weight:bold;height:20px;">
+			<th scope="col">Cluster</th><th scope="col">Centre</th><th scope="col">Sub Centre</th><th scope="col">PC_Owned</th><th scope="col">PC_Rented</th><th scope="col">LT_Owned</th><th scope="col">LT_Rented</th><th scope="col">SC_Owned</th><th scope="col">SC_Rented</th><th scope="col">SW_Owned</th><th scope="col">SW_Rented</th><th scope="col">PT_Owned</th><th scope="col">PT_Rented</th><th scope="col">RT_Owned</th><th scope="col">RT_Owned1</th>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>EAST</td><td>BHUBANESWAR</td><td>BHUBANESHWAR - BRANCH</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>EAST</td><td>Jamshedpur</td><td>JAMSHEDPUR - BRANCH</td><td>0</td><td>2</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>EAST</td><td>Kolkata</td><td>KOLKATTA - BRANCH</td><td>2</td><td>19</td><td>4</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>MUMBAI - RECON</td><td>A-16 TPU</td><td>28</td><td>49</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>HO Centre</td><td>A-21 --  HO</td><td>2</td><td>0</td><td>16</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>Ahmedabad</td><td>AHMEDABAD - BRANCH</td><td>44</td><td>0</td><td>2</td><td>0</td><td>23</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>Aurangabad</td><td>AURANGABAD - BRANCH</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>HO Centre</td><td>B-09</td><td>76</td><td>9</td><td>3</td><td>20</td><td>1</td><td>0</td><td>11</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>HO Centre</td><td>B-22</td><td>10</td><td>8</td><td>20</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>HO Centre</td><td>B-27</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>MUMBAI - RECON</td><td>B-4 TPU</td><td>102</td><td>94</td><td>2</td><td>3</td><td>1</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>1</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>HO Centre</td><td>B-6</td><td>77</td><td>1</td><td>7</td><td>17</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>Baroda</td><td>BARODA - BRANCH</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>Bhopal</td><td>BHOPAL - BRANCH</td><td>56</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>Pune</td><td>Bundgarden Road Branch </td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>MUMBAI</td><td>BVU Back Office A-24</td><td>57</td><td>0</td><td>8</td><td>0</td><td>1</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>HO Centre</td><td>C-21</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>MUMBAI - CPA</td><td>C-21</td><td>70</td><td>70</td><td>35</td><td>11</td><td>18</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>Pune</td><td>Camp Road Branch</td><td>37</td><td>0</td><td>6</td><td>0</td><td>15</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>HO Centre</td><td>Central EBC</td><td>12</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>Goa</td><td>GOA - BRANCH</td><td>1</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>MUMBAI - CPA</td><td>HDFC BANK CPA- THANE</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>Indore</td><td>INDORE - BRANCH</td><td>10</td><td>0</td><td>1</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>Kolhapur</td><td>KOLHAPUR - BRANCH</td><td>5</td><td>1</td><td>1</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>MUMBAI - CPA</td><td>Mumbai CPA- PD</td><td>0</td><td>0</td><td>0</td><td>0</td><td>15</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>HO Centre</td><td>Mumbai-2(ShriRam C-19)</td><td>17</td><td>0</td><td>24</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>Kolhapur</td><td>Muthoot Finance (CPA)</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>Nagpur</td><td>Muthoot Finance (CPA)</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>Pune</td><td>Muthoot Finance (CPA)</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>Nagpur</td><td>NAGPUR - BRANCH</td><td>4</td><td>4</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>Nasik</td><td>NASIK - BRANCH</td><td>1</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>Rajkot</td><td>RAJKOT - BRANCH</td><td>0</td><td>0</td><td>0</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>HO Centre</td><td>ShriRam C-19 PMS-IT</td><td>5</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>WEST</td><td>Solapur</td><td>Solapur</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>WEST</td><td>Surat</td><td>SURAT - BRANCH</td><td>3</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Delhi</td><td>ADMIN STOCK</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>Agra</td><td>Agra Branch</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Alwar</td><td>ALWAR - BRANCH</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>AMBALA</td><td>AMBALA BRANCH</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Chandigarh</td><td>CHANDIGARH - BRANCH</td><td>10</td><td>0</td><td>1</td><td>0</td><td>27</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>Delhi</td><td>CPV-Kotla-1899-B</td><td>8</td><td>10</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Delhi</td><td>DCR-Kotla-1899-B</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>DEHRADUN</td><td>DEHRADUN BRANCH</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Delhi</td><td>HDFC BANK CPA- GREATER NOIDA BRANCH</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>Delhi</td><td>HERO CPA -Noida-210</td><td>13</td><td>8</td><td>1</td><td>0</td><td>15</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Delhi</td><td>HR-ADMIN-IT-Kotla -1899-B</td><td>3</td><td>0</td><td>6</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>Delhi</td><td>ICICI CPA Kotla-1899-B</td><td>10</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Delhi</td><td>IT STOCK</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>Kanpur</td><td>KANPUR - BRANCH</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>LUCKNOW</td><td>LUCKNOW - BRANCH</td><td>17</td><td>5</td><td>1</td><td>0</td><td>22</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>LUDHIANA</td><td>LUDHIANA - BRANCH</td><td>4</td><td>2</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Meerut</td><td>MEERUT - BRANCH</td><td>2</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>Delhi</td><td>Muthoot CPA Kotla-1899-B</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Delhi</td><td>Muthoot CPA-Noida 210</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>Delhi</td><td>Okhla Yes Bank</td><td>3</td><td>14</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Chandigarh</td><td>Panipat YBL Office</td><td>2</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>Delhi</td><td>PD-Kotla-1899-B</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Delhi</td><td>PTPU-Kotla-1899-B</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>Jaipur</td><td>S-206, Unnati Tower,Jaipur</td><td>14</td><td>0</td><td>1</td><td>0</td><td>22</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Jaipur</td><td>Udaipur YBL Office</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>Jaipur</td><td>Vishali Nagar YBL Office</td><td>6</td><td>5</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>NORTH</td><td>Delhi</td><td>YES Bank CPA -Noida-210</td><td>0</td><td>17</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>NORTH</td><td>Delhi</td><td>YES Bank CPA -Noida-307</td><td>33</td><td>9</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>SOUTH</td><td>Chennai</td><td>CHENNAI - BRANCH</td><td>9</td><td>71</td><td>2</td><td>1</td><td>16</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>SOUTH</td><td>Cochin</td><td>COCHIN - BRANCH</td><td>2</td><td>6</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>SOUTH</td><td>Coimbatore</td><td>COIMBATORE - BRANCH</td><td>3</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>SOUTH</td><td>Hyderabad</td><td>HYDERABAD - BRANCH</td><td>137</td><td>0</td><td>5</td><td>0</td><td>13</td><td>0</td><td>10</td><td>0</td><td>3</td><td>0</td><td>1</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>SOUTH</td><td>Hyderabad</td><td>HYDERABAD-1 Floor</td><td>67</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>SOUTH</td><td>Rajahmundry</td><td>Rajahmundry Office</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>SOUTH</td><td>bangalore</td><td>RAJAJINAGAR - BRANCH</td><td>25</td><td>2</td><td>1</td><td>3</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>SOUTH</td><td>TRIVANDRUM</td><td>TRIVANDRUM - BRANCH</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:White;">
+			<td>SOUTH</td><td>Vijaywada</td><td>Vijaywada Office</td><td>3</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>SOUTH</td><td>Vizag</td><td>VIZAG - BRANCH</td><td>3</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr>
+	</table>
+</div>

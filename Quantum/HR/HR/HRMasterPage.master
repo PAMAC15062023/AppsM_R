@@ -1,0 +1,61 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="~/HR/HR/HRMasterPage.master.cs" Inherits="HR_HRMasterPage" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+<head id="Head1" runat="server">
+    <title>TeamSpace Online</title>
+
+    <script language="javascript" type="text/javascript" src="../../popcalendar.js"></script>
+    <link href="../../StyleSheet.css" rel="stylesheet" type="text/css" />
+      <link href="../../StyleSheet_EBC.css" rel="stylesheet" type="text/css" />
+</head>
+<body bgcolor="#ffffcc">
+    <form id="form1" runat="server">
+    <div>
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr bgcolor="#4EB9ED">
+    <td bgcolor="#996633" style="width: 84%">
+            
+            
+
+    <asp:Menu ID="Menu1" runat="server" Width="600px" 
+            StaticEnableDefaultPopOutImage="False" BackColor="#996633" DynamicHorizontalOffset="2"
+            Font-Names="Arial" Font-Size="10pt" ForeColor="White" Orientation="Horizontal"
+            StaticSubMenuIndent="10px" Font-Bold="True">
+                            <StaticSelectedStyle BackColor="#FFFFCC" />
+
+                            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            <DynamicHoverStyle BackColor="#FFFFCC" ForeColor="#663300" />
+                            <DynamicMenuStyle BackColor="#996633" />
+                            <DynamicSelectedStyle BackColor="#996633" />
+                            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+            </asp:Menu>
+            
+            
+
+    </td>
+    <td width="70%" bgcolor="#996633">
+        <asp:ImageButton ID="ImageButton1" runat="server" Height="30px" 
+            ImageUrl="~/Images/home.jpg" PostBackUrl="~/OrganizationTree.aspx" 
+            Width="30px" />
+        &nbsp;&nbsp;
+        <asp:ImageButton ID="ImageButton2" runat="server" 
+            ImageUrl="~/Images/logout.jpg" PostBackUrl="~/Default.aspx" />
+&nbsp;<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+        
+    
+      </tr></table>
+        </td>
+    </tr>
+    <tr>
+    <td colspan="2">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </td>
+    </tr>    
+    </table>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Pamac-Online.com", ".", "{71612DD5-970A-41E7-A720-CADEDDEFD97F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/PublishMumbai"
+		Debug.AspNetCompiler.PhysicalPath = "..\Pamac-Online.com\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PublishMumbai\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PublishMumbai"
+		Release.AspNetCompiler.PhysicalPath = "..\Pamac-Online.com\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PublishMumbai\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56867"
+		SlnRelativePath = "..\Pamac-Online.com\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71612DD5-970A-41E7-A720-CADEDDEFD97F}.Debug|.NET.ActiveCfg = Debug|.NET
+		{71612DD5-970A-41E7-A720-CADEDDEFD97F}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D1C2D2A-1D4D-44F5-A345-80BDD7BBCD2A}
+	EndGlobalSection
+EndGlobal

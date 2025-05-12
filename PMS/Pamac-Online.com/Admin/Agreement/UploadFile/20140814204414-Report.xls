@@ -1,0 +1,21 @@
+<div>
+	<table cellspacing="1" cellpadding="1" border="0" id="ctl00_C1_grdmis" style="width:100%;font-weight:normal;font-size:8pt;font-family:Arial;color:Black;border-width:1px;border-style:Solid;border-color:Transparent;background-color:White;">
+		<tr style="color:Black;background-color:#D0D5D8;font-family:Arial;font-size:8pt;font-weight:bold;height:20px;">
+			<th scope="col"><a href="javascript:__doPostBack('ctl00$C1$grdmis','Sort$Agreement id')" style="color:Black;">Agreement id</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$C1$grdmis','Sort$Company Name')" style="color:Black;">Company Name</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$C1$grdmis','Sort$Centre')" style="color:Black;">Centre</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$C1$grdmis','Sort$Vertical')" style="color:Black;">Vertical</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$C1$grdmis','Sort$Client')" style="color:Black;">Client</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$C1$grdmis','Sort$Agreement Start Date')" style="color:Black;">Agreement Start Date</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$C1$grdmis','Sort$Created Date')" style="color:Black;">Created Date</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$C1$grdmis','Sort$Valid Upto')" style="color:Black;">Valid Upto</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$C1$grdmis','Sort$Notice Period')" style="color:Black;">Notice Period</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$C1$grdmis','Sort$Minimum Gurenty')" style="color:Black;">Minimum Gurenty</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$C1$grdmis','Sort$status')" style="color:Black;">status</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$C1$grdmis','Sort$Remark')" style="color:Black;">Remark</a></th>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>1</td><td>PAMAC FinServe Pvt. Ltd.</td><td>Centre</td><td>Vertical</td><td>Alpari Financial Services Pvt. Ltd</td><td>01/08/2014</td><td>02/08/2014</td><td>22/08/2014</td><td>1 Month</td><td>Yes</td><td>Client</td><td>Present</td>
+		</tr><tr style="background-color:White;">
+			<td>2</td><td>PAMAC FinServe Pvt. Ltd.</td><td>Centre</td><td>Vertical</td><td>Assets Inventory</td><td>01/08/2014</td><td>02/08/2014</td><td>20/08/2014</td><td>1 Month</td><td>Yes</td><td>Both</td><td>Present</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>2</td><td>PAMAC FinServe Pvt. Ltd.</td><td>dsds</td><td>ds</td><td>Assets Inventory</td><td>01/08/2014</td><td>02/08/2014</td><td>20/08/2014</td><td>1 Month</td><td>Yes</td><td>Both</td><td>Present</td>
+		</tr><tr style="background-color:White;">
+			<td>3</td><td>TeamSpace Finance Service Pvt. Ltd.</td><td>Centre</td><td>Vertical</td><td>Atom Tech Facilitator</td><td>01/08/2014</td><td>02/08/2014</td><td>22/08/2014</td><td>2 Months</td><td>Yes</td><td>Both</td><td>Present</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>4</td><td>PAMAC FinServe Pvt. Ltd.</td><td>dfsf</td><td>fdsf</td><td>BAJAJ AUTO FIN. LTD.</td><td>07/08/2014</td><td>11/08/2014</td><td>16/08/2014</td><td>1 Month</td><td>Yes</td><td>Company</td><td>Present</td>
+		</tr><tr style="background-color:White;">
+			<td>5</td><td>TeamSpace Finance Service Pvt. Ltd.</td><td>Centre</td><td>Vertical</td><td>A2Z Infra Management &amp; Services Ltd</td><td>01/08/2014</td><td>02/08/2014</td><td>28/08/2014</td><td>1 Month</td><td>Yes</td><td>Client</td><td>Present</td>
+		</tr><tr style="background-color:#E5E5E5;">
+			<td>6</td><td>Quantum Multipoint Services</td><td>Centre</td><td>Vertical</td><td>Assets Inventory</td><td>01/08/2014</td><td>02/08/2014</td><td>27/08/2014</td><td>2 Months</td><td>Yes</td><td>Both</td><td>Renew</td>
+		</tr>
+	</table>
+</div>

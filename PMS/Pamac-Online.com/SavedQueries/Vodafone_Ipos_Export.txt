@@ -1,0 +1,14 @@
+select ''as[Sr No],ref_no as[Customer ID],CAF_NUMBER as[CAF Number],CELLNO as[Cell Number],BLOCK_NO as[Block No],SIM_NUMBER as[Sim Number],
+BILL_TO_ID as[BillToID],GROUP_ID as[GroupID],COMP_NAME as[Company Name],DESIGNATION,APP_ADDR1 as[Address1],APP_ADDR2 as[Address2],APP_ADDR3 as[Address3],
+APP_CITY as[City],APP_PINCODE as[Pin Code],APP_PHONE1 as[Phone Number],DEALER,TARRIF as[Tariff],SCHEME,SUBMIT_DATE as[Submit Date],COMP_ADDR1 as[Alt Address1],
+COMP_ADDR2 as[Alt Address2],COMP_ADDR3 as[Alt Address3],COMP_CITY as[Alt City],COMP_PINCODE as[Alt Pin Code],COMP_PHONE1 as[Alt Phone Number],AGENCY_CODE as[PV Agency Code],
+CHEQUE_AMOUNT as[Cheque Amount],SUB_DEALER_CODE as[Sub dealer code],EXISTING_CELL_NO as[Existing cell no],AUTHORISED_SIGNATORY as[Authorized Signatory],CUSTOMER_CLASS as[Customer Class],
+GENDER,WAIVERS,LST_SUBMITED_DATE as[Last Submit Date],COMMENTS,DT_CREDIT_STATUS_ID as[DT CreditStatusID],DT_COMMENT1 as[DT Comment1],DT_COMMENT2 as[DT Comment2],DT_UNIQUE_CODE as[DT Unique Code],
+DT_ACCEPT as[DT Accept/Reject(Y/N)],CASE_REC_FROM_FE as[Cases to be closed before],app_met as[Sub Met (Y/N)],final_credit_status_id as[DISCONNECTED CODE],credit_stat as[Creditstatus],cel_att.REMARK,
+sales_flyers_rcd as[Flyer],nature_of_business as[Nature of Business],ddb as[User],fe_name as[Field staff],convert(varchar(8),attempt_datetime,108) as[Visit Time],convert(varchar,attempt_datetime,103) as[Date of Visit], 
+convert(varchar,case_rec_datetime,103) as[Receive Date],fun_card as[RATERS NAME]
+from CPV_CELLULAR_CASES cel_case 
+left outer join CPV_CELLULAR_VERIFICATION cel_ver on cel_case.case_id=cel_ver.case_id
+left outer join CPV_CELLULAR_VERI_ATTEMPTS cel_att on cel_case.case_id=cel_att.case_id
+where @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+

@@ -1,0 +1,25 @@
+select A.CASE_ID AS CASE_ID, VERIFICATION_TYPE_CODE AS VERIFICATION_TYPE, CLIENT_NAME, Reference_no,Company_Type,
+Name_Firm,Business_Address,Business_Pincode,Bussiness_tel_no,Person_Contacted,Name_person_contacted,/*a.Designation,
+Premise_Location,Prominent_Landmark,Address_Verified_is,How_long_Business,Area_Premises,Ownership_Premises,
+Type_Premise,Type_Premise_Other,Nature_Business,Firm_Signboard_Sighted,Sign_Sighted_Remark,Type_Document_Sighted,
+Document_Sighted_Remark,Used_Pages_Sighted_Date,Issued_to,Initial_Invoice_Sighted_No,Initial_Invoice_Sighted_Date,
+Initial_Invoice_issued_to,Third_Party_Invoice_No,Third_Party_Invoice_Date,Third_Party_Invoice_Issued_by,
+Third_Party_Address,Relationship_between,Business_Ownership,Level_Business_Activity,No_Employees,
+Business_Equipment_Sighted,Marital_Status,Name_Displayed_Board,*/Relationship_with_Applicant,Staying_since_Resi,
+Status_Demat_Account,Name_Demat_Account,Broking_through_other,Attitude_Person_Contacted,Rating,Status,Product,
+Verification_Agent,Residence_Address,Resi_Pincode,Resi_Tel_no,Resi_Landmark,Permanent_Address,Permanent_Pincode,
+Permamnent_Tel_no,Business_Occupation_Details,Place_Visited,Name_Plate_Sighted,Area_Residence,Locating_Address,
+Business_activity_Seen,Description_Res,General_Comments,/*Name_Account,Request_No,Name_CA_firms,Address_CA_Firm,
+firm_Exist_Address,IS_CA_firm,Name_Person_CA_Certificate,IS_person_case_praticing,Person_issued_Cerificate_spoken,
+Cerificate_person_confirm,inconclusive_Reason,*/Email_ID,Name_On_Sign_Board,Concern_Is_Related,Concern_Related_Name,
+Family_Member_Is,Family_Member_Name,Family_Member_Relationship,Other_Institution_Demat_Account,Name_Of_DP,
+Name_Plate_Of_App_Sighted,Entity_Type,Tele_No_CA_Firm,No_Years_Current_Employment,Other_Institution_SME_Account,
+Name_Of_Institution,RV_COMMENT,supervisor_name,veri_date_time,Tlele_Remark,/*ContactPerson,business_activity,properietor_Partener_Met,*/a.Remark, ISNULL(FIRSTNAME,'')+' '+ISNULL(MIDDLENAME,'')+' '+ISNULL(LASTNAME,'') AS FE_NAME 
+from CPV_KYC_CASE_VERIFICATION A,CPV_KYC_VERI_ATTEMPTS b,CPV_KYC_CASE_DETAILS c,CLIENT_MASTER d,EMPLOYEE_MASTER e,
+VERIFICATION_TYPE_MASTER f 
+where A.CASE_ID = B.CASE_ID AND A.VERIFICATION_TYPE_ID = B.VERIFICATION_TYPE_ID AND A.CASE_ID = C.CASE_ID 
+and c.CLIENT_ID = d.CLIENT_ID AND A.VERIFICATION_TYPE_ID = f.VERIFICATION_TYPE_ID AND b.VERIFIER_ID = e.EMP_ID
+AND A.VERIFICATION_TYPE_ID IN (1,2)
+AND c.CLIENT_ID IN ('10160','10151','10173','10159','10152')
+and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+

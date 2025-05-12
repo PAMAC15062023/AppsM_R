@@ -1,0 +1,17 @@
+<table border="0">
+	<tr style="height:20px;">
+		<td> </td>
+	</tr><tr>
+		<td class="SuccessMessage" colspan="20"><b> <span style='background-color:Gray'> <font size='4'>PAMAC FINSERVE PVT. LTD.</font></span></b> <br/><b><font size='2' color='blue'>Ticket Details Report.</font></b> <br/></td>
+	</tr>
+</table><div>
+	<table cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolder1_grdExportTicket" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Ticket_No</th><th scope="col">Centre</th><th scope="col">User_Name</th><th scope="col">QMS_User</th><th scope="col">Problem</th><th scope="col">Remark</th><th scope="col">DownloadFilePath</th><th scope="col">File_Attached</th><th scope="col">Created_Date</th><th scope="col">TicketStatus</th><th scope="col">QMS_Remark</th>
+		</tr><tr>
+			<td>HR\201812\LKW-000003</td><td>LUCKNOW</td><td>Sajid Ahmad</td><td>P-00001</td><td>Salary Related queries</td><td>Dear Sir 
+My Salary has not come in my account for Three months Like August,  September, October with November Month 2018  , While the target has completed eighty to Ninety percent. Dear Sir Please solve My any problem soon with Actual Reason. 
+Thank you</td><td>&nbsp;</td><td>No</td><td>08/12/2018</td><td>Open</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div>

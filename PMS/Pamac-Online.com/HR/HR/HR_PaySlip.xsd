@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HR_PaySlip" targetNamespace="http://tempuri.org/HR_PaySlip.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/HR_PaySlip.xsd" xmlns:mstns="http://tempuri.org/HR_PaySlip.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Pay_Slip">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Emp_Code" type="xs:string" />
+				<xs:element name="Month_x0020_of_x0020_PaySlip" type="xs:string" />
+				<xs:element name="Salary_x0020_Year" type="xs:string" />
+				<xs:element name="Earning_Basic_Earned" type="xs:string" />
+				<xs:element name="Days_In_Month" type="xs:string" />
+				<xs:element name="Present" type="xs:string" />
+				<xs:element name="Absent" type="xs:string" />
+				<xs:element name="Remaining_PL" type="xs:string" />
+				<xs:element name="Remaining_SL" type="xs:string" />
+				<xs:element name="Remaining_CL" type="xs:string" />
+				<xs:element name="Adjusted__PL" type="xs:string" />
+				<xs:element name="Adjusted_SL" type="xs:string" />
+				<xs:element name="Adjusted_CL" type="xs:string" />
+				<xs:element name="Basic_Earned" type="xs:string" />
+				<xs:element name="DA_Earned" type="xs:string" />
+				<xs:element name="HRA_Earned" type="xs:string" />
+				<xs:element name="Convenyance_Allowance" type="xs:string" />
+				<xs:element name="Special_Allowance" type="xs:string" />
+				<xs:element name="Other_Allowance" type="xs:string" />
+				<xs:element name="Misc_Earning" type="xs:string" />
+				<xs:element name="OT_Earning" type="xs:string" />
+				<xs:element name="Provident_Fund" type="xs:string" />
+				<xs:element name="ESIC" type="xs:string" />
+				<xs:element name="Professional_Tax" type="xs:string" />
+				<xs:element name="Income_Tax" type="xs:string" />
+				<xs:element name="TDS" type="xs:string" />
+				<xs:element name="Salary_Advance" type="xs:string" />
+				<xs:element name="Other_Deduction" type="xs:string" />
+				<xs:element name="Loan_Deduction" type="xs:string" />
+				<xs:element name="Insurance_Deduction" type="xs:string" />
+				<xs:element name="Fix_Deduction" type="xs:string" />
+				<xs:element name="LWF" type="xs:string" />
+				<xs:element name="Gross_Earning" type="xs:string" />
+				<xs:element name="Gross_Deduction" type="xs:string" />
+				<xs:element name="Net_Salary" type="xs:string" />
+				<xs:element name="Designation" type="xs:string" />
+				<xs:element name="PF_No" type="xs:string" />
+				<xs:element name="OTWorking" type="xs:string" />
+				<xs:element name="FullName" type="xs:string" />
+				<xs:element name="UID" type="xs:string" />
+				<xs:element name="Department" type="xs:string" />
+				<xs:element name="WkDay" type="xs:string" />
+				<xs:element name="Centre_name" type="xs:string" />
+				<xs:element name="Net_Salary_In_Word" type="xs:string" />
+				<xs:element name="Medical_Reimbush" type="xs:string" />
+				<xs:element name="Washing" type="xs:string" />
+				<xs:element name="Derived_Incentives" type="xs:string" />
+				<xs:element name="LTA" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Main">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="UID" type="xs:string" />
+				<xs:element name="Emp_code" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

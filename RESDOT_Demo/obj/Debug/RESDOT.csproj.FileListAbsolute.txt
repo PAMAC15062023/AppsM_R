@@ -1,0 +1,1343 @@
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\RESDOT.dll.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\RESDOT.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\RESDOT.pdb
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\csc.exe
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\csc.exe.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\csc.rsp
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\csi.exe
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\csi.exe.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\csi.rsp
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.AppContext.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Collections.Immutable.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Console.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Globalization.Calendars.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.IO.Compression.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.IO.FileSystem.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Net.Http.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Net.Sockets.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Reflection.Metadata.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.ValueTuple.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Xml.XPath.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\vbc.exe
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\vbc.exe.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\vbc.rsp
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\VBCSCompiler.exe
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\roslyn\VBCSCompiler.exe.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Microsoft.Win32.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\netstandard.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.AppContext.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Collections.Concurrent.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Collections.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Collections.NonGeneric.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Collections.Specialized.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.ComponentModel.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.ComponentModel.EventBasedAsync.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.ComponentModel.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.ComponentModel.TypeConverter.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Console.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Data.Common.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Diagnostics.Contracts.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Diagnostics.Debug.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Diagnostics.FileVersionInfo.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Diagnostics.Process.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Diagnostics.StackTrace.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Diagnostics.Tools.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Diagnostics.TraceSource.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Diagnostics.Tracing.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Drawing.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Dynamic.Runtime.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Globalization.Calendars.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Globalization.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Globalization.Extensions.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.IO.Compression.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.IO.Compression.ZipFile.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.IO.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.IO.FileSystem.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.IO.FileSystem.DriveInfo.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.IO.FileSystem.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.IO.FileSystem.Watcher.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.IO.IsolatedStorage.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.IO.MemoryMappedFiles.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.IO.Pipes.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.IO.UnmanagedMemoryStream.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Linq.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Linq.Expressions.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Linq.Parallel.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Linq.Queryable.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Net.Http.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Net.NameResolution.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Net.NetworkInformation.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Net.Ping.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Net.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Net.Requests.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Net.Security.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Net.Sockets.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Net.WebHeaderCollection.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Net.WebSockets.Client.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Net.WebSockets.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.ObjectModel.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Reflection.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Reflection.Extensions.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Reflection.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Resources.Reader.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Resources.ResourceManager.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Resources.Writer.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Runtime.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Runtime.Extensions.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Runtime.Handles.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Runtime.InteropServices.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Runtime.Numerics.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Runtime.Serialization.Formatters.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Runtime.Serialization.Json.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Runtime.Serialization.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Runtime.Serialization.Xml.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Security.Claims.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Security.Cryptography.Algorithms.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Security.Cryptography.Csp.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Security.Cryptography.Encoding.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Security.Cryptography.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Security.Cryptography.X509Certificates.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Security.Principal.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Security.SecureString.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Text.Encoding.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Text.Encoding.Extensions.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Text.RegularExpressions.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Threading.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Threading.Overlapped.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Threading.Tasks.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Threading.Tasks.Parallel.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Threading.Thread.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Threading.ThreadPool.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Threading.Timer.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.ValueTuple.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Xml.ReaderWriter.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Xml.XDocument.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Xml.XmlDocument.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Xml.XmlSerializer.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Xml.XPath.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Xml.XPath.XDocument.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Antlr3.Runtime.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\AspNet.ScriptManager.bootstrap.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\AspNet.ScriptManager.jQuery.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\JW.Pager.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Microsoft.ScriptManager.WebForms.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Microsoft.Web.Infrastructure.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Newtonsoft.Json.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Web.Optimization.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\WebGrease.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\System.Web.Optimization.xml
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Newtonsoft.Json.xml
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Antlr3.Runtime.pdb
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\obj\Debug\RESDOT.csproj.CoreCompileInputs.cache
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\obj\Debug\RESDOT.csproj.CopyComplete
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\obj\Debug\RESDOT.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\obj\Debug\RESDOT.pdb
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\obj\Debug\RESDOT.csproj.AssemblyReference.cache
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\BouncyCastle.Crypto.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\ExcelDataReader.DataSet.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\ExcelDataReader.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\itextsharp.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\ExcelDataReader.pdb
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\ExcelDataReader.xml
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\ExcelDataReader.DataSet.pdb
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\ExcelDataReader.DataSet.xml
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\RESDOT\bin\itextsharp.xml
+C:\Users\PAMAC\Desktop\RESDOT\obj\Debug\RESDOT.csproj.AssemblyReference.cache
+C:\Users\PAMAC\Desktop\RESDOT\obj\Debug\RESDOT.csproj.CoreCompileInputs.cache
+C:\Users\PAMAC\Desktop\RESDOT\obj\Debug\RESDOT.dll
+C:\Users\PAMAC\Desktop\RESDOT\obj\Debug\RESDOT.pdb
+C:\Users\PAMAC\Desktop\RESDOT\bin\RESDOT.dll.config
+C:\Users\PAMAC\Desktop\RESDOT\bin\RESDOT.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\RESDOT.pdb
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\csc.exe
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\csc.exe.config
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\csc.rsp
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\csi.exe
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\csi.exe.config
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\csi.rsp
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.AppContext.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Console.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.IO.Compression.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Net.Http.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.ValueTuple.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\vbc.exe
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\vbc.exe.config
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\vbc.rsp
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\VBCSCompiler.exe
+C:\Users\PAMAC\Desktop\RESDOT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PAMAC\Desktop\RESDOT\bin\Microsoft.Win32.Primitives.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\netstandard.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.AppContext.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Collections.Concurrent.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Collections.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Collections.NonGeneric.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Collections.Specialized.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.ComponentModel.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.ComponentModel.Primitives.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Console.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Data.Common.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Diagnostics.Contracts.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Diagnostics.Debug.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Diagnostics.Process.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Diagnostics.StackTrace.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Diagnostics.Tools.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Diagnostics.TraceSource.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Diagnostics.Tracing.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Drawing.Primitives.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Dynamic.Runtime.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Globalization.Calendars.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Globalization.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Globalization.Extensions.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.IO.Compression.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.IO.Compression.ZipFile.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.IO.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.IO.FileSystem.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.IO.IsolatedStorage.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.IO.Pipes.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Linq.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Linq.Expressions.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Linq.Parallel.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Linq.Queryable.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Net.Http.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Net.NameResolution.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Net.NetworkInformation.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Net.Ping.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Net.Primitives.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Net.Requests.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Net.Security.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Net.Sockets.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Net.WebHeaderCollection.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Net.WebSockets.Client.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Net.WebSockets.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.ObjectModel.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Reflection.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Reflection.Extensions.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Reflection.Primitives.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Resources.Reader.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Resources.ResourceManager.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Resources.Writer.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Runtime.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Runtime.Extensions.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Runtime.Handles.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Runtime.InteropServices.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Runtime.Numerics.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Runtime.Serialization.Json.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Security.Claims.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Security.Cryptography.Csp.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Security.Principal.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Security.SecureString.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Text.Encoding.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Text.Encoding.Extensions.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Text.RegularExpressions.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Threading.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Threading.Overlapped.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Threading.Tasks.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Threading.Thread.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Threading.ThreadPool.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Threading.Timer.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.ValueTuple.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Xml.ReaderWriter.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Xml.XDocument.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Xml.XmlDocument.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Xml.XmlSerializer.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Xml.XPath.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Xml.XPath.XDocument.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\Antlr3.Runtime.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\BouncyCastle.Crypto.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\ExcelDataReader.DataSet.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\ExcelDataReader.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\itextsharp.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\JW.Pager.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\Newtonsoft.Json.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Web.Optimization.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\WebGrease.dll
+C:\Users\PAMAC\Desktop\RESDOT\bin\ExcelDataReader.pdb
+C:\Users\PAMAC\Desktop\RESDOT\bin\ExcelDataReader.xml
+C:\Users\PAMAC\Desktop\RESDOT\bin\ExcelDataReader.DataSet.pdb
+C:\Users\PAMAC\Desktop\RESDOT\bin\ExcelDataReader.DataSet.xml
+C:\Users\PAMAC\Desktop\RESDOT\bin\itextsharp.xml
+C:\Users\PAMAC\Desktop\RESDOT\bin\System.Web.Optimization.xml
+C:\Users\PAMAC\Desktop\RESDOT\bin\Newtonsoft.Json.xml
+C:\Users\PAMAC\Desktop\RESDOT\bin\Antlr3.Runtime.pdb
+C:\Users\PAMAC\Desktop\RESDOT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PAMAC\Desktop\RESDOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PAMAC\Desktop\RESDOT\obj\Debug\RESDOT.csproj.CopyComplete
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\RESDOT.dll.config
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\RESDOT.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\RESDOT.pdb
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\csc.exe
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\csc.exe.config
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\csc.rsp
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\csi.exe
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\csi.exe.config
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\csi.rsp
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.AppContext.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Collections.Immutable.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Console.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Globalization.Calendars.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.IO.Compression.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.IO.FileSystem.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Net.Http.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Net.Sockets.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.ValueTuple.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Xml.XPath.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\vbc.exe
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\vbc.exe.config
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\vbc.rsp
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\VBCSCompiler.exe
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\roslyn\VBCSCompiler.exe.config
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Microsoft.Win32.Primitives.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\netstandard.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.AppContext.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Collections.Concurrent.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Collections.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Collections.NonGeneric.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Collections.Specialized.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.ComponentModel.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.ComponentModel.Primitives.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.ComponentModel.TypeConverter.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Console.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Data.Common.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Diagnostics.Contracts.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Diagnostics.Debug.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Diagnostics.Process.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Diagnostics.StackTrace.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Diagnostics.Tools.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Diagnostics.TraceSource.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Diagnostics.Tracing.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Drawing.Primitives.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Dynamic.Runtime.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Globalization.Calendars.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Globalization.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Globalization.Extensions.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.IO.Compression.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.IO.Compression.ZipFile.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.IO.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.IO.FileSystem.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.IO.FileSystem.Primitives.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.IO.FileSystem.Watcher.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.IO.IsolatedStorage.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.IO.MemoryMappedFiles.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.IO.Pipes.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Linq.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Linq.Expressions.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Linq.Parallel.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Linq.Queryable.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Net.Http.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Net.NameResolution.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Net.NetworkInformation.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Net.Ping.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Net.Primitives.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Net.Requests.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Net.Security.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Net.Sockets.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Net.WebHeaderCollection.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Net.WebSockets.Client.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Net.WebSockets.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.ObjectModel.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Reflection.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Reflection.Extensions.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Reflection.Primitives.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Resources.Reader.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Resources.ResourceManager.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Resources.Writer.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Runtime.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Runtime.Extensions.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Runtime.Handles.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Runtime.InteropServices.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Runtime.Numerics.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Runtime.Serialization.Formatters.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Runtime.Serialization.Json.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Runtime.Serialization.Primitives.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Runtime.Serialization.Xml.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.Claims.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.Cryptography.Algorithms.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.Cryptography.Csp.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.Cryptography.Encoding.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.Cryptography.Primitives.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.Principal.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.SecureString.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Text.Encoding.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Text.Encoding.Extensions.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Text.RegularExpressions.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Threading.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Threading.Overlapped.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Threading.Tasks.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Threading.Tasks.Parallel.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Threading.Thread.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Threading.ThreadPool.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Threading.Timer.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.ValueTuple.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Xml.ReaderWriter.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Xml.XDocument.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Xml.XmlDocument.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Xml.XmlSerializer.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Xml.XPath.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Xml.XPath.XDocument.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Antlr3.Runtime.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\AspNet.ScriptManager.jQuery.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\BouncyCastle.Crypto.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\ExcelDataReader.DataSet.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\ExcelDataReader.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\itextsharp.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\JW.Pager.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Microsoft.Web.Infrastructure.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Newtonsoft.Json.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Web.Optimization.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\WebGrease.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\ExcelDataReader.pdb
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\ExcelDataReader.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\ExcelDataReader.DataSet.pdb
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\ExcelDataReader.DataSet.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\itextsharp.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Web.Optimization.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Newtonsoft.Json.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Antlr3.Runtime.pdb
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\obj\Debug\RESDOT.csproj.CoreCompileInputs.cache
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\obj\Debug\RESDOT.csproj.CopyComplete
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\obj\Debug\RESDOT.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\obj\Debug\RESDOT.pdb
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\EPPlus.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\EPPlus.Interfaces.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\EPPlus.System.Drawing.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\EPPlus.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\Ionic.Zip.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Data.SqlClient.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Data.SqlClient.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\itextsharp.xmlworker.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Drawing.Common.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.AccessControl.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.Cryptography.Xml.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.Principal.Windows.dll
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\BouncyCastle.Crypto.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Drawing.Common.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.AccessControl.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.Cryptography.Xml.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\bin\System.Security.Principal.Windows.xml
+E:\Yasir\My Data\RESDOT Project\Working Application\RESDOT\obj\Debug\RESDOT.csproj.AssemblyReference.cache
+D:\Rutuja\RESDOT\bin\RESDOT.dll.config
+D:\Rutuja\RESDOT\bin\RESDOT.dll
+D:\Rutuja\RESDOT\bin\RESDOT.pdb
+D:\Rutuja\RESDOT\bin\roslyn\csc.exe
+D:\Rutuja\RESDOT\bin\roslyn\csc.exe.config
+D:\Rutuja\RESDOT\bin\roslyn\csc.rsp
+D:\Rutuja\RESDOT\bin\roslyn\csi.exe
+D:\Rutuja\RESDOT\bin\roslyn\csi.exe.config
+D:\Rutuja\RESDOT\bin\roslyn\csi.rsp
+D:\Rutuja\RESDOT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rutuja\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rutuja\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Rutuja\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rutuja\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Rutuja\RESDOT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rutuja\RESDOT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rutuja\RESDOT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Rutuja\RESDOT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Rutuja\RESDOT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Rutuja\RESDOT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rutuja\RESDOT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.AppContext.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Collections.Immutable.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Console.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Globalization.Calendars.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.IO.Compression.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.IO.FileSystem.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Net.Http.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Net.Sockets.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.ValueTuple.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Xml.XPath.dll
+D:\Rutuja\RESDOT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Rutuja\RESDOT\bin\roslyn\vbc.exe
+D:\Rutuja\RESDOT\bin\roslyn\vbc.exe.config
+D:\Rutuja\RESDOT\bin\roslyn\vbc.rsp
+D:\Rutuja\RESDOT\bin\roslyn\VBCSCompiler.exe
+D:\Rutuja\RESDOT\bin\roslyn\VBCSCompiler.exe.config
+D:\Rutuja\RESDOT\bin\Microsoft.Win32.Primitives.dll
+D:\Rutuja\RESDOT\bin\netstandard.dll
+D:\Rutuja\RESDOT\bin\System.AppContext.dll
+D:\Rutuja\RESDOT\bin\System.Collections.Concurrent.dll
+D:\Rutuja\RESDOT\bin\System.Collections.dll
+D:\Rutuja\RESDOT\bin\System.Collections.NonGeneric.dll
+D:\Rutuja\RESDOT\bin\System.Collections.Specialized.dll
+D:\Rutuja\RESDOT\bin\System.ComponentModel.dll
+D:\Rutuja\RESDOT\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Rutuja\RESDOT\bin\System.ComponentModel.Primitives.dll
+D:\Rutuja\RESDOT\bin\System.ComponentModel.TypeConverter.dll
+D:\Rutuja\RESDOT\bin\System.Console.dll
+D:\Rutuja\RESDOT\bin\System.Data.Common.dll
+D:\Rutuja\RESDOT\bin\System.Diagnostics.Contracts.dll
+D:\Rutuja\RESDOT\bin\System.Diagnostics.Debug.dll
+D:\Rutuja\RESDOT\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Rutuja\RESDOT\bin\System.Diagnostics.Process.dll
+D:\Rutuja\RESDOT\bin\System.Diagnostics.StackTrace.dll
+D:\Rutuja\RESDOT\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Rutuja\RESDOT\bin\System.Diagnostics.Tools.dll
+D:\Rutuja\RESDOT\bin\System.Diagnostics.TraceSource.dll
+D:\Rutuja\RESDOT\bin\System.Diagnostics.Tracing.dll
+D:\Rutuja\RESDOT\bin\System.Drawing.Primitives.dll
+D:\Rutuja\RESDOT\bin\System.Dynamic.Runtime.dll
+D:\Rutuja\RESDOT\bin\System.Globalization.Calendars.dll
+D:\Rutuja\RESDOT\bin\System.Globalization.dll
+D:\Rutuja\RESDOT\bin\System.Globalization.Extensions.dll
+D:\Rutuja\RESDOT\bin\System.IO.Compression.dll
+D:\Rutuja\RESDOT\bin\System.IO.Compression.ZipFile.dll
+D:\Rutuja\RESDOT\bin\System.IO.dll
+D:\Rutuja\RESDOT\bin\System.IO.FileSystem.dll
+D:\Rutuja\RESDOT\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Rutuja\RESDOT\bin\System.IO.FileSystem.Primitives.dll
+D:\Rutuja\RESDOT\bin\System.IO.FileSystem.Watcher.dll
+D:\Rutuja\RESDOT\bin\System.IO.IsolatedStorage.dll
+D:\Rutuja\RESDOT\bin\System.IO.MemoryMappedFiles.dll
+D:\Rutuja\RESDOT\bin\System.IO.Pipes.dll
+D:\Rutuja\RESDOT\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Rutuja\RESDOT\bin\System.Linq.dll
+D:\Rutuja\RESDOT\bin\System.Linq.Expressions.dll
+D:\Rutuja\RESDOT\bin\System.Linq.Parallel.dll
+D:\Rutuja\RESDOT\bin\System.Linq.Queryable.dll
+D:\Rutuja\RESDOT\bin\System.Net.Http.dll
+D:\Rutuja\RESDOT\bin\System.Net.NameResolution.dll
+D:\Rutuja\RESDOT\bin\System.Net.NetworkInformation.dll
+D:\Rutuja\RESDOT\bin\System.Net.Ping.dll
+D:\Rutuja\RESDOT\bin\System.Net.Primitives.dll
+D:\Rutuja\RESDOT\bin\System.Net.Requests.dll
+D:\Rutuja\RESDOT\bin\System.Net.Security.dll
+D:\Rutuja\RESDOT\bin\System.Net.Sockets.dll
+D:\Rutuja\RESDOT\bin\System.Net.WebHeaderCollection.dll
+D:\Rutuja\RESDOT\bin\System.Net.WebSockets.Client.dll
+D:\Rutuja\RESDOT\bin\System.Net.WebSockets.dll
+D:\Rutuja\RESDOT\bin\System.ObjectModel.dll
+D:\Rutuja\RESDOT\bin\System.Reflection.dll
+D:\Rutuja\RESDOT\bin\System.Reflection.Extensions.dll
+D:\Rutuja\RESDOT\bin\System.Reflection.Primitives.dll
+D:\Rutuja\RESDOT\bin\System.Resources.Reader.dll
+D:\Rutuja\RESDOT\bin\System.Resources.ResourceManager.dll
+D:\Rutuja\RESDOT\bin\System.Resources.Writer.dll
+D:\Rutuja\RESDOT\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Rutuja\RESDOT\bin\System.Runtime.dll
+D:\Rutuja\RESDOT\bin\System.Runtime.Extensions.dll
+D:\Rutuja\RESDOT\bin\System.Runtime.Handles.dll
+D:\Rutuja\RESDOT\bin\System.Runtime.InteropServices.dll
+D:\Rutuja\RESDOT\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Rutuja\RESDOT\bin\System.Runtime.Numerics.dll
+D:\Rutuja\RESDOT\bin\System.Runtime.Serialization.Formatters.dll
+D:\Rutuja\RESDOT\bin\System.Runtime.Serialization.Json.dll
+D:\Rutuja\RESDOT\bin\System.Runtime.Serialization.Primitives.dll
+D:\Rutuja\RESDOT\bin\System.Runtime.Serialization.Xml.dll
+D:\Rutuja\RESDOT\bin\System.Security.Claims.dll
+D:\Rutuja\RESDOT\bin\System.Security.Cryptography.Algorithms.dll
+D:\Rutuja\RESDOT\bin\System.Security.Cryptography.Csp.dll
+D:\Rutuja\RESDOT\bin\System.Security.Cryptography.Encoding.dll
+D:\Rutuja\RESDOT\bin\System.Security.Cryptography.Primitives.dll
+D:\Rutuja\RESDOT\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Rutuja\RESDOT\bin\System.Security.Principal.dll
+D:\Rutuja\RESDOT\bin\System.Security.SecureString.dll
+D:\Rutuja\RESDOT\bin\System.Text.Encoding.dll
+D:\Rutuja\RESDOT\bin\System.Text.Encoding.Extensions.dll
+D:\Rutuja\RESDOT\bin\System.Text.RegularExpressions.dll
+D:\Rutuja\RESDOT\bin\System.Threading.dll
+D:\Rutuja\RESDOT\bin\System.Threading.Overlapped.dll
+D:\Rutuja\RESDOT\bin\System.Threading.Tasks.dll
+D:\Rutuja\RESDOT\bin\System.Threading.Tasks.Parallel.dll
+D:\Rutuja\RESDOT\bin\System.Threading.Thread.dll
+D:\Rutuja\RESDOT\bin\System.Threading.ThreadPool.dll
+D:\Rutuja\RESDOT\bin\System.Threading.Timer.dll
+D:\Rutuja\RESDOT\bin\System.ValueTuple.dll
+D:\Rutuja\RESDOT\bin\System.Xml.ReaderWriter.dll
+D:\Rutuja\RESDOT\bin\System.Xml.XDocument.dll
+D:\Rutuja\RESDOT\bin\System.Xml.XmlDocument.dll
+D:\Rutuja\RESDOT\bin\System.Xml.XmlSerializer.dll
+D:\Rutuja\RESDOT\bin\System.Xml.XPath.dll
+D:\Rutuja\RESDOT\bin\System.Xml.XPath.XDocument.dll
+D:\Rutuja\RESDOT\bin\Antlr3.Runtime.dll
+D:\Rutuja\RESDOT\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Rutuja\RESDOT\bin\AspNet.ScriptManager.jQuery.dll
+D:\Rutuja\RESDOT\bin\BouncyCastle.Crypto.dll
+D:\Rutuja\RESDOT\bin\EPPlus.dll
+D:\Rutuja\RESDOT\bin\EPPlus.Interfaces.dll
+D:\Rutuja\RESDOT\bin\EPPlus.System.Drawing.dll
+D:\Rutuja\RESDOT\bin\ExcelDataReader.DataSet.dll
+D:\Rutuja\RESDOT\bin\ExcelDataReader.dll
+D:\Rutuja\RESDOT\bin\Ionic.Zip.dll
+D:\Rutuja\RESDOT\bin\itextsharp.dll
+D:\Rutuja\RESDOT\bin\itextsharp.xmlworker.dll
+D:\Rutuja\RESDOT\bin\JW.Pager.dll
+D:\Rutuja\RESDOT\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Rutuja\RESDOT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Rutuja\RESDOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rutuja\RESDOT\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Rutuja\RESDOT\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Rutuja\RESDOT\bin\Microsoft.Web.Infrastructure.dll
+D:\Rutuja\RESDOT\bin\Newtonsoft.Json.dll
+D:\Rutuja\RESDOT\bin\System.Data.SqlClient.dll
+D:\Rutuja\RESDOT\bin\System.Drawing.Common.dll
+D:\Rutuja\RESDOT\bin\System.Security.AccessControl.dll
+D:\Rutuja\RESDOT\bin\System.Security.Cryptography.Xml.dll
+D:\Rutuja\RESDOT\bin\System.Security.Principal.Windows.dll
+D:\Rutuja\RESDOT\bin\System.Web.Optimization.dll
+D:\Rutuja\RESDOT\bin\WebGrease.dll
+D:\Rutuja\RESDOT\bin\BouncyCastle.Crypto.xml
+D:\Rutuja\RESDOT\bin\EPPlus.xml
+D:\Rutuja\RESDOT\bin\ExcelDataReader.pdb
+D:\Rutuja\RESDOT\bin\ExcelDataReader.xml
+D:\Rutuja\RESDOT\bin\ExcelDataReader.DataSet.pdb
+D:\Rutuja\RESDOT\bin\ExcelDataReader.DataSet.xml
+D:\Rutuja\RESDOT\bin\itextsharp.xml
+D:\Rutuja\RESDOT\bin\System.Data.SqlClient.xml
+D:\Rutuja\RESDOT\bin\System.Drawing.Common.xml
+D:\Rutuja\RESDOT\bin\System.Security.AccessControl.xml
+D:\Rutuja\RESDOT\bin\System.Security.Cryptography.Xml.xml
+D:\Rutuja\RESDOT\bin\System.Security.Principal.Windows.xml
+D:\Rutuja\RESDOT\bin\System.Web.Optimization.xml
+D:\Rutuja\RESDOT\bin\Newtonsoft.Json.xml
+D:\Rutuja\RESDOT\bin\Antlr3.Runtime.pdb
+D:\Rutuja\RESDOT\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Rutuja\RESDOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rutuja\RESDOT\obj\Debug\RESDOT.csproj.AssemblyReference.cache
+D:\Rutuja\RESDOT\obj\Debug\RESDOT.csproj.CoreCompileInputs.cache
+D:\Rutuja\RESDOT\obj\Debug\RESDOT.csproj.CopyComplete
+D:\Rutuja\RESDOT\obj\Debug\RESDOT.dll
+D:\Rutuja\RESDOT\obj\Debug\RESDOT.pdb
+D:\Rutuja\RESDOT - Rutuja\bin\RESDOT.dll.config
+D:\Rutuja\RESDOT - Rutuja\bin\RESDOT.dll
+D:\Rutuja\RESDOT - Rutuja\bin\RESDOT.pdb
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\csc.exe
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\csc.exe.config
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\csc.rsp
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\csi.exe
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\csi.exe.config
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\csi.rsp
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.AppContext.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Collections.Immutable.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Console.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Globalization.Calendars.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.IO.Compression.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.IO.FileSystem.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Net.Http.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Net.Sockets.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.ValueTuple.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Xml.XPath.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\vbc.exe
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\vbc.exe.config
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\vbc.rsp
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\VBCSCompiler.exe
+D:\Rutuja\RESDOT - Rutuja\bin\roslyn\VBCSCompiler.exe.config
+D:\Rutuja\RESDOT - Rutuja\bin\Microsoft.Win32.Primitives.dll
+D:\Rutuja\RESDOT - Rutuja\bin\netstandard.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.AppContext.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Collections.Concurrent.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Collections.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Collections.NonGeneric.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Collections.Specialized.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.ComponentModel.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.ComponentModel.Primitives.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.ComponentModel.TypeConverter.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Console.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Data.Common.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Diagnostics.Contracts.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Diagnostics.Debug.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Diagnostics.Process.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Diagnostics.StackTrace.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Diagnostics.Tools.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Diagnostics.TraceSource.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Diagnostics.Tracing.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Drawing.Primitives.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Dynamic.Runtime.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Globalization.Calendars.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Globalization.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Globalization.Extensions.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.IO.Compression.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.IO.Compression.ZipFile.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.IO.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.IO.FileSystem.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.IO.FileSystem.Primitives.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.IO.FileSystem.Watcher.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.IO.IsolatedStorage.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.IO.MemoryMappedFiles.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.IO.Pipes.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Linq.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Linq.Expressions.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Linq.Parallel.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Linq.Queryable.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Net.Http.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Net.NameResolution.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Net.NetworkInformation.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Net.Ping.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Net.Primitives.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Net.Requests.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Net.Security.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Net.Sockets.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Net.WebHeaderCollection.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Net.WebSockets.Client.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Net.WebSockets.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.ObjectModel.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Reflection.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Reflection.Extensions.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Reflection.Primitives.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Resources.Reader.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Resources.ResourceManager.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Resources.Writer.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Runtime.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Runtime.Extensions.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Runtime.Handles.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Runtime.InteropServices.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Runtime.Numerics.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Runtime.Serialization.Formatters.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Runtime.Serialization.Json.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Runtime.Serialization.Primitives.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Runtime.Serialization.Xml.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.Claims.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.Cryptography.Algorithms.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.Cryptography.Csp.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.Cryptography.Encoding.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.Cryptography.Primitives.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.Principal.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.SecureString.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Text.Encoding.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Text.Encoding.Extensions.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Text.RegularExpressions.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Threading.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Threading.Overlapped.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Threading.Tasks.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Threading.Tasks.Parallel.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Threading.Thread.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Threading.ThreadPool.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Threading.Timer.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.ValueTuple.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Xml.ReaderWriter.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Xml.XDocument.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Xml.XmlDocument.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Xml.XmlSerializer.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Xml.XPath.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Xml.XPath.XDocument.dll
+D:\Rutuja\RESDOT - Rutuja\bin\Antlr3.Runtime.dll
+D:\Rutuja\RESDOT - Rutuja\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Rutuja\RESDOT - Rutuja\bin\AspNet.ScriptManager.jQuery.dll
+D:\Rutuja\RESDOT - Rutuja\bin\BouncyCastle.Crypto.dll
+D:\Rutuja\RESDOT - Rutuja\bin\EPPlus.dll
+D:\Rutuja\RESDOT - Rutuja\bin\EPPlus.Interfaces.dll
+D:\Rutuja\RESDOT - Rutuja\bin\EPPlus.System.Drawing.dll
+D:\Rutuja\RESDOT - Rutuja\bin\ExcelDataReader.DataSet.dll
+D:\Rutuja\RESDOT - Rutuja\bin\ExcelDataReader.dll
+D:\Rutuja\RESDOT - Rutuja\bin\Ionic.Zip.dll
+D:\Rutuja\RESDOT - Rutuja\bin\itextsharp.dll
+D:\Rutuja\RESDOT - Rutuja\bin\itextsharp.xmlworker.dll
+D:\Rutuja\RESDOT - Rutuja\bin\JW.Pager.dll
+D:\Rutuja\RESDOT - Rutuja\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Rutuja\RESDOT - Rutuja\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Rutuja\RESDOT - Rutuja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rutuja\RESDOT - Rutuja\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Rutuja\RESDOT - Rutuja\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Rutuja\RESDOT - Rutuja\bin\Microsoft.Web.Infrastructure.dll
+D:\Rutuja\RESDOT - Rutuja\bin\Newtonsoft.Json.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Data.SqlClient.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Drawing.Common.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.AccessControl.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.Cryptography.Xml.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.Principal.Windows.dll
+D:\Rutuja\RESDOT - Rutuja\bin\System.Web.Optimization.dll
+D:\Rutuja\RESDOT - Rutuja\bin\WebGrease.dll
+D:\Rutuja\RESDOT - Rutuja\bin\BouncyCastle.Crypto.xml
+D:\Rutuja\RESDOT - Rutuja\bin\EPPlus.xml
+D:\Rutuja\RESDOT - Rutuja\bin\ExcelDataReader.pdb
+D:\Rutuja\RESDOT - Rutuja\bin\ExcelDataReader.xml
+D:\Rutuja\RESDOT - Rutuja\bin\ExcelDataReader.DataSet.pdb
+D:\Rutuja\RESDOT - Rutuja\bin\ExcelDataReader.DataSet.xml
+D:\Rutuja\RESDOT - Rutuja\bin\itextsharp.xml
+D:\Rutuja\RESDOT - Rutuja\bin\System.Data.SqlClient.xml
+D:\Rutuja\RESDOT - Rutuja\bin\System.Drawing.Common.xml
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.AccessControl.xml
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.Cryptography.Xml.xml
+D:\Rutuja\RESDOT - Rutuja\bin\System.Security.Principal.Windows.xml
+D:\Rutuja\RESDOT - Rutuja\bin\System.Web.Optimization.xml
+D:\Rutuja\RESDOT - Rutuja\bin\Newtonsoft.Json.xml
+D:\Rutuja\RESDOT - Rutuja\bin\Antlr3.Runtime.pdb
+D:\Rutuja\RESDOT - Rutuja\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Rutuja\RESDOT - Rutuja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rutuja\RESDOT - Rutuja\obj\Debug\RESDOT.csproj.CoreCompileInputs.cache
+D:\Rutuja\RESDOT - Rutuja\obj\Debug\RESDOT.csproj.CopyComplete
+D:\Rutuja\RESDOT - Rutuja\obj\Debug\RESDOT.dll
+D:\Rutuja\RESDOT - Rutuja\obj\Debug\RESDOT.pdb
+D:\Rutuja\RESDOT - Rutuja\obj\Debug\RESDOT.csproj.AssemblyReference.cache
+D:\UAT_Applications\RESDOT_Demo\bin\RESDOT.dll.config
+D:\UAT_Applications\RESDOT_Demo\bin\RESDOT.dll
+D:\UAT_Applications\RESDOT_Demo\bin\RESDOT.pdb
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\csc.exe
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\csc.exe.config
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\csc.rsp
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\csi.exe
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\csi.exe.config
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\csi.rsp
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.AppContext.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Collections.Immutable.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Console.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Globalization.Calendars.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.IO.Compression.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.IO.FileSystem.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Net.Http.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Net.Sockets.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Reflection.Metadata.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.ValueTuple.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Xml.XPath.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\vbc.exe
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\vbc.exe.config
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\vbc.rsp
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\VBCSCompiler.exe
+D:\UAT_Applications\RESDOT_Demo\bin\roslyn\VBCSCompiler.exe.config
+D:\UAT_Applications\RESDOT_Demo\bin\Microsoft.Win32.Primitives.dll
+D:\UAT_Applications\RESDOT_Demo\bin\netstandard.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.AppContext.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Collections.Concurrent.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Collections.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Collections.NonGeneric.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Collections.Specialized.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.ComponentModel.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.ComponentModel.EventBasedAsync.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.ComponentModel.Primitives.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.ComponentModel.TypeConverter.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Console.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Data.Common.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Diagnostics.Contracts.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Diagnostics.Debug.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Diagnostics.FileVersionInfo.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Diagnostics.Process.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Diagnostics.StackTrace.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Diagnostics.Tools.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Diagnostics.TraceSource.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Diagnostics.Tracing.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Drawing.Primitives.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Dynamic.Runtime.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Globalization.Calendars.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Globalization.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Globalization.Extensions.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.IO.Compression.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.IO.Compression.ZipFile.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.IO.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.IO.FileSystem.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.IO.FileSystem.DriveInfo.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.IO.FileSystem.Primitives.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.IO.FileSystem.Watcher.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.IO.IsolatedStorage.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.IO.MemoryMappedFiles.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.IO.Pipes.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.IO.UnmanagedMemoryStream.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Linq.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Linq.Expressions.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Linq.Parallel.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Linq.Queryable.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Net.Http.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Net.NameResolution.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Net.NetworkInformation.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Net.Ping.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Net.Primitives.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Net.Requests.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Net.Security.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Net.Sockets.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Net.WebHeaderCollection.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Net.WebSockets.Client.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Net.WebSockets.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.ObjectModel.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Reflection.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Reflection.Extensions.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Reflection.Primitives.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Resources.Reader.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Resources.ResourceManager.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Resources.Writer.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Runtime.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Runtime.Extensions.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Runtime.Handles.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Runtime.InteropServices.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Runtime.Numerics.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Runtime.Serialization.Formatters.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Runtime.Serialization.Json.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Runtime.Serialization.Primitives.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Runtime.Serialization.Xml.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.Claims.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.Cryptography.Algorithms.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.Cryptography.Csp.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.Cryptography.Encoding.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.Cryptography.Primitives.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.Cryptography.X509Certificates.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.Principal.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.SecureString.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Text.Encoding.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Text.Encoding.Extensions.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Text.RegularExpressions.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Threading.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Threading.Overlapped.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Threading.Tasks.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Threading.Tasks.Parallel.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Threading.Thread.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Threading.ThreadPool.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Threading.Timer.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.ValueTuple.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Xml.ReaderWriter.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Xml.XDocument.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Xml.XmlDocument.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Xml.XmlSerializer.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Xml.XPath.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Xml.XPath.XDocument.dll
+D:\UAT_Applications\RESDOT_Demo\bin\Antlr3.Runtime.dll
+D:\UAT_Applications\RESDOT_Demo\bin\AspNet.ScriptManager.bootstrap.dll
+D:\UAT_Applications\RESDOT_Demo\bin\AspNet.ScriptManager.jQuery.dll
+D:\UAT_Applications\RESDOT_Demo\bin\BouncyCastle.Crypto.dll
+D:\UAT_Applications\RESDOT_Demo\bin\EPPlus.dll
+D:\UAT_Applications\RESDOT_Demo\bin\EPPlus.Interfaces.dll
+D:\UAT_Applications\RESDOT_Demo\bin\EPPlus.System.Drawing.dll
+D:\UAT_Applications\RESDOT_Demo\bin\ExcelDataReader.DataSet.dll
+D:\UAT_Applications\RESDOT_Demo\bin\ExcelDataReader.dll
+D:\UAT_Applications\RESDOT_Demo\bin\Ionic.Zip.dll
+D:\UAT_Applications\RESDOT_Demo\bin\itextsharp.dll
+D:\UAT_Applications\RESDOT_Demo\bin\itextsharp.xmlworker.dll
+D:\UAT_Applications\RESDOT_Demo\bin\JW.Pager.dll
+D:\UAT_Applications\RESDOT_Demo\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\UAT_Applications\RESDOT_Demo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\UAT_Applications\RESDOT_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UAT_Applications\RESDOT_Demo\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\UAT_Applications\RESDOT_Demo\bin\Microsoft.ScriptManager.WebForms.dll
+D:\UAT_Applications\RESDOT_Demo\bin\Microsoft.Web.Infrastructure.dll
+D:\UAT_Applications\RESDOT_Demo\bin\Newtonsoft.Json.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Data.SqlClient.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Drawing.Common.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.AccessControl.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.Cryptography.Xml.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.Principal.Windows.dll
+D:\UAT_Applications\RESDOT_Demo\bin\System.Web.Optimization.dll
+D:\UAT_Applications\RESDOT_Demo\bin\WebGrease.dll
+D:\UAT_Applications\RESDOT_Demo\bin\BouncyCastle.Crypto.xml
+D:\UAT_Applications\RESDOT_Demo\bin\EPPlus.xml
+D:\UAT_Applications\RESDOT_Demo\bin\ExcelDataReader.pdb
+D:\UAT_Applications\RESDOT_Demo\bin\ExcelDataReader.xml
+D:\UAT_Applications\RESDOT_Demo\bin\ExcelDataReader.DataSet.pdb
+D:\UAT_Applications\RESDOT_Demo\bin\ExcelDataReader.DataSet.xml
+D:\UAT_Applications\RESDOT_Demo\bin\itextsharp.xml
+D:\UAT_Applications\RESDOT_Demo\bin\System.Data.SqlClient.xml
+D:\UAT_Applications\RESDOT_Demo\bin\System.Drawing.Common.xml
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.AccessControl.xml
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.Cryptography.Xml.xml
+D:\UAT_Applications\RESDOT_Demo\bin\System.Security.Principal.Windows.xml
+D:\UAT_Applications\RESDOT_Demo\bin\System.Web.Optimization.xml
+D:\UAT_Applications\RESDOT_Demo\bin\Newtonsoft.Json.xml
+D:\UAT_Applications\RESDOT_Demo\bin\Antlr3.Runtime.pdb
+D:\UAT_Applications\RESDOT_Demo\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\UAT_Applications\RESDOT_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UAT_Applications\RESDOT_Demo\obj\Debug\RESDOT.csproj.CoreCompileInputs.cache
+D:\UAT_Applications\RESDOT_Demo\obj\Debug\RESDOT.csproj.CopyComplete
+D:\UAT_Applications\RESDOT_Demo\obj\Debug\RESDOT.dll
+D:\UAT_Applications\RESDOT_Demo\obj\Debug\RESDOT.pdb
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\RESDOT.dll.config
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\RESDOT.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\RESDOT.pdb
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\netstandard.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.AppContext.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Collections.Concurrent.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Collections.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Collections.NonGeneric.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Collections.Specialized.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.ComponentModel.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.ComponentModel.Primitives.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Console.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Data.Common.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Diagnostics.Contracts.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Diagnostics.Debug.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Diagnostics.Process.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Diagnostics.Tools.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Diagnostics.TraceSource.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Diagnostics.Tracing.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Drawing.Primitives.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Dynamic.Runtime.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Globalization.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Globalization.Extensions.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.IO.Compression.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.IO.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.IO.IsolatedStorage.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.IO.Pipes.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Linq.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Linq.Expressions.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Linq.Parallel.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Linq.Queryable.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Net.Http.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Net.NameResolution.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Net.NetworkInformation.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Net.Ping.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Net.Primitives.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Net.Requests.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Net.Security.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Net.Sockets.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Net.WebHeaderCollection.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Net.WebSockets.Client.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Net.WebSockets.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.ObjectModel.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Reflection.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Reflection.Extensions.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Reflection.Primitives.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Resources.Reader.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Resources.ResourceManager.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Resources.Writer.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Runtime.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Runtime.Extensions.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Runtime.Handles.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Runtime.InteropServices.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Runtime.Numerics.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Runtime.Serialization.Json.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.Claims.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.Cryptography.Csp.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.Principal.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.SecureString.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Text.Encoding.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Text.Encoding.Extensions.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Text.RegularExpressions.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Threading.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Threading.Overlapped.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Threading.Tasks.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Threading.Thread.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Threading.ThreadPool.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Threading.Timer.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.ValueTuple.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Xml.XDocument.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Xml.XmlSerializer.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Xml.XPath.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\EPPlus.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\EPPlus.Interfaces.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\EPPlus.System.Drawing.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\ExcelDataReader.DataSet.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\ExcelDataReader.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Ionic.Zip.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\itextsharp.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\itextsharp.xmlworker.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\JW.Pager.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Drawing.Common.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.Cryptography.Xml.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\WebGrease.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\BouncyCastle.Crypto.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\EPPlus.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\ExcelDataReader.pdb
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\ExcelDataReader.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\ExcelDataReader.DataSet.pdb
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\ExcelDataReader.DataSet.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\itextsharp.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Data.SqlClient.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Drawing.Common.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.AccessControl.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.Cryptography.Xml.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Security.Principal.Windows.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\obj\Debug\RESDOT.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\obj\Debug\RESDOT.csproj.CopyComplete
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\obj\Debug\RESDOT.dll
+C:\Users\admin\Desktop\PWA_27_03_2025\RESDOT_Demo\obj\Debug\RESDOT.pdb

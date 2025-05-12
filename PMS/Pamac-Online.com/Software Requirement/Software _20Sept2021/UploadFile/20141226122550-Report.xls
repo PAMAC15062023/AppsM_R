@@ -1,0 +1,37 @@
+<style> TD { mso-number-format:\@; } </style> <table border="0">
+	<tr style="height:20px;">
+		<td> </td>
+	</tr><tr>
+		<td class="SuccessMessage" colspan="20"></td>
+	</tr>
+</table><div>
+	<table class="mGrid" cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GridView1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Branch</th><th scope="col">Ticket Number</th><th scope="col">Ticket Date</th><th scope="col">Department</th><th scope="col">Problem Name</th><th scope="col">Problem Details</th><th scope="col">Remark</th><th scope="col">Status</th>
+		</tr><tr>
+			<td>ANTOP HILL</td><td>ITHELP\201409\ANH-000423</td><td>17/09/2014</td><td>PCPV</td><td>Hardware</td><td>Motherboard Problem</td><td>&nbsp;</td><td>Pending</td>
+		</tr><tr>
+			<td>ANTOP HILL</td><td>ITHELP\201409\ANH-000516</td><td>23/09/2014</td><td>PCPA</td><td>Application</td><td>PMS Not Working / Slow</td><td>&nbsp;</td><td>Pending</td>
+		</tr><tr>
+			<td>ANTOP HILL</td><td>ITHELP\201409\ANH-000534</td><td>23/09/2014</td><td>PTPV</td><td>Hardware</td><td>Motherboard Problem</td><td>Dept : SBI
+system is not power on.</td><td>Pending</td>
+		</tr><tr>
+			<td>ANTOP HILL</td><td>ITHELP\201409\ANH-000535</td><td>23/09/2014</td><td>PTPV</td><td>Hardware</td><td>Motherboard Problem</td><td>display problem.</td><td>Pending</td>
+		</tr><tr>
+			<td>ANTOP HILL</td><td>ITHELP\201410\ANH-000079</td><td>14/10/2014</td><td>EDP</td><td>E-Mail</td><td>Outlook Problem</td><td>outlook not working.</td><td>Pending</td>
+		</tr><tr>
+			<td>MUMBAI HO</td><td>ITHELP\201411\MHO-000113</td><td>04/11/2014</td><td>PCPV</td><td>Others</td><td>Shifting Activity</td><td>user Data Backup Done. Mail Configuration done All the network setting &amp; Audit settings done. Machine Handed over to user. Time taken 1Hours work done on 31/10/14</td><td>Pending</td>
+		</tr><tr>
+			<td>MUMBAI HO</td><td>ITHELP\201411\MHO-000136</td><td>06/11/2014</td><td>EDP</td><td>E-Mail</td><td>M Daemon Configuration</td><td>Problem with m daemon call from coimbatore
+work done 6/11/14
+time taken  3 hours</td><td>Pending</td>
+		</tr><tr>
+			<td>MUMBAI HO</td><td>ITHELP\201411\MHO-000146</td><td>08/11/2014</td><td>Account</td><td>Operating System</td><td>OS Repaire</td><td>operating system was corrupt 
+work done on 7/11/14 time taken 15 minutes</td><td>Pending</td>
+		</tr><tr>
+			<td>MUMBAI HO</td><td>ITHELP\201411\MHO-000186</td><td>14/11/2014</td><td>EDP</td><td>Internet</td><td>Site Slow</td><td>Internet explorer was not working 
+work done on 13/11/14
+time taken 15 minutes</td><td>Pending</td>
+		</tr>
+	</table>
+</div>

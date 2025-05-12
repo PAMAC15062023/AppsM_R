@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="frt" targetNamespace="http://tempuri.org/frt.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/frt.xsd" xmlns:mstns="http://tempuri.org/frt.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Finacial">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="EMP_CODE" type="xs:string" />
+				<xs:element name="CASE_REC_DATETIME" type="xs:string" />
+				<xs:element name="FE_VISIT_DATE" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="Sup_SignImage" type="xs:base64Binary" />
+				<xs:element name="sup_name" type="xs:string" />
+				<xs:element name="CASE_ID" type="xs:string" />
+				<xs:element name="VERIFICATION_TYPE_ID" type="xs:string" />
+				<xs:element name="CASE_STATUS_ID" type="xs:string" />
+				<xs:element name="FE_REMARK" type="xs:string" />
+				<xs:element name="ADD_BY" type="xs:string" />
+				<xs:element name="ADD_DATE" type="xs:string" />
+				<xs:element name="Supervisor_sign" type="xs:base64Binary" />
+				<xs:element name="AreaID" type="xs:string" />
+				<xs:element name="Applicant_name" type="xs:string" />
+				<xs:element name="CPA_ref_no" type="xs:string" />
+				<xs:element name="bank_ref_no" type="xs:string" />
+				<xs:element name="productname" type="xs:string" />
+				<xs:element name="clientname" type="xs:string" />
+				<xs:element name="totalsales" type="xs:string" />
+				<xs:element name="totalcapital" type="xs:string" />
+				<xs:element name="totalfixedasset" type="xs:string" />
+				<xs:element name="totaldebtoramt" type="xs:string" />
+				<xs:element name="totalcreditoramt" type="xs:string" />
+				<xs:element name="totalclosingstamt" type="xs:string" />
+				<xs:element name="totaladepamt" type="xs:string" />
+				<xs:element name="totalnetprofit" type="xs:string" />
+				<xs:element name="panno_fincial" type="xs:string" />
+				<xs:element name="whetherfieldveri" type="xs:string" />
+				<xs:element name="Positive" type="xs:string" />
+				<xs:element name="verification_donein" type="xs:string" />
+				<xs:element name="Negative" type="xs:string" />
+				<xs:element name="Refer_x0020_To_x0020_Bank" type="xs:string" />
+				<xs:element name="FEName" type="xs:string" />
+				<xs:element name="Yes" type="xs:string" />
+				<xs:element name="No" type="xs:string" />
+				<xs:element name="Yes1" type="xs:string" />
+				<xs:element name="No1" type="xs:string" />
+				<xs:element name="agentstamp" type="xs:base64Binary" />
+				<xs:element name="FEsign" type="xs:base64Binary" />
+				<xs:element name="Client_name" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="assyear" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Main">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_id" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

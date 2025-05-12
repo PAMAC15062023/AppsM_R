@@ -1,0 +1,4 @@
+select a.case_id,ref_no,first_name,subremark as Status,verification_code from cpv_cc_case_details a, 
+CPV_CC_VERI_ATTEMPTS b where a.case_id=b.case_id and client_id=101145 and b.subremark='Pickedup'
+and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+

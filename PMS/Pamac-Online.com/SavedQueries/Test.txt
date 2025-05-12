@@ -1,0 +1,10 @@
+SELECT (vtm. VERIFICATION_type_code) As [Verification Type],cd.ref_no as[Ref no],cm.client_name as[Client name], cd.Case_ID as [Case ID], (isNull(cd.FIRST_NAME,'')+' '+isnull(cd.MIDDLE_NAME,'')+' '+isnull(cd.LAST_NAME,'')) as [Name],
+CONVERT(Varchar, cd.CASE_REC_DATETIME, 103) As  [Recieved on] , 'PAMAC Online' as COMPANYNAME, 
+fev.FULLNAME AS [FE Name],cd.res_add_line_1 as Address  FROM client_master cm 
+inner join  CPV_KYC_CASE_DETAILS cd on(cd.client_id=cm.client_id)
+inner join cpv_KYC_verification_type vt on(cd.case_id=vt.case_id) 
+inner join verification_type_master vtm on(vt.verification_type_id=vtm.verification_type_id)
+inner join CPV_KYC_FE_MAPPING fem on(fem.VERIFICATION_TYPE_ID=vtm.verification_type_id) and (fem.Case_id=cd.Case_id) 
+inner join FE_VW fev on fev.EMP_ID=FEM.FE_ID WHERE (cd.SEND_DATETIME IS NULL) 
+AND cd.CLIENT_ID='10160' AND CD.CENTRE_ID='10127'
+and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE

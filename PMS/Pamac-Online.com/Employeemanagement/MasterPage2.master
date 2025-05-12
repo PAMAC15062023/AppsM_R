@@ -1,0 +1,88 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage2.master.cs" Inherits="MasterPage2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>Leave Management</title>
+    
+    <link href="../css/new_stylesheet.css" rel="stylesheet" type="text/css" />
+    <link href="../css/style.css" rel="stylesheet" type="text/css" />
+    <link href="../Employeemanagement/css/gridstyle.css" rel="stylesheet" type="text/css" />
+  
+</head>
+
+<body  style="background-color:#f2f2f4">
+    <form id="form1" runat="server">
+        <table>
+            <tr>
+                <td colspan="10" rowspan="2" style="height: 100%; width:100%">
+                    <div id="menubar" style="width: 100%">
+                        <ul id="menu">
+                            <li class="current">
+                                <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Employeemanagement/Default2.aspx">Home</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Employeemanagement/leave_mgt/DefaultLeave.aspx">Leave Management</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="">Salary</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/Employeemanagement/reg_mgt/DefaultRes.aspx">Resignation Management</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="">Testimonials</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="">Contact Us</asp:HyperLink>
+                            </li>
+                            <li></li>
+                            
+                        </ul>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+                <td align="left" rowspan="8" style="height:100%; width:100%" valign="top" colspan="2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+               
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+        </table>
+   
+    
+   
+            
+    
+    </form>
+</body>
+</html>
+
+
+
+
+
+ 
+ 
+ 
+
+
+

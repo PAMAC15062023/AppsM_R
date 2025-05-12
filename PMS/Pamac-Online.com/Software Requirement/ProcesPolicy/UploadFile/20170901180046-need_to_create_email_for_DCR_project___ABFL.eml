@@ -1,0 +1,352 @@
+Received: from mail.pamac.com ([103.13.99.139]) by pamac.com ([192.168.0.35])
+	(with MultiPOP) (MDaemon.Standard.v6.8.5.R)
+	for <edp@pamac.com>; Fri, 01 Sep 2017 17:59:11 +0530
+Return-Path: akshay.solanki@pamac.com
+Received: from mail.pamac.com (LHLO mail.pamac.com) (172.16.0.45) by
+ mail.pamac.com with LMTP; Fri, 1 Sep 2017 17:58:25 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id 8B01A9616FD;
+	Fri,  1 Sep 2017 17:58:25 +0530 (IST)
+Authentication-Results: mail.pamac.com (amavisd-new); dkim=neutral
+	reason="invalid (public key: not available)" header.d=pamac.com
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id Gx7GknSLiViu; Fri,  1 Sep 2017 17:58:24 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id 9B6B79616E6;
+	Fri,  1 Sep 2017 17:58:24 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.9.2 mail.pamac.com 9B6B79616E6
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=pamac.com;
+	s=084B4786-4057-11E6-9BAC-5E1413FBF31E; t=1504268904;
+	bh=CwYFI7EkJqOJzQZOR1CC13KnQmkee0+jJpo/O8BuQQI=;
+	h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type;
+	b=EaJJSmFV9VkJXPZhEmaFHpAdlg7niUuSdK2/WPGL+LmoLmLjKXNtrQYVC+ylonkbD
+	 yglOO7ViR0+jZfb8A9MOOIorMINBVyWD1OsU6DPBuGQdnEZW4d55FxifZ8n314j9yN
+	 oCSTJvfhdlIZrDKzVet/H1AV6VbGpK4V6+f3R6/Q=
+X-Virus-Scanned: amavisd-new at pamac.com
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id bmpiq0KFcfJe; Fri,  1 Sep 2017 17:58:24 +0530 (IST)
+Received: from AKSHAYSOLANKI (unknown [202.177.231.127])
+	by mail.pamac.com (Postfix) with ESMTPSA id 3B53B961703;
+	Fri,  1 Sep 2017 17:58:24 +0530 (IST)
+From: "Akshay Solanki" <akshay.solanki@pamac.com>
+To: "'PAMAC - EDP'" <edp@pamac.com>
+Cc: <sameer.kudalkar@pamac.com>
+Subject: need to create email for DCR project | ABFL
+Date: Fri, 1 Sep 2017 17:58:24 +0530
+Message-ID: <01be01d3231d$ceed7a90$6cc86fb0$@solanki@pamac.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01BF_01D3234B.E8A5B690"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdMjHc5nrm6OVaMfQHGW8yK6drMuJA==
+Content-Language: en-us
+X-MDMultiPOP: edp@pamac.com@mail.pamac.com
+X-MDRemoteIP: 103.13.99.139
+X-MDRcpt-To: edp@pamac.com
+X-MDaemon-Deliver-To: edp@pamac.com
+X-Trained: 2
+X-MS-ContentScanSkipped: [akshay.solanki@pamac.com] in AutoSpamWhiteList
+X-ForeignSender-IP: 103.13.99.139
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_01BF_01D3234B.E8A5B690
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi Prachi,
+
+ 
+
+Request you to create the below mentioned New Email ID for ABFL projct and
+confirm the same.
+
+ 
+
+Email ID : abfldcr@pamac.com
+
+ 
+
+Display Name: PAMAC Documents Collection
+
+ 
+
+ 
+
+ 
+
+Regards,
+
+Akshay Solanki.
+
+Assistant Manager | PDCR Unit.
+
+Tel: +91 9821743495| Email:  <mailto:akshay.solanki@pamac.com>
+akshay.solanki@pamac.com | Website:  <http://www.pamac.com/> www.pamac.com|
+
+PAMAC Group - Banking on our Credentials.
+
+ 
+
+****************************************************************************
+************************************************* 
+
+Disclaimer: This e-mail is confidential. It may also be legally privileged.
+If you are not the addressee you may not copy, forward, disclose or use any
+part of it. If you have received this message in error, please delete it and
+all copies from your system and notify the sender immediately by return
+e-mail.
+
+
+Internet communications cannot be guaranteed to be timely, secure, error or
+virus-free. The sender does not accept liability for any errors or
+omissions.
+
+****************************************************************************
+*************************************************
+
+P Please don't print this e-mail unless you really need to. Let us save the
+Mother Earth.
+
+ 
+
+ 
+
+
+------=_NextPart_000_01BF_01D3234B.E8A5B690
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" =
+xmlns:p=3D"urn:schemas-microsoft-com:office:powerpoint" =
+xmlns:a=3D"urn:schemas-microsoft-com:office:access" =
+xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" =
+xmlns:s=3D"uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882" =
+xmlns:rs=3D"urn:schemas-microsoft-com:rowset" xmlns:z=3D"#RowsetSchema" =
+xmlns:b=3D"urn:schemas-microsoft-com:office:publisher" =
+xmlns:ss=3D"urn:schemas-microsoft-com:office:spreadsheet" =
+xmlns:c=3D"urn:schemas-microsoft-com:office:component:spreadsheet" =
+xmlns:odc=3D"urn:schemas-microsoft-com:office:odc" =
+xmlns:oa=3D"urn:schemas-microsoft-com:office:activation" =
+xmlns:html=3D"http://www.w3.org/TR/REC-html40" =
+xmlns:q=3D"http://schemas.xmlsoap.org/soap/envelope/" =
+xmlns:rtc=3D"http://microsoft.com/officenet/conferencing" =
+xmlns:D=3D"DAV:" xmlns:Repl=3D"http://schemas.microsoft.com/repl/" =
+xmlns:mt=3D"http://schemas.microsoft.com/sharepoint/soap/meetings/" =
+xmlns:x2=3D"http://schemas.microsoft.com/office/excel/2003/xml" =
+xmlns:ppda=3D"http://www.passport.com/NameSpace.xsd" =
+xmlns:ois=3D"http://schemas.microsoft.com/sharepoint/soap/ois/" =
+xmlns:dir=3D"http://schemas.microsoft.com/sharepoint/soap/directory/" =
+xmlns:ds=3D"http://www.w3.org/2000/09/xmldsig#" =
+xmlns:dsp=3D"http://schemas.microsoft.com/sharepoint/dsp" =
+xmlns:udc=3D"http://schemas.microsoft.com/data/udc" =
+xmlns:xsd=3D"http://www.w3.org/2001/XMLSchema" =
+xmlns:sub=3D"http://schemas.microsoft.com/sharepoint/soap/2002/1/alerts/"=
+ xmlns:ec=3D"http://www.w3.org/2001/04/xmlenc#" =
+xmlns:sp=3D"http://schemas.microsoft.com/sharepoint/" =
+xmlns:sps=3D"http://schemas.microsoft.com/sharepoint/soap/" =
+xmlns:xsi=3D"http://www.w3.org/2001/XMLSchema-instance" =
+xmlns:udcs=3D"http://schemas.microsoft.com/data/udc/soap" =
+xmlns:udcxf=3D"http://schemas.microsoft.com/data/udc/xmlfile" =
+xmlns:udcp2p=3D"http://schemas.microsoft.com/data/udc/parttopart" =
+xmlns:wf=3D"http://schemas.microsoft.com/sharepoint/soap/workflow/" =
+xmlns:dsss=3D"http://schemas.microsoft.com/office/2006/digsig-setup" =
+xmlns:dssi=3D"http://schemas.microsoft.com/office/2006/digsig" =
+xmlns:mdssi=3D"http://schemas.openxmlformats.org/package/2006/digital-sig=
+nature" =
+xmlns:mver=3D"http://schemas.openxmlformats.org/markup-compatibility/2006=
+" xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns:mrels=3D"http://schemas.openxmlformats.org/package/2006/relationshi=
+ps" xmlns:spwp=3D"http://microsoft.com/sharepoint/webpartpages" =
+xmlns:ex12t=3D"http://schemas.microsoft.com/exchange/services/2006/types"=
+ =
+xmlns:ex12m=3D"http://schemas.microsoft.com/exchange/services/2006/messag=
+es" =
+xmlns:pptsl=3D"http://schemas.microsoft.com/sharepoint/soap/SlideLibrary/=
+" =
+xmlns:spsl=3D"http://microsoft.com/webservices/SharePointPortalServer/Pub=
+lishedLinksService" xmlns:Z=3D"urn:schemas-microsoft-com:" =
+xmlns:st=3D"&#1;" xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:Webdings;
+	panose-1:5 3 1 2 1 5 9 6 7 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#002060;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#002060;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;color:navy'>Hi =
+Prachi,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;color:navy'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;color:navy'>Request =
+you to
+create the below mentioned New Email ID for ABFL projct and confirm the =
+same.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;color:navy'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;color:navy'>Email =
+ID : <a
+href=3D"mailto:abfldcr@pamac.com">abfldcr@pamac.com</a><o:p></o:p></span>=
+</p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;color:navy'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;color:navy'>Display =
+Name:
+PAMAC Documents Collection<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;color:navy'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;color:navy'>Regards,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;color:navy'>Akshay =
+Solanki.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;color:navy'>Assistant Manager
+| PDCR Unit.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIT =
+style=3D'font-size:10.0pt;color:navy'>T</span><span
+lang=3DIT style=3D'font-size:10.0pt;color:navy'>el: +91 9821743495| =
+Email:&nbsp;<a
+href=3D"mailto:akshay.solanki@pamac.com"><span =
+style=3D'color:blue'>akshay.solanki@pamac.com</span></a>&nbsp;|
+Website:&nbsp;</span><span style=3D'font-size:10.0pt;color:navy'><a
+href=3D"http://www.pamac.com/"><span lang=3DIT =
+style=3D'color:navy'>www.pamac.com</span></a></span><span
+lang=3DIT style=3D'font-size:10.0pt;color:navy'>|</span><span lang=3DIT
+style=3D'font-family:"Times New =
+Roman","serif";color:navy'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;color:navy'>PAMAC Group
+&#8211; Banking on&nbsp;our&nbsp;Credentials.</span></b><span =
+style=3D'font-family:
+"Times New Roman","serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:8.0pt;color:navy'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;color:navy'>***********************************=
+*************************************************************************=
+*****************&nbsp;<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;color:navy'>Disclaimer: This
+e-mail is confidential. It may also be legally privileged. If you are =
+not the
+addressee you may not copy, forward, disclose or use any part of it. If =
+you
+have received this message in error, please delete it and all copies =
+from your
+system and notify the sender immediately by return =
+e-mail.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:8.0pt;color:navy'><br>
+</span><span style=3D'font-size:10.0pt;color:navy'>Internet =
+communications cannot
+be guaranteed to be timely, secure, error or virus-free. The sender does =
+not
+accept liability for any errors or omissions.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;color:navy'>***********************************=
+*************************************************************************=
+*****************<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b><i><span =
+style=3D'font-size:24.0pt;font-family:Webdings;
+color:green'>P</span></i></b><b><i><span =
+style=3D'font-size:10.0pt;color:green'>
+Please</span></i></b><b><i><span style=3D'font-size:10.0pt;color:green'> =
+don't
+print this e-mail unless you really need to. Let&nbsp;us save the Mother =
+Earth.</span></i></b><b><span
+style=3D'font-size:10.0pt;color:navy'><o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:"Times New =
+Roman","serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_01BF_01D3234B.E8A5B690--
+

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESDOT", "RESDOT.csproj", "{8D1B02E6-026F-463B-B024-60176B05830C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{27936738-E417-4AA9-9B2B-D9E5C664F306}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1B02E6-026F-463B-B024-60176B05830C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1B02E6-026F-463B-B024-60176B05830C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1B02E6-026F-463B-B024-60176B05830C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1B02E6-026F-463B-B024-60176B05830C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9b911f47-09b6-4a09-a7e9-b823f2893b34}
+	EndGlobalSection
+EndGlobal

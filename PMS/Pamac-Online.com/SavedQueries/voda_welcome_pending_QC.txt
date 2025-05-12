@@ -1,0 +1,24 @@
+select distinct '' as 'Sr.No',CELLNO,AGENCY_CODE as 'Agency Code',Documents,CUSTOMER_CODE as 'CUSTCODE',a.REF_NO as 'CO_ID',
+CUSTOMER_ID,TMCODE_DESC,TITLE as 'SALUTATION',APP_FNAME as 'CCFNAME',APP_LNAME as 'CCLNAME',CELL_ACTIVATED_DATE as 'CO_ACTIVATED',
+BILLCYCLE,CUSTOMER_CLASS,CSEMPLOYER,APP_ADDR1 as 'CCADDR1',APP_ADDR2 as 'CCADDR2',APP_ADDR3 as 'CCADDR3',APP_CITY as 'CCCITY',
+APP_PINCODE as 'CCZIP',APP_PHONE1 as 'CUSTOMER_PHONE1',APP_PHONE2 as 'CUSTOMER_PHONE2',COMP_NAME as 'CO_CCNAME',
+COMP_ADDR1 as 'CO_ADDR1',COMP_ADDR2 as 'CO_ADDR2',COMP_ADDR3 as 'CO_ADDR3',COMP_STREET as 'CO_STREET',COMP_CITY as 'CO_CITY',
+COMP_PINCODE as 'CO_PINCODE',COMP_PHONE1 as 'CO_PHONE1',COMP_PHONE2 as 'CO_PHONE2',COMP_SCHEM as 'CO_SCHEM',
+AGENT,AUTHORISED_SIGNATORY,Comp_Credit_Status as 'CREDITSTATUS_DESC',TYPE_OF_COMPANY,JOB_DESC,EXISTING_CELL_NO as 'Existing Number',
+waivers as 'Waiver',PROMO_PACK as 'Promo Pack',IPOS as 'IPOS/PPFT 7 HRS Comments',ZONAL_WITH_STD as 'Zone',
+'' as COMMENTS,'' as 'Sub Info Audit','' as 'Audit Job Desc','' as 'RiskRating',
+'' as 'NatureOfBuss','' as 'SimUsedBy',''as Email,credit_stat as 'CREDIT_STATUS','' as 'Disc Code',
+remark as 'PV Comments','' as 'Contactibility (NM)','' as 'Sub met (Y/N)','' as 'Docs Sighted',
+'' as 'Occupation Details','' as 'TB/ FB done during Telecalling','' as 'Voucher Number','' as 'First Bill Explanation (Y/N)',
+'' as 'Tariff Explanations (Y/N)',add_date as 'DateOfVerification','' as 'Field Executive',
+CASE_REC_DATETIME as 'Date Cases Received',SEND_DATETIME as 'Date cases sent','' as 'Preferred Mode of communication',
+'' as 'Preferred language of communication','' as DEO_Name,'' as Rater_Name 
+from cpv_qc_case_details b,CPV_CELLULAR_CASES a where a.case_id=b.case_id and 
+case_type_id='1' and send_datetime is null and a.Is_case_complete is Null
+and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+group by CELLNO,AGENCY_CODE,Documents,CUSTOMER_CODE,a.REF_NO,CUSTOMER_ID,TMCODE_DESC,TITLE,APP_FNAME,APP_LNAME,
+CELL_ACTIVATED_DATE,BILLCYCLE,CUSTOMER_CLASS,CSEMPLOYER,APP_ADDR1,APP_ADDR2,APP_ADDR3,APP_CITY,APP_PINCODE,APP_PHONE1,
+APP_PHONE2,COMP_NAME,COMP_ADDR1,COMP_ADDR2,COMP_ADDR3,COMP_STREET,COMP_CITY,COMP_PINCODE,COMP_PHONE1,COMP_PHONE2,
+COMP_SCHEM,AGENT,AUTHORISED_SIGNATORY,TYPE_OF_COMPANY,JOB_DESC,EXISTING_CELL_NO,PROMO_PACK,IPOS,ZONAL_WITH_STD,
+COMMENTS ,credit_stat,add_date ,CASE_REC_DATETIME,
+SEND_DATETIME,waivers,Comp_Credit_Status,remark

@@ -1,0 +1,30 @@
+select distinct a.res_city as CITY,convert(varchar(11),a.actual_date,103) as 'DATE-REFERRED',a.ref_no as 'ACC/APP-NO',
+(isnull(a.FIRST_NAME,' ')+' '+isnull(a.Middle_name,' ')+' '+isnull(a.last_name,' '))as 'NAME',
+c.status_code as STATUS,f.supervisor_remarks as COMMENTS,a.department as 'CASE ID',e.verification_type_code as 'TYPE OF VERIFICATION',
+a.CARD_TYPE as 'Query For',a.off_name as 'Emp-Name',isnull(a.RES_ADD_LINE_1,' ')as 'ADD-LN1',
+isnull(a.RES_ADD_LINE_2,' ')+' '+isnull(a.RES_ADD_LINE_3,' ') as 'ADD-LN2',
+a.res_city as 'CITY',a.res_state as 'STATE',a.res_pin_code as 'PINCODE',a.res_phone as 'PHONE',a.SPL_INSTRUCTION as 'Agent Comments'
+from cpv_cc_case_details a, CPV_CC_VERI_DETAILS b, case_status_master c,CPV_CC_CASE_VERIFICATIONTYPE d,
+verification_type_master e,CPV_CC_VERI_DETAILS f where d.verification_type_id='1' and 
+d.verification_type_id=f.verification_type_id and d.verification_type_id=e.verification_type_id and b.verification_type_id=d.verification_type_id
+and a.case_id=f.case_id and a.case_id=b.case_id and a.case_id=d.case_id and b.case_status_id=c.case_status_id and a.centre_id='1011' and 
+a.client_id='10193'  and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+Union
+select distinct a.res_city as RES_CITY,convert(varchar(9),a.actual_date,103) as 'DATE-REFERRED',a.ref_no as 'ACC/APP-NO',
+(isnull(a.FIRST_NAME,' ')+' '+isnull(a.Middle_name,' ')+' '+isnull(a.last_name,' '))as 'NAME',
+c.status_code as STATUS,f.supervisor_remarks as COMMENTS,a.department as 'CASE ID',e.verification_type_code as 'TYPE OF VERIFICATION',
+a.CARD_TYPE as 'Query For',a.off_name as 'Emp-Name',
+isnull(a.OFF_ADD_LINE_1,' ')as 'OFF_ADD_LN1',isnull(a.OFF_ADD_LINE_2,' ')+' '+isnull(a.OFF_ADD_LINE_3,' ') as 'OFF_ADD_LN2',
+a.off_city as 'OFF_CITY',a.off_state as 'STATE',a.off_pin_code as 'PINCODE',a.off_phone as 'PHONE',a.SPL_INSTRUCTION as 'Agent Comments'
+from cpv_cc_case_details a, CPV_CC_VERI_DETAILS b, case_status_master c,CPV_CC_CASE_VERIFICATIONTYPE d,
+verification_type_master e, CPV_CC_VERI_DETAILS f where d.verification_type_id='2' and 
+d.verification_type_id=e.verification_type_id and d.verification_type_id=f.verification_type_id and
+b.verification_type_id=d.verification_type_id and a.case_id=b.case_id and a.case_id=d.case_id and a.case_id=f.case_id and
+b.case_status_id=c.case_status_id and a.centre_id='1011' and 
+a.client_id='10193' and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+
+
+
+
+
+

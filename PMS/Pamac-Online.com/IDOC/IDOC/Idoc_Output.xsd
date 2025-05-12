@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Idoc_Output" targetNamespace="http://tempuri.org/Idoc_Output.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/Idoc_Output.xsd" xmlns:mstns="http://tempuri.org/Idoc_Output.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Main">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_id" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="IDOC_IDOCFORMATS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="bankrefno" type="xs:string" />
+				<xs:element name="cpvrefno" type="xs:string" />
+				<xs:element name="Nameofowner" type="xs:string" />
+				<xs:element name="RECD_DATE" type="xs:string" />
+				<xs:element name="Nameofseviceprovider" type="xs:string" />
+				<xs:element name="VerificationNumber" type="xs:string" />
+				<xs:element name="Dateofissues" type="xs:string" />
+				<xs:element name="backofficeremark" type="xs:string" />
+				<xs:element name="Personcontacted" type="xs:string" />
+				<xs:element name="Cont_Designation_dept" type="xs:string" />
+				<xs:element name="Billmatch_yes" type="xs:string" />
+				<xs:element name="Billmatch_No" type="xs:string" />
+				<xs:element name="Billmatch_Not" type="xs:string" />
+				<xs:element name="Numbermatch_yes" type="xs:string" />
+				<xs:element name="Numbermatch_No" type="xs:string" />
+				<xs:element name="Numbermatch_Not" type="xs:string" />
+				<xs:element name="Adderssmatch_yes" type="xs:string" />
+				<xs:element name="Adderssmatch_No" type="xs:string" />
+				<xs:element name="Adderssmatch_Not" type="xs:string" />
+				<xs:element name="Status_Okay" type="xs:string" />
+				<xs:element name="Status_NotOkay" type="xs:string" />
+				<xs:element name="FE_REMARK" type="xs:string" />
+				<xs:element name="Confirmeddetalis" type="xs:string" />
+				<xs:element name="FE_VIST_DATE" type="xs:string" />
+				<xs:element name="Clientname" type="xs:string" />
+				<xs:element name="verifiername" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="supervisorname" type="xs:string" />
+				<xs:element name="supervisorsign" type="xs:base64Binary" />
+				<xs:element name="passport" type="xs:string" />
+				<xs:element name="sup_name" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="IDOC_IDOCFORMATS1">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="bankrefno" type="xs:string" />
+				<xs:element name="cpvrefno" type="xs:string" />
+				<xs:element name="Nameofowner" type="xs:string" />
+				<xs:element name="RECD_DATE" type="xs:string" />
+				<xs:element name="Nameofseviceprovider" type="xs:string" />
+				<xs:element name="VerificationNumber" type="xs:string" />
+				<xs:element name="Dateofissues" type="xs:string" />
+				<xs:element name="backofficeremark" type="xs:string" />
+				<xs:element name="Personcontacted" type="xs:string" />
+				<xs:element name="Cont_Designation_dept" type="xs:string" />
+				<xs:element name="Billmatch_yes" type="xs:string" />
+				<xs:element name="Billmatch_No" type="xs:string" />
+				<xs:element name="Billmatch_Not" type="xs:string" />
+				<xs:element name="Numbermatch_yes" type="xs:string" />
+				<xs:element name="Numbermatch_No" type="xs:string" />
+				<xs:element name="Numbermatch_Not" type="xs:string" />
+				<xs:element name="Adderssmatch_yes" type="xs:string" />
+				<xs:element name="Adderssmatch_No" type="xs:string" />
+				<xs:element name="Adderssmatch_Not" type="xs:string" />
+				<xs:element name="Status_Okay" type="xs:string" />
+				<xs:element name="Status_NotOkay" type="xs:string" />
+				<xs:element name="FE_REMARK" type="xs:string" />
+				<xs:element name="Confirmeddetalis" type="xs:string" />
+				<xs:element name="FE_VIST_DATE" type="xs:string" />
+				<xs:element name="Clientname" type="xs:string" />
+				<xs:element name="verifiername" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="supervisorname" type="xs:string" />
+				<xs:element name="supervisorsign" type="xs:base64Binary" />
+				<xs:element name="passport" type="xs:string" />
+				<xs:element name="Sup_SignImage" type="xs:base64Binary" />
+				<xs:element name="sup_name" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="IDOC_pancard">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="case_id" type="xs:string" />
+				<xs:element name="bankrefno" type="xs:string" />
+				<xs:element name="cpvrefno" type="xs:string" />
+				<xs:element name="FULLNAME" type="xs:string" />
+				<xs:element name="RECD_DATE" type="xs:string" />
+				<xs:element name="PANlogicandcorrectness_yes" type="xs:string" />
+				<xs:element name="PANlogicandcorrectness_No" type="xs:string" />
+				<xs:element name="Pancarddigit_yes" type="xs:string" />
+				<xs:element name="Pancarddigit_No" type="xs:string" />
+				<xs:element name="Pancardalphabet_yes" type="xs:string" />
+				<xs:element name="Pancardalphabet_No" type="xs:string" />
+				<xs:element name="Pancarddnumeric_yes" type="xs:string" />
+				<xs:element name="Pancarddnumeric_No" type="xs:string" />
+				<xs:element name="Pancardmatch_yes" type="xs:string" />
+				<xs:element name="Pancardmatch_No" type="xs:string" />
+				<xs:element name="Observation" type="xs:string" />
+				<xs:element name="pancardverifier" type="xs:string" />
+				<xs:element name="pancardNoMatch_yes" type="xs:string" />
+				<xs:element name="pancardNoMatch_No" type="xs:string" />
+				<xs:element name="pancardholder_yes" type="xs:string" />
+				<xs:element name="pancardholder_No" type="xs:string" />
+				<xs:element name="fathermatch_yes" type="xs:string" />
+				<xs:element name="fathermatch_No" type="xs:string" />
+				<xs:element name="dateOfbirth_yes" type="xs:string" />
+				<xs:element name="dateOfbirth_No" type="xs:string" />
+				<xs:element name="supervisorname" type="xs:string" />
+				<xs:element name="Remarks" type="xs:string" />
+				<xs:element name="FE_VISIT_DATE" type="xs:string" />
+				<xs:element name="Clientname" type="xs:string" />
+				<xs:element name="status" type="xs:string" />
+				<xs:element name="verifiername" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="Sup_SignImage" type="xs:base64Binary" />
+				<xs:element name="sup_name" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="IDOC_Form16">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="APPLICANT_NAME" type="xs:string" />
+				<xs:element name="REF_NO" type="xs:string" />
+				<xs:element name="VERIFICATION_TYPE" type="xs:string" />
+				<xs:element name="CASE_REC_DATETIME" type="xs:string" />
+				<xs:element name="OFF_NAME" type="xs:string" />
+				<xs:element name="TOTAL_INCOME" type="xs:string" />
+				<xs:element name="Overwriting" type="xs:string" />
+				<xs:element name="Pan_correct" type="xs:string" />
+				<xs:element name="Tan_correct" type="xs:string" />
+				<xs:element name="computation_correct" type="xs:string" />
+				<xs:element name="Calculation_correct" type="xs:string" />
+				<xs:element name="Tax_cal_correct" type="xs:string" />
+				<xs:element name="Tax_payble_correct" type="xs:string" />
+				<xs:element name="OK_field_verification" type="xs:string" />
+				<xs:element name="IS_spelling_mistake" type="xs:string" />
+				<xs:element name="Other_observation" type="xs:string" />
+				<xs:element name="Person_contacted" type="xs:string" />
+				<xs:element name="Cont_Designation_dept" type="xs:string" />
+				<xs:element name="APP_DESIGNATION" type="xs:string" />
+				<xs:element name="APP_DEPARTMENT" type="xs:string" />
+				<xs:element name="APP_YEAR_IN_SERVICE" type="xs:string" />
+				<xs:element name="MONTH_INCOME" type="xs:string" />
+				<xs:element name="NO_of_Employee" type="xs:string" />
+				<xs:element name="TYPE_OF_INDUSTRY" type="xs:string" />
+				<xs:element name="ORGANIZATION_SEAL" type="xs:string" />
+				<xs:element name="AUTHORITY_SIGNATURE" type="xs:string" />
+				<xs:element name="DOCUMENT_AS_PER_STANDARD" type="xs:string" />
+				<xs:element name="DATE_ON_DOC" type="xs:string" />
+				<xs:element name="AMOUNT_ON_DOC" type="xs:string" />
+				<xs:element name="APP_ADDRESS_CORRECT" type="xs:string" />
+				<xs:element name="BUSSINESS_ACTIVITY_SEEN" type="xs:string" />
+				<xs:element name="STOCK_SIGHTED" type="xs:string" />
+				<xs:element name="NO_OF_EMP_SEEN" type="xs:string" />
+				<xs:element name="NAME_BOARD_SEEN" type="xs:string" />
+				<xs:element name="FE_REMARK" type="xs:string" />
+				<xs:element name="TELE_REMARK" type="xs:string" />
+				<xs:element name="FE_VISIT_DATE" type="xs:string" />
+				<xs:element name="FULLNAME" type="xs:string" />
+				<xs:element name="STATUS_CODE" type="xs:string" />
+				<xs:element name="CASE_STATUS_ID" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="Rvdate1" type="xs:string" />
+				<xs:element name="Rvdate2" type="xs:string" />
+				<xs:element name="Rvdate3" type="xs:string" />
+				<xs:element name="Rvtime1" type="xs:string" />
+				<xs:element name="Rvtime2" type="xs:string" />
+				<xs:element name="Rvtime3" type="xs:string" />
+				<xs:element name="RVremark1" type="xs:string" />
+				<xs:element name="RVremark2" type="xs:string" />
+				<xs:element name="RVremark3" type="xs:string" />
+				<xs:element name="RVPh1" type="xs:string" />
+				<xs:element name="RVPh2" type="xs:string" />
+				<xs:element name="RVPh3" type="xs:string" />
+				<xs:element name="EMP_CODE" type="xs:string" />
+				<xs:element name="Client_name" type="xs:string" />
+				<xs:element name="Sup_SignImage" type="xs:base64Binary" />
+				<xs:element name="sup_name" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="IDOC_BankStat">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="APPLICANT_NAME" type="xs:string" />
+				<xs:element name="REF_NO" type="xs:string" />
+				<xs:element name="CASE_REC_DATETIME" type="xs:string" />
+				<xs:element name="BANK_NAME" type="xs:string" />
+				<xs:element name="BankAddress" type="xs:string" />
+				<xs:element name="Person_contacted" type="xs:string" />
+				<xs:element name="Cont_Designation_dept" type="xs:string" />
+				<xs:element name="ACCOUNT_CORRECT" type="xs:string" />
+				<xs:element name="DOCUMENT_AS_PER_STANDARD" type="xs:string" />
+				<xs:element name="AMOUNT_ON_DOC" type="xs:string" />
+				<xs:element name="FE_REMARK" type="xs:string" />
+				<xs:element name="FE_VISIT_DATE" type="xs:string" />
+				<xs:element name="FULLNAME" type="xs:string" />
+				<xs:element name="STATUS_CODE" type="xs:string" />
+				<xs:element name="CASE_STATUS_ID" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="EMP_CODE" type="xs:string" />
+				<xs:element name="Client_name" type="xs:string" />
+				<xs:element name="Bank_AccountNo" type="xs:string" />
+				<xs:element name="Designation" type="xs:string" />
+				<xs:element name="Department" type="xs:string" />
+				<xs:element name="Sup_SignImage" type="xs:base64Binary" />
+				<xs:element name="sup_name" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="IDOC_RC">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="APPLICANT_NAME" type="xs:string" />
+				<xs:element name="REF_NO" type="xs:string" />
+				<xs:element name="CASE_REC_DATETIME" type="xs:string" />
+				<xs:element name="Vehicle_Registration_Number" type="xs:string" />
+				<xs:element name="RTO_Office" type="xs:string" />
+				<xs:element name="RC_Details_Confirmed_With" type="xs:string" />
+				<xs:element name="Is_Correct_Registration_No_Of_Vehicle" type="xs:string" />
+				<xs:element name="Is_Vehicle_Personal_Commercial" type="xs:string" />
+				<xs:element name="Is_Vehicle_Hypothecated" type="xs:string" />
+				<xs:element name="Fuinancer_Name" type="xs:string" />
+				<xs:element name="Registration_Date_As_Per_RC_Register" type="xs:string" />
+				<xs:element name="Transfer_Details" type="xs:string" />
+				<xs:element name="Address_Falls_Under_Jurisdiction_RTO" type="xs:string" />
+				<xs:element name="Other_observation" type="xs:string" />
+				<xs:element name="FULLNAME" type="xs:string" />
+				<xs:element name="STATUS_CODE" type="xs:string" />
+				<xs:element name="CASE_STATUS_ID" type="xs:string" />
+				<xs:element name="FE_REMARK" type="xs:string" />
+				<xs:element name="FE_VISIT_DATE" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="EMP_CODE" type="xs:string" />
+				<xs:element name="Client_name" type="xs:string" />
+				<xs:element name="Sup_SignImage" type="xs:base64Binary" />
+				<xs:element name="sup_name" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="IDOC_SalaryCertificate">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="APPLICANT_NAME" type="xs:string" />
+				<xs:element name="REF_NO" type="xs:string" />
+				<xs:element name="VERIFICATION_TYPE" type="xs:string" />
+				<xs:element name="CASE_REC_DATETIME" type="xs:string" />
+				<xs:element name="OFF_NAME" type="xs:string" />
+				<xs:element name="TOTAL_INCOME" type="xs:string" />
+				<xs:element name="Overwriting" type="xs:string" />
+				<xs:element name="Pan_correct" type="xs:string" />
+				<xs:element name="Tan_correct" type="xs:string" />
+				<xs:element name="computation_correct" type="xs:string" />
+				<xs:element name="Calculation_correct" type="xs:string" />
+				<xs:element name="Tax_cal_correct" type="xs:string" />
+				<xs:element name="Tax_payble_correct" type="xs:string" />
+				<xs:element name="OK_field_verification" type="xs:string" />
+				<xs:element name="IS_spelling_mistake" type="xs:string" />
+				<xs:element name="Other_observation" type="xs:string" />
+				<xs:element name="Person_contacted" type="xs:string" />
+				<xs:element name="Cont_Designation_dept" type="xs:string" />
+				<xs:element name="APP_DESIGNATION" type="xs:string" />
+				<xs:element name="APP_DEPARTMENT" type="xs:string" />
+				<xs:element name="APP_YEAR_IN_SERVICE" type="xs:string" />
+				<xs:element name="MONTH_INCOME" type="xs:string" />
+				<xs:element name="NO_of_Employee" type="xs:string" />
+				<xs:element name="TYPE_OF_INDUSTRY" type="xs:string" />
+				<xs:element name="ORGANIZATION_SEAL" type="xs:string" />
+				<xs:element name="AUTHORITY_SIGNATURE" type="xs:string" />
+				<xs:element name="DOCUMENT_AS_PER_STANDARD" type="xs:string" />
+				<xs:element name="DATE_ON_DOC" type="xs:string" />
+				<xs:element name="AMOUNT_ON_DOC" type="xs:string" />
+				<xs:element name="APP_ADDRESS_CORRECT" type="xs:string" />
+				<xs:element name="BUSSINESS_ACTIVITY_SEEN" type="xs:string" />
+				<xs:element name="STOCK_SIGHTED" type="xs:string" />
+				<xs:element name="NO_OF_EMP_SEEN" type="xs:string" />
+				<xs:element name="NAME_BOARD_SEEN" type="xs:string" />
+				<xs:element name="FE_REMARK" type="xs:string" />
+				<xs:element name="TELE_REMARK" type="xs:string" />
+				<xs:element name="FE_VISIT_DATE" type="xs:string" />
+				<xs:element name="FULLNAME" type="xs:string" />
+				<xs:element name="STATUS_CODE" type="xs:string" />
+				<xs:element name="CASE_STATUS_ID" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="Rvdate1" type="xs:string" />
+				<xs:element name="Rvdate2" type="xs:string" />
+				<xs:element name="Rvdate3" type="xs:string" />
+				<xs:element name="Rvtime1" type="xs:string" />
+				<xs:element name="Rvtime2" type="xs:string" />
+				<xs:element name="Rvtime3" type="xs:string" />
+				<xs:element name="RVremark1" type="xs:string" />
+				<xs:element name="RVremark2" type="xs:string" />
+				<xs:element name="RVremark3" type="xs:string" />
+				<xs:element name="RVPh1" type="xs:string" />
+				<xs:element name="RVPh2" type="xs:string" />
+				<xs:element name="RVPh3" type="xs:string" />
+				<xs:element name="EMP_CODE" type="xs:string" />
+				<xs:element name="Client_name" type="xs:string" />
+				<xs:element name="Sup_SignImage" type="xs:base64Binary" />
+				<xs:element name="sup_name" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Idoc_ITR">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_id" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="APPLICANT_NAME" type="xs:string" />
+				<xs:element name="REF_NO" type="xs:string" />
+				<xs:element name="CASE_REC_DATETIME" type="xs:string" />
+				<xs:element name="TOTAL_INCOME" type="xs:string" />
+				<xs:element name="Pan_correct" type="xs:string" />
+				<xs:element name="computation_correct" type="xs:string" />
+				<xs:element name="Tax_cal_correct" type="xs:string" />
+				<xs:element name="OK_field_verification" type="xs:string" />
+				<xs:element name="Other_observation" type="xs:string" />
+				<xs:element name="INCOME_CAL_CORRECT" type="xs:string" />
+				<xs:element name="Is_Fourth_Digit" type="xs:string" />
+				<xs:element name="Are_Digit_Numeric" type="xs:string" />
+				<xs:element name="Is_It_Ten_Digit_Alpha" type="xs:string" />
+				<xs:element name="Alpha_Falls_Under_Ward" type="xs:string" />
+				<xs:element name="Address_Falls_Under_Ward" type="xs:string" />
+				<xs:element name="Agency_Name" type="xs:string" />
+				<xs:element name="FE_VISIT_DATE" type="xs:string" />
+				<xs:element name="FULLNAME" type="xs:string" />
+				<xs:element name="STATUS_CODE" type="xs:string" />
+				<xs:element name="FE_REMARK" type="xs:string" />
+				<xs:element name="Tallied_with_1" type="xs:string" />
+				<xs:element name="Computer_Record_1" type="xs:string" />
+				<xs:element name="Inward_register_1" type="xs:string" />
+				<xs:element name="Blue_register_1" type="xs:string" />
+				<xs:element name="index_register_1" type="xs:string" />
+				<xs:element name="Orally_by_clerck_1" type="xs:string" />
+				<xs:element name="Tallied_with_2" type="xs:string" />
+				<xs:element name="Computer_Record_2" type="xs:string" />
+				<xs:element name="Inward_register_2" type="xs:string" />
+				<xs:element name="Blue_register_2" type="xs:string" />
+				<xs:element name="index_register_2" type="xs:string" />
+				<xs:element name="Orally_by_clerck_2" type="xs:string" />
+				<xs:element name="Tallied_with_3" type="xs:string" />
+				<xs:element name="Computer_Record_3" type="xs:string" />
+				<xs:element name="Inward_register_3" type="xs:string" />
+				<xs:element name="Blue_register_3" type="xs:string" />
+				<xs:element name="index_register_3" type="xs:string" />
+				<xs:element name="Orally_by_clerck_3" type="xs:string" />
+				<xs:element name="Tallied_with_4" type="xs:string" />
+				<xs:element name="Computer_Record_4" type="xs:string" />
+				<xs:element name="Inward_register_4" type="xs:string" />
+				<xs:element name="Blue_register_4" type="xs:string" />
+				<xs:element name="index_register_4" type="xs:string" />
+				<xs:element name="Orally_by_clerck_4" type="xs:string" />
+				<xs:element name="Tallied_with_5" type="xs:string" />
+				<xs:element name="Computer_Record_5" type="xs:string" />
+				<xs:element name="Inward_register_5" type="xs:string" />
+				<xs:element name="Blue_register_5" type="xs:string" />
+				<xs:element name="index_register_5" type="xs:string" />
+				<xs:element name="Orally_by_clerck_5" type="xs:string" />
+				<xs:element name="Person_contacted" type="xs:string" />
+				<xs:element name="Cont_Designation_dept" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="Asst_Year" type="xs:string" />
+				<xs:element name="Client_name" type="xs:string" />
+				<xs:element name="Sup_SignImage" type="xs:base64Binary" />
+				<xs:element name="sup_name" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="IDOC_SalarySlip">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Case_ID" type="xs:string" />
+				<xs:element name="Verification_Type_Id" type="xs:string" />
+				<xs:element name="APPLICANT_NAME" type="xs:string" />
+				<xs:element name="REF_NO" type="xs:string" />
+				<xs:element name="VERIFICATION_TYPE" type="xs:string" />
+				<xs:element name="CASE_REC_DATETIME" type="xs:string" />
+				<xs:element name="OFF_NAME" type="xs:string" />
+				<xs:element name="TOTAL_INCOME" type="xs:string" />
+				<xs:element name="Overwriting" type="xs:string" />
+				<xs:element name="Pan_correct" type="xs:string" />
+				<xs:element name="Tan_correct" type="xs:string" />
+				<xs:element name="computation_correct" type="xs:string" />
+				<xs:element name="Calculation_correct" type="xs:string" />
+				<xs:element name="Tax_cal_correct" type="xs:string" />
+				<xs:element name="Tax_payble_correct" type="xs:string" />
+				<xs:element name="OK_field_verification" type="xs:string" />
+				<xs:element name="IS_spelling_mistake" type="xs:string" />
+				<xs:element name="Other_observation" type="xs:string" />
+				<xs:element name="Person_contacted" type="xs:string" />
+				<xs:element name="Cont_Designation_dept" type="xs:string" />
+				<xs:element name="APP_DESIGNATION" type="xs:string" />
+				<xs:element name="APP_DEPARTMENT" type="xs:string" />
+				<xs:element name="APP_YEAR_IN_SERVICE" type="xs:string" />
+				<xs:element name="MONTH_INCOME" type="xs:string" />
+				<xs:element name="NO_of_Employee" type="xs:string" />
+				<xs:element name="TYPE_OF_INDUSTRY" type="xs:string" />
+				<xs:element name="ORGANIZATION_SEAL" type="xs:string" />
+				<xs:element name="AUTHORITY_SIGNATURE" type="xs:string" />
+				<xs:element name="DOCUMENT_AS_PER_STANDARD" type="xs:string" />
+				<xs:element name="DATE_ON_DOC" type="xs:string" />
+				<xs:element name="AMOUNT_ON_DOC" type="xs:string" />
+				<xs:element name="APP_ADDRESS_CORRECT" type="xs:string" />
+				<xs:element name="BUSSINESS_ACTIVITY_SEEN" type="xs:string" />
+				<xs:element name="STOCK_SIGHTED" type="xs:string" />
+				<xs:element name="NO_OF_EMP_SEEN" type="xs:string" />
+				<xs:element name="NAME_BOARD_SEEN" type="xs:string" />
+				<xs:element name="FE_REMARK" type="xs:string" />
+				<xs:element name="TELE_REMARK" type="xs:string" />
+				<xs:element name="FE_VISIT_DATE" type="xs:string" />
+				<xs:element name="FULLNAME" type="xs:string" />
+				<xs:element name="STATUS_CODE" type="xs:string" />
+				<xs:element name="CASE_STATUS_ID" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="centre_pamacseal" type="xs:base64Binary" />
+				<xs:element name="Rvdate1" type="xs:string" />
+				<xs:element name="Rvdate2" type="xs:string" />
+				<xs:element name="Rvdate3" type="xs:string" />
+				<xs:element name="Rvtime1" type="xs:string" />
+				<xs:element name="Rvtime2" type="xs:string" />
+				<xs:element name="Rvtime3" type="xs:string" />
+				<xs:element name="RVremark1" type="xs:string" />
+				<xs:element name="RVremark2" type="xs:string" />
+				<xs:element name="RVremark3" type="xs:string" />
+				<xs:element name="RVPh1" type="xs:string" />
+				<xs:element name="RVPh2" type="xs:string" />
+				<xs:element name="RVPh3" type="xs:string" />
+				<xs:element name="EMP_CODE" type="xs:string" />
+				<xs:element name="Client_name" type="xs:string" />
+				<xs:element name="PaySlipMonth" type="xs:string" />
+				<xs:element name="Sup_SignImage" type="xs:base64Binary" />
+				<xs:element name="sup_name" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Finacial">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="EMP_CODE" type="xs:string" />
+				<xs:element name="CASE_REC_DATETIME" type="xs:string" />
+				<xs:element name="FE_VISIT_DATE" type="xs:string" />
+				<xs:element name="fe_signimage" type="xs:base64Binary" />
+				<xs:element name="Sup_SignImage" type="xs:base64Binary" />
+				<xs:element name="sup_name" type="xs:string" />
+				<xs:element name="CASE_ID" type="xs:string" />
+				<xs:element name="VERIFICATION_TYPE_ID" type="xs:string" />
+				<xs:element name="CASE_STATUS_ID" type="xs:string" />
+				<xs:element name="FE_REMARK" type="xs:string" />
+				<xs:element name="ADD_BY" type="xs:string" />
+				<xs:element name="ADD_DATE" type="xs:string" />
+				<xs:element name="Supervisor_sign" type="xs:base64Binary" />
+				<xs:element name="AreaID" type="xs:string" />
+				<xs:element name="Applicant_name" type="xs:string" />
+				<xs:element name="CPA_ref_no" type="xs:string" />
+				<xs:element name="bank_ref_no" type="xs:string" />
+				<xs:element name="productname" type="xs:string" />
+				<xs:element name="clientname" type="xs:string" />
+				<xs:element name="totalsales" type="xs:string" />
+				<xs:element name="totalcapital" type="xs:string" />
+				<xs:element name="totalfixedasset" type="xs:string" />
+				<xs:element name="totaldebtoramt" type="xs:string" />
+				<xs:element name="totalcreditoramt" type="xs:string" />
+				<xs:element name="totalclosingstamt" type="xs:string" />
+				<xs:element name="totaladepamt" type="xs:string" />
+				<xs:element name="totalnetprofit" type="xs:string" />
+				<xs:element name="panno_fincial" type="xs:string" />
+				<xs:element name="whetherfieldveri" type="xs:string" />
+				<xs:element name="Positive" type="xs:string" />
+				<xs:element name="verification_donein" type="xs:string" />
+				<xs:element name="Negative" type="xs:string" />
+				<xs:element name="Refer_x0020_To_x0020_Bank" type="xs:string" />
+				<xs:element name="FEName" type="xs:string" />
+				<xs:element name="Yes" type="xs:string" />
+				<xs:element name="No" type="xs:string" />
+				<xs:element name="Yes1" type="xs:string" />
+				<xs:element name="No1" type="xs:string" />
+				<xs:element name="agentstamp" type="xs:base64Binary" />
+				<xs:element name="FEsign" type="xs:base64Binary" />
+				<xs:element name="Client_name" type="xs:string" />
+				<xs:element name="Remark" type="xs:string" />
+				<xs:element name="assyear" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

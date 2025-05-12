@@ -1,0 +1,195 @@
+Declare @ClientList Varchar(8000)
+Set @ClientList='|10193|1013|10111|1014|10140|101130|101125|101145|10170|10197|101137|101124|10163|10130|101127|101105|101141|1011^' 
+-- 
+ 
+Declare   @MAinTable table   
+(
+REF_NO          Varchar(500),
+CASE_ID          Varchar(500),
+VERIFICATION_TYPE          Varchar(500),
+CLIENT_NAME          Varchar(500),
+RESIDENCE_ADDRESS          Varchar(2000),
+OFFICE_ADDRESS          Varchar(5000),
+ADRESS_CONFIRMATION          Varchar(500),
+add_confd_by          Varchar(500),
+App_name          Varchar(500),
+DOB          Varchar(500),
+APPLICANT_STAYED_RESIDANCE          Varchar(500),
+APPLICANT_WORKS_AT          Varchar(500),
+AREA_SQ_FEET          Varchar(500),
+ASSETS_VISIBLE          Varchar(500),
+EMP_CONFIRMED_OR_NOT_CONFIRMED          Varchar(2000),
+EXTERIOR          Varchar(500),
+STD_OF_LIVING          Varchar(500),
+FAMILY_MEMBERS          Varchar(500),
+INTERIOR          Varchar(500),
+LOCATING_ADDRESS          Varchar(500),
+NAME_SOCIETY_BOARD          Varchar(500),
+OFF_NAME_ON_BOARD          Varchar(500),
+OFFICE_TELEPHONE          Varchar(500),
+PROOF_OF_VISIT_COLLECTED          Varchar(500),
+SALARY_RENT          Varchar(500),
+TIME_AT_CURR_RESIDANCE          Varchar(500),
+TPC1          Varchar(500),
+TPC2          Varchar(500),
+VERIFIED_NEIGHBOUR          Varchar(500),
+WORKING          Varchar(500),
+POLITICAL_PORTRAIT_SEEN          Varchar(500),
+ANY_OTHER_RESIDANCE_PHONE_NO          Varchar(500),
+DESIGNATION          Varchar(500),
+APPLICANT_JOB_TRANSFERABLE          Varchar(500),
+Building_Structure          Varchar(500),
+BUSINESS_NATURE          Varchar(500),
+BUSINESS_PERMISES          Varchar(500),
+BUSINESS_STOCK_SEEN          Varchar(500),
+BUSINESS_TYPE          Varchar(500),
+CONSTRUCTION_OFFICE          Varchar(500),
+PERSON_MET          Varchar(500),
+CONTACTED_PERSON_DESIGN          Varchar(500),
+CONTACTED_PERSON_NAME          Varchar(500),
+EMP_JOB_TYPE          Varchar(500),
+NEGATIVE_AREA          Varchar(500),
+IS_ADD_NOT_CONFIRMED          Varchar(500),
+IS_APPLICANT_FULL_TIME          Varchar(500),
+LAND_MARK_OBSERVED          Varchar(500),
+NEIGHBOUR_REFERENCE          Varchar(500),
+NO_CUSTOMER_SEEN          Varchar(500),
+NO_OF_EMP          Varchar(500),
+PREVIOUS_EMP_DETAIL          Varchar(500),
+RELATION_PERSON_CONTACTED          Varchar(500),
+RESI_COMOFF_OWNED          Varchar(500),
+RESIDANCE_IS          Varchar(500),
+BANK_NAME          Varchar(500),
+BRANCH          Varchar(500),
+PERMANENT_ADDRESS          Varchar(500),
+Vechicle_Owned          Varchar(500),
+VEHICLE_TYPE          Varchar(500),
+RESIDANCE_STATUS          Varchar(500),
+TYPE_OF_OFFICE          Varchar(500),
+YEARS_WORKED          Varchar(500),
+Fe_Response          Varchar(500),
+Door_Colour          Varchar(500),
+Door_Lock          Varchar(500),
+Name_Sighted_NameBoard          Varchar(500),
+Name_sighted_NameBoard_Type          Varchar(500),
+Name_Sighted_NamePlate          Varchar(500),
+NUMBER_OF_BRANCHES          Varchar(500),
+OFF_LOCATION_TYPE          Varchar(500),
+Relation_TPC2          Varchar(500),
+RES_TYPE          Varchar(500),
+ATTEMPT_DATE_TIME          Varchar(500),
+FE_REMARK          Varchar(5000),
+FE_NAME          Varchar(500),
+VERIFIER_CODE          Varchar(500)
+)
+ 
+   
+
+declare @delimR varchar(1),@delim varchar(1)                                    
+ set @delimR = '^'                                    
+ set @delim = '|'                                    
+ declare @workstring1 varchar(8000) , @workstring varchar(8000)                                    
+ SET @workstring1 = LTRIM(RTRIM(@ClientList ))   
+  
+IF @workstring1 IS NOT NULL                                         
+begin                                    
+ declare @cm_pos1 smallint , @cm_pos smallint                                    
+ DECLARE @outstring1 varchar(8000)                                      
+ declare @col1 nvarchar(50), @col2 nvarchar(50)                                  
+ declare @col3 nvarchar(50), @col4 nvarchar(50)                                  
+ declare @col5 nvarchar(50), @col6 nvarchar(50)                                  
+ declare @col7 nvarchar(50), @col8 nvarchar(50)                     
+ declare @col9 nvarchar(50), @col10 nvarchar(50)                                
+ SET @cm_pos1 = 1                               
+ SET @cm_pos1 = charindex(@delimR, @workstring1)                                    
+ while ( @cm_pos1 > 0)       
+ begin                                    
+  set @outstring1 = substring(@workstring1,1,@cm_pos1 - 1)                                    
+  set @workstring1 = substring(@workstring1,@cm_pos1 + 1,len(@workstring1) - @cm_pos1 )                                    
+  SET @cm_pos1 = charindex(@delimR,@workstring1)                                    
+              
+  set @workstring = @outstring1           
+  SET @workstring = LTRIM(RTRIM(@workstring))+ @delim                                    
+  IF @workstring IS NOT NULL                   
+  begin                                    
+   SET @cm_pos = 1                                    
+   SET @cm_pos = charindex(@delim,@workstring)                                    
+   while ( @cm_pos > 0)                    
+   begin                                  
+    set @col1 = substring(@workstring,1,@cm_pos - 1) 
+    set @workstring = substring(@workstring,@cm_pos + 1,len(@workstring) - @cm_pos )                
+    SET @cm_pos = charindex(@delim,@workstring)                                    
+    print @col1                                    
+      
+
+
+Insert Into @MAinTable 
+
+Select Case_DETAILS.REF_NO, VERI_DESC.CASE_ID AS CASE_ID, 
+VERIFICATION_TYPE_CODE AS VERIFICATION_TYPE, 
+CLIENT_NAME, 
+ISNULL(Case_DETAILS.RES_ADD_LINE_1,'')+' '+ISNULL(Case_DETAILS.RES_ADD_LINE_2,'')+' '+ISNULL(Case_DETAILS.RES_ADD_LINE_3,'') AS RESIDENCE_ADDRESS, 
+ISNULL(Case_DETAILS.OFF_ADD_LINE_1,'')+' '+ISNULL(Case_DETAILS.OFF_ADD_LINE_2,'')+' '+ISNULL(Case_DETAILS.OFF_ADD_LINE_3,'') AS OFFICE_ADDRESS, ADRESS_CONFIRMATION, VERIFIED_NEIGHBOUR AS add_confd_by,ISNULL(Case_DETAILS.FIRST_NAME,'')+' '+ISNULL(Case_DETAILS.MIDDLE_NAME,'')+' '+ISNULL(Case_DETAILS.LAST_NAME,'') AS App_name,
+APP_DOB_APPROX_AGE AS DOB, APPLICANT_STAYED_RESIDANCE, 
+APPLICANT_WORKS_AT, APPROXIMATE_AREA AS AREA_SQ_FEET, ASSETS_VISIBLE, EMP_CONFIRMED_OR_NOT_CONFIRMED, EXTERIOR, STD_OF_LIVING, 
+FAMILY_MEMBERS, INTERIOR, LOCATING_ADDRESS, VERI_DESC.NAME_SOCIETY_BOARD, VERI_DESC.OFF_NAME_ON_BOARD, OFFICE_TELEPHONE, 
+PROOF_OF_VISIT_COLLECTED, S_SALARY AS SALARY_RENT, TIME_AT_CURR_RESIDANCE, TPC_NAME AS TPC1, TPC2, VERIFIED_NEIGHBOUR, WORKING, 
+AFFILATION_POLITICAL_PARTY_SEEN AS POLITICAL_PORTRAIT_SEEN, ANY_OTHER_RESIDANCE_PHONE_NO, APP_WORKING_AS AS DESIGNATION, 
+APPLICANT_JOB_TRANSFERABLE, Building_Structure, VERI_DESC1.BUSINESS_NATURE, BUSINESS_PERMISES, BUSINESS_STOCK_SEEN, 
+VERI_DESC1.BUSINESS_TYPE, CONSTRUCTION_OFFICE, VERI_DESC.PERSON_CONTACTED_MET as PERSON_MET, CONTACTED_PERSON_DESIGN, 
+CONTACTED_PERSON_NAME, EMP_JOB_TYPE, IF_OFFICE_ADD_IS_IN_NEGATIVE_AREA AS NEGATIVE_AREA, IS_ADD_NOT_CONFIRMED, 
+IS_APPLICANT_FULL_TIME, LAND_MARK_OBSERVED, NEIGHBOUR_REFERENCE, NO_CUSTOMER_SEEN, NO_OF_EMP, PREVIOUS_EMP_DETAIL, 
+RELATION_PERSON_CONTACTED, RESI_COMOFF_OWNED, RESIDANCE_IS, VERI_DESC.BANK_NAME, VERI_DESC.BRANCH, 
+VERI_DESC1.PERMANENT_ADDRESS, VERI_DESC.Vechicle_Owned, VERI_DESC.VEHICLE_TYPE, RESIDANCE_STATUS, TYPE_OF_OFFICE, YEARS_WORKED, 
+Fe_Response, Veri_Oth.Door_Colour, Veri_Oth.Door_Lock, Name_Sighted_NameBoard, Name_sighted_NameBoard_Type, Name_Sighted_NamePlate,
+Number_Branches_Office_Warehouse AS NUMBER_OF_BRANCHES, OFF_LOCATION_TYPE, Relation_TPC2, RES_TYPE, 
+( Select Max(ATTEMPT_DATE_TIME) from CPV_CC_VERI_ATTEMPTS VAR_ATTEMPT Where  VAR_ATTEMPT.CASE_ID=CASE_DETAILS.CASE_ID 
+And VAR_ATTEMPT.VERIFICATION_TYPE_ID=Veri_Master.VERIFICATION_TYPE_ID)as ATTEMPT_DATE_TIME,
+FE_REMARK, 
+ISNULL(FIRSTNAME,'')+' '+ISNULL(MIDDLENAME,'')+' '+ISNULL(LASTNAME,'') AS FE_NAME, 
+G.EMP_CODE AS VERIFIER_CODE
+From 
+  
+ CPV_CC_CASE_DETAILS CASE_DETAILS
+ Left Outer Join 
+ CPV_CC_VERI_DESCRIPTION VERI_DESC
+ On VERI_DESC.Case_Id=CASE_DETAILS.Case_Id 
+ 
+ Left Outer join  Verification_Type_Master Veri_Master
+ On Veri_Master.VERIFICATION_TYPE_ID=Veri_Desc.VERIFICATION_TYPE_ID
+ 
+  
+ Left Outer Join 
+ CPV_CC_VERI_DESCRIPTION1 VERI_DESC1
+ On VERI_DESC1.Case_Id=CASE_DETAILS.Case_Id 
+ And Veri_Master.VERIFICATION_TYPE_ID=Veri_Desc1.VERIFICATION_TYPE_ID
+ 
+ Left Outer Join CPV_CC_VERI_OTHER_DETAILS Veri_Oth
+ On Veri_Oth.Case_Id=CASE_DETAILS.Case_Id 
+ And Veri_Master.VERIFICATION_TYPE_ID=Veri_Oth.VERIFICATION_TYPE_ID
+ 
+ Left Outer Join CPV_CC_VERI_DETAILS Veri_Details
+ On Veri_Details.Case_Id=CASE_DETAILS.Case_Id 
+ And Veri_Master.VERIFICATION_TYPE_ID=Veri_Details.VERIFICATION_TYPE_ID
+ 
+ Left Outer Join Client_Master CM
+ On CASE_DETAILS.Client_Id=CM.CLIENT_ID
+
+ Left Outer Join CPV_CC_VERI_ATTEMPTS VERI_ATTEMPT
+ On VERI_ATTEMPT.CASE_ID=CASE_DETAILS.CASE_ID
+ And VERI_ATTEMPT.VERIFICATION_TYPE_ID=Veri_Master.VERIFICATION_TYPE_ID
+
+ Left Outer Join EMPLOYEE_MASTER G
+ On   VERI_ATTEMPT.VERIFIER_ID = G.EMP_ID
+ Where  @ONWHICHDATE between @FROMDATE AND @TODATE
+ And Case_details.CLIENT_ID IN (@col1) and Case_details.centre_id=1011
+ And Veri_Master.VERIFICATION_TYPE_ID IN (1,2)
+ End
+ 
+ End 
+End 
+End
+
+Select  Distinct * from @MAinTable
+
+

@@ -1,0 +1,1766 @@
+Return-Path: edp@pamac.com
+Received: from mail.pamac.com (LHLO mail.pamac.com) (172.16.0.45) by
+ mail.pamac.com with LMTP; Wed, 5 Oct 2016 18:43:32 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id 66D209611FC;
+	Wed,  5 Oct 2016 18:43:32 +0530 (IST)
+X-Spam-Flag: NO
+X-Spam-Score: -1.664
+X-Spam-Level:
+X-Spam-Status: No, score=-1.664 tagged_above=-10 required=6.6
+	tests=[ALL_TRUSTED=-1, BAYES_00=-1.9, DKIM_SIGNED=0.1,
+	HTML_MESSAGE=0.001, HTTP_ESCAPED_HOST=1.125, T_DKIM_INVALID=0.01]
+	autolearn=no autolearn_force=no
+Authentication-Results: mail.pamac.com (amavisd-new); dkim=neutral
+	reason="invalid (public key: not available)" header.d=pamac.com
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id EEVGObxEJnRM; Wed,  5 Oct 2016 18:43:31 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id 82339961206;
+	Wed,  5 Oct 2016 18:43:31 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.9.2 mail.pamac.com 82339961206
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=pamac.com;
+	s=084B4786-4057-11E6-9BAC-5E1413FBF31E; t=1475673211;
+	bh=mK/xYgv1skDvXF9wntUCwp7a2o2kEkJFzxPHYKwWjqQ=;
+	h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+	b=Em6bCZ+N1Ri9WnTZjHebKwYz1EthngbqGtxpPDyf7X2r2z7FXqtqLnBWo641y9ogM
+	 tUb9j7v7o/iZ2jJW2bQ25gx7oDuFYF3ifZlQ/zhBwVCjEHc6zTFUQukPlZX2uwd0xp
+	 Py99FdK79vL8N1G7Mq5S688lFHo5uNVn6fzdnRpM=
+X-Virus-Scanned: amavisd-new at pamac.com
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id k7Y45WKqQdUS; Wed,  5 Oct 2016 18:43:31 +0530 (IST)
+Received: from WHOEDP17 (unknown [110.227.248.229])
+	by mail.pamac.com (Postfix) with ESMTPA id C22FE961205;
+	Wed,  5 Oct 2016 18:43:00 +0530 (IST)
+Message-ID: <5ABD854E4FA3454AAB9A4732607FA7FB@WHOEDP17>
+From: "PAMAC - EDP" <edp@pamac.com>
+To: "Vishwanath Kate" <vishwanath.kate@pamac.com>
+Cc: "Vinod Kutty" <vinod.k@pamac.com>
+References: <3B32070B9038435EA4EF5841B0C16A4A@whodcr01>
+Subject: Re: Remove name from PMT-Resignation--Sneha Mangarule (P-58091)
+Date: Wed, 5 Oct 2016 18:43:00 +0530
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_06C6_01D21F38.4C7D10A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+X-Trained: 2
+X-MS-ContentScanSkipped: [edp@pamac.com] in AutoSpamWhiteList
+X-URLS: pamac.com
+X-ForeignSender-IP: 110.227.248.229
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_06C6_01D21F38.4C7D10A0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Date:Hi,
+
+Raise the request in pms for below requirement.
+
+
+Regards,
+Ajendra Singh
+
+  ----- Original Message -----=20
+  From: Vishwanath Kate=20
+  To: edp@pamac.com=20
+  Cc: Vinod Kutty=20
+  Sent: Wednesday, October 05, 2016 6:15 PM
+  Subject: Remove name from PMT-Resignation--Sneha Mangarule (P-58091)
+
+
+  Dear Team,
+
+  Kindly remove the name of below employee from PMT.
+
+  Name: Sneha Mangarule
+  Emp ID: P-58091
+  Last working Day: 1st Oct'16
+
+
+
+
+
+
+
+
+  Thanks & Regards, =20
+
+  =20
+
+  Vishwanath Kate
+
+  Team Leader- PDCR Unit
+
+  Telephone: +022 2419 2214 |Mob : +919221224904 | =
+Email:vishwanath.kate@pamac.com | Website: www.pamac.com|
+
+  PAMAC Group =E2=80=93 Banking on our Credentials.
+
+   =20
+
+  =20
+
+  WE are spreading our wings, do visit our revamped website for more =
+details =E2=80=93 www.pamac.com
+
+  Please don't print this e-mail unless you really need to. Let us save =
+the Mother Earth!!
+
+  =
+*************************************************************************=
+****************************************************=20
+
+  Disclaimer: This email is confidential. It may also be legally =
+privileged. If you are not the addressee you may not copy, forward, =
+disclose or use any part of it. If you have received this message in =
+error, please delete it and all copies from your system and notify the =
+sender immediately by return e-mail.=20
+
+  Internet communications cannot be guaranteed to be timely, secure, =
+error or virus-free. The sender does not accept liability for any errors =
+or omissions.
+
+  =
+*************************************************************************=
+****************************************************
+
+
+  ----- Original Message -----=20
+  From: Vinod Kutty=20
+  To: PAMAC - Mumbai Audit Team ; Shankar Devare ; hr.support@pamac.com=20
+  Cc: Vishwanath Kate ; Jay Sharma=20
+  Sent: Friday, September 02, 2016 4:06 PM
+  Subject: Re: Resignation--Sneha Mangarule (P-58091)
+
+
+  Hi Sneha,
+
+
+  Your resignation is accepted.
+
+
+
+  HR Team,
+
+
+  Please make a note of it.
+
+
+  =20
+
+  =20
+
+  =20
+
+  =20
+
+  Thanks & Regards,=20
+
+  =20
+
+  Vinod Kutty
+
+  Delivery Center Head - Central Team
+
+  Telephone: +91 22 2419 2238|Mob: +91 9022 051976 Email: =
+vinod.k@pamac.com| Website: www.pamac.com|
+
+  PAMAC Group =E2=80=93 Banking on our Credentials.
+
+  WE are spreading our wings, do visit our revamped website for more =
+details =E2=80=93 www.pamac.com
+
+  Please don't print this e-mail unless you really need to. Let us save =
+the Mother Earth!!
+
+  =
+*************************************************************************=
+****************************************************=20
+
+  Disclaimer: This email is confidential. It may also be legally =
+privileged. If you are not the addressee you may not copy, forward, =
+disclose or use any part of it. If you have received this message in =
+error, please delete it and all copies from your system and notify the =
+sender immediately by return e-mail.=20
+
+  Internet communications cannot be guaranteed to be timely, secure, =
+error or virus-free. The sender does not accept liability for any errors =
+or omissions.
+
+  =
+*************************************************************************=
+****************************************************
+
+  =20
+
+
+    ----- Original Message -----=20
+    From: PAMAC - Mumbai Audit Team=20
+    To: vinod.k@pamac.com=20
+    Cc: Vishwanath Kate=20
+    Sent: Friday, September 02, 2016 3:51 PM
+    Subject: Fw: Resignation
+
+
+    Repected Sir;
+
+
+    I Sneha Vijay Mangarule (P-58091)  writing this letter of =
+resignation on 02 Sep  2016 to formally notify you of my decision to =
+resign from the Telle calling  executive in DCR Unit. I have taken this =
+decision after thorough deliberation and assessment and I believe it is =
+in my best interest to move on.=20
+    It was wonderful to have worked here and I shall cherish this =
+experience always. I wish the company continued success and would like =
+to thank you for allowing me to be part of your team.
+
+    I will continue to provide my full expertise, dedication, and =
+commitment through till my last day.=20
+
+    Request you to kindly relieve me of all my job responsibilities from =
+ 1st Oct   2016  and do the needful for my HR related formalities.=20
+
+
+
+    I seek your best wishes for all my future Endeavors
+
+
+
+
+
+
+
+
+
+    Regards,
+
+    =20
+
+    Sneha M
+
+
+    PAMAC Group =E2=80=93 Banking on our Credentials.
+
+    =
+*************************************************************************=
+*************************************************************************=
+*************************************************************************=
+**********************
+
+    Disclaimer: This e-mail is confidential. It may also be legally =
+privileged. If you are not the addressee you may not copy, forward, =
+disclose or use any part of it. If you have received this message in =
+error, please delete it and all copies from your system and notify the =
+sender immediately by return e-mail.
+
+
+    Internet communications cannot be guaranteed to be timely, secure, =
+error or virus-free. The sender does not accept liability for any errors =
+or omissions.
+
+    =
+*************************************************************************=
+*************************************************************************=
+*************************************************************************=
+**********************
+
+    Please don't print this e-mail unless you really need to. Let us =
+save the Mother Earth.
+
+
+------=_NextPart_000_06C6_01D21F38.4C7D10A0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:v =3D "urn:schemas-microsoft-com:vml" xmlns:o =3D=20
+"urn:schemas-microsoft-com:office:office" xmlns:w =3D=20
+"urn:schemas-microsoft-com:office:word" xmlns:m =3D=20
+"http://schemas.microsoft.com/office/2004/12/omml"><HEAD><TITLE>Date:</TI=
+TLE><BASE=20
+href=3D"file://D:\sneha\Email Sinature_files\">
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<META content=3DWord.Document name=3DProgId>
+<META content=3D"MSHTML 6.00.2900.5512" name=3DGENERATOR>
+<META content=3D"Microsoft Word 12" name=3DOriginator><LINK=20
+href=3D"Email%20Sinature_files/filelist.xml" rel=3DFile-List><!--[if gte =
+mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>sneha</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>sneha</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2016-06-18T08:15:00Z</o:Created>
+  <o:LastSaved>2016-06-18T08:18:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>165</o:Words>
+  <o:Characters>947</o:Characters>
+  <o:Lines>7</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1110</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><LINK href=3D"Email%20Sinature_files/themedata.thmx"=20
+rel=3DthemeData><LINK =
+href=3D"Email%20Sinature_files/colorschememapping.xml"=20
+rel=3DcolorSchemeMapping><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:DrawingGridVerticalSpacing>561.6 pt</w:DrawingGridVerticalSpacing>
+  =
+<w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEve=
+ry>
+  =
+<w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"--"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr>  <w:Compatibility></w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
+  DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"267">
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Normal"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 2"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 3"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 4"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 5"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" =
+UnhideWhenUsed=3D"true"
+   QFormat=3D"true" Name=3D"heading 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" =
+UnhideWhenUsed=3D"true"
+   QFormat=3D"true" Name=3D"heading 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" =
+UnhideWhenUsed=3D"true"
+   QFormat=3D"true" Name=3D"heading 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" =
+UnhideWhenUsed=3D"true"
+   QFormat=3D"true" Name=3D"caption"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default =
+Paragraph Font"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Strong"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"HTML Top of Form"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"HTML Bottom of Form"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Normal Table"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"No List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Outline List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Outline List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Outline List 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Simple 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Simple 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Simple 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Classic 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Classic 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Classic 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Classic 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Colorful 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Colorful 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Colorful 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Columns 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Columns 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Columns 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Columns 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Columns 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Grid 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Grid 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Grid 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Grid 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Grid 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table List 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table List 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table List 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table List 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table List 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table List 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table 3D effects 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table 3D effects 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table 3D effects 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Contemporary"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Elegant"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Professional"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Subtle 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Subtle 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Web 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Web 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Web 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Table Theme"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   Name=3D"Placeholder Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" =
+Name=3D"No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light =
+Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium =
+Shading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium =
+Shading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List =
+1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List =
+2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid =
+1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid =
+2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid =
+3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful =
+Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful =
+List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful =
+Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading =
+Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List =
+Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid =
+Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium =
+Shading 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium =
+Shading 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 =
+Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true" =
+Name=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
+   Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" =
+Name=3D"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
+   Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 =
+Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 =
+Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 =
+Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 =
+Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List =
+Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful =
+Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List =
+Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid =
+Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading =
+Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List =
+Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid =
+Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium =
+Shading 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium =
+Shading 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 =
+Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 =
+Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 =
+Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 =
+Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 =
+Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List =
+Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful =
+Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List =
+Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid =
+Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading =
+Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List =
+Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid =
+Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium =
+Shading 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium =
+Shading 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 =
+Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 =
+Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 =
+Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 =
+Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 =
+Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List =
+Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful =
+Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List =
+Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid =
+Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading =
+Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List =
+Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid =
+Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium =
+Shading 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium =
+Shading 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 =
+Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 =
+Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 =
+Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 =
+Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 =
+Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List =
+Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful =
+Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List =
+Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid =
+Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading =
+Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List =
+Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid =
+Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium =
+Shading 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium =
+Shading 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 =
+Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 =
+Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 =
+Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 =
+Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 =
+Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List =
+Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful =
+Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List =
+Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid =
+Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading =
+Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List =
+Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid =
+Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium =
+Shading 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium =
+Shading 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 =
+Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 =
+Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 =
+Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 =
+Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 =
+Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List =
+Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful =
+Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List =
+Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid =
+Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
+   Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
+   Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" QFormat=3D"true"
+   Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
+   Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" =
+Name=3D"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<STYLE>@font-face {
+	font-family: Cambria Math;
+}
+@font-face {
+	font-family: =E5=AE=8B=E4=BD=93;
+}
+@font-face {
+	font-family: Trebuchet MS;
+}
+@page  {mso-page-border-surround-header: no; =
+mso-page-border-surround-footer: no; }
+@page Section1 {size: 595.35pt 841.95pt; margin: 1.0in 1.0in 1.0in =
+1.0in; mso-header-margin: .5in; mso-footer-margin: .5in; =
+mso-paper-source: 0; }
+P.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-style-qformat: yes; =
+mso-style-parent: ""; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast
+}
+LI.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-style-qformat: yes; =
+mso-style-parent: ""; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast
+}
+DIV.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-style-qformat: yes; =
+mso-style-parent: ""; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast
+}
+H1 {
+	FONT-SIZE: 24pt; MARGIN: 5pt 0in; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-style-qformat: yes; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-fareast-theme-font: minor-fareast; mso-style-link: "Heading 1 Char"; =
+mso-outline-level: 1
+}
+H2 {
+	FONT-SIZE: 18pt; MARGIN: 5pt 0in; FONT-STYLE: italic; FONT-FAMILY: =
+=E5=AE=8B=E4=BD=93; mso-style-unhide: no; mso-style-qformat: yes; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-fareast-theme-font: minor-fareast; mso-style-link: "Heading =
+2 Char"; mso-outline-level: 2
+}
+H3 {
+	FONT-SIZE: 13.5pt; MARGIN: 5pt 0in; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-style-qformat: yes; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-fareast-theme-font: minor-fareast; mso-style-link: "Heading 3 Char"; =
+mso-outline-level: 3
+}
+H4 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-style-qformat: yes; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-fareast-theme-font: minor-fareast; mso-style-link: "Heading 4 Char"; =
+mso-outline-level: 4
+}
+H5 {
+	FONT-SIZE: 10pt; MARGIN: 5pt 0in; FONT-STYLE: italic; FONT-FAMILY: =
+=E5=AE=8B=E4=BD=93; mso-style-unhide: no; mso-style-qformat: yes; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-fareast-theme-font: minor-fareast; mso-style-link: "Heading =
+5 Char"; mso-outline-level: 5
+}
+H6 {
+	FONT-SIZE: 7.5pt; MARGIN: 5pt 0in; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-style-qformat: yes; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-fareast-theme-font: minor-fareast; mso-style-link: "Heading 6 Char"; =
+mso-outline-level: 6
+}
+SPAN.Heading1Char {
+	FONT-WEIGHT: bold; COLOR: #365f91; FONT-FAMILY: "Cambria","serif"; =
+mso-style-unhide: no; mso-fareast-font-family: "Times New Roman"; =
+mso-fareast-theme-font: major-fareast; mso-style-link: "Heading 1"; =
+mso-style-name: "Heading 1 Char"; mso-style-locked: yes; =
+mso-ansi-font-size: 14.0pt; mso-bidi-font-size: 14.0pt; =
+mso-ascii-font-family: Cambria; mso-ascii-theme-font: major-latin; =
+mso-hansi-font-family: Cambria; mso-hansi-theme-font: major-latin; =
+mso-bidi-font-family: "Times New Roman"; mso-bidi-theme-font: =
+major-bidi; mso-themecolor: accent1; mso-themeshade: 191
+}
+SPAN.Heading2Char {
+	FONT-WEIGHT: bold; COLOR: #4f81bd; FONT-FAMILY: "Cambria","serif"; =
+mso-style-unhide: no; mso-fareast-font-family: "Times New Roman"; =
+mso-fareast-theme-font: major-fareast; mso-style-link: "Heading 2"; =
+mso-style-name: "Heading 2 Char"; mso-style-locked: yes; =
+mso-ansi-font-size: 13.0pt; mso-bidi-font-size: 13.0pt; =
+mso-ascii-font-family: Cambria; mso-ascii-theme-font: major-latin; =
+mso-hansi-font-family: Cambria; mso-hansi-theme-font: major-latin; =
+mso-bidi-font-family: "Times New Roman"; mso-bidi-theme-font: =
+major-bidi; mso-themecolor: accent1
+}
+SPAN.Heading3Char {
+	FONT-WEIGHT: bold; COLOR: #4f81bd; FONT-FAMILY: "Cambria","serif"; =
+mso-style-unhide: no; mso-fareast-font-family: "Times New Roman"; =
+mso-fareast-theme-font: major-fareast; mso-style-link: "Heading 3"; =
+mso-style-name: "Heading 3 Char"; mso-style-locked: yes; =
+mso-ansi-font-size: 12.0pt; mso-bidi-font-size: 12.0pt; =
+mso-ascii-font-family: Cambria; mso-ascii-theme-font: major-latin; =
+mso-hansi-font-family: Cambria; mso-hansi-theme-font: major-latin; =
+mso-bidi-font-family: "Times New Roman"; mso-bidi-theme-font: =
+major-bidi; mso-themecolor: accent1
+}
+SPAN.Heading4Char {
+	FONT-WEIGHT: bold; COLOR: #4f81bd; FONT-STYLE: italic; FONT-FAMILY: =
+"Cambria","serif"; mso-style-unhide: no; mso-fareast-font-family: "Times =
+New Roman"; mso-fareast-theme-font: major-fareast; mso-style-link: =
+"Heading 4"; mso-style-name: "Heading 4 Char"; mso-style-locked: yes; =
+mso-ansi-font-size: 12.0pt; mso-bidi-font-size: 12.0pt; =
+mso-ascii-font-family: Cambria; mso-ascii-theme-font: major-latin; =
+mso-hansi-font-family: Cambria; mso-hansi-theme-font: major-latin; =
+mso-bidi-font-family: "Times New Roman"; mso-bidi-theme-font: =
+major-bidi; mso-themecolor: accent1
+}
+SPAN.Heading5Char {
+	COLOR: #243f60; FONT-FAMILY: "Cambria","serif"; mso-style-unhide: no; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+major-fareast; mso-style-link: "Heading 5"; mso-style-name: "Heading 5 =
+Char"; mso-style-locked: yes; mso-ansi-font-size: 12.0pt; =
+mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Cambria; =
+mso-ascii-theme-font: major-latin; mso-hansi-font-family: Cambria; =
+mso-hansi-theme-font: major-latin; mso-bidi-font-family: "Times New =
+Roman"; mso-bidi-theme-font: major-bidi; mso-themecolor: accent1; =
+mso-themeshade: 127
+}
+SPAN.Heading6Char {
+	COLOR: #243f60; FONT-STYLE: italic; FONT-FAMILY: "Cambria","serif"; =
+mso-style-unhide: no; mso-fareast-font-family: "Times New Roman"; =
+mso-fareast-theme-font: major-fareast; mso-style-link: "Heading 6"; =
+mso-style-name: "Heading 6 Char"; mso-style-locked: yes; =
+mso-ansi-font-size: 12.0pt; mso-bidi-font-size: 12.0pt; =
+mso-ascii-font-family: Cambria; mso-ascii-theme-font: major-latin; =
+mso-hansi-font-family: Cambria; mso-hansi-theme-font: major-latin; =
+mso-bidi-font-family: "Times New Roman"; mso-bidi-theme-font: =
+major-bidi; mso-themecolor: accent1; mso-themeshade: 127
+}
+P.p0 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p0
+}
+LI.p0 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p0
+}
+DIV.p0 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p0
+}
+P.p15 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p15; mso-bidi-font-family: "Times New =
+Roman"
+}
+LI.p15 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p15; mso-bidi-font-family: "Times New =
+Roman"
+}
+DIV.p15 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p15; mso-bidi-font-family: "Times New =
+Roman"
+}
+P.p16 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p16
+}
+LI.p16 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p16
+}
+DIV.p16 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p16
+}
+P.p17 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p17
+}
+LI.p17 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p17
+}
+DIV.p17 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p17
+}
+P.p18 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p18; mso-bidi-font-family: "Times New =
+Roman"
+}
+LI.p18 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p18; mso-bidi-font-family: "Times New =
+Roman"
+}
+DIV.p18 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p18; mso-bidi-font-family: "Times New =
+Roman"
+}
+P.p19 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p19; mso-bidi-font-family: "Times New =
+Roman"
+}
+LI.p19 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p19; mso-bidi-font-family: "Times New =
+Roman"
+}
+DIV.p19 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p19; mso-bidi-font-family: "Times New =
+Roman"
+}
+P.p20 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p20
+}
+LI.p20 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p20
+}
+DIV.p20 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p20
+}
+P.p21 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p21
+}
+LI.p21 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p21
+}
+DIV.p21 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p21
+}
+P.p22 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p22
+}
+LI.p22 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p22
+}
+DIV.p22 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p22
+}
+P.p23 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in 5.75pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p23
+}
+LI.p23 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in 5.75pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p23
+}
+DIV.p23 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in 5.75pt; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p23
+}
+P.p24 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p24
+}
+LI.p24 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p24
+}
+DIV.p24 {
+	FONT-SIZE: 12pt; MARGIN: 5pt 0in; FONT-FAMILY: "Times New =
+Roman","serif"; mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p24
+}
+P.p25 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p25; mso-bidi-font-family: "Times New =
+Roman"
+}
+LI.p25 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p25; mso-bidi-font-family: "Times New =
+Roman"
+}
+DIV.p25 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: =E5=AE=8B=E4=BD=93; =
+mso-style-unhide: no; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-fareast-theme-font: =
+minor-fareast; mso-style-name: p25; mso-bidi-font-family: "Times New =
+Roman"
+}
+.MsoChpDefault {
+	FONT-SIZE: 10pt; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: =
+10.0pt; mso-style-type: export-only; mso-default-props: yes
+}
+DIV.Section1 {
+	page: Section1
+}
+</STYLE>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]--></HEAD>
+<BODY lang=3DEN-US style=3D"tab-interval: 21.0pt" bgColor=3D#ffffff>
+<DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2>Hi,</FONT></DIV>
+<DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3D"Trebuchet MS" color=3D#000080 size=3D2>Raise the =
+request in pms for=20
+below requirement.</FONT></DIV>
+<DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2>Regards,</FONT></DIV>
+<DIV><FONT face=3D"Trebuchet MS" color=3D#000080 size=3D2>Ajendra =
+Singh</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<BLOCKQUOTE dir=3Dltr=20
+style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 5px; MARGIN-LEFT: 5px; =
+BORDER-LEFT: #000080 2px solid; MARGIN-RIGHT: 0px">
+  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+  <DIV=20
+  style=3D"BACKGROUND: #e4e4e4; FONT: 10pt arial; font-color: =
+black"><B>From:</B>=20
+  <A title=3Dvishwanath.kate@pamac.com=20
+  href=3D"mailto:vishwanath.kate@pamac.com">Vishwanath Kate</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A title=3Dedp@pamac.com=20
+  href=3D"mailto:edp@pamac.com">edp@pamac.com</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Cc:</B> <A =
+title=3Dvinod.k@pamac.com=20
+  href=3D"mailto:vinod.k@pamac.com">Vinod Kutty</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Wednesday, October 05, =
+2016 6:15=20
+  PM</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> Remove name from=20
+  PMT-Resignation--Sneha Mangarule (P-58091)</DIV>
+  <DIV><BR></DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 size=3D2>Dear =
+Team,</FONT></DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 size=3D2>Kindly =
+remove the name of=20
+  below employee from PMT.</FONT></DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 size=3D2>Name: Sneha=20
+  Mangarule</FONT></DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 size=3D2>Emp ID:=20
+  P-58091</FONT></DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 size=3D2>Last working =
+Day: 1st=20
+  Oct'16</FONT></DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV>
+  <P class=3Dp100=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Thanks&nbsp;&amp;&nbsp;Regards,&nbsp;=20
+  </SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp100=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp124=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; =
+TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Vishwanath&nbsp;Kate</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp124=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; =
+TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Team&nbsp;Leader-&nbsp;PDCR&nbsp;Unit</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp124=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; =
+TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Telephone:&nbsp;+022&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(51,51,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">2419&nbsp;2214</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;|Mob&nbsp;:&nbsp;+91</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(51,51,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">9221224904</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;|&nbsp;Email:</SPAN><SPAN><A=20
+  href=3D"mailto:vishwanath.kate@pamac.com"><SPAN class=3D15=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(51,51,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; TEXT-DECORATION: =
+underline; mso-spacerun: 'yes'">vishwanath.kate</SPAN></A></SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; TEXT-DECORATION: =
+underline; mso-spacerun: 'yes'">@pamac.com</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; TEXT-DECORATION: =
+underline; mso-spacerun: 'yes'">&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">|</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Website:&nbsp;</SPAN><SPAN><A=20
+  href=3D"http://www.pamac.com|"><SPAN class=3D15=20
+  style=3D"FONT-SIZE: 10pt; COLOR: rgb(0,32,96); FONT-FAMILY: 'Trebuchet =
+MS'; TEXT-DECORATION: underline; mso-spacerun: =
+'yes'">www.pamac.com|</SPAN></A></SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp119=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Calibri'; mso-spacerun: =
+'yes'">PAMAC&nbsp;Group&nbsp;=E2=80=93&nbsp;Banking&nbsp;on&nbsp;our&nbsp=
+;Credentials.</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Calibri'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp119=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: =
+left"><SPAN></SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 12pt; FONT-STYLE: normal; =
+FONT-FAMILY: 'Times New Roman'; mso-spacerun: 'yes'">&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 12pt; FONT-STYLE: normal; =
+FONT-FAMILY: 'Times New Roman'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp100=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp100=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 20pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">WE</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;are&nbsp;spreading&nbsp;our&nbsp;wings,&nbsp;do&nbsp;visit&n=
+bsp;our&nbsp;revamped&nbsp;website&nbsp;for&nbsp;more&nbsp;details&nbsp;=E2=
+=80=93&nbsp;</SPAN><SPAN><A=20
+  href=3D"http://www.pamac.com/"><SPAN class=3D15=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: rgb(0,0,255); =
+FONT-FAMILY: 'Trebuchet MS'; TEXT-DECORATION: underline; mso-spacerun: =
+'yes'">www.pamac.com</SPAN></A></SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 12pt; FONT-STYLE: normal; =
+FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp124=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: rgb(0,128,0); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Please&nbsp;don't&nbsp;print&nbsp;this&nbsp;e-mail&nbsp;unless&nbs=
+p;you&nbsp;really&nbsp;need&nbsp;to.&nbsp;Let&nbsp;us&nbsp;save&nbsp;the&=
+nbsp;Mother&nbsp;Earth!!</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp124=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">******************************************************************=
+***********************************************************&nbsp;</SPAN><=
+SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp124=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Disclaimer:&nbsp;This&nbsp;email&nbsp;is&nbsp;confidential.&nbsp;I=
+t&nbsp;may&nbsp;also&nbsp;be&nbsp;legally&nbsp;privileged.&nbsp;If&nbsp;y=
+ou&nbsp;are&nbsp;not&nbsp;the&nbsp;addressee&nbsp;you&nbsp;may&nbsp;not&n=
+bsp;copy,&nbsp;forward,&nbsp;disclose&nbsp;or&nbsp;use&nbsp;any&nbsp;part=
+&nbsp;of&nbsp;it.&nbsp;If&nbsp;you&nbsp;have&nbsp;received&nbsp;this&nbsp=
+;message&nbsp;in&nbsp;error,&nbsp;please&nbsp;delete&nbsp;it&nbsp;and&nbs=
+p;all&nbsp;copies&nbsp;from&nbsp;your&nbsp;system&nbsp;and&nbsp;notify&nb=
+sp;the&nbsp;sender&nbsp;immediately&nbsp;by&nbsp;return&nbsp;e-mail.&nbsp=
+;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp124=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Internet&nbsp;communications&nbsp;cannot&nbsp;be&nbsp;guaranteed&n=
+bsp;to&nbsp;be&nbsp;timely,&nbsp;secure,&nbsp;error&nbsp;or&nbsp;virus-fr=
+ee.&nbsp;The&nbsp;sender&nbsp;does&nbsp;not&nbsp;accept&nbsp;liability&nb=
+sp;for&nbsp;any&nbsp;errors&nbsp;or&nbsp;omissions.</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp124=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">******************************************************************=
+***********************************************************</SPAN></P></D=
+IV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV style=3D"FONT: 10pt arial">----- Original Message -----=20
+  <DIV style=3D"BACKGROUND: #e4e4e4; font-color: black"><B>From:</B> <A=20
+  title=3Dvinod.k@pamac.com href=3D"mailto:vinod.k@pamac.com">Vinod =
+Kutty</A> </DIV>
+  <DIV><B>To:</B> <A title=3Dmumbai.audit@pamac.com=20
+  href=3D"mailto:mumbai.audit@pamac.com">PAMAC - Mumbai Audit Team</A> ; =
+<A=20
+  title=3Dshankar.devare@pamac.com =
+href=3D"mailto:shankar.devare@pamac.com">Shankar=20
+  Devare</A> ; <A title=3Dhr.support@pamac.com=20
+  href=3D"mailto:hr.support@pamac.com">hr.support@pamac.com</A> </DIV>
+  <DIV><B>Cc:</B> <A title=3Dvishwanath.kate@pamac.com=20
+  href=3D"mailto:vishwanath.kate@pamac.com">Vishwanath Kate</A> ; <A=20
+  title=3Djay.sharma@pamac.com href=3D"mailto:jay.sharma@pamac.com">Jay =
+Sharma</A>=20
+  </DIV>
+  <DIV><B>Sent:</B> Friday, September 02, 2016 4:06 PM</DIV>
+  <DIV><B>Subject:</B> Re: Resignation--Sneha Mangarule =
+(P-58091)</DIV></DIV>
+  <DIV><BR></DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 size=3D2>Hi =
+Sneha,</FONT></DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 size=3D2>Your =
+resignation is=20
+  accepted.</FONT></DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 size=3D2>HR =
+Team,</FONT></DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 size=3D2>Please make =
+a note of=20
+  it.</FONT></DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 size=3D2>
+  <P class=3Dp70 style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,102); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,102); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp70 style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,102); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,102); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp70 style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,102); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,102); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp87=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,102); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp87=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Thanks&nbsp;&amp;&nbsp;Regards,&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp87=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp88=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Vinod&nbsp;Kutty</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp88=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Delivery&nbsp;Center&nbsp;Head&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">-&nbsp;Central&nbsp;Team</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp88=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; =
+TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Telephone:&nbsp;+91&nbsp;22&nbsp;2419&nbsp;22</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">38</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">|Mob:&nbsp;+91&nbsp;9022&nbsp;051976&nbsp;Email:&nbsp;</SPAN><SPAN=
+><A=20
+  href=3D"mailto:vinod.k@pamac.com|"><SPAN class=3D27=20
+  style=3D"FONT-SIZE: 10pt; COLOR: rgb(0,32,96); FONT-FAMILY: 'Trebuchet =
+MS'; TEXT-DECORATION: underline; mso-spacerun: =
+'yes'">vinod.k@pamac.com|</SPAN></A></SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;Website:&nbsp;</SPAN><SPAN><A=20
+  href=3D"http://www.pamac.com|"><SPAN class=3D27=20
+  style=3D"FONT-SIZE: 10pt; COLOR: rgb(0,32,96); FONT-FAMILY: 'Trebuchet =
+MS'; TEXT-DECORATION: underline; mso-spacerun: =
+'yes'">www.pamac.com|</SPAN></A></SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,32,96); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp87=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">PAMAC&nbsp;Group&nbsp;=E2=80=93&nbsp;Banking&nbsp;on&nbsp;our&nbsp=
+;Credentials.</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp87=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 20pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">WE</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: rgb(0,0,128); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;are&nbsp;spreading&nbsp;our&nbsp;wings,&nbsp;do&nbsp;visit&n=
+bsp;our&nbsp;revamped&nbsp;website&nbsp;for&nbsp;more&nbsp;details&nbsp;=E2=
+=80=93&nbsp;</SPAN><SPAN><A=20
+  href=3D"http://www.pamac.com"><SPAN class=3D27=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: rgb(0,0,255); =
+FONT-FAMILY: 'Trebuchet MS'; TEXT-DECORATION: underline; mso-spacerun: =
+'yes'">www.pamac.com</SPAN></A></SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 12pt; FONT-STYLE: normal; =
+FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: 'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp88=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: rgb(0,128,0); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Please&nbsp;don't&nbsp;print&nbsp;this&nbsp;e-mail&nbsp;unless&nbs=
+p;you&nbsp;really&nbsp;need&nbsp;to.&nbsp;Let&nbsp;us&nbsp;save&nbsp;the&=
+nbsp;Mother&nbsp;Earth!!</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp88=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">******************************************************************=
+***********************************************************&nbsp;</SPAN><=
+SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp88=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Disclaimer:&nbsp;This&nbsp;email&nbsp;is&nbsp;confidential.&nbsp;I=
+t&nbsp;may&nbsp;also&nbsp;be&nbsp;legally&nbsp;privileged.&nbsp;If&nbsp;y=
+ou&nbsp;are&nbsp;not&nbsp;the&nbsp;addressee&nbsp;you&nbsp;may&nbsp;not&n=
+bsp;copy,&nbsp;forward,&nbsp;disclose&nbsp;or&nbsp;use&nbsp;any&nbsp;part=
+&nbsp;of&nbsp;it.&nbsp;If&nbsp;you&nbsp;have&nbsp;received&nbsp;this&nbsp=
+;message&nbsp;in&nbsp;error,&nbsp;please&nbsp;delete&nbsp;it&nbsp;and&nbs=
+p;all&nbsp;copies&nbsp;from&nbsp;your&nbsp;system&nbsp;and&nbsp;notify&nb=
+sp;the&nbsp;sender&nbsp;immediately&nbsp;by&nbsp;return&nbsp;e-mail.&nbsp=
+;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp88=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">Internet&nbsp;communications&nbsp;cannot&nbsp;be&nbsp;guaranteed&n=
+bsp;to&nbsp;be&nbsp;timely,&nbsp;secure,&nbsp;error&nbsp;or&nbsp;virus-fr=
+ee.&nbsp;The&nbsp;sender&nbsp;does&nbsp;not&nbsp;accept&nbsp;liability&nb=
+sp;for&nbsp;any&nbsp;errors&nbsp;or&nbsp;omissions.</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp88=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">******************************************************************=
+***********************************************************</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P>
+  <P class=3Dp88=20
+  style=3D"MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'">&nbsp;</SPAN><SPAN=20
+  style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: rgb(0,0,153); =
+FONT-STYLE: normal; FONT-FAMILY: 'Trebuchet MS'; mso-spacerun: =
+'yes'"><o:p></o:p></SPAN></P><!--EndFragment--></FONT></DIV>
+  <DIV><FONT face=3D"Trebuchet MS" color=3D#000080 =
+size=3D2></FONT>&nbsp;</DIV>
+  <BLOCKQUOTE dir=3Dltr=20
+  style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 5px; MARGIN-LEFT: 5px; =
+BORDER-LEFT: #000080 2px solid; MARGIN-RIGHT: 0px">
+    <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+    <DIV=20
+    style=3D"BACKGROUND: #e4e4e4; FONT: 10pt arial; font-color: =
+black"><B>From:</B>=20
+    <A title=3Dmumbai.audit@pamac.com =
+href=3D"mailto:mumbai.audit@pamac.com">PAMAC -=20
+    Mumbai Audit Team</A> </DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A =
+title=3Dvinod.k@pamac.com=20
+    href=3D"mailto:vinod.k@pamac.com">vinod.k@pamac.com</A> </DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Cc:</B> <A =
+title=3Dvishwanath.kate@pamac.com=20
+    href=3D"mailto:vishwanath.kate@pamac.com">Vishwanath Kate</A> </DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Friday, September 02, =
+2016 3:51=20
+    PM</DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> Fw: =
+Resignation</DIV>
+    <DIV><BR></DIV>
+    <DIV><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Repected=20
+    Sir;</SPAN></DIV>
+    <DIV><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"></SPAN>&nbsp;</DIV>
+    <DIV><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"></SPAN>&nbsp;</DIV>
+    <DIV><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">
+    <DIV class=3DSection1><SPAN>I&nbsp;Sneha Vijay Mangarule (P-58091)=20
+    &nbsp;writing this letter of resignation on&nbsp;02&nbsp;Sep=20
+    &nbsp;2016&nbsp;to formally notify you of my decision to resign from =
+
+    the&nbsp;Telle calling &nbsp;executive&nbsp;<FONT size=3D2><FONT=20
+    color=3D#000080><FONT size=3D2><FONT color=3D#000080><FONT =
+color=3D#000080><FONT=20
+    color=3D#000080><SPAN=20
+    style=3D"FONT-SIZE: 12pt; COLOR: #444444; LINE-HEIGHT: 115%"><FONT=20
+    color=3D#000080 size=3D2>in DCR Unit</FONT><FONT size=3D2>.=20
+    </SPAN></FONT></FONT><SPAN=20
+    style=3D"FONT-SIZE: 12pt; COLOR: #444444; LINE-HEIGHT: 115%"><FONT=20
+    color=3D#000080 size=3D2>I have taken this decision after</FONT> =
+<FONT=20
+    size=3D2>th</FONT></SPAN></FONT><SPAN=20
+    style=3D"FONT-SIZE: 12pt; COLOR: #1f497d; LINE-HEIGHT: 115%"><FONT=20
+    size=3D2>o</FONT></SPAN></FONT></FONT><SPAN=20
+    style=3D"FONT-SIZE: 12pt; COLOR: #444444; LINE-HEIGHT: 115%"><FONT=20
+    color=3D#000080 size=3D2>rough deliberation and assessment and I =
+believe it is=20
+    in my best interest to move on</FONT>. </SPAN></FONT></FONT></DIV>
+    <DIV class=3DSection1>
+    <P class=3DMsoNormal style=3D"TEXT-ALIGN: justify"><SPAN=20
+    style=3D"FONT-SIZE: 12pt; COLOR: #444444; LINE-HEIGHT: 115%"><FONT=20
+    color=3D#000080 size=3D2>It was wonderful to have worked here and I =
+shall=20
+    cherish this experience always. I wish the company continued success =
+and=20
+    would like to thank you for allowing me to be part of your=20
+    team.</FONT></SPAN></P>
+    <P class=3DMsoNormal style=3D"TEXT-ALIGN: justify"><SPAN=20
+    style=3D"FONT-SIZE: 12pt; COLOR: #444444; LINE-HEIGHT: 115%"><FONT=20
+    size=3D2><FONT color=3D#000080>I will continue to provide my full =
+expertise,=20
+    dedication, and commitment through till my last=20
+    day.</FONT>&nbsp;</FONT></SPAN></P>
+    <P class=3DMsoNormal style=3D"TEXT-ALIGN: justify"><SPAN=20
+    style=3D"FONT-SIZE: 12pt; COLOR: #444444; LINE-HEIGHT: 115%"><FONT=20
+    color=3D#000080><FONT size=3D2><SPAN style=3D"FONT-FAMILY: 'Book =
+Antiqua'">Request=20
+    you to kindly relieve me of all my job responsibilities =
+from&nbsp;&nbsp;1st=20
+    Oct &nbsp; 2016 &nbsp;and do the needful for my HR related =
+formalities.=20
+    </SPAN></FONT></FONT></SPAN></P>
+    <P class=3DMsoNormal style=3D"TEXT-ALIGN: justify"><SPAN=20
+    style=3D"FONT-SIZE: 12pt; COLOR: #444444; LINE-HEIGHT: 115%"><FONT=20
+    color=3D#000080><FONT size=3D2><SPAN=20
+    style=3D"FONT-FAMILY: 'Book =
+Antiqua'"></SPAN></FONT></FONT></SPAN>&nbsp;</P>
+    <P class=3DMsoNormal style=3D"TEXT-ALIGN: justify"><SPAN=20
+    style=3D"FONT-SIZE: 12pt; COLOR: #444444; LINE-HEIGHT: 115%"><FONT=20
+    color=3D#000080><FONT size=3D2><SPAN style=3D"FONT-FAMILY: 'Book =
+Antiqua'">I seek=20
+    your best wishes for all my future </SPAN><SPAN=20
+    style=3D"FONT-FAMILY: 'Book =
+Antiqua'">Endeavors</SPAN></FONT></FONT></SPAN></P></DIV></SPAN></SPAN></=
+DIV>
+    <DIV class=3DSection1>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"></SPAN>&nbsp;</P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"></SPAN>&nbsp;</P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"></SPAN>&nbsp;</P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"></SPAN>&nbsp;</P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Regards,<o:p></o:p></SPAN></P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"><o:p>&nbsp;</o:p></SPAN></P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Sneha=20
+    M<o:p></o:p></SPAN></P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"mso-spacerun: yes"></SPAN></P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"mso-spacerun: yes"></SPAN><B><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">PAMAC=20
+    Group =E2=80=93 Banking on our Credentials.</SPAN></B></P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN style=3D"COLOR: =
+navy"><SPAN=20
+    style=3D"mso-spacerun: yes"></SPAN></SPAN><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">*******************************************************=
+*************************************************************************=
+*************************************************************************=
+****************************************</SPAN></P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Disclaimer:=20
+    This e-mail is confidential. It may also be legally privileged. If =
+you are=20
+    not the addressee you may not copy, forward, disclose or use any =
+part of it.=20
+    If you have received this message in error, please delete it and all =
+copies=20
+    from your system and notify the sender immediately by return=20
+    e-mail.</SPAN></P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"FONT-SIZE: 8pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'"><BR></SPAN><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Internet=20
+    communications cannot be guaranteed to be timely, secure, error or=20
+    virus-free. The sender does not accept liability for any errors or=20
+    omissions.</SPAN></P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">*******************************************************=
+*************************************************************************=
+*************************************************************************=
+****************************************</SPAN></P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><B><I><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: green; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">Please</SPAN></I></B><SPAN=20
+    style=3D"COLOR: green"> </SPAN><B><I><SPAN=20
+    style=3D"FONT-SIZE: 10pt; COLOR: green; FONT-FAMILY: 'Trebuchet =
+MS','sans-serif'">don't=20
+    print this e-mail unless you really need to. Let us save the Mother=20
+    Earth.</SPAN></I></B></P>
+    <P class=3Dp23 style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+    style=3D"mso-spacerun: =
+yes"></SPAN><o:p></o:p></P></DIV></BLOCKQUOTE></BLOCKQUOTE><!--EndFragmen=
+t--></BODY></HTML>
+
+------=_NextPart_000_06C6_01D21F38.4C7D10A0--
+

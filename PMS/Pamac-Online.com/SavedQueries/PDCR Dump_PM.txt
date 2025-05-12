@@ -1,0 +1,38 @@
+select case_details.Case_Id,REF_NO as[Application No],Bsn_No as[Bsn Number],FIRST_NAME as[Name],convert(varchar,case_rec_datetime,103) as[Recvd Date],case_details.CARD_TYPE as[Call Center],
+TYPE_OF_APPLICANT as[DATA TYPE],DEPARTMENT as[Document Required],SMS_CONTENT as[APPOINTMENT DATE],FAX_NO as[APPOINTMENT TIME],
+RES_ADD_LINE_1 as[PICK UP ADDRESS 1],RES_ADD_LINE_2 as[PICK UP ADDRESS 2],RES_ADD_LINE_3 as [PICK UP ADDRESS 3],RES_CITY as[CITY],
+RES_STATE as[STATE],RES_PIN_CODE as[PIN CODE],RES_PHONE as[PHONE NO 1],OFF_PHONE as[PHONE NO 2],case_details.MOBILE as[MOBILE NO 1],PMT_PHONE as[MOBILE NO 2],
+RES_LAND_MARK as[Pamac City],REGION as[Zone],DESIGNATION as[Agency],Pick_Up_Status_1 as[Pick Up Status 1],Date_1 as[Date 1],Pick_Up_Status_2 as[Pick Up Status 2],
+Date_2 as[Date 2],Pick_Up_Status_3 as[Pick Up Status 3],Date_3 as[Date 3],Pick_Up_Status_Final as[Pick Up Status Final],Picked_up_Date as[Picked up Date],
+Pick_Up_Feedback as[Pick Up Feedback],Return_Date as[Return Date],case_details.Despatch_Date as[Despatch Date],
+emp_details1.Fullname as[FE Name],emp_details1.emp_code as[FE CODE],emp_details1.Mobile as[FE Mobile],
+emp_details.Fullname as 'TeleCaller Name',
+--(Select Top 1  Remark From CPV_CC_VERI_ATTEMPTS  VERI_ATTEMPTS Where VERI_ATTEMPTS.Case_Id=CASE_DETAILS.Case_Id  Order By Attempt_Date_Time desc) as [Tele SubRemark],
+--(Select Top 1  SubRemark From CPV_CC_VERI_ATTEMPTS  VERI_ATTEMPTS Where VERI_ATTEMPTS.Case_Id=CASE_DETAILS.Case_Id  Order By Attempt_Date_Time desc) as [Tele Remark],
+(Select top 1 Remark From CPV_CC_VERI_ATTEMPTS  VERI_ATTEMPTS Where VERI_ATTEMPTS.Case_Id=CASE_DETAILS.Case_Id and VERI_ATTEMPTS.remark not like'Select' order by attempt_date_time desc) as [Tele SubRemark],
+(Select top 1 SubRemark From CPV_CC_VERI_ATTEMPTS  VERI_ATTEMPTS Where VERI_ATTEMPTS.Case_Id=CASE_DETAILS.Case_Id and VERI_ATTEMPTS.Subremark not like'Select' order by attempt_date_time desc) as [Tele Remark],
+(Select top 1 convert(varchar,attempt_date_time,103) From CPV_CC_VERI_ATTEMPTS  VERI_ATTEMPTS Where VERI_ATTEMPTS.Case_Id=CASE_DETAILS.Case_Id and subremark='Pickedup') as [Pickdup Date],
+veri_desp.additional_remark as'Tele Special Remark',
+case supervisor_remarks when 'Select'
+then '' else supervisor_remarks end as'Local Supervisor Remark',
+status_name as'Centre Supervisor Remark',
+case 
+convert(varchar,Deposit_Date,103) when 'Jan  1 1900 12:00AM' 
+then '' else convert(varchar,Deposit_Date,103) 
+End as Deposit_Date,
+case
+convert(varchar,veri_details.Despatch_Date,103) when 'Jan  1 1900 12:00AM' 
+then '' else convert(varchar,veri_details.Despatch_Date,103)
+End as Despatch_Date
+from cpv_cc_case_details case_details 
+left outer join CPV_CC_TC_CASE_MAPPING tc_mapping on case_details.case_id=tc_mapping.case_id 
+left outer join CPV_CC_VERI_DETAILS veri_details on case_details.case_id=veri_details.case_id  
+left outer join CPV_CC_FE_CASE_MAPPING fe_map on case_details.case_id=fe_map.case_id 
+left outer join employee_master emp_details on tc_mapping.tc_id=emp_details.emp_id 
+left outer join employee_master emp_details1 on fe_map.fe_id=emp_details1.emp_id
+left outer join case_status_master case_mas on case_mas.case_status_id=veri_details.case_status_id
+left outer join CPV_CC_VERI_DESCRIPTION veri_desp on case_details.case_id=veri_desp.case_id 
+where case_details.client_id=101145 and verification_code='PM'
+and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+
+

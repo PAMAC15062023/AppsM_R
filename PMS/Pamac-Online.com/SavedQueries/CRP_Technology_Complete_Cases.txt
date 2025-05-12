@@ -1,0 +1,33 @@
+Select  CASE_REC_DATETIME AS 'Date of Receipt',DEPARTMENT AS 'ClientName',REF_NO AS 'Reference Number',
+FIRST_NAME As 'Name',
+attempt_date_time As 'Date and Time of Visit',FULLNAME As 'Field Executive',
+Address_Type As 'Type of Address',
+Isnull(Case_details.res_add_line_1,'')+' '+Isnull(Case_details.res_add_line_2,'')+' '+Isnull(Case_details.res_add_line_3,'') as Address,
+Isnull(Person_Contacted,'')+' '+Isnull(Resi_Tel_no,'')+' '+Isnull(PersonContactedMobileNo,'') As 'Name of the Person Contacted & Contact No & Mobile',
+Relationship_with_Applicant AS 'Relationship With Subject',Case_Veri.Staying_since_Resi As 'Period of Stay',
+Residence_Status As 'Residence Status',Type_residence As 'Type',Area_Residence AS 'Area (Sq Ft):',
+Marital_Status As 'Marital Status',Family_Member_Is AS 'Members in Family',Earning_Member As 'Earning',
+No_Dependent As 'Dependents',Children,Neighbour1_Name AS 'Neighbor Check (I)',
+Neighbour2_Name AS 'Neighbor Check (II)',Locality,Locating_Address As 'Ease in Locating',
+EquipmentSeen_OR_Shift_Arrangement As 'Interior Conditions',Building_Status AS 'Building Status',
+Security_Confirmation As 'Security Confirmation',Society_Board As 'Society Board',
+Case_Veri.Resi_Landmark As 'Landmark',General_Comments AS 'Remark',
+STATUS_CODE As 'Overall Status',SEND_DATETIME As 'Date of Report'
+from CPV_KYC_CASE_DETAILS Case_details            
+Left Outer Join CPV_KYC_CASE_VERIFICATION Case_Veri            
+On Case_details.Case_id=Case_Veri.Case_id            
+Left Outer Join CPV_KYC_CASE_VERIFICATION_Details Veri_Detail            
+On Case_details.Case_id=Veri_Detail.Case_id            
+Left Outer Join CPV_KYC_VERI_ATTEMPTS Veri_Attempt          
+On Case_details.Case_id=Veri_Attempt.Case_id            
+left Outer Join cpv_kyc_fe_mapping FE_Mapp        
+On Case_details.Case_id=FE_Mapp.Case_id         
+left Outer Join Employee_master Emp_Mast        
+On FE_Mapp.FE_ID=Emp_Mast.EMP_ID           
+left Outer Join case_status_master Case_mast            
+On Case_mast.CASE_STATUS_ID=Case_details.CASE_STATUS_ID            
+left outer join VERIFICATION_TYPE_MASTER Type_Master on                    
+Case_Veri.VERIFICATION_TYPE_ID=Type_Master.VERIFICATION_TYPE_ID            
+where Case_details.CLIENT_ID='101170'
+AND Type_Master.VERIFICATION_TYPE_CODE = 'RV'     
+AND @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE

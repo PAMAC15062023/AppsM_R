@@ -1,0 +1,17 @@
+select c.case_id,c.ref_no,ISNULL(c.FIRST_NAME,'')+' '+ISNULL(c.MIDDLE_NAME,'')+' '+ISNULL(c.LAST_NAME,'') AS App_name,
+e.verification_type_code as VerificationCode,f.client_name,
+b.VERIFICATION_DATETIME,b.LANDMARK,b.Name_Neighbour1,b.Confirmation_Neighbour1,b.Name_Neighbour2,b.Confirmation_Neighbour2,
+b.Third_party_Comment,b.Nam_Plate_sighted,b.Company_Name_board_seen,b.Business_board_sighted,b.Is_address_same,
+b.APPLICANT_NAME_VERIFIED_FROM,b.Person_Contacted,b.Designation_contacted_person,b.DOB,b.No_year_service,b.Type_Industry,
+b.Type_Organization,b.Nature_Business,b.Total_No_employee,b.No_of_branches,b.No_of_current_office,b.OFF_TELL_NO_NAME,
+b.Nature_Job,b.Designation,b.IS_res_com_office,b.Approx_area1,b.YEARS_AT_RESIDENCE,b.No_of_Members,
+b.IS_res_cum_office_self_owned,b.Office_Ownership,b.Assets_Seen1,b.Previous_Employeement_Details,
+b.No_yrs_previous_Employment,b.Proof_Buss_Activity,b.Locating_Office,b.Easy_Locating_Office,b.Locality,b.Status_Office,
+b.Aprox_area,b.Area,b.Interior_conditions,b.Exterior_conditions,b.Construction_Office,b.No_of_emp_seen,b.customer_per_day,
+b.Stock_Seen,b.Assets_Seen,b.affilated_political_party,b.Is_Negative_area,b.Verifier_Comment,b.FE_RESPONSE
+from CPV_RL_VERIFICATION_BVBT b,CPV_RL_CASE_DETAILS c,CPV_RL_CASE_VERIFICATIONTYPE d,VERIFICATION_TYPE_MASTER e,client_master f
+where b.case_id=c.case_id and b.case_id=d.case_id and b.verification_type_id=d.verification_type_id and 
+e.verification_type_id=b.verification_type_id and e.verification_type_id=d.verification_type_id and c.client_id=f.client_id and b.verification_type_id=2
+AND @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+
+

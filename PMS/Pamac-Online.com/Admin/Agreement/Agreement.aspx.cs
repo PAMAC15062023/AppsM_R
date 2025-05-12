@@ -1,0 +1,1078 @@
+using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using System.Data.SqlClient;
+using System.IO;
+using System.Net.Mail;
+
+
+public partial class Admin_Agreement_Agreement : System.Web.UI.Page
+{
+    CCommon objConn = new CCommon();
+    SqlConnection sqlcon;
+
+
+
+    string filename_Attachment;
+    // string Emailid;
+    //string filename_Attachment1;
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        Validation();
+
+
+
+
+
+        sqlcon = new SqlConnection(objConn.AppConnectionString);
+
+        sqlcon.Close();
+
+        if (!IsPostBack)
+        {
+            Get_ClientList();
+            //fillgrid();
+            Get_ClientListAnnexure();
+            hdnAnnexureEdit.Value = "0";
+            fillgridAnnexure();
+            fillgridMIS();
+            grdmis.Visible = false;
+            Email();
+
+        }
+        pnlCategory.Visible = true;
+
+    }
+
+
+
+
+
+
+    private void Get_ClientList()
+    {
+        try
+        {
+
+            SqlCommand cmd3 = new SqlCommand();
+            cmd3.Connection = sqlcon;
+            cmd3.CommandType = CommandType.StoredProcedure;
+            cmd3.CommandText = "sp_get_clientlist_Agree_new  ";
+            cmd3.CommandTimeout = 0;
+
+            SqlDataAdapter sqlda2 = new SqlDataAdapter();
+            sqlda2.SelectCommand = cmd3;
+
+            DataTable dt = new DataTable();
+            sqlda2.Fill(dt);
+
+            if (dt.Rows.Count > 0)
+            {
+                ddlClient.DataTextField = "client_name";
+                ddlClient.DataValueField = "client_id";
+
+                ddlClient.DataSource = dt;
+                ddlClient.DataBind();
+
+                ddlClient.Items.Insert(0, new ListItem("--select--", "0"));
+                ddlClient.SelectedIndex = 0;
+            }
+        }
+        catch (Exception ex)
+        {
+            Lblmsg.Text = ex.Message;
+        }
+    }
+
+    private void Get_ClientListAnnexure()
+    {
+        try
+        {
+
+            SqlCommand cmd3 = new SqlCommand();
+            cmd3.Connection = sqlcon;
+            cmd3.CommandType = CommandType.StoredProcedure;
+            cmd3.CommandText = "sp_get_clientlist_Agree_new";
+            cmd3.CommandTimeout = 0;
+
+            SqlDataAdapter sqlda2 = new SqlDataAdapter();
+            sqlda2.SelectCommand = cmd3;
+
+            DataTable dt = new DataTable();
+            sqlda2.Fill(dt);
+
+            if (dt.Rows.Count > 0)
+            {
+                ddlclientAnnexure.DataTextField = "client_name";
+                ddlclientAnnexure.DataValueField = "client_id";
+
+                ddlclientAnnexure.DataSource = dt;
+                ddlclientAnnexure.DataBind();
+
+                ddlclientAnnexure.Items.Insert(0, new ListItem("--select--", "0"));
+                ddlclientAnnexure.SelectedIndex = 0;
+            }
+        }
+        catch (Exception ex)
+        {
+            Lblmsg.Text = ex.Message;
+        }
+    }
+
+    public string strDate(string strInDate)
+    {
+        string strDD = strInDate.Substring(0, 2);
+
+        string strMM = strInDate.Substring(3, 2);
+
+        string strYYYY = strInDate.Substring(6, 4);
+
+        string strMMDDYYYY = strMM + "/" + strDD + "/" + strYYYY;
+
+        //string strMMDDYYYY = strDD + "/" + strMM + "/" + strYYYY;
+
+        DateTime dtConvertDate = Convert.ToDateTime(strMMDDYYYY);
+
+        string strOutDate = dtConvertDate.ToString("dd-MMM-yyyy");
+
+        return strOutDate;
+    }
+
+
+
+    protected void fillgrid()
+    {
+        try
+        {
+            sqlcon.Open();
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = sqlcon;
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.CommandText = "sp_grd_agr_rate";
+            cmd.CommandTimeout = 0;
+
+            SqlParameter Agreement_id = new SqlParameter();
+            Agreement_id.SqlDbType = SqlDbType.Int;
+            Agreement_id.Value = Session["agr"];
+            Agreement_id.ParameterName = "@Agreement_id";
+            cmd.Parameters.Add(Agreement_id);
+
+            SqlDataAdapter sqlda1 = new SqlDataAdapter();
+            sqlda1.SelectCommand = cmd;
+
+            DataTable dt = new DataTable();
+            sqlda1.Fill(dt);
+            sqlcon.Close();
+
+            if (dt.Rows.Count > 0)
+            {
+                grv_agr.DataSource = dt;
+                grv_agr.DataBind();
+            }
+        }
+        catch (Exception ex)
+        {
+            Lblmsg.Text = ex.Message;
+        }
+    }
+
+    protected void fillgridAnnexure()
+    {
+        try
+        {
+            sqlcon.Open();
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = sqlcon;
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.CommandText = "sp_grv_annexure_new_data";
+            cmd.CommandTimeout = 0;
+
+            SqlParameter rate_id = new SqlParameter();
+            rate_id.SqlDbType = SqlDbType.Int;
+            rate_id.Value = ddlclientAnnexure.SelectedValue.ToString();
+            rate_id.ParameterName = "@client_id";
+            cmd.Parameters.Add(rate_id);
+
+            SqlDataAdapter sqlda1 = new SqlDataAdapter();
+            sqlda1.SelectCommand = cmd;
+
+            DataTable dt = new DataTable();
+            sqlda1.Fill(dt);
+            sqlcon.Close();
+
+            if (dt.Rows.Count > 0)
+            {
+                grv_annexure.DataSource = dt;
+                grv_annexure.DataBind();
+
+                hI.Value = dt.Rows[0]["Agrid"].ToString();
+            }
+            else
+            {
+                grv_annexure.DataSource = null;
+                grv_annexure.DataBind();
+            }
+        }
+        catch (Exception ex)
+        {
+            Lblmsg.Text = ex.Message;
+        }
+    }
+
+    protected void btnSave_Click(object sender, EventArgs e)
+    {
+        try
+        {
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = sqlcon;
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.CommandText = "sp_client_agreement_new";
+            cmd.CommandTimeout = 0;
+
+            SqlParameter client = new SqlParameter();
+            client.SqlDbType = SqlDbType.VarChar;
+            client.Value = ddlClient.SelectedValue.ToString();
+            client.ParameterName = "@CLIENT_ID";
+            cmd.Parameters.Add(client);
+
+
+            SqlParameter Agreementstartdate = new SqlParameter();
+            Agreementstartdate.SqlDbType = SqlDbType.VarChar;
+            Agreementstartdate.Value = strDate(txtagrmntstart.Text.Trim());
+            Agreementstartdate.ParameterName = "@Agreement_start_date";
+            cmd.Parameters.Add(Agreementstartdate);
+
+            SqlParameter DateOfAgreementFrom = new SqlParameter();
+            DateOfAgreementFrom.SqlDbType = SqlDbType.VarChar;
+            DateOfAgreementFrom.Value = strDate(txtDateOfAgreementFrom.Text.Trim());
+            DateOfAgreementFrom.ParameterName = "@Created_Date_From";
+            cmd.Parameters.Add(DateOfAgreementFrom);
+
+            SqlParameter DateOfAgreementValidUpto = new SqlParameter();
+            DateOfAgreementValidUpto.SqlDbType = SqlDbType.VarChar;
+            DateOfAgreementValidUpto.Value = strDate(txtDateOfAgreementValidUpto.Text.Trim());
+            DateOfAgreementValidUpto.ParameterName = "@Created_Date_Valid_Upto ";
+            cmd.Parameters.Add(DateOfAgreementValidUpto);
+
+            SqlParameter contactname = new SqlParameter();
+            contactname.SqlDbType = SqlDbType.VarChar;
+            contactname.Value = txtContactPersonName.Text;
+            contactname.ParameterName = "@contact_person_name";
+            cmd.Parameters.Add(contactname);
+
+            SqlParameter contact_person_email = new SqlParameter();
+            contact_person_email.SqlDbType = SqlDbType.VarChar;
+            contact_person_email.Value = Txtemailid.Text;
+            contact_person_email.ParameterName = "@contact_person_email";
+            cmd.Parameters.Add(contact_person_email);
+
+            SqlParameter Company_name = new SqlParameter();
+            Company_name.SqlDbType = SqlDbType.VarChar;
+            Company_name.Value = ddlcompany_name.SelectedValue.ToString();
+            Company_name.ParameterName = "@Company_name";
+            cmd.Parameters.Add(Company_name);
+
+            SqlParameter Status = new SqlParameter();
+            Status.SqlDbType = SqlDbType.VarChar;
+            Status.Value = ddlstatus.SelectedValue.ToString();
+            Status.ParameterName = "@Status";
+            cmd.Parameters.Add(Status);
+
+            SqlParameter Notice_Period = new SqlParameter();
+            Notice_Period.SqlDbType = SqlDbType.VarChar;
+            Notice_Period.Value = ddlnoticepd.SelectedValue.ToString();
+            Notice_Period.ParameterName = "@Notice_Period";
+            cmd.Parameters.Add(Notice_Period);
+
+            SqlParameter Legal_check_done = new SqlParameter();
+            Legal_check_done.SqlDbType = SqlDbType.VarChar;
+            Legal_check_done.Value = ddllcd.SelectedValue.ToString();
+            Legal_check_done.ParameterName = "@Legal_check_done";
+            cmd.Parameters.Add(Legal_check_done);
+
+            SqlParameter Legal_check_done_by = new SqlParameter();
+            Legal_check_done_by.SqlDbType = SqlDbType.VarChar;
+            Legal_check_done_by.Value = txtLeagalCheckDoneBy.Text;
+            Legal_check_done_by.ParameterName = "@Legal_check_done_by";
+            cmd.Parameters.Add(Legal_check_done_by);
+
+            SqlParameter Minimum_guranty = new SqlParameter();
+            Minimum_guranty.SqlDbType = SqlDbType.VarChar;
+            Minimum_guranty.Value = ddlmin_ga.SelectedValue.ToString();
+            Minimum_guranty.ParameterName = "@Minimum_guranty";
+            cmd.Parameters.Add(Minimum_guranty);
+
+            SqlParameter Amount = new SqlParameter();
+            Amount.SqlDbType = SqlDbType.Decimal;
+            Amount.Value = txtamount.Text.Trim();
+            Amount.ParameterName = "@Amount";
+            cmd.Parameters.Add(Amount);
+
+            //IMP
+            SqlParameter Agreement_id = new SqlParameter();
+            Agreement_id.SqlDbType = SqlDbType.Int;
+            Agreement_id.Direction = ParameterDirection.Output;
+            Agreement_id.ParameterName = "@Agreement_id";
+            cmd.Parameters.Add(Agreement_id);
+            //IMP_closed
+
+            sqlcon.Open();
+
+            int r = cmd.ExecuteNonQuery();
+
+            //IMP
+            int Agr_id = Convert.ToInt32(cmd.Parameters["@Agreement_id"].Value);
+
+            Session["agr"] = Agr_id;
+
+            sqlcon.Close();
+
+            if (r > 0)
+            {
+                Lblmsg.Text = " Data Submitted Successfully ";
+                pnlRateDetails.Visible = true;
+                pnlPenaltyDetails.Visible = true;
+                pnlAgreementDetails.Visible = false;
+            }
+            else
+            {
+                Lblmsg.Text = "Please Insert Data";
+            }
+
+        }
+        catch (Exception ex)
+        {
+            Lblmsg.Text = ex.Message;
+        }
+        ClearControl3();
+        pnlAgreementDetails.Visible = false;
+        pnlCategory.Visible = false;
+    }
+
+    private void Validation()
+    {
+        btnSave.Attributes.Add("onclick", "javascript:return validate_Agreement_Details();");
+        btnSave1.Attributes.Add("onclick", "javascript:return validate_Rate_Details();");
+        // btnadd.Attributes.Add("onclick", "javascript:return validate_Penalty_Details();");
+        btnSave2.Attributes.Add("onclick", "javascript:return validate_annexure_Details();");
+
+    }
+
+    protected void btnSave1_Click(object sender, EventArgs e)
+    {
+        Rate();
+        pnlAgreementDetails.Visible = false;
+        pnlCategory.Visible = false;
+
+    }
+
+    private void Email()
+    {
+
+
+        SqlCommand cmd = new SqlCommand();
+        cmd.Connection = sqlcon;
+        cmd.CommandType = CommandType.StoredProcedure;
+        cmd.CommandText = "sp_agreement";
+        cmd.CommandTimeout = 0;
+
+
+        SqlDataAdapter sqlda1 = new SqlDataAdapter();
+        sqlda1.SelectCommand = cmd;
+
+        DataTable dt = new DataTable();
+        sqlda1.Fill(dt);
+
+        if (dt.Rows.Count > 0)
+        {
+            String str1 = dt.Rows[0]["valid_upto"].ToString();
+            String str3 = dt.Rows[0]["Agreement_id"].ToString();
+            String str4 = dt.Rows[0]["contact_person_email"].ToString();
+
+
+
+            String str2 = System.DateTime.Now.ToString("dd/MM/yyyy");
+
+            if (str1 == str2)
+            {
+
+                string strTime = System.DateTime.Now.TimeOfDay.ToString().Remove(5);
+                string strhh = strTime.Remove(2);
+                string strmm = strTime.Remove(0, 3);
+
+                string Current = System.DateTime.Now.Date.ToString().Remove(10);
+
+                try
+                {
+                    MailMessage mail = new MailMessage();
+                    SmtpClient smtp = new SmtpClient("69.64.70.36", 25);
+
+                    mail.From = new MailAddress("calculus@pamac.com", "PAMAC SSU");
+
+                    mail.To.Add("mangesh.hande@pamac.com");
+                    mail.To.Add(str4);
+
+
+
+                    mail.Subject = "Software Rquirement Related - Query ";
+                    string strBody =
+                                               "<html><body><font color=\"Navy\" style=\"font-style=Italic;font-weight=bold\">" +
+
+                                               "<P>                                                                                               </P>" +
+                                               "<P>Dear PAMACian,</P>" +
+                        //"<P>                                                                                         </P>" +
+                        "<P>This is to notify you Valid Upto date of given Agreement comming Agreement Id " + str3 + ".</P>" +
+                                               //"<P>                                                                                         </P>" +
+                                               //"<P>Request you to provide immediate attention to the same & resolve it at the earliest as per the defined TAT .</P>" +
+                                               //"<P>                                                                                        </P>" +
+                                               "<P>*This is an automatically generated email, Please do not reply*</P>" +
+                                               "<P>                                                                                         </P>" +
+                                               "<P>Regards,</P>" +
+                                               "<P>Software  TEAM</P> " +
+
+                                               " </font></html></body>";
+
+
+                    mail.IsBodyHtml = true;
+
+                    smtp.Port = 25;
+                    smtp.Credentials = new System.Net.NetworkCredential("calculus@pamac.com", "HW76$$mm");
+                    smtp.EnableSsl = false;
+
+                    smtp.Send(mail);
+                    Lblmsg.Text = " Email successfully sent ";
+                    //lblTicketNo.Text = RowEffected;
+                }
+
+                catch (Exception ex)
+                {
+                    Lblmsg.Text = "Email Failed." + ex.Message;
+                }
+            }
+
+        }
+    }
+
+
+    private void Rate()
+    {
+        try
+        {
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = sqlcon;
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.CommandText = "sp_rate_client_agreement";
+            cmd.CommandTimeout = 0;
+
+            SqlParameter Agreement_id = new SqlParameter();
+            Agreement_id.SqlDbType = SqlDbType.Int;
+            Agreement_id.Value = Session["agr"];
+            Agreement_id.ParameterName = "@Agreement_id";
+            cmd.Parameters.Add(Agreement_id);
+
+            SqlParameter centre = new SqlParameter();
+            centre.SqlDbType = SqlDbType.VarChar;
+            centre.Value = txtcntre.Text.Trim();
+            centre.ParameterName = "@Centre_name";
+            cmd.Parameters.Add(centre);
+
+            SqlParameter Vertical = new SqlParameter();
+            Vertical.SqlDbType = SqlDbType.VarChar;
+            Vertical.Value = txtvertical.Text.Trim();
+            Vertical.ParameterName = "@Vertical";
+            cmd.Parameters.Add(Vertical);
+
+            SqlParameter Activity = new SqlParameter();
+            Activity.SqlDbType = SqlDbType.VarChar;
+            Activity.Value = txtActivity.Text.Trim();
+            Activity.ParameterName = "@Activity_name";
+            cmd.Parameters.Add(Activity);
+
+            SqlParameter Product = new SqlParameter();
+            Product.SqlDbType = SqlDbType.VarChar;
+            Product.Value = txtProduct.Text.Trim();
+            Product.ParameterName = "@Product_name";
+            cmd.Parameters.Add(Product);
+
+            SqlParameter Rate = new SqlParameter();
+            Rate.SqlDbType = SqlDbType.Decimal;
+            Rate.Value = txtRate.Text.Trim();
+            Rate.ParameterName = "@Rate_amount";
+            cmd.Parameters.Add(Rate);
+
+            SqlParameter ICL = new SqlParameter();
+            ICL.SqlDbType = SqlDbType.VarChar;
+            ICL.Value = ddlicl.SelectedValue.ToString();
+            ICL.ParameterName = "@ICL";
+            cmd.Parameters.Add(ICL);
+
+            SqlParameter RateTAT = new SqlParameter();
+            RateTAT.SqlDbType = SqlDbType.VarChar;
+            RateTAT.Value = txtRATETAT.Text.Trim();
+            RateTAT.ParameterName = "@RateTAT";
+            cmd.Parameters.Add(RateTAT);
+
+
+
+            int Agr_id = Convert.ToInt32(cmd.Parameters["@Agreement_id"].Value);
+
+            Session["rate"] = Agr_id;
+
+            sqlcon.Open();
+
+            int r = cmd.ExecuteNonQuery();
+            sqlcon.Close();
+            if (r > 0)
+            {
+                Lblmsg1.Text = "Data Submitted Successfully";
+                fillgrid();
+
+            }
+            ClearControl2();
+        }
+        catch (Exception ex)
+        {
+            Lblmsg1.Text = ex.Message;
+        }
+
+    }
+
+
+
+    protected void fillgridMIS()
+    {
+        try
+        {
+            sqlcon.Open();
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = sqlcon;
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.CommandText = "sp_Agreement_MIS123";
+            cmd.CommandTimeout = 0;
+
+
+            SqlDataAdapter sqlda1 = new SqlDataAdapter();
+            sqlda1.SelectCommand = cmd;
+
+            DataTable dt = new DataTable();
+            sqlda1.Fill(dt);
+            sqlcon.Close();
+
+            if (dt.Rows.Count > 0)
+            {
+                grdmis.DataSource = dt;
+                grdmis.DataBind();
+            }
+        }
+        catch (Exception ex)
+        {
+            Lblmsg.Text = ex.Message;
+        }
+    }
+
+    private void ClearControl()
+    {
+        txtpenalty.Text = "";
+        // txttat.Text = "";
+        txtservice.Text = "";
+        FileUpload1.Attributes.Clear();
+
+
+    }
+
+    private void ClearControl1()
+    {
+        txtcentre_annexure.Text = "";
+        txtactivity_annexure.Text = "";
+        txtproduct_annexure.Text = "";
+        txtvertical_annexure.Text = "";
+        txtrate_annexure.Text = "";
+        ddlicl_annexure.SelectedIndex = 0;
+        FileUpload2.Attributes.Clear();
+        Lblmsg3.Text = "";
+        hdnAnnexureEdit.Value = "0";
+
+    }
+
+    private void ClearControl2()
+    {
+        txtcntre.Text = "";
+        txtActivity.Text = "";
+        txtProduct.Text = "";
+        txtvertical.Text = "";
+        txtRate.Text = "";
+        ddlicl.SelectedIndex = 0;
+
+    }
+
+    private void ClearControl3()
+    {
+        txtContactPersonName.Text = "";
+        txtLeagalCheckDoneBy.Text = "";
+        txtamount.Text = "";
+        txtDateOfAgreementFrom.Text = "";
+        txtDateOfAgreementValidUpto.Text = "";
+        ddlnoticepd.SelectedIndex = 0;
+        ddlcompany_name.SelectedIndex = 0;
+        ddllcd.SelectedIndex = 0;
+        ddlmin_ga.SelectedIndex = 0;
+        ddlstatus.SelectedIndex = 0;
+        Lblmsg.Text = "";
+
+    }
+
+    protected void btnadd_Click(object sender, EventArgs e)
+    {
+        try
+        {
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = sqlcon;
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.CommandText = "sp_penalty_agr_new";
+            cmd.CommandTimeout = 0;
+
+            SqlParameter Agreement_id = new SqlParameter();
+            Agreement_id.SqlDbType = SqlDbType.Int;
+            Agreement_id.Value = Session["agr"];
+            Agreement_id.ParameterName = "@Agreement_id";
+            cmd.Parameters.Add(Agreement_id);
+
+            SqlParameter Penalty_status = new SqlParameter();
+            Penalty_status.SqlDbType = SqlDbType.VarChar;
+            Penalty_status.Value = txtpenalty.Text.Trim();
+            Penalty_status.ParameterName = "@Status_ag";
+            cmd.Parameters.Add(Penalty_status);
+
+            //SqlParameter Penalty_tat = new SqlParameter();
+            //Penalty_tat.SqlDbType = SqlDbType.VarChar;
+            //Penalty_tat.Value = txttat.Text.Trim();
+            //Penalty_tat.ParameterName = "@TAT";
+            //cmd.Parameters.Add(Penalty_tat);
+
+            SqlParameter Penalty_service = new SqlParameter();
+            Penalty_service.SqlDbType = SqlDbType.VarChar;
+            Penalty_service.Value = txtservice.Text.Trim();
+            Penalty_service.ParameterName = "@Service_ag";
+            cmd.Parameters.Add(Penalty_service);
+
+            SqlParameter penalty_file = new SqlParameter();
+            penalty_file.SqlDbType = SqlDbType.VarChar;
+            penalty_file.Value = UploadAttachment1_OnServer();
+            penalty_file.ParameterName = "@penalty_file";
+            cmd.Parameters.Add(penalty_file);
+
+            sqlcon.Open();
+
+            int r = cmd.ExecuteNonQuery();
+            sqlcon.Close();
+            if (r > 0)
+            {
+
+                Lblmsg2.Text = "Data Submitted Successfully";
+            }
+            ClearControl();
+            pnlRateDetails.Visible = false;
+            pnlPenaltyDetails.Visible = true;
+            pnlSignature.Visible = true;
+            pnlCategory.Visible = false;
+
+        }
+
+
+
+        catch (Exception ex)
+        {
+            Lblmsg2.Text = ex.Message;
+        }
+        ddlclientAnnexure.Enabled = true;
+        Get_ClientListAnnexure();
+
+    }
+
+    protected void ddlclientAnnexure_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        Lblmsg3.Text = "";
+        pnlCategory.Visible = false;
+        pnlAnnexure.Visible = true;
+
+
+        fillgridAnnexure();
+
+
+    }
+
+    protected void btnSave2_Click(object sender, EventArgs e)
+    {
+        pnlAnnexure.Visible = true;
+
+        try
+        {
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = sqlcon;
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.CommandText = "sp_update_rate_annxure_client_new1";
+            cmd.CommandTimeout = 0;
+
+            SqlParameter rate_id = new SqlParameter();
+            rate_id.SqlDbType = SqlDbType.Int;
+            rate_id.Value = Convert.ToInt32(hdnAnnexureEdit.Value);
+            rate_id.ParameterName = "@rate_id";
+            cmd.Parameters.Add(rate_id);
+
+            SqlParameter Agreement_id = new SqlParameter();
+            Agreement_id.SqlDbType = SqlDbType.Int;
+            Agreement_id.Value = hI.Value;
+            Agreement_id.ParameterName = "@Agreement_id";
+            cmd.Parameters.Add(Agreement_id);
+
+            SqlParameter centre = new SqlParameter();
+            centre.SqlDbType = SqlDbType.VarChar;
+            centre.Value = txtcentre_annexure.Text.Trim();
+            centre.ParameterName = "@Centre_name";
+            cmd.Parameters.Add(centre);
+
+            SqlParameter Vertical = new SqlParameter();
+            Vertical.SqlDbType = SqlDbType.VarChar;
+            Vertical.Value = txtvertical_annexure.Text.Trim();
+            Vertical.ParameterName = "@Vertical";
+            cmd.Parameters.Add(Vertical);
+
+            SqlParameter Activity = new SqlParameter();
+            Activity.SqlDbType = SqlDbType.VarChar;
+            Activity.Value = txtactivity_annexure.Text.Trim();
+            Activity.ParameterName = "@Activity_name";
+            cmd.Parameters.Add(Activity);
+
+            SqlParameter Product = new SqlParameter();
+            Product.SqlDbType = SqlDbType.VarChar;
+            Product.Value = txtproduct_annexure.Text.Trim();
+            Product.ParameterName = "@Product_name";
+            cmd.Parameters.Add(Product);
+
+            SqlParameter Rate = new SqlParameter();
+            Rate.SqlDbType = SqlDbType.Decimal;
+            Rate.Value = txtrate_annexure.Text.Trim();
+            Rate.ParameterName = "@Rate_amount";
+            cmd.Parameters.Add(Rate);
+
+            SqlParameter ICL = new SqlParameter();
+            ICL.SqlDbType = SqlDbType.VarChar;
+            ICL.Value = ddlicl_annexure.SelectedValue.ToString();
+            ICL.ParameterName = "@ICL";
+            cmd.Parameters.Add(ICL);
+
+            SqlParameter annexure_file = new SqlParameter();
+            annexure_file.SqlDbType = SqlDbType.VarChar;
+            annexure_file.Value = UploadAttachment_OnServer();
+            annexure_file.ParameterName = "@Annexure_file";
+            cmd.Parameters.Add(annexure_file);
+
+            sqlcon.Open();
+
+            int r = cmd.ExecuteNonQuery();
+            sqlcon.Close();
+            if (r > 0)
+            {
+
+
+                pnlCategory.Visible = false;
+                Lblmsg3.Text = "Data Submitted Successfully";
+                ClearControl1();
+
+            }
+
+            fillgridAnnexure();
+        }
+        catch (Exception ex)
+        {
+            Lblmsg3.Text = ex.Message;
+
+        }
+
+
+
+    }
+
+    protected void grv_annexure_RowCommand1(object sender, GridViewCommandEventArgs e)
+    {
+        for (int i = 0; i <= grv_annexure.Rows.Count - 1; i++)
+        {
+
+            string rateid = e.CommandArgument.ToString();
+
+            hdnAnnexure.Value = grv_annexure.Rows[i].Cells[17].Text.Trim();
+
+
+            if (e.CommandName == "Edit1")
+            {
+                if (rateid == hdnAnnexure.Value)
+                {
+                    txtcentre_annexure.Text = grv_annexure.Rows[i].Cells[10].Text.Trim();
+                    txtactivity_annexure.Text = grv_annexure.Rows[i].Cells[12].Text.Trim();
+                    txtproduct_annexure.Text = grv_annexure.Rows[i].Cells[13].Text.Trim();
+                    txtvertical_annexure.Text = grv_annexure.Rows[i].Cells[11].Text.Trim();
+                    txtrate_annexure.Text = grv_annexure.Rows[i].Cells[14].Text.Trim();
+                    ddlicl_annexure.SelectedValue = grv_annexure.Rows[i].Cells[15].Text.Trim();
+
+
+                    hdnAnnexureEdit.Value = rateid;
+                }
+
+
+            }
+
+
+            else if (e.CommandName == "download")
+            {
+                if (rateid == hdnAnnexure.Value)
+                {
+                    string filename = Server.MapPath("UploadFile\\" + grv_annexure.Rows[i].Cells[15].Text.Trim());
+
+                    Response.ClearHeaders();
+                    Response.ClearContent();
+                    Response.Clear();
+
+                    if (filename.Substring(filename.IndexOf('.') + 1).ToLower() == "pdf")
+                    {
+                        Response.ContentType = "application/PDF";
+                    }
+                    else
+                        if (filename.Substring(filename.IndexOf('.') + 1).ToLower() == "doc")
+                    {
+                        Response.ContentType = "application/msword";
+                    }
+                    else
+                            if (filename.Substring(filename.IndexOf('.') + 1).ToLower() == "xls")
+                    {
+                        Response.ContentType = "application/vnd.ms-excel";
+                    }
+                    else if (filename.Substring(filename.IndexOf('.') + 1).ToLower() == "ppt")
+                    {
+                        Response.ContentType = "application/vnd.ms-powerpoint";
+                    }
+                    else if (filename.Substring(filename.IndexOf('.') + 1).ToLower() == "txt")
+                    {
+                        Response.ContentType = "text/plain";
+                    }
+                    else if (filename.Substring(filename.IndexOf('.') + 1).ToLower() == "chm")
+                    {
+                        Response.ContentType = "application/octet-stream";
+
+                    }
+
+                    Response.WriteFile(filename);
+                    Response.Flush();
+                    Response.Close();
+                    Response.Write("<script>window.open();window.print();window.close()</script>");
+                    Response.End();
+                }
+            }
+
+            pnlAnnexure.Visible = true;
+        }
+    }
+
+    protected void ddlCategory_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        pnlAgreementDetails.Visible = false;
+        pnlRateDetails.Visible = false;
+        pnlPenaltyDetails.Visible = false;
+        pnlAnnexure.Visible = false;
+
+        if (ddlCategory.SelectedIndex == 1)
+        {
+            pnlAgreementDetails.Visible = true;
+            //grdmis.Visible = false;
+        }
+        if (ddlCategory.SelectedIndex == 2)
+        {
+            pnlAnnexure.Visible = true;
+            pnlSignature.Visible = false;
+        }
+        pnlCategory.Visible = false;
+    }
+
+    private string UploadAttachment_OnServer()
+    {
+
+        try
+        {
+            string FileSavePath = "";
+            if (FileUpload2.FileName != "")
+            {
+                string strPath = Server.MapPath("UploadFile/");
+
+                strPath = strPath.Trim();
+                filename_Attachment = Convert.ToString(DateTime.Now.ToString("yyyyMMddHHmmss")) + "-" + Convert.ToString(FileUpload2.FileName.Trim());
+                filename_Attachment = filename_Attachment.Replace(" ", "_");
+                FileSavePath = strPath + filename_Attachment;
+
+
+                FileUpload2.SaveAs(FileSavePath);
+            }
+            return FileSavePath;
+        }
+        catch (Exception ex)
+        {
+            Lblmsg.Text = ex.Message;
+            return "";
+        }
+
+    }
+
+    private string UploadAttachment1_OnServer()
+    {
+        try
+        {
+            string FileSavePath = "";
+            if (FileUpload1.FileName != "")
+            {
+                string strPath = Server.MapPath("UploadFile/");
+
+                strPath = strPath.Trim();
+                filename_Attachment = Convert.ToString(DateTime.Now.ToString("yyyyMMddHHmmss")) + "-" + Convert.ToString(FileUpload1.FileName.Trim());
+                filename_Attachment = filename_Attachment.Replace(" ", "_");
+                FileSavePath = strPath + filename_Attachment;
+
+
+                FileUpload1.SaveAs(FileSavePath);
+            }
+            return FileSavePath;
+        }
+        catch (Exception ex)
+        {
+            Lblmsg.Text = ex.Message;
+            return "";
+        }
+
+    }
+
+
+    private string UploadAttachment3_OnServer()
+    {
+        try
+        {
+            string FileSavePath = "";
+            if (FileUpload3.FileName != "")
+            {
+                string strPath = Server.MapPath("UploadFile/");
+
+                strPath = strPath.Trim();
+                filename_Attachment = Convert.ToString(DateTime.Now.ToString("yyyyMMddHHmmss")) + "-" + Convert.ToString(FileUpload3.FileName.Trim());
+                filename_Attachment = filename_Attachment.Replace(" ", "_");
+                FileSavePath = strPath + filename_Attachment;
+
+
+                FileUpload3.SaveAs(FileSavePath);
+            }
+            return FileSavePath;
+        }
+        catch (Exception ex)
+        {
+            Lblmsg.Text = ex.Message;
+            return "";
+        }
+    }
+
+    protected void Btnsave12_Click(object sender, EventArgs e)
+    {
+        try
+        {
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = sqlcon;
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.CommandText = "sp_client_signature";
+            cmd.CommandTimeout = 0;
+
+            SqlParameter Agreement_id = new SqlParameter();
+            Agreement_id.SqlDbType = SqlDbType.Int;
+            Agreement_id.Value = Session["agr"];
+            Agreement_id.ParameterName = "@Agreement_id";
+            cmd.Parameters.Add(Agreement_id);
+
+
+            SqlParameter signature = new SqlParameter();
+            signature.SqlDbType = SqlDbType.VarChar;
+            signature.Value = ddlsignature.SelectedValue.ToString();
+            signature.ParameterName = "@signature";
+            cmd.Parameters.Add(signature);
+
+            SqlParameter upload_scan_image = new SqlParameter();
+            upload_scan_image.SqlDbType = SqlDbType.VarChar;
+            upload_scan_image.Value = UploadAttachment3_OnServer();
+            upload_scan_image.ParameterName = "@upload_scan_image";
+            cmd.Parameters.Add(upload_scan_image);
+
+            sqlcon.Open();
+
+            int r = cmd.ExecuteNonQuery();
+            sqlcon.Close();
+            if (r > 0)
+            {
+
+                Label12.Text = "Data Submitted Successfully";
+            }
+
+        }
+
+
+
+        catch (Exception ex)
+        {
+            Label12.Text = ex.Message;
+        }
+    }
+
+
+
+    protected void btnmis_Click(object sender, EventArgs e)
+    {
+        grdmis.Visible = true;
+
+        string attachment = "attachment; filename= Report.xls";
+
+        Response.Clear();
+        Response.ClearHeaders();
+        Response.ClearContent();
+
+        Response.AddHeader("content-disposition", attachment);
+        Response.ContentType = "application/ms-excel";
+
+        StringWriter sw = new StringWriter();
+        HtmlTextWriter htw = new HtmlTextWriter(sw);
+
+        grdmis.RenderControl(htw);
+        grdmis.GridLines = GridLines.Both;
+        Response.Write(sw.ToString());
+        Response.End();
+
+
+    }
+    public override void VerifyRenderingInServerForm(Control control)
+    {
+
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

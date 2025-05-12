@@ -1,0 +1,13 @@
+SELECT distinct CD.CASE_ID AS [Case ID], CD.REF_NO AS [Refrence No], client_name,ISNULL(CD.TITLE + ' ', '') + ISNULL(CD.FIRST_NAME + ' ', '') +ISNULL(CD.MIDDLE_NAME + ' ', '') + ISNULL(CD.LAST_NAME + ' ', '') AS [Applicant Name],
+(ISNULL(CD.RES_ADD_LINE_1+' ','') + ISNULL(CD.RES_ADD_LINE_2+' ','') + ISNULL(CD.RES_ADD_LINE_3+' ','')) AS [Resident Address], CD.RES_CITY AS [Resi City], CD.RES_PIN_CODE AS [Resi Pincode],
+(ISNULL(CD.OFF_ADD_LINE_1+' ','') + ISNULL(CD.OFF_ADD_LINE_2+' ','') + ISNULL(CD.OFF_ADD_LINE_3+' ','')) AS [Office Address], CD.OFF_CITY AS [Off City], CD.OFF_PIN_CODE AS [Off Pincode],
+CONVERT(VARCHAR, CD.CASE_REC_DATETIME, 103) AS [Import Date],CONVERT(VARCHAR, CD.Send_DATETIME, 103) AS [Send Date],cd.OFF_STATE as EMIRATES, EmpMas.FULLNAME AS [Assigned FE Name],convert(varchar,DATE_TIME,103) as[Assign Date]
+from cpv_cc_case_details cd
+left outer join CPV_CC_FE_CASE_MAPPING FeMap on cd.case_id=femap.case_id 
+left outer join employee_master EmpMas on femap.fe_id=empmas.emp_id
+left outer join client_master clmas on cd.client_id=clmas.client_id where cd.centre_id=10172 and 
+cd.client_id in(101111,101147,101148,101149,101150,10153)
+and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+
+
+

@@ -1,0 +1,40 @@
+CREATE Procedure Get_TicketStatusInfo         
+        
+@TicketNo Varchar(200)            
+        
+as            
+Begin             
+        
+Select             
+ TicketNo,            
+ Centre_Name as CentreName,             
+ UserName,            
+ Department,             
+ Problem_Detail,            
+ Remark,            
+ AttachmentPath as  DownloadFilePath,               
+ Convert(Varchar,TicketRaiseDate,103) +' '+ Convert(Varchar(12),TicketRaiseDate,108) as RequestDate,            
+ Convert(Varchar,TicketCloseDate,103) as TicketCloseDate,            
+ TicketStatus ,           
+ (Select Top 1 Isnull(AssignedTo,'') From QMS_TicketAssignmentInfo AssignmentInfo Where  AssignmentInfo.TicketNo=TicketInfo.TicketNo            
+ Order By CreatedDate Desc             
+ ) as AssignedTo            
+        
+From  QMS_Ticket_Info TicketInfo            
+Inner Join Centre_Master CM             
+On CM.Centre_ID=TicketInfo.BranchID            
+Inner Join QMS_Problem_Details ProblemType            
+On ProblemType.Problem_Type_ID=TicketInfo.Problem_Type_ID            
+      
+Where TicketInfo.TicketNo=@TicketNo            
+            
+  
+Select  
+ AssignedBy, AssignedTo, TicketStatus,  
+ Remark,CreatedDate as StatusDate  
+from QMS_TicketAssignmentInfo            
+Where TicketNo=@TicketNo            
+        
+        
+        
+END

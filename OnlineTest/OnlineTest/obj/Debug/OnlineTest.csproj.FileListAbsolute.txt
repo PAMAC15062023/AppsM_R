@@ -1,0 +1,676 @@
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CoreCompileInputs.cache
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.AssemblyReference.cache
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\OnlineTest.dll.config
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\OnlineTest.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\OnlineTest.pdb
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\csc.exe
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\csc.exe.config
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\csc.rsp
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\csi.exe
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\csi.exe.config
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\csi.rsp
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.AppContext.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Console.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Net.Http.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\vbc.exe
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\vbc.exe.config
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\vbc.rsp
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\AjaxControlToolkit.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Antlr3.Runtime.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Newtonsoft.Json.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\System.Data.SqlClient.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\System.Web.Optimization.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\WebGrease.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Microsoft.SqlServer.Types.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\System.Data.SqlClient.xml
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\System.Web.Optimization.xml
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Newtonsoft.Json.xml
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Antlr3.Runtime.pdb
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CopyComplete
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+C:\Users\PAMAC\Desktop\OnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\OnlineTest.dll.config
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\OnlineTest.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\OnlineTest.pdb
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\csc.exe
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\csc.exe.config
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\csc.rsp
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\csi.exe
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\csi.exe.config
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\csi.rsp
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.AppContext.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Console.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Net.Http.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\vbc.exe
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\vbc.exe.config
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\vbc.rsp
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\AjaxControlToolkit.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Antlr3.Runtime.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Newtonsoft.Json.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\System.Data.SqlClient.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\System.Web.Optimization.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\WebGrease.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Microsoft.SqlServer.Types.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\System.Data.SqlClient.xml
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\System.Web.Optimization.xml
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Newtonsoft.Json.xml
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Antlr3.Runtime.pdb
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csprojResolveAssemblyReference.cache
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+C:\Users\RAMAKRISHNAN\Desktop\OnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\OnlineTest.dll.config
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\OnlineTest.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\OnlineTest.pdb
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\csc.exe
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\csc.exe.config
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\csc.rsp
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\csi.exe
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\csi.exe.config
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\csi.rsp
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.AppContext.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Collections.Immutable.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Console.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Globalization.Calendars.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Net.Http.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Net.Sockets.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.ValueTuple.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\vbc.exe
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\vbc.exe.config
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\vbc.rsp
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe.config
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\AjaxControlToolkit.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Antlr3.Runtime.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.jQuery.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.Common.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Microsoft.Web.Infrastructure.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Newtonsoft.Json.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\System.Data.SqlClient.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\System.Web.Optimization.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\WebGrease.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Microsoft.SqlServer.Types.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\System.Data.SqlClient.xml
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\System.Web.Optimization.xml
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Newtonsoft.Json.xml
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Antlr3.Runtime.pdb
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CoreCompileInputs.cache
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CopyComplete
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+E:\Yasir\My Data\Online Test\19 nov 2022\OnlineTest\OnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\OnlineTest.dll.config
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\OnlineTest.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\OnlineTest.pdb
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\csc.exe
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\csc.exe.config
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\csc.rsp
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\csi.exe
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\csi.exe.config
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\csi.rsp
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.AppContext.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Collections.Immutable.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Console.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Globalization.Calendars.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Net.Http.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Net.Sockets.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.ValueTuple.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\vbc.exe
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\vbc.exe.config
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\vbc.rsp
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe.config
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\AjaxControlToolkit.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Antlr3.Runtime.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.jQuery.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.Common.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Microsoft.Web.Infrastructure.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Newtonsoft.Json.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\System.Data.SqlClient.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\System.Web.Optimization.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\WebGrease.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Microsoft.SqlServer.Types.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\System.Data.SqlClient.xml
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\System.Web.Optimization.xml
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Newtonsoft.Json.xml
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Antlr3.Runtime.pdb
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CoreCompileInputs.cache
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CopyComplete
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
+D:\Omkar More\Online Test\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.AssemblyReference.cache
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\OnlineTest.dll.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\OnlineTest.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\OnlineTest.pdb
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\csc.exe
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\csc.exe.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\csc.rsp
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\csi.exe
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\csi.exe.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\csi.rsp
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Managed.Core.targets
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.AppContext.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Collections.Immutable.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Console.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Globalization.Calendars.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Net.Http.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Net.Sockets.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.ValueTuple.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XmlDocument.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\vbc.exe
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\vbc.exe.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\vbc.rsp
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\AjaxControlToolkit.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Antlr3.Runtime.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.bootstrap.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.jQuery.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.Common.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.WebForms.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Microsoft.Web.Infrastructure.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Newtonsoft.Json.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\System.Data.SqlClient.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\System.Web.Optimization.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\WebGrease.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Microsoft.SqlServer.Types.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\System.Data.SqlClient.xml
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\System.Web.Optimization.xml
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Newtonsoft.Json.xml
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Antlr3.Runtime.pdb
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csprojResolveAssemblyReference.cache
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Online Test\OnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\OnlineTest.dll.config
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\OnlineTest.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\OnlineTest.pdb
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\csc.exe
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\csc.exe.config
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\csc.rsp
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\csi.exe
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\csi.exe.config
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\csi.rsp
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.AppContext.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Collections.Immutable.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Console.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Globalization.Calendars.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Net.Http.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Net.Sockets.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.ValueTuple.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\vbc.exe
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\vbc.exe.config
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\vbc.rsp
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe.config
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\AjaxControlToolkit.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Antlr3.Runtime.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.jQuery.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.Common.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Microsoft.Web.Infrastructure.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Newtonsoft.Json.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\System.Data.SqlClient.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\System.Web.Optimization.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\WebGrease.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Microsoft.SqlServer.Types.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\System.Data.SqlClient.xml
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\System.Web.Optimization.xml
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Newtonsoft.Json.xml
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Antlr3.Runtime.pdb
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CoreCompileInputs.cache
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CopyComplete
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+E:\Yasir\Online Test Given by Ramki Sir\OnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\OnlineTest.dll.config
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\OnlineTest.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\OnlineTest.pdb
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\csc.exe
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\csc.exe.config
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\csc.rsp
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\csi.exe
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\csi.exe.config
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\csi.rsp
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.AppContext.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Collections.Immutable.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Console.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Globalization.Calendars.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Net.Http.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Net.Sockets.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.ValueTuple.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\vbc.exe
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\vbc.exe.config
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\vbc.rsp
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe.config
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\AjaxControlToolkit.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Antlr3.Runtime.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\AspNet.ScriptManager.jQuery.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.Common.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Microsoft.Web.Infrastructure.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Newtonsoft.Json.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\System.Data.SqlClient.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\System.Web.Optimization.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\WebGrease.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Microsoft.SqlServer.Types.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\System.Data.SqlClient.xml
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\System.Web.Optimization.xml
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Newtonsoft.Json.xml
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Antlr3.Runtime.pdb
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CoreCompileInputs.cache
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CopyComplete
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\ExcelDataReader.DataSet.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\ExcelDataReader.dll
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\ExcelDataReader.pdb
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\ExcelDataReader.xml
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\ExcelDataReader.DataSet.pdb
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\bin\ExcelDataReader.DataSet.xml
+E:\Yasir\My Data\Online Test\Taken From Live 26 May 2023\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.AssemblyReference.cache
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\OnlineTest.dll.config
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\OnlineTest.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\OnlineTest.pdb
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\csc.exe
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\csc.exe.config
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\csc.rsp
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\csi.exe
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\csi.exe.config
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\csi.rsp
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Managed.Core.targets
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.AppContext.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Collections.Immutable.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Console.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Globalization.Calendars.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Net.Http.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Net.Sockets.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Reflection.Metadata.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.ValueTuple.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XmlDocument.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\vbc.exe
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\vbc.exe.config
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\vbc.rsp
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe.config
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\System.IO.Compression.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\bin\Microsoft.SqlServer.Types.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CoreCompileInputs.cache
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CopyComplete
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
+F:\D Drive\Yasir\My Data\MFA_Application\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.AssemblyReference.cache
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\OnlineTest.dll.config
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\OnlineTest.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\OnlineTest.pdb
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\csc.exe
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\csc.exe.config
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\csc.rsp
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\csi.exe
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\csi.exe.config
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\csi.rsp
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.AppContext.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Collections.Immutable.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Console.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Globalization.Calendars.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Net.Http.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Net.Sockets.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.ValueTuple.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\vbc.exe
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\vbc.exe.config
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\vbc.rsp
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\roslyn\VBCSCompiler.exe.config
+D:\UAT_Applications\OnlineTest\OnlineTest\bin\System.IO.Compression.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.AssemblyReference.cache
+D:\UAT_Applications\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CoreCompileInputs.cache
+D:\UAT_Applications\OnlineTest\OnlineTest\obj\Debug\OnlineTest.csproj.CopyComplete
+D:\UAT_Applications\OnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+D:\UAT_Applications\OnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb

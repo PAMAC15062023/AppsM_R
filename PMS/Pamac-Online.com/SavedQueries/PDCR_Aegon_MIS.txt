@@ -1,0 +1,25 @@
+select ''as[Sr No],Phone_1 as[PTP DATE],Phone_2 as[APPROX TIME],first_name as[CUSTOMER NAME],ref_no as[REFERENCE NO/ LOAN NO],
+Res_add_line_1 as[ADDRESS],region as[Nearby Station],pick_up_feedback as[NCR],res_pin_code as[Pin code],res_phone as[Teleno],
+off_phone as[Teleno2],''as[m;cfg],res_city as[City],pick_up_status_1 as[Agency],pick_up_status_2 as[Status],
+convert(varchar,attempt_date_time,103) as[Pickdup Date],Remark as[Feed Back],veri_det.Despatch_date as[Despatch Date],
+defaulted_with as[Bank Name],flooring as[Cheque No],roofing as[Receipt No],feName as[FE Name],emp_details.Mobile as[FE Mobile],
+subremark as[TME REMARK],convert(varchar,case_rec_datetime,103) as[Received Date],veri_det.Despatch_Date as[2nd visit Date],
+spouse_occu as[Acknowledgement no],entrance_motorable as[OCL Cases],''as[Proposal Form Detal],''as[Receipt Recevied Date],
+DECLINED_REASON as[Visited Remark],stanLiving as[POD no]
+--(Select top 1 convert(varchar,attempt_date_time,103) From cpv_dcr_VERI_ATTEMPTS  VERI_ATTEMPTS Where VERI_ATTEMPTS.Case_Id=case_det.Case_Id and subremark='Pickedup') as [Pickdup Date],
+--(select top 1 subremark from cpv_dcr_VERI_ATTEMPTS  VERI_ATTEMPTS Where VERI_ATTEMPTS.Case_Id=case_det.Case_Id and VERI_ATTEMPTS.remark not like'Select') as [Tele Status],
+--(Select top 1 Remark From cpv_dcr_VERI_ATTEMPTS  VERI_ATTEMPTS Where VERI_ATTEMPTS.Case_Id=case_det.Case_Id and VERI_ATTEMPTS.remark not like'Select') as [PickedUp Feedback],
+--emp_details1.Fullname as 'TME Name',fevisit as[Visit Status],verification_code as[Activity] 
+from cpv_dcr_VERI_ATTEMPTS veri_attem 
+left outer join cpv_dcr_CASE_DETAILS case_det on case_det.case_id=veri_attem.case_id
+left outer join cpv_dcr_VERI_DETAILS veri_det on case_det.case_id=veri_det.case_id
+left outer join case_status_master case_mas on case_mas.case_status_id=veri_det.case_status_id
+left outer join cpv_dcr_FE_CASE_MAPPING fe_map on case_det.case_id=fe_map.case_id 
+left outer join employee_master emp_details on fe_map.fe_id=emp_details.emp_id
+left outer join cpv_dcr_TC_CASE_MAPPING tc_mapping on case_det.case_id=tc_mapping.case_id 
+left outer join employee_master emp_details1 on tc_mapping.tc_id=emp_details1.emp_id 
+where subremark not like '%Select%' and case_det.client_id in(101176) and 
+@ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+
+
+

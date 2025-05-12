@@ -1,0 +1,254 @@
+Return-Path: khilendra.chandrakar@teamspace.co.in
+Received: from mail.pamac.com (LHLO mail.pamac.com) (172.16.0.45) by
+ mail.pamac.com with LMTP; Fri, 25 Nov 2016 12:22:16 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id 0054D961170;
+	Fri, 25 Nov 2016 12:22:16 +0530 (IST)
+X-Spam-Flag: NO
+X-Spam-Score: -1.789
+X-Spam-Level:
+X-Spam-Status: No, score=-1.789 tagged_above=-10 required=6.6
+	tests=[ALL_TRUSTED=-1, BAYES_00=-1.9, DKIM_SIGNED=0.1,
+	HTML_MESSAGE=0.001, MSGID_MULTIPLE_AT=1, T_DKIM_INVALID=0.01]
+	autolearn=no autolearn_force=no
+Authentication-Results: mail.pamac.com (amavisd-new); dkim=neutral
+	reason="invalid (public key: not available)" header.d=teamspace.co.in
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id BxMFZJeaY_29; Fri, 25 Nov 2016 12:22:15 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id CEAB79611E7;
+	Fri, 25 Nov 2016 12:22:14 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.9.2 mail.pamac.com CEAB79611E7
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=teamspace.co.in;
+	s=361509E4-4427-11E6-85F5-643713FBF31E; t=1480056734;
+	bh=QQpEd1SuC3ucf75I+NZb/3jg5kGeDt1CaLeurTyCZqg=;
+	h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type;
+	b=O6qrV6k/AjN3eIznBjhCcQn4AovbR9ZMq5Fg1pCigrhnnwTtFTh4NlnYr2J1VcyX0
+	 q9wHYSjzdVWwlrzFIilPDr6P0/zeV4hcK91daT/pKb0SazSs2kvNU/puAvJ5TeIKoM
+	 3sQ52FquTEar9lBb/e3cJCsrXIOxZGNnrdHbb+4k=
+X-Virus-Scanned: amavisd-new at pamac.com
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id oLRHIqGXiExh; Fri, 25 Nov 2016 12:22:14 +0530 (IST)
+Received: from JayeshChikhalepc (unknown [110.227.248.229])
+	by mail.pamac.com (Postfix) with ESMTPA id 72FF09611EB
+	for <edp@pamac.com>; Fri, 25 Nov 2016 12:22:03 +0530 (IST)
+From: "Khilendra Chandrakar" <khilendra.chandrakar@teamspace.co.in>
+To: "'PAMAC - EDP'" <edp@pamac.com>
+Cc: "'Mangesh Rane'" <mangesh.rane@teamspace.co.in>,
+	"'Niteen Badhan'" <niteen.badhan@pamac.com>
+Subject: TeamSpace new e-mail ID creation
+Date: Fri, 25 Nov 2016 12:22:00 +0530
+Message-ID: <005a01d246e8$72e01210$58a03630$@chandrakar@teamspace.co.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_005B_01D24716.8C984E10"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdJG6GvY4PYz6Y0SQ+KxSdIB38pnRQ==
+Content-Language: en-us
+X-Trained: 2
+X-MS-ContentScanSkipped: [khilendra.chandrakar@teamspace.co.in] in AutoSpamWhiteList
+X-URLS: teamspace.co.in
+X-ForeignSender-IP: 110.227.248.229
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_005B_01D24716.8C984E10
+Content-Type: text/plain;
+	charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+Hi Team,
+
+ 
+
+Kindly create below two e-mail IDs
+
+ 
+
+backend1.rsp@teamspace.co.in 
+
+backend2.rsp@teamspace.co.in
+
+ 
+
+ 
+
+Khilendra Chandrakar
+Manager - Resource Support & Planning
+Website:  <http://www.teamspace.co.in> www.teamspace.co.in
+PAMAC Group - Banking on our Credentials.
+ 
+Please take note of the change in the eMail ID
+
+ 
+
+****************************************************************************
+****************************************************************************
+**********
+Disclaimer: This eMail is confidential. It may also be legally privileged.
+If you are not the addressee you may not copy, forward, disclose or use any
+part of it. If you have received this message in error, please delete it and
+all copies from your system and notify the sender immediately by return
+eMail.
+ 
+Internet communications cannot be guaranteed to be timely, secure, error or
+virus-free. The sender does not accept liability for any errors or
+omissions.
+****************************************************************************
+****************************************************************************
+**********
+
+ 
+
+ 
+
+
+------=_NextPart_000_005B_01D24716.8C984E10
+Content-Type: text/html;
+	charset="US-ASCII"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#000099;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#000099;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal>Hi Team,<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Kindly create below two e-mail IDs<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><a =
+href=3D"mailto:backend1.rsp@teamspace.co.in">backend1.rsp@teamspace.co.in=
+</a>
+<o:p></o:p></p>
+
+<p class=3DMsoNormal><a =
+href=3D"mailto:backend2.rsp@teamspace.co.in">backend2.rsp@teamspace.co.in=
+</a><o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:navy'>Khilendra Chandrakar<br>
+Manager &#8211; Resource Support &amp; Planning<br>
+Website: </span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><a
+href=3D"http://www.teamspace.co.in"><span =
+style=3D'color:navy'>www.teamspace.co.in</span></a></span><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><br>
+</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:navy'>PAMAC Group &#8211; Banking on our Credentials.<br>
+&nbsp;<br>
+Please take note of the change in the eMail ID</span><span =
+style=3D'font-size:
+11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>&nbsp;<o:p>=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:navy'>*************************************************************=
+*************************************************************************=
+****************************<br>
+Disclaimer: This eMail is confidential. It may also be legally =
+privileged. If
+you are not the addressee you may not copy, forward, disclose or use any =
+part
+of it. If you have received this message in error, please delete it and =
+all
+copies from your system and notify the sender immediately by return =
+eMail.<br>
+&nbsp;<br>
+Internet communications cannot be guaranteed to be timely, secure, error =
+or
+virus-free. The sender does not accept liability for any errors or =
+omissions.<br>
+*************************************************************************=
+*************************************************************************=
+****************</span><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_005B_01D24716.8C984E10--
+

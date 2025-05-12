@@ -1,0 +1,683 @@
+Return-Path: rajesh.agarwal@pamac.com
+Received: from mail.pamac.com (LHLO mail.pamac.com) (172.16.0.45) by
+ mail.pamac.com with LMTP; Tue, 22 Nov 2016 14:35:29 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id 6C3FC9604B1;
+	Tue, 22 Nov 2016 14:35:29 +0530 (IST)
+X-Spam-Flag: NO
+X-Spam-Score: -1.789
+X-Spam-Level:
+X-Spam-Status: No, score=-1.789 tagged_above=-10 required=6.6
+	tests=[ALL_TRUSTED=-1, BAYES_00=-1.9, DKIM_SIGNED=0.1,
+	HTML_MESSAGE=0.001, MSGID_MULTIPLE_AT=1, T_DKIM_INVALID=0.01]
+	autolearn=no autolearn_force=no
+Authentication-Results: mail.pamac.com (amavisd-new); dkim=neutral
+	reason="invalid (public key: not available)" header.d=pamac.com
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id 9pMnTtB9-NIW; Tue, 22 Nov 2016 14:35:28 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pamac.com (Postfix) with ESMTP id 9E86A9611E9;
+	Tue, 22 Nov 2016 14:35:28 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.9.2 mail.pamac.com 9E86A9611E9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=pamac.com;
+	s=084B4786-4057-11E6-9BAC-5E1413FBF31E; t=1479805528;
+	bh=EBZBfu43Wkcr5QKIczChrjl+ZFPuGRzigMGvRns6FVI=;
+	h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type;
+	b=cDM0AmyBbME1h7AD+ka09nvvnkCFEG8yWGj5vyrYZ9RV4PLjdE4T/nOp/ho5rHJAC
+	 RmV00lVMGDDG2+DV6jOtC10bCwsium/qc0Mp7ccil9ZJTZYLmN2Pik4k48qpddARAg
+	 wk3dnp7+8Ngxik1TA1FrpRDrcIcMEYrGCH/8q6Aw=
+X-Virus-Scanned: amavisd-new at pamac.com
+Received: from mail.pamac.com ([127.0.0.1])
+	by localhost (mail.pamac.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id Z-5fr7oFwYwA; Tue, 22 Nov 2016 14:35:28 +0530 (IST)
+Received: from LAPTOPS8RN7370 (unknown [182.70.240.26])
+	by mail.pamac.com (Postfix) with ESMTPA id 9E5C59604B1;
+	Tue, 22 Nov 2016 14:35:26 +0530 (IST)
+From: "Rajesh Agrawal" <rajesh.agarwal@pamac.com>
+To: "'HR - Support'" <hr.support@pamac.com>,
+	"'Shankar Devare'" <shankar.devare@pamac.com>
+Cc: "'INDORE SUPPORT'" <indore.support@pamac.com>
+References: <00f001d24494$a9f8f740$fdeae5c0$@agarwal@pamac.com> <OF3E5D7214.7BA3792F-ON65258073.002F2941-65258073.002F55EA@hdfcbank.com>
+In-Reply-To: <OF3E5D7214.7BA3792F-ON65258073.002F2941-65258073.002F55EA@hdfcbank.com>
+Subject:  DOL removal of Kapil Sahu P-52558
+Date: Tue, 22 Nov 2016 14:35:27 +0530
+Message-ID: <011b01d2449f$92d13a40$b873aec0$@agarwal@pamac.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_011C_01D244CD.AC897640"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdJEm5npqFV8G5F2QRa3r1zNFG896AAA7COg
+Content-Language: en-in
+X-Trained: 2
+X-MS-ContentScanSkipped: [rajesh.agarwal@pamac.com] in AutoSpamWhiteList
+X-URLS: pamac.com
+X-ForeignSender-IP: 182.70.240.26
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_011C_01D244CD.AC897640
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Shankar,
+
+=20
+
+Please remove DOL of below staff as per below mail and client =
+confirmation.
+
+=20
+
+He is retained by bank officer and there was gap of communication as he =
+is PDP staff.
+
+=20
+
+Dear Rehnuma,
+
+=20
+
+Please register ticket in QMS and share across
+
+=20
+
+Regards,
+
+=20
+
+Rajesh Agrawal.
+
+Manager & Delivery Center Head-MP
+
+Tel: +91 731  | Mobile: +91 9981096222 | Email:  =
+<mailto:rajesh.aiwale@pamac.com> rajesh.agarwal@pamac.com | Website:  =
+<http://www.pamac.com/> www.pamac.com|
+
+=20
+
+*************************************************************************=
+****************************************************=20
+
+Disclaimer: This e-mail is confidential. It may also be legally =
+privileged. If you are not the addressee you may not copy, forward, =
+disclose or use any part of it. If you have received this message in =
+error, please delete it and all copies from your system and notify the =
+sender immediately by return e-mail.
+
+
+Internet communications cannot be guaranteed to be timely, secure, error =
+or virus-free. The sender does not accept liability for any errors or =
+omissions.
+
+*************************************************************************=
+****************************************************
+
+P Please don't print this e-mail unless you really need to. Let us save =
+the Mother Earth
+
+=20
+
+=20
+
+From: Ravi.Prasad@hdfcbank.com [mailto:Ravi.Prasad@hdfcbank.com]=20
+Sent: 22 November 2016 14:07
+To: Rajesh Agrawal
+Cc: 'INDORE SUPPORT'; nitesh.goyal@pamac.com
+Subject: [SPAM] Re: DOL removal of Kapil Sahu P-52558
+
+=20
+
+Dear Rajesh,=20
+
+I had retained him & informed about this to nitesh also. But I think =
+there may be some communication gap & hence this situation arises.=20
+
+I confirmed that he had continue in job & pls process the same =
+accordingly.=20
+
+Thanks & Regards,
+Ravi Prasad (R3538)
+AL Credit Manager - Bhopal
+Mob # 9329043103
+LL # 0755-2567423
+*************************************************************************=
+****************************************************************
+HDFC BANK Ltd, Retail Asset Dept - AL, Ist Floor, K.K Platinum, Opp. =
+Aura Mall, Gulmohar, Bhopal - 462039 (MP)
+*************************************************************************=
+****************************************************************
+Life is similar to Boxing game.. Defeat is NOT declared when you fall =
+down; It is declared when you Refuse to =E2=80=98Get Up=E2=80=99!=20
+
+
+
+From:        "Rajesh Agrawal" <rajesh.agarwal@pamac.com>=20
+To:        <Ravi.Prasad@hdfcbank.com>=20
+Cc:        "'INDORE SUPPORT'" <indore.support@pamac.com>, =
+<nitesh.goyal@pamac.com>=20
+Date:        22-11-2016 13:19=20
+Subject:        DOL removal of Kapil Sahu P-52558=20
+
+  _____ =20
+
+
+
+
+Hi Sir,=20
+ =20
+Kindly note last updations to our records for Kapil Sahu is that he has =
+left the Job w e f 3/11/2016=20
+ =20
+Accordingly we have reported the same to Central HR.=20
+ =20
+But as understood he has been retained kindly confirm his retention and =
+continuing since as per attendance sheet to be documented with us.=20
+ =20
+So that we can forward to HR for DOL removal and regularise the same.=20
+ =20
+Regards,=20
+ =20
+Rajesh Agrawal.=20
+Manager & Delivery Center Head-MP=20
+Tel: +91 731  | Mobile: +91 9981096222 | Email:  =
+<mailto:rajesh.aiwale@pamac.com> rajesh.agarwal@pamac.com | Website:  =
+<http://www.pamac.com/> www.pamac.com|=20
+ =20
+*************************************************************************=
+****************************************************=20
+Disclaimer: This e-mail is confidential. It may also be legally =
+privileged. If you are not the addressee you may not copy, forward, =
+disclose or use any part of it. If you have received this message in =
+error, please delete it and all copies from your system and notify the =
+sender immediately by return e-mail.=20
+
+Internet communications cannot be guaranteed to be timely, secure, error =
+or virus-free. The sender does not accept liability for any errors or =
+omissions.=20
+*************************************************************************=
+****************************************************=20
+P Please don't print this e-mail unless you really need to. Let us save =
+the Mother Earth=20
+ =20
+ =20
+
+ =
+<http://www.hdfcbank.com/htdocs/digital-campaign/digital.html?utm_source=3D=
+Email_Signature&utm_medium=3DEmail&utm_term=3DRange&utm_campaign=3DBAMM> =
+
+_________________________________________________________________________=
+__________________
+Disclaimer:
+"The information contained herein (including any accompanying documents) =
+is confidential and is intended solely for the addressee(s). If you have =
+erroneously received this message, please immediately delete it and =
+notify the sender. Also, if you are not the intended recipient, you are =
+hereby notified that any disclosure, copying, distribution or taking any =
+action in reliance on the contents of this message or any accompanying =
+document is strictly prohibited and is unlawful. The organization is not =
+responsible for any damage caused by a virus or alteration of the e-mail =
+by a third party or otherwise.
+Regd. Office : HDFC Bank Ltd., HDFC Bank House, Senapati Bapat Marg, =
+Lower Parel (W), Mumbai - 400 013. "=20
+
+
+------=_NextPart_000_011C_01D244CD.AC897640
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>HDFC Bank</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:Webdings;
+	panose-1:5 3 1 2 1 5 9 6 7 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-reply;
+	font-family:"Trebuchet MS","sans-serif";
+	color:#1F497D;
+	font-weight:normal;
+	font-style:normal;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-IN link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#1F497D'>Hi Shankar,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#1F497D'>Please remove DOL of below staff as per below mail and =
+client
+confirmation.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#1F497D'>He is retained by bank officer and there was gap of =
+communication
+as he is PDP staff.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#1F497D'>Dear Rehnuma,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#1F497D'>Please register ticket in QMS and share =
+across<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>Regards,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>Rajesh Agrawal.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>Manager &amp; Delivery Center Head-MP<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIT =
+style=3D'font-size:10.0pt;color:navy'>T</span><span
+lang=3DIT style=3D'font-size:10.0pt;font-family:"Trebuchet =
+MS","sans-serif";
+color:navy'>el: +91 731&nbsp;&nbsp;| Mobile: +91 9981096222 | =
+Email:&nbsp;<a
+href=3D"mailto:rajesh.aiwale@pamac.com"><span =
+style=3D'color:navy'>rajesh.agarwal@pamac.com</span></a>&nbsp;|
+Website:&nbsp;</span><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'><a href=3D"http://www.pamac.com/"><span lang=3DIT =
+style=3D'color:navy'>www.pamac.com</span></a></span><span
+lang=3DIT style=3D'font-size:10.0pt;font-family:"Trebuchet =
+MS","sans-serif";
+color:navy'>|</span><span lang=3DIT =
+style=3D'color:navy'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>*************************************************************=
+****************************************************************&nbsp;</s=
+pan><span
+lang=3DEN-US =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:navy'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>Disclaimer: This e-mail is confidential. It may also be =
+legally
+privileged. If you are not the addressee you may not copy, forward, =
+disclose or
+use any part of it. If you have received this message in error, please =
+delete
+it and all copies from your system and notify the sender immediately by =
+return
+e-mail.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:8.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'><br>
+</span><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>Internet communications cannot be guaranteed to be timely, =
+secure,
+error or virus-free. The sender does not accept liability for any errors =
+or
+omissions.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>*************************************************************=
+****************************************************************<o:p></o:=
+p></span></p>
+
+<p class=3DMsoNormal><b><i><span lang=3DEN-US =
+style=3D'font-size:24.0pt;font-family:
+Webdings;color:green'>P</span></i></b><b><i><span lang=3DEN-US =
+style=3D'font-size:
+10.0pt;font-family:"Calibri","sans-serif";color:green'> =
+Please</span></i></b><b><i><span
+lang=3DEN-US style=3D'font-size:10.0pt;font-family:"Trebuchet =
+MS","sans-serif";
+color:green'> don't print this e-mail unless you really need to. =
+Let&nbsp;us
+save the Mother Earth</span></i></b><span lang=3DEN-US =
+style=3D'font-size:10.0pt;
+font-family:"Trebuchet =
+MS","sans-serif";color:#1F497D'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0cm 0cm 0cm'>
+
+<p class=3DMsoNormal><b><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:
+"Tahoma","sans-serif"'>From:</span></b><span lang=3DEN-US =
+style=3D'font-size:10.0pt;
+font-family:"Tahoma","sans-serif"'> Ravi.Prasad@hdfcbank.com
+[mailto:Ravi.Prasad@hdfcbank.com] <br>
+<b>Sent:</b> 22 November 2016 14:07<br>
+<b>To:</b> Rajesh Agrawal<br>
+<b>Cc:</b> 'INDORE SUPPORT'; nitesh.goyal@pamac.com<br>
+<b>Subject:</b> [SPAM] Re: DOL removal of Kapil Sahu =
+P-52558<o:p></o:p></span></p>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif"'>Dear
+Rajesh,</span> <br>
+<br>
+<span style=3D'font-size:10.0pt;font-family:"Arial","sans-serif"'>I had =
+retained
+him &amp; informed about this to nitesh also. But I think there may be =
+some
+communication gap &amp; hence this situation arises.</span> <br>
+<br>
+<span style=3D'font-size:10.0pt;font-family:"Arial","sans-serif"'>I =
+confirmed
+that he had continue in job &amp; pls process the same accordingly. =
+</span><br>
+<span style=3D'font-size:10.0pt;font-family:"Arial","sans-serif"'><br>
+Thanks &amp; Regards,<br>
+Ravi Prasad (R3538)<br>
+AL Credit Manager - Bhopal<br>
+Mob # 9329043103<br>
+LL # 0755-2567423<br>
+*************************************************************************=
+****************************************************************<br>
+HDFC BANK Ltd, Retail Asset Dept - AL, Ist Floor, K.K Platinum, Opp. =
+Aura Mall,
+Gulmohar, Bhopal - 462039 (MP)<br>
+*************************************************************************=
+****************************************************************<br>
+Life is similar to Boxing game.. Defeat is NOT declared when you fall =
+down; It
+is declared when you Refuse to =E2=80=98Get Up=E2=80=99!</span> <br>
+<br>
+<br>
+<br>
+<span =
+style=3D'font-size:7.5pt;font-family:"Arial","sans-serif";color:#5F5F5F'>=
+From:
+&nbsp; &nbsp; &nbsp; &nbsp;</span><span =
+style=3D'font-size:7.5pt;font-family:
+"Arial","sans-serif"'>&quot;Rajesh Agrawal&quot;
+&lt;rajesh.agarwal@pamac.com&gt;</span> <br>
+<span =
+style=3D'font-size:7.5pt;font-family:"Arial","sans-serif";color:#5F5F5F'>=
+To:
+&nbsp; &nbsp; &nbsp; &nbsp;</span><span =
+style=3D'font-size:7.5pt;font-family:
+"Arial","sans-serif"'>&lt;Ravi.Prasad@hdfcbank.com&gt;</span> <br>
+<span =
+style=3D'font-size:7.5pt;font-family:"Arial","sans-serif";color:#5F5F5F'>=
+Cc:
+&nbsp; &nbsp; &nbsp; &nbsp;</span><span =
+style=3D'font-size:7.5pt;font-family:
+"Arial","sans-serif"'>&quot;'INDORE SUPPORT'&quot;
+&lt;indore.support@pamac.com&gt;, &lt;nitesh.goyal@pamac.com&gt;</span> =
+<br>
+<span =
+style=3D'font-size:7.5pt;font-family:"Arial","sans-serif";color:#5F5F5F'>=
+Date:
+&nbsp; &nbsp; &nbsp; &nbsp;</span><span =
+style=3D'font-size:7.5pt;font-family:
+"Arial","sans-serif"'>22-11-2016 13:19</span> <br>
+<span =
+style=3D'font-size:7.5pt;font-family:"Arial","sans-serif";color:#5F5F5F'>=
+Subject:
+&nbsp; &nbsp; &nbsp; &nbsp;</span><span =
+style=3D'font-size:7.5pt;font-family:
+"Arial","sans-serif"'>DOL removal of Kapil Sahu P-52558</span> =
+<o:p></o:p></p>
+
+<div class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>
+
+<hr size=3D2 width=3D"100%" noshade style=3D'color:#A0A0A0' =
+align=3Dcenter>
+
+</div>
+
+<p class=3DMsoNormal><br>
+<br>
+<br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#104160'>Hi Sir,</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#104160'>&nbsp;</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#104160'>Kindly note last updations to our records for Kapil Sahu =
+is that
+he has left the Job w e f 3/11/2016 </span><br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#104160'>&nbsp;</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#104160'>Accordingly we have reported the same to Central =
+HR.</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#104160'>&nbsp;</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#104160'>But as understood he has been retained kindly confirm his
+retention and continuing since as per attendance sheet to be documented =
+with
+us.</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#104160'>&nbsp;</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#104160'>So that we can forward to HR for DOL removal and =
+regularise the
+same. </span><br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#104160'>&nbsp;</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>Regards,</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>&nbsp;</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>Rajesh Agrawal.</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>Manager &amp; Delivery Center Head-MP</span> <br>
+<span style=3D'font-size:10.0pt;color:navy'>T</span><span =
+style=3D'font-size:10.0pt;
+font-family:"Trebuchet MS","sans-serif";color:navy'>el: +91 731 &nbsp;| =
+Mobile:
++91 9981096222 | Email: </span><a =
+href=3D"mailto:rajesh.aiwale@pamac.com"><span
+style=3D'font-size:10.0pt;font-family:"Trebuchet =
+MS","sans-serif";color:navy'>rajesh.agarwal@pamac.com</span></a><span
+style=3D'font-size:10.0pt;font-family:"Trebuchet =
+MS","sans-serif";color:navy'> |
+Website: </span><a href=3D"http://www.pamac.com/"><span =
+style=3D'font-size:10.0pt;
+font-family:"Trebuchet =
+MS","sans-serif";color:navy'>www.pamac.com</span></a><span
+style=3D'font-size:10.0pt;font-family:"Trebuchet =
+MS","sans-serif";color:navy'>|</span>
+<br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#104160'>&nbsp;</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>*************************************************************=
+****************************************************************
+</span><br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>Disclaimer: This e-mail is confidential. It may also be =
+legally
+privileged. If you are not the addressee you may not copy, forward, =
+disclose or
+use any part of it. If you have received this message in error, please =
+delete
+it and all copies from your system and notify the sender immediately by =
+return
+e-mail.</span> <br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'><br>
+Internet communications cannot be guaranteed to be timely, secure, error =
+or
+virus-free. The sender does not accept liability for any errors or =
+omissions.</span>
+<br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:navy'>*************************************************************=
+****************************************************************</span>
+<br>
+<b><i><span =
+style=3D'font-size:24.0pt;font-family:Webdings;color:green'>P</span></i><=
+/b><b><i><span
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";color:green'=
+> Please</span></i></b><b><i><span
+style=3D'font-size:10.0pt;font-family:"Trebuchet =
+MS","sans-serif";color:green'>
+don't print this e-mail unless you really need to. Let us save the =
+Mother Earth</span></i></b>
+<br>
+<span =
+style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";color:#10416=
+0'>&nbsp;</span>
+<br>
+<span style=3D'font-size:10.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#104160'>&nbsp;</span> <o:p></o:p></p>
+
+<p class=3DMsoNormal><a
+href=3D"http://www.hdfcbank.com/htdocs/digital-campaign/digital.html?utm_=
+source=3DEmail_Signature&amp;utm_medium=3DEmail&amp;utm_term=3DRange&amp;=
+utm_campaign=3DBAMM"
+target=3D"_blank"><span style=3D'text-decoration:none'><img border=3D0 =
+width=3D728
+height=3D90 id=3D"_x0000_i1026"
+src=3D"http://mailer.hdfcbank.com/campaign/Aug16/Signature/images/signoff=
+.gif"></span></a><br>
+_________________________________________________________________________=
+__________________<br>
+Disclaimer:<br>
+&quot;The information contained herein (including any accompanying =
+documents)
+is confidential and is intended solely for the addressee(s). If you have
+erroneously received this message, please immediately delete it and =
+notify the
+sender. Also, if you are not the intended recipient, you are hereby =
+notified
+that any disclosure, copying, distribution or taking any action in =
+reliance on
+the contents of this message or any accompanying document is strictly
+prohibited and is unlawful. The organization is not responsible for any =
+damage
+caused by a virus or alteration of the e-mail by a third party or =
+otherwise.<br>
+Regd. Office : HDFC Bank Ltd., HDFC Bank House, Senapati Bapat Marg, =
+Lower
+Parel (W), Mumbai - 400 013. &quot; <o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_011C_01D244CD.AC897640--
+

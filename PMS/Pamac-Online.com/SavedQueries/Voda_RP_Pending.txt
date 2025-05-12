@@ -1,0 +1,16 @@
+select '' as 'Sr.No',CELLNO,AGENCY_CODE as 'Agency Code',CUSTOMER_CODE as 'CUSTCODE',REF_NO as 'CO_ID',
+CUSTOMER_ID,TMCODE_DESC,TITLE as 'SALUTATION',APP_FNAME as 'CCFNAME',APP_LNAME as 'CCLNAME',CELL_ACTIVATED_DATE as 'CO_ACTIVATED',
+BILLCYCLE,CUSTOMER_CLASS,CSEMPLOYER,APP_ADDR1 as 'CCADDR1',APP_ADDR2 as 'CCADDR2',APP_ADDR3 as 'CCADDR3',APP_CITY as 'CCCITY',
+APP_PINCODE as 'CCZIP',APP_PHONE1 as 'CUSTOMER_PHONE1',APP_PHONE2 as 'CUSTOMER_PHONE2',COMP_NAME as 'CO_CCNAME',
+COMP_ADDR1 as 'CO_ADDR1',COMP_ADDR2 as 'CO_ADDR2',COMP_ADDR3 as 'CO_ADDR3',COMP_STREET as 'CO_STREET',COMP_CITY as 'CO_CITY',
+COMP_PINCODE as 'CO_PINCODE',COMP_PHONE1 as 'CO_PHONE1',COMP_PHONE2 as 'CO_PHONE2',COMP_SCHEM as 'CO_SCHEM',
+AGENT,AUTHORISED_SIGNATORY,a.Comp_Credit_Status as 'CREDITSTATUS_DESC','' as 'CH_REASON_DESC','' as 'PV_TAGGED_BY','' as
+LAST_DISC_REASON,TYPE_OF_COMPANY,JOB_DESC,ZONAL_WITH_STD as 'Zone',''as 'Old Cust Class','' as 'Old Cr Status',
+'' as 'REMARK','' as 'Sub Info Audit','' as 'Audit Job Desc','' as 'RiskRating',
+'' as 'NatureOfBuss','' as 'SimUsedBy',''as Email,a.credit_stat as 'CREDIT_STATUS','' as 'Disc Code',
+remark as 'PV Comments','' as 'Contactibility (NM)','' as 'Sub met (Y/N)','' as 'Docs Sighted',
+'' as 'Occupation',add_date as 'DateOfVerification','' as 'Field Executive',CASE_REC_DATETIME as 'Date Cases Received',
+a.SEND_DATETIME as 'Date cases sent','' as 'Preferred Mode of communication','' as 'Preferred language of communication'
+from CPV_CELLULAR_CASES a where a.case_type_id='4'and send_datetime is Null and Is_case_complete is Null
+and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+

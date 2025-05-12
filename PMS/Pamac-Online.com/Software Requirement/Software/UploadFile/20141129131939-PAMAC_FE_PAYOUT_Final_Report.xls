@@ -1,0 +1,83 @@
+<table border="0">
+	<tr style="height:20px;">
+		<td> </td>
+	</tr><tr>
+		<td class="FormHeading" colspan="20"><b><font size='3'>PAMAC FINSERVE PVT. LTD. </font></b> <br/><b><font size='2'>PAMAC FE PAYOUT PROCESS FINAL REPORT FromDate : 01/11/2014 ToDate 29/11/2014 </font></b> <br/></td>
+	</tr>
+</table><div>
+	<table cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GV1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Employee Code</th><th scope="col">Employee Name</th><th scope="col">Account No</th><th scope="col">Centre Name</th><th scope="col">Cases Count</th><th scope="col">ICL Count</th><th scope="col">OCL Count</th><th scope="col">ICL Amount</th><th scope="col">OCL Amount</th><th scope="col">incentive Amount</th><th scope="col">Penalty Amount</th><th scope="col">Total Amount</th>
+		</tr><tr>
+			<td>P-47601</td><td>AMRISH RANBEER SIDHU</td><td>N.A</td><td>MUMBAI</td><td>170</td><td>154</td><td>16</td><td>4151.00</td><td>5000.00</td><td>114.00</td><td>32.00</td><td>9233.00</td>
+		</tr><tr>
+			<td>P-50826</td><td>ASHPAK ABDULBADSHAH SHAIKH</td><td>N.A</td><td>MUMBAI</td><td>88</td><td>87</td><td>1</td><td>2138.00</td><td>150.00</td><td>93.00</td><td>0.00</td><td>2381.00</td>
+		</tr><tr>
+			<td>P-00867</td><td>Austin  Soans</td><td>N.A</td><td>MUMBAI</td><td>168</td><td>147</td><td>20</td><td>4208.00</td><td>8300.00</td><td>158.00</td><td>0.00</td><td>12666.00</td>
+		</tr><tr>
+			<td>P-00108</td><td>BABU  SHINDE</td><td>N.A</td><td>MUMBAI</td><td>821</td><td>821</td><td>0</td><td>15080.00</td><td>0.00</td><td>17.00</td><td>1863.00</td><td>13234.00</td>
+		</tr><tr>
+			<td>P-00879</td><td>Chandan  Dhurat</td><td>N.A</td><td>MUMBAI</td><td>149</td><td>119</td><td>30</td><td>3503.00</td><td>5900.00</td><td>176.00</td><td>0.00</td><td>9579.00</td>
+		</tr><tr>
+			<td>P-48295</td><td>CHANDRAKANT PENTAYA SHARMA</td><td>N.A</td><td>MUMBAI</td><td>245</td><td>225</td><td>0</td><td>4064.00</td><td>0.00</td><td>240.00</td><td>236.00</td><td>4068.00</td>
+		</tr><tr>
+			<td>P-53464</td><td>DATTARAM BHAGOJI RANE</td><td>N.A</td><td>MUMBAI</td><td>61</td><td>61</td><td>0</td><td>1098.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1098.00</td>
+		</tr><tr>
+			<td>P-51367</td><td>DIPAK JAGANNATH THORAT</td><td>N.A</td><td>MUMBAI</td><td>224</td><td>222</td><td>2</td><td>4456.00</td><td>700.00</td><td>0.00</td><td>0.00</td><td>5156.00</td>
+		</tr><tr>
+			<td>ENA</td><td>ENA FE</td><td>N.A</td><td>MUMBAI</td><td>63</td><td>63</td><td>0</td><td>1322.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1322.00</td>
+		</tr><tr>
+			<td>P-48997</td><td>LAWRANCE RAPHEL SAMUEL</td><td>N.A</td><td>MUMBAI</td><td>233</td><td>227</td><td>6</td><td>4668.00</td><td>1550.00</td><td>0.00</td><td>0.00</td><td>6218.00</td>
+		</tr><tr>
+			<td>P-52521</td><td>MAGAN RAJSINGH DUMANA</td><td>N.A</td><td>MUMBAI</td><td>133</td><td>133</td><td>0</td><td>2396.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>2396.00</td>
+		</tr><tr>
+			<td>P-52431</td><td>MAHAVEER PRASAD PARIHAR</td><td>N.A</td><td>MUMBAI</td><td>137</td><td>135</td><td>2</td><td>2693.00</td><td>200.00</td><td>0.00</td><td>0.00</td><td>2893.00</td>
+		</tr><tr>
+			<td>P-48547</td><td>MANGESH ANANTA MUNDE</td><td>N.A</td><td>MUMBAI</td><td>214</td><td>214</td><td>0</td><td>3857.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>3857.00</td>
+		</tr><tr>
+			<td>P-49389</td><td>MILIND PRAKASH SHINDE</td><td>1020404251-5</td><td>MUMBAI</td><td>1</td><td>1</td><td>0</td><td>20.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>20.00</td>
+		</tr><tr>
+			<td>P-48015</td><td>MILIND RAMA DHURI</td><td>N.A</td><td>MUMBAI</td><td>63</td><td>62</td><td>1</td><td>1794.00</td><td>100.00</td><td>0.00</td><td>0.00</td><td>1894.00</td>
+		</tr><tr>
+			<td>OCL</td><td>OCL FE</td><td>N.A</td><td>MUMBAI</td><td>77</td><td>70</td><td>7</td><td>1375.00</td><td>1750.00</td><td>0.00</td><td>0.00</td><td>3125.00</td>
+		</tr><tr>
+			<td>P-00896</td><td>Prakalp  Patil</td><td>N.A</td><td>MUMBAI</td><td>165</td><td>165</td><td>0</td><td>2970.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>2970.00</td>
+		</tr><tr>
+			<td>P-51304</td><td>RAVIKANT YADAV</td><td>N.A</td><td>MUMBAI</td><td>388</td><td>388</td><td>0</td><td>7003.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>7003.00</td>
+		</tr><tr>
+			<td>P-01401</td><td>SACHIN RAMSAJIVAN KORI</td><td>N.A</td><td>MUMBAI</td><td>195</td><td>195</td><td>0</td><td>3645.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>3645.00</td>
+		</tr><tr>
+			<td>P-00041</td><td>SANJAY  JOGALE</td><td>N.A</td><td>MUMBAI</td><td>376</td><td>376</td><td>0</td><td>6768.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>6768.00</td>
+		</tr><tr>
+			<td>P-49875</td><td>SANTOSH VINAYAK NIKAM</td><td>N.A</td><td>MUMBAI</td><td>372</td><td>372</td><td>0</td><td>6725.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>6725.00</td>
+		</tr><tr>
+			<td>P-48732</td><td>SATISH DATTARAM YADAV</td><td>N.A</td><td>MUMBAI</td><td>194</td><td>194</td><td>0</td><td>3506.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>3506.00</td>
+		</tr><tr>
+			<td>P-46509</td><td>SATYAPAL  RAI</td><td>N.A</td><td>MUMBAI</td><td>147</td><td>147</td><td>0</td><td>2646.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>2646.00</td>
+		</tr><tr>
+			<td>P-46052</td><td>SHAKEEL AHMED ABDULHAFIZ SHAIKH</td><td>N.A</td><td>MUMBAI</td><td>138</td><td>138</td><td>0</td><td>2484.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>2484.00</td>
+		</tr><tr>
+			<td>P-47739</td><td>Shashikant Sakharam Surve</td><td>N.A</td><td>MUMBAI</td><td>109</td><td>109</td><td>0</td><td>1967.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1967.00</td>
+		</tr><tr>
+			<td>P-47732</td><td>Shivshankar  Swami</td><td>N.A</td><td>MUMBAI</td><td>74</td><td>74</td><td>0</td><td>1344.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1344.00</td>
+		</tr><tr>
+			<td>P-47315</td><td>SUDHIR  AMBRE</td><td>N.A</td><td>MUMBAI</td><td>336</td><td>336</td><td>0</td><td>6050.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>6050.00</td>
+		</tr><tr>
+			<td>P-52489</td><td>SURAJ PANDURANG KADAM</td><td>N.A</td><td>MUMBAI</td><td>118</td><td>118</td><td>0</td><td>2126.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>2126.00</td>
+		</tr><tr>
+			<td>P-50220</td><td>SURENDRA RAMKRISHNA PATIL</td><td>N.A</td><td>MUMBAI</td><td>135</td><td>135</td><td>0</td><td>2430.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>2430.00</td>
+		</tr><tr>
+			<td>P-51366</td><td>SWAPNIL SITARAM NARWADE</td><td>N.A</td><td>MUMBAI</td><td>2</td><td>2</td><td>0</td><td>46.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>46.00</td>
+		</tr><tr>
+			<td>P-47465</td><td>Umakant  Pasi</td><td>N.A</td><td>MUMBAI</td><td>170</td><td>170</td><td>0</td><td>3084.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>3084.00</td>
+		</tr><tr>
+			<td>P-53992</td><td>VAIBHAV SARJERAO SALUNKHE</td><td>N.A</td><td>MUMBAI</td><td>57</td><td>57</td><td>0</td><td>1038.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1038.00</td>
+		</tr><tr>
+			<td>P-46395</td><td>VIDHEY VINOD KHOT</td><td>N.A</td><td>MUMBAI</td><td>67</td><td>67</td><td>0</td><td>1206.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1206.00</td>
+		</tr><tr>
+			<td>P-47046</td><td>Vishal  Dalvi</td><td>N.A</td><td>MUMBAI</td><td>622</td><td>622</td><td>0</td><td>11203.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>11203.00</td>
+		</tr><tr>
+			<td>P-50825</td><td>VIVEK SURESHRAO WAGHMARE</td><td>N.A</td><td>MUMBAI</td><td>225</td><td>225</td><td>0</td><td>5101.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>5101.00</td>
+		</tr>
+	</table>
+</div>

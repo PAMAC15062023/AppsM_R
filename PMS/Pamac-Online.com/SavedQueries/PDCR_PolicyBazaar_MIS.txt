@@ -1,0 +1,19 @@
+select distinct''as[Sr No],first_name as[Customer's Name],off_phone as[Landline],res_phone as[Mobile],res_add_line_1 as[Pickup Address],
+res_land_mark as[Landmark],res_city as[City],region as[State],Res_pin_code as[PinCode],off_name as[PB Executive Name],
+date_2 as[Pick Up Date],phone_2 as[Pick Up Time],Emi as[Lone & Insurance],Reversal_Amount as[Insurance Company],
+os_balance as[Pick Up Requirements],off_city as[PAMAC City],status_name as[Final Status],Residence_Internal as[Picked up date],
+(select top 1 subremark from cpv_dcr_VERI_ATTEMPTS  VERI_ATTEMPTS Where VERI_ATTEMPTS.Case_Id=case_det.Case_Id and VERI_ATTEMPTS.remark not like'Select') as [Feedback Status1],
+''as[Feedback Status2],''as[Feedback Status3],veri_det.Despatch_date as[Dispatched Date],emp_details.fullname as[FE Name],
+emp_details.Mobile as[FE MobileNo.],emp_details1.fullname as[TME Name],convert(varchar,case_rec_datetime,103) as[Received Date]
+from cpv_dcr_VERI_ATTEMPTS veri_attem 
+left outer join cpv_dcr_CASE_DETAILS case_det on case_det.case_id=veri_attem.case_id
+left outer join cpv_dcr_Veri_Description Veri_des on case_det.case_id=Veri_des.case_id
+left outer join cpv_dcr_VERI_DETAILS veri_det on case_det.case_id=veri_det.case_id
+left outer join case_status_master case_mas on case_mas.case_status_id=veri_det.case_status_id
+left outer join cpv_dcr_FE_CASE_MAPPING fe_map on case_det.case_id=fe_map.case_id 
+left outer join employee_master emp_details on fe_map.fe_id=emp_details.emp_id
+left outer join cpv_dcr_TC_CASE_MAPPING tc_mapping on case_det.case_id=tc_mapping.case_id 
+left outer join employee_master emp_details1 on tc_mapping.tc_id=emp_details1.emp_id 
+where subremark not like '%Select%' and case_det.client_id in(101178) and veri_attem.Verification_type_id='41'
+and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+

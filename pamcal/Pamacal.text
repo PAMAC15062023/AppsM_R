@@ -1,0 +1,97 @@
+ Volume in drive E has no label.
+ Volume Serial Number is C624-F5B2
+
+ Directory of E:\pamacal
+
+09/08/2020  08:55 PM    <DIR>          .
+09/08/2020  08:55 PM    <DIR>          ..
+07/31/2014  10:48 AM            10,289 about-us.html
+06/06/2020  10:54 AM    <DIR>          aspnet_client
+07/31/2014  10:50 AM             7,782 clients.html
+07/31/2014  10:50 AM             7,591 contact.html
+06/06/2020  10:54 AM    <DIR>          images
+07/04/2019  01:07 PM            10,205 index.html
+09/08/2020  08:55 PM                 0 Pamacal.text
+07/15/2014  01:46 PM            44,124 samba_logo.jpeg
+07/31/2014  10:49 AM             7,549 services.html
+07/15/2014  01:46 PM             1,336 submit.html
+05/05/2017  01:17 PM               475 web.config
+               9 File(s)         89,351 bytes
+
+ Directory of E:\pamacal\aspnet_client
+
+06/06/2020  10:54 AM    <DIR>          .
+06/06/2020  10:54 AM    <DIR>          ..
+06/06/2020  10:54 AM    <DIR>          system_web
+               0 File(s)              0 bytes
+
+ Directory of E:\pamacal\aspnet_client\system_web
+
+06/06/2020  10:54 AM    <DIR>          .
+06/06/2020  10:54 AM    <DIR>          ..
+09/11/2014  03:09 AM    <DIR>          2_0_50727
+09/18/2015  09:23 PM    <DIR>          4_0_30319
+               0 File(s)              0 bytes
+
+ Directory of E:\pamacal\aspnet_client\system_web\2_0_50727
+
+09/11/2014  03:09 AM    <DIR>          .
+09/11/2014  03:09 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of E:\pamacal\aspnet_client\system_web\4_0_30319
+
+09/18/2015  09:23 PM    <DIR>          .
+09/18/2015  09:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of E:\pamacal\images
+
+06/06/2020  10:54 AM    <DIR>          .
+06/06/2020  10:54 AM    <DIR>          ..
+07/15/2014  01:47 PM            23,857 about-us_0007.png
+07/15/2014  01:47 PM             3,209 about-us_0008.png
+07/15/2014  01:47 PM             4,119 about-us_0010.jpg
+07/15/2014  01:47 PM             4,039 about-us_0011.jpg
+07/15/2014  01:47 PM            45,575 about-us_0012.png
+07/15/2014  01:47 PM             4,119 about-us_0025.jpg
+07/15/2014  01:47 PM             3,776 ADCB.jpg
+07/15/2014  01:47 PM            31,267 adcb_logo_new.jpg
+07/15/2014  01:47 PM             6,647 axisbank.jpg
+07/15/2014  01:47 PM            34,648 banner3.jpg
+07/15/2014  01:47 PM             5,404 brand.gif
+07/15/2014  01:47 PM            23,857 clients_0014.png
+07/15/2014  01:47 PM            23,857 clients_0022.png
+07/15/2014  01:47 PM             3,209 clients_0023.png
+07/15/2014  01:47 PM             7,310 company_logo.png
+07/15/2014  01:47 PM            69,079 contact-banner.jpg
+07/15/2014  01:47 PM            23,857 contact_0014.png
+07/15/2014  01:47 PM            23,857 contact_0018.png
+07/15/2014  01:47 PM             3,209 contact_0019.png
+07/15/2014  01:47 PM            23,857 contact_0022.png
+07/15/2014  01:47 PM               355 contact_0025.png
+07/15/2014  01:47 PM            45,014 Emirates-NBD-Logo.jpg
+07/15/2014  01:47 PM            87,401 functions.png
+07/15/2014  01:47 PM            22,591 HDFC-Bank-Logo.jpg
+07/15/2014  01:47 PM            55,149 hdfcbanklogo.jpg
+07/15/2014  01:47 PM            33,599 header-bg.png
+07/15/2014  01:47 PM            21,359 ICICI-bank19.jpg
+07/15/2014  01:47 PM            23,857 index_0002.png
+07/15/2014  01:47 PM             3,209 index_0003.png
+07/15/2014  01:47 PM             2,421 index_0005.png
+07/15/2014  01:47 PM            11,480 logo.jpg
+07/15/2014  01:47 PM            38,337 msi_ecm_topBanner.jpg
+07/15/2014  01:47 PM           253,047 PageBannerGraphic_businessSolutions.jpg.png
+07/15/2014  01:46 PM            47,013 partnership_banner1.jpg
+07/15/2014  01:46 PM            23,857 services_0014.png
+07/15/2014  01:46 PM             3,209 services_0015.png
+07/15/2014  01:46 PM            23,857 services_0018.png
+07/15/2014  01:46 PM            25,512 sign.PNG
+07/15/2014  01:46 PM             6,534 sponsor_firstgulf.gif
+07/15/2014  01:46 PM            17,934 texture_grain_200x200_v2.png
+08/02/2014  01:15 PM            72,704 Thumbs.db
+              41 File(s)      1,187,191 bytes
+
+     Total Files Listed:
+              50 File(s)      1,276,542 bytes
+              17 Dir(s)  60,271,693,824 bytes free

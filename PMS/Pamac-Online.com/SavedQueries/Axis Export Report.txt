@@ -1,0 +1,483 @@
+Select Code,Bank_Code,RefNo,Name,resiadd,resilandmark,resiphone,ResiCity,ResiPin,Dept,VerificationType,resivisitDate,
+	resivisitTime,raddressconfirmed,rpersoncontacted,rrelationship,dob,yrslivedatcurrentadd,resistatus,educational,maritalstatus,
+	nooffamily,working,children,dependent,SPOUSE,creditcard,CARDNO,cardlimit,issuingbank,CARDEXPIRY,endofuserofasset,locationofasset,
+	VEHICLE,Loan,asset,EMI,cooperative,neighbours,nameverifiedfrom,typeofresidence,localityofresidence,easeoflocating,constructionofresi,
+	commentsonexterior,carpetarea,interiorcondition,assetsseen,pictureseen,doestheapplicantstay,rapproxtime,nooffamilymembers,Case_Status,
+	DECLINED_REASON,verifiername,CaseType,operator,resicapture,residispdate,Recdate,resiagencyremarks,r_remarks2,r_remarks3,resiremarks2,
+    coapplicantname,OffAdd,olandmark,OffCity,OffPin,OffLandMark,raddressconfirmed1,designation,ovisitdate,ovisittime,opersonmet,
+    designationofpmet,ophone,oextn,MOBILE,noofyrsinbusiness,visitingcard,nameofcompany,typeofbusiness,natureofbusiness,serviceprovider,
+    productdealt,officeownership,noofempworking,branches,monthlyturnover,customerperday,typeofjob,applicantworkingas,jobtrans,companyname,
+    yearsworkedin,salarydrawn,businessboardseen,onameverifiedfrom,typeofoffice,localityofoffice,oapproxarea,constructionofoffice,exterior,
+    Interior,oeaseoflocating,businessactivity,noofempsighted,noofcustomerseen,affiliation,pc,printer,ac,xerox,tele,fax,Case_Status,tpc,
+    Stock,Outcome,overifier,ooperator,ocapture,odispdate,oagencyremarks,o_remarks2,o_remarks3,offremarks2,Finalcapture,Finaldispdate,
+    region,verificationcode,paddress,contactno,tellcaller,typeofresi,rtpersonspokento,rtrelation,rtnameconfirmed,rtnamenotconfirmed,
+    rtaddressconfirmed,rtaddressnotconfirmed,rtdate1,rtdate2,rtdate3,rtdate4,rtdate5,rttime1,rttime2,rttime3,rttime4,rttime5,rtoutcome1,
+	rtoutcome2,rtoutcome3,rtoutcome4,rtoutcome5,rtresult,rtremarks,teledispdate,btteleno,btextnno,btdesignation,btworkingsince,
+    typeoforganisation,btnatureofbusiness,btcname,btpersonspokento,btpersonmetdesig,btrelationwithapplicant,teledispdate1,btteleno1,
+    btextnno1,btdesignation1,btworkingsince1,typeoforganisation1,btnatureofbusiness1,btcname1,btpersonspokento1,btpersonmetdesig1,
+    btrelationwithapplicant1,btnameconfirmed,btnamenotconfirmed,btaddressconfirmed,btaddressnotconfirmed,btdate1,btdate2,btdate3,
+    btdate4,btdate5,bttime1,bttime2,bttime3,bttime4,bttime5,btoutcome1,btoutcome2,btoutcome3,btoutcome4,btoutcome5,btresult,btremarks,
+	telecapture,teleoperator,D_MATCH,Defaulter,d_prod,d_bank,d_bucket,d_rem	d_finalremarks,r_d1,r_d2,r_d3,r_d4,r_d5,d_result,P_Code,Agency_Code,Agency_Name,Location
+ from 
+	(
+	Select 
+	Case_Details.Case_ID,
+	Case_Details.Case_ID as Code,
+	Case_Details.Last_name as Bank_Code,
+	Case_Details.Ref_No as RefNo,
+	Case_Details.First_Name as Name,
+	Case_Details.Res_Add_line_1 as resiadd,
+	Case Isnull(Case_Details.Res_Land_Mark,'')  When 'NA' then 'N/C' When '' Then 'N/C' Else  Case_Details.Res_Land_Mark End as resilandmark,
+		
+	Case_Details.Res_Phone as resiphone,
+	Case_Details.Res_City as ResiCity,
+	Case_Details.Res_Pin_Code as ResiPin,
+	Isnull(Case_Details.Department,'N/C') as Dept,
+	Case Isnull(Case_Details.Verification_Code,'') 
+
+	When 'RV' Then 'RV' 
+	When 'BV' Then 'BV'
+	When 'RT' Then 'RTV'
+	When 'BT' Then 'BTV'
+	When 'RV+RT+BT' Then 'RT'
+	When 'BV+RT+BT' Then 'BT'
+	When 'RV+RT' Then 'RR'
+	When 'RV+BV+RT' Then 'RR'
+	When 'RT+BT' Then 'T'
+	When 'RV+BV' Then 'RV+BV'
+	When 'RV+BT' Then 'RV+BTV'
+	When 'RV+BV+BT' Then 'RV+BV+BTV'
+	When 'BV+BT' Then 'BV+BTV'
+	When 'BV+RT' Then 'BV+RTV'
+	When 'RV+BV+RT+BT' Then 'F' Else '' End as VerificationType,
+	(
+		Select Top 1 Convert(Varchar,Attempt_Date_Time,101) 
+		From CPV_CC_Veri_Attempts Veri_Attempts 
+		Where Veri_Attempts.Case_ID=Case_Details.Case_ID 
+		And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=Veri_Attempts.VERIFICATION_TYPE_ID
+		Order By Attempt_Date_Time desc
+	) as resivisitDate,
+(
+		Select Top 1 Convert(Varchar,Attempt_Date_Time,108) 
+		From CPV_CC_Veri_Attempts Veri_Attempts 
+		Where Veri_Attempts.Case_ID=Case_Details.Case_ID 
+		And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=Veri_Attempts.VERIFICATION_TYPE_ID
+		Order By Attempt_Date_Time desc
+	) as resivisitTime,
+	Veri_Description.ADRESS_CONFIRMATION as raddressconfirmed,
+	Veri_Description.Person_Contacted_Met as rpersoncontacted,
+	Veri_Description1.RELATION_PERSON_CONTACTED as rrelationship, 
+	Veri_Description.APP_DOB_APPROX_AGE as dob,
+	Veri_Description.TIME_AT_CURR_RESIDANCE as yrslivedatcurrentadd,
+	Veri_Description1.RESIDANCE_IS as resistatus,
+	Veri_Description.QUALIFICATION as educational,
+	Veri_Description.MARITAL_STATUS as maritalstatus,
+	Case Isnull(Veri_Description.FAMILY_MEMBERS,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.FAMILY_MEMBERS End as nooffamily,
+	WORKING as working,
+	children as children,
+	NO_OF_DEPENDENT as dependent,
+	IS_SPOUSE_WORKING as SPOUSE ,
+	IS_CREDIT_CARD as creditcard,
+	Case Isnull(Veri_Description.CARD_NO,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.CARD_NO End as CARDNO,
+	Case Isnull(Veri_Description.card_limit,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.card_limit End as cardlimit,
+	Case Isnull(Veri_Description.issuing_bank,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.issuing_bank End as issuingbank,
+	Case Isnull(Veri_Description.CARD_EXPIRY,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.CARD_EXPIRY End as CARDEXPIRY,
+	'N/C' as endofuserofasset,
+	'N/C' as locationofasset,
+	Case Isnull(Veri_Description.VEHICLE_IS,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.VEHICLE_IS End as VEHICLE,
+	Isnull(CASE_details.Type_Of_Loan,'N/C')  as Loan,
+	'N/C' as asset,
+	Isnull(Case_Details.EMI,'N/C') as EMI,
+	Case Isnull(Veri_Description.CUSTOMER_COOPERATION,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.CUSTOMER_COOPERATION End as cooperative,
+	Case Isnull(Veri_Description1.Neighbour_reference,'N/C')  
+	When 'NA' then 'N/C' When 'Positive' Then '+VE'  When 'Negative' Then '-VE'  End as neighbours,
+	Case Isnull(Veri_Description.VERIFIED_NEIGHBOUR,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.VERIFIED_NEIGHBOUR End as nameverifiedfrom,
+ 	Case Isnull(VERI_OTHER.RES_TYPE,'N/C')  When 'NA' then 'N/C' Else  VERI_OTHER.RES_TYPE End as typeofresidence,
+ 	Case Isnull(VERI_OTHER.LOCALITY_TYPE,'N/C')  When 'NA' then 'N/C' Else  VERI_OTHER.LOCALITY_TYPE End as localityofresidence,
+ 	Case Isnull(Veri_Description.LOCATING_ADDRESS,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.LOCATING_ADDRESS End as easeoflocating,
+ 	Case Isnull(Veri_Description.CONSTRUCTION_OF_RESIDANCE,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.CONSTRUCTION_OF_RESIDANCE End as constructionofresi,
+	Case Isnull(Veri_Description.COMMENTS_EXTERIORS,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.COMMENTS_EXTERIORS End as commentsonexterior,
+	Case Isnull(Veri_Description.APPROXIMATE_AREA,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.APPROXIMATE_AREA End as carpetarea,
+	Replace (Case Isnull(Veri_Description.INTERIOR,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.INTERIOR End,',','') as interiorcondition,
+	Replace (Case Isnull(Veri_Description.ASSETS_VISIBLE,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.ASSETS_VISIBLE End,',','') as assetsseen,
+  	Case Isnull(Veri_Description.PORTRAIT,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.PORTRAIT End as pictureseen,
+	Case Isnull(Veri_Description.APPLICANT_STAYED_RESIDANCE,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.APPLICANT_STAYED_RESIDANCE End as doestheapplicantstay,
+	Case Isnull(Veri_Description1.APPLICANT_IS_AVAILABLE_AT,'N/C')  When 'NA' then 'N/C' When ' ' then  'N/C' Else  Veri_Description1.APPLICANT_IS_AVAILABLE_AT End as rapproxtime,
+	Case Isnull(Veri_Description.FAMILY_MEMBERS,'N/C')  When 'NA' then 'N/C' When ' ' then  'N/C' Else  Veri_Description.FAMILY_MEMBERS End as nooffamilymembers,
+	Status_Name as[Case Status],Case Isnull(DECLINED_REASON,'N/C')when '' then 'N/C' else DECLINED_REASON end as [DECLINED_REASON],
+	Isnull(EMP_Info.FIRSTNAME,'')+' '+Isnull(EMP_Info.MIDDLENAME,'')+' '+Isnull(EMP_Info.LASTNAME,'') as verifiername,
+	'CC' as CaseType,
+	(Select Isnull(EMP_DATA.FIRSTNAME,'')+' '+Isnull(EMP_DATA.MIDDLENAME,'')+' '+Isnull(EMP_DATA.LASTNAME,'') from Employee_Master EMP_DATA Where EMP_DATA.Emp_Id=VERI_DETAILS.Add_By )  as operator ,
+	'Y' as resicapture,	
+	 Convert(Varchar,SEND_DATETIME,103) + ' '+ Convert(Varchar,SEND_DATETIME,108)  as residispdate,
+	Convert(Varchar,CASE_REC_DATETIME,101)  as Recdate,
+	Case Isnull(Veri_Description1.FE_REMARK,'N/C')  When ' ' then  'N/C' Else Substring(Veri_Description1.FE_REMARK,0,199) End as resiagencyremarks,
+	Case Isnull( Isnull(Veri_Description.TPC_DETAILS,'')+' '+Isnull(Veri_Description1.NEW_DETAILS_OBTAINED,'') ,'') when '' then 'N/C'
+	ELse Substring(Isnull(Veri_Description.TPC_DETAILS,'')+' '+Isnull(Veri_Description1.NEW_DETAILS_OBTAINED,''),0,200) ENd as r_remarks2,
+	Case Isnull( Isnull(VERI_DETAILS.Supervisor_Remarks,'')+' '+Isnull(VERI_DETAILS.Declined_reason,'') ,'') when '' then 'N/C'
+	ELse Substring(Isnull(VERI_DETAILS.Supervisor_Remarks,'')+' '+Isnull(VERI_DETAILS.Declined_reason,''),0,199) ENd as r_remarks3,
+	'N/C' as resiremarks2,
+	'N/C' as coapplicantname	
+
+	from CPV_CC_Case_Details Case_Details
+	Left Outer Join CPV_CC_CASE_VERIFICATIONTYPE CASE_VERIFICATIONTYPE
+	On CASE_VERIFICATIONTYPE.Case_ID=Case_Details.Case_ID
+
+	Left Outer Join CPV_CC_VERI_DESCRIPTION Veri_Description	
+	On  Veri_Description.Case_Id=Case_Details.Case_Id
+	And   CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=Veri_Description.VERIFICATION_TYPE_ID
+	
+	Left Outer Join CPV_CC_VERI_DESCRIPTION1 Veri_Description1	
+	On  Veri_Description1.Case_Id=Case_Details.Case_Id
+	And   CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=Veri_Description1.VERIFICATION_TYPE_ID
+		
+	Left Outer Join CPV_CC_VERI_OTHER_DETAILS VERI_OTHER	
+	On  VERI_OTHER.Case_Id=Case_Details.Case_Id
+	And   CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=VERI_OTHER.VERIFICATION_TYPE_ID
+	
+	Left Outer Join CPV_CC_FE_CASE_MAPPING FE_CASE_MAPPING
+	On FE_CASE_MAPPING.Case_Id=Case_Details.Case_ID
+	And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=FE_CASE_MAPPING.VERIFICATION_TYPE_ID
+
+	Left Outer Join CPV_CC_VERI_DETAILS VERI_DETAILS
+	On VERI_DETAILS.Case_Id=Case_Details.Case_ID
+	And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=VERI_DETAILS.VERIFICATION_TYPE_ID	
+	Left Outer Join Employee_Master EMP_Info
+	On EMP_Info.EMP_ID=FE_CASE_MAPPING.FE_ID
+
+	Left outer join Case_status_Master CaseMast
+	on CaseMast.case_status_id=VERI_DETAILS.case_status_id
+
+	Where 
+		Case_Details.Client_ID=10111 And 
+CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID in (1) and 
+@ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE)RV_Details
+	Left Outer Join 
+	(
+	Select 
+		Case_Details.Case_ID,
+		Isnull(OFF_ADD_LINE_1,'')+' '+Isnull(OFF_ADD_LINE_2,'')+' '+Isnull(OFF_ADD_LINE_3,'')+' ' As OffAdd,
+		'N/C' as olandmark,
+		Isnull(OFF_CITY,'N/C') as OffCity,
+		Isnull(Off_Pin_Code,'N/C') as OffPin,
+		Case Isnull(LAND_MARK_OBSERVED,'N/C') When ' ' then 'N/C' Else  LAND_MARK_OBSERVED End as OffLandMark,
+		Veri_Description.ADRESS_CONFIRMATION as raddressconfirmed1,
+		Case Isnull(Veri_Description1.DESIGNATION ,'N/C') When ' ' then 'N/C' Else Veri_Description1.DESIGNATION End as designation,
+		(
+			Select Top 1 Convert(Varchar,Attempt_Date_Time,103) 
+			From CPV_CC_Veri_Attempts Veri_Attempts 
+			Where Veri_Attempts.Case_ID=Case_Details.Case_ID 
+			And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=Veri_Attempts.VERIFICATION_TYPE_ID
+			Order By Attempt_Date_Time desc
+		) as ovisitdate,
+		(
+			Select Top 1 Convert(Varchar,Attempt_Date_Time,108) 
+			From CPV_CC_Veri_Attempts Veri_Attempts 
+			Where Veri_Attempts.Case_ID=Case_Details.Case_ID 
+			And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=Veri_Attempts.VERIFICATION_TYPE_ID
+			Order By Attempt_Date_Time desc
+		) as ovisittime,
+		Case Isnull(Veri_Description1.CONTACTED_PERSON_NAME ,'N/C') When ' ' then 'N/C' Else Veri_Description1.CONTACTED_PERSON_NAME End as opersonmet,
+		Case Isnull(Veri_Description1.CONTACTED_PERSON_DESIGN ,'N/C') When ' ' then 'N/C' Else Veri_Description1.CONTACTED_PERSON_DESIGN End as designationofpmet,
+		Veri_Description.OFFICE_TELEPHONE as ophone,
+		Isnull(Case_Details.OFF_EXTN,'') as oextn,
+		Case_Details.MOBILE as MOBILE,
+		Case Isnull(Veri_Description1.COMPANY_EXISTENCE_YEAR ,'N/C') When 'NA' Then 'N/C'  When ' ' then 'N/C' Else Veri_Description1.COMPANY_EXISTENCE_YEAR End as noofyrsinbusiness,
+		Case Isnull(Veri_Description.PROOF_OF_VISIT_COLLECTED ,'N/C') When 'NA' Then 'N/C'  When ' ' then 'N/C' Else Veri_Description.PROOF_OF_VISIT_COLLECTED End as visitingcard,
+		Case Isnull(Veri_Description1.COMPANY_NAME ,'N/C') When 'NA' Then 'N/C'  When ' ' then 'N/C' Else Veri_Description1.COMPANY_NAME End as nameofcompany,
+		Case Isnull(Veri_Description1.BUSINESS_TYPE ,'N/C') When 'NA' Then 'N/C'  When ' ' then 'N/C' Else Veri_Description1.BUSINESS_TYPE End as typeofbusiness,
+		Case Isnull(Veri_Description.Nature_Business ,'N/C') When 'NA' Then 'N/C'  When ' ' then 'N/C' Else Veri_Description.Nature_Business End as natureofbusiness,
+		'N/C' as serviceprovider,
+		Case Isnull(Veri_Description1.BUSINESS_NATURE ,'N/C') When 'NA' Then 'N/C'  When ' ' then 'N/C' Else Veri_Description1.BUSINESS_NATURE End as productdealt,
+  		Case Isnull(Veri_Description1.BUSINESS_PERMISES ,'N/C') When 'NA' Then 'N/C'  When ' ' then 'N/C' Else Veri_Description1.BUSINESS_PERMISES End as officeownership,
+		Case Isnull(Veri_Description1.NO_OF_EMP ,'N/C') When ' ' then 'N/C' When 'NA' Then 'N/C'  Else Veri_Description1.NO_OF_EMP End as noofempworking,
+		'N/C' as branches,
+		Case Isnull(Veri_Description1.AVG_MONTH_TURNOVER ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.AVG_MONTH_TURNOVER End as monthlyturnover,
+		Case Isnull(Veri_Description1.NO_CUSTOMER_SEEN ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.AVG_MONTH_TURNOVER End as customerperday,
+		Case Isnull(Veri_Description1.EMP_JOB_TYPE ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.EMP_JOB_TYPE End as typeofjob,
+		Case Isnull(Veri_Description1.APP_WORKING_AS ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.APP_WORKING_AS End as applicantworkingas,
+		Case Isnull(Veri_Description1.APPLICANT_JOB_TRANSFERABLE ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.APPLICANT_JOB_TRANSFERABLE End as jobtrans,
+		Case Isnull(Veri_Description1.NAMEOFCOMPANY1 ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.NAMEOFCOMPANY1 End as companyname,
+		Case Isnull(Veri_Description1.YEARS_WORKED ,'0') When 'NA' Then '0' When '0. ' then '0' Else Veri_Description1.YEARS_WORKED End as yearsworkedin,
+		Case Isnull(Veri_Description1.SALARY_DRAWN ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.SALARY_DRAWN End as salarydrawn,
+		Case Isnull(VERI_OTHER.OFF_NAME_ON_BOARD ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else VERI_OTHER.OFF_NAME_ON_BOARD End as businessboardseen,
+		Case Isnull(Veri_Description.VERIFIED_NEIGHBOUR ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description.VERIFIED_NEIGHBOUR End as onameverifiedfrom,
+		Case Isnull(Veri_Description1.TYPE_OF_OFFICE ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.TYPE_OF_OFFICE End as typeofoffice,
+		Case Isnull(Veri_Description1.OFFICE_IS_IN ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.OFFICE_IS_IN End as localityofoffice,
+		Case Isnull(Veri_Description.APPROXIMATE_AREA ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description.APPROXIMATE_AREA End as oapproxarea,
+		Case Isnull(Veri_Description1.CONSTRUCTION_OFFICE ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.CONSTRUCTION_OFFICE End as constructionofoffice,
+		Case Isnull(Veri_Description.EXTERIOR ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description.EXTERIOR End as exterior,
+		Replace (Case Isnull(Veri_Description.Interior,'N/C')  When 'NA' then 'N/C' Else  Veri_Description.Interior End,',','') as Interior,
+		Case Isnull(Veri_Description.LOCATING_ADDRESS ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description.LOCATING_ADDRESS End as oeaseoflocating,
+		Case Isnull(Veri_Description1.BUSINESS_ACTIVITY_SEEN ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.BUSINESS_ACTIVITY_SEEN End as businessactivity,
+		'N/C' as  noofempsighted,
+		Case Isnull(Veri_Description1.NO_CUSTOMER_SEEN ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.NO_CUSTOMER_SEEN End as noofcustomerseen,
+		Case Isnull(Veri_Description1.AFFILATION_POLITICAL_PARTY_SEEN ,'N/C') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.AFFILATION_POLITICAL_PARTY_SEEN End as affiliation,		
+		Case PatIndex('%PC%',ASSETS_VISIBLE) When 0 then 'N/C' Else 'Yes' End as pc,
+ 		Case PatIndex('%Printer%',ASSETS_VISIBLE) When 0 then 'N/C' Else 'Yes' End as printer,
+		Case PatIndex('%Ac%',ASSETS_VISIBLE) When 0 then 'N/C' Else 'Yes' End as ac,
+		Case PatIndex('%xerox%',ASSETS_VISIBLE) When 0 then 'N/C' Else 'Yes' End as xerox,
+		Case PatIndex('%tele%',ASSETS_VISIBLE) When 0 then 'N/C' Else 'Yes' End as tele,
+		Case PatIndex('%fax%',ASSETS_VISIBLE) When 0 then 'N/C' Else 'Yes' End as fax,
+Status_Name as[Case_Status],
+		Case Isnull(Veri_Description.TPC_DETAILS ,'N/C') When 'NA' Then 'Not Possible' When ' ' then 'Not Possible' Else Veri_Description.TPC_DETAILS End as tpc,
+        Case Isnull(Veri_Description1.BUSINESS_STOCK_SEEN ,'N/C') When 'NA' Then 'Not Possible' When ' ' then 'Not Possible' Else Veri_Description1.BUSINESS_STOCK_SEEN End as Stock,
+case isnull(VERI_DETAILS.DECLINED_CODE,'N/C')when '0' then 'N/C' else VERI_DETAILS.DECLINED_CODE end as[Outcome],
+		Isnull(EMP_Info.FIRSTNAME,'')+' '+Isnull(EMP_Info.MIDDLENAME,'')+' '+Isnull(EMP_Info.LASTNAME,'') as overifier,	 
+	           (Select Isnull(EMP_DATA1.FIRSTNAME,'')+' '+Isnull(EMP_DATA1.MIDDLENAME,'')+' '+Isnull(EMP_DATA1.LASTNAME,'') from Employee_Master EMP_DATA1 Where EMP_DATA1.Emp_Id=VERI_DETAILS.Add_By )  as ooperator,
+		'Y' as ocapture,
+		 Convert(Varchar,SEND_DATETIME,103) + ' '+ Convert(Varchar,SEND_DATETIME,108)  as odispdate,
+		Case Isnull(Veri_Description1.FE_REMARK,'N/C')  When ' ' then  'N/C' when 'NA' Then 'N/C' Else Substring(Veri_Description1.FE_REMARK,0,199) End as oagencyremarks,
+
+		Case Isnull( Isnull(Veri_Description.TPC_DETAILS,'')+' '+Isnull(Veri_Description1.NEW_DETAILS_OBTAINED,'') ,'') when '' then 'N/C'
+		when 'NA' Then 'N/C'
+		ELse Substring(Isnull(Veri_Description.TPC_DETAILS,'')+' '+Isnull(Veri_Description1.NEW_DETAILS_OBTAINED,''),0,200) ENd as o_remarks2,
+
+		Case Isnull( Isnull(VERI_DETAILS.Supervisor_Remarks,'')+' '+Isnull(VERI_DETAILS.Declined_reason,'') ,'') when 'NA' Then 'N/C' when '' then 'N/C'
+		ELse Substring(Isnull(VERI_DETAILS.Supervisor_Remarks,'')+' '+Isnull(VERI_DETAILS.Declined_reason,''),0,199) ENd as o_remarks3,
+		'N/C' as offremarks2,		
+		Case Isnull(Case_Details.Is_Case_Complete,'')  When '' Then 'N/C' When 'NA' Then 'N/C' Else 'Y' End as Finalcapture,
+		Convert(Varchar,SEND_DATETIME,101)  as  Finaldispdate,
+		'N/C' as region,
+		'N/C' as verificationcode 
+	from CPV_CC_Case_Details Case_Details
+	Left Outer Join CPV_CC_CASE_VERIFICATIONTYPE CASE_VERIFICATIONTYPE
+	On CASE_VERIFICATIONTYPE.Case_ID=Case_Details.Case_ID
+
+	Left Outer Join CPV_CC_VERI_DESCRIPTION Veri_Description	
+	On  Veri_Description.Case_Id=Case_Details.Case_Id
+	And   CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=Veri_Description.VERIFICATION_TYPE_ID
+	
+	Left Outer Join CPV_CC_VERI_DESCRIPTION1 Veri_Description1	
+	On  Veri_Description1.Case_Id=Case_Details.Case_Id
+	And   CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=Veri_Description1.VERIFICATION_TYPE_ID
+		
+	Left Outer Join CPV_CC_VERI_OTHER_DETAILS VERI_OTHER	
+	On  VERI_OTHER.Case_Id=Case_Details.Case_Id
+	And   CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=VERI_OTHER.VERIFICATION_TYPE_ID
+	
+	Left Outer Join CPV_CC_FE_CASE_MAPPING FE_CASE_MAPPING
+	On FE_CASE_MAPPING.Case_Id=Case_Details.Case_ID
+	And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=FE_CASE_MAPPING.VERIFICATION_TYPE_ID
+
+	Left Outer Join CPV_CC_VERI_DETAILS VERI_DETAILS
+	On VERI_DETAILS.Case_Id=Case_Details.Case_ID
+	And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=VERI_DETAILS.VERIFICATION_TYPE_ID	
+	Left Outer Join Employee_Master EMP_Info
+	On EMP_Info.EMP_ID=FE_CASE_MAPPING.FE_ID
+
+Left outer join Case_status_Master CaseMast 
+	on CaseMast.case_status_id=VERI_DETAILS.case_status_id
+
+Left outer join DECLINED_CODE_MASTER DecMast 
+	on DecMast.DECLINED_CODE=VERI_DETAILS.DECLINED_CODE
+
+
+	Where 
+		Case_Details.Client_ID=10111 and
+		CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID in (2) and
+@ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE )
+	BV_Details
+	On 
+	BV_Details.Case_Id=RV_Details.Case_Id
+
+	--RT Verification
+	Left Outer Join 
+	(
+	Select 
+		Case_Details.Case_ID,
+		Case Isnull(VERI_OTHER.PERMANENT_ADDRESS,'N/C') When 'NA' Then 'Not Possible' When ' ' then 'Not Possible' Else VERI_OTHER.PERMANENT_ADDRESS End as paddress,	           		 
+		Isnull(ACTUAL_NUM_TYPE,'') +'-'+ISnull(ACTUAL_NUMBER,'') as contactno,
+		(Select Isnull(EMP_Data.FIRSTNAME,'')+' '+Isnull(EMP_Data.MIDDLENAME,'')+' '+Isnull(EMP_Data.LASTNAME,'') 
+		From Employee_Master EMP_Data
+		Where 	EMP_ID
+		In
+		(
+			Select Top 1 Verifier_ID From CPV_CC_Veri_attempts Veri_attempt
+			Where Veri_attempt.Case_Id=Case_Details.Case_ID
+			And CASE_VERIFICATIONTYPE.Verification_Type_ID=Veri_attempt.Verification_Type_ID
+			Order By ATTEMPT_DATE_TIME desc
+		)
+		) as tellcaller,
+		Case Isnull(Veri_Description1.RESIDANCE_IS,'') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.RESIDANCE_IS End as typeofresi,           		 
+		Case Isnull(Veri_Description1.SPK_TO,'') When 'NA' Then 'N/C' When ' ' then 'N/C' Else Veri_Description1.SPK_TO End as rtpersonspokento,		           		 
+		Case Isnull(Veri_Description1.RELATION_PERSON_CONTACTED,'') When 'NA' Then 'N/C' When ' ' then 'N/C'  Else Veri_Description1.RELATION_PERSON_CONTACTED End   as rtrelation,	
+		Case Isnull(Veri_Description1.APPLICANT_NAME_CONFIRMED_AT_GIVEN_NO,'') When 'Yes' Then 'Yes'    Else 'N/C' End as  rtnameconfirmed,	
+		Case Isnull(Veri_Description1.APPLICANT_NAME_CONFIRMED_AT_GIVEN_NO,'') When 'No' Then  'No'    Else 'N/C' End as  rtnamenotconfirmed,	
+Case Isnull(Veri_Description1.DIRECTORY_CHECK,'') When 'Yes' Then 'Yes' Else 'N/C' End as rtaddressconfirmed,			  	
+Case Isnull(Veri_Description1.DIRECTORY_CHECK,'') When 'No' then 'No'  Else 'N/C' End as rtaddressnotconfirmed,			  	
+		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,1,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,1)) ,'N/C') as rtdate1,
+		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,2,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,1)),'N/C')  as rtdate2,
+		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,3,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,1)) ,'N/C') as rtdate3, 
+		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,4,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,1)),'N/C')  as rtdate4,
+		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,5,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,1)),'N/C')  as rtdate5,
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,1,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,2)) ,'N/C') as rttime1,
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,2,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,2)),'N/C')  as rttime2,
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,3,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,2)) ,'N/C') as rttime3, 
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,4,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,2)),'N/C')  as rttime4,
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,5,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,2)),'N/C')  as rttime5,	
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_TeleRemark(CASE_DETAILS.Case_Id,1,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID)),'N/C')  as rtoutcome1,	
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_TeleRemark(CASE_DETAILS.Case_Id,2,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID)),'N/C')  as rtoutcome2,		
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_TeleRemark(CASE_DETAILS.Case_Id,3,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID)),'N/C')  as rtoutcome3,	
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_TeleRemark(CASE_DETAILS.Case_Id,4,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID)),'N/C')  as rtoutcome4,	
+		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_TeleRemark(CASE_DETAILS.Case_Id,5,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID)),'N/C')  as rtoutcome5,
+		Status_Name as rtresult,Case Isnull(VERI_DETAILS.Any_Info,'N/C')  When ' ' then  'N/C' Else Substring(VERI_DETAILS.Any_Info,0,199) End as rtremarks,
+		Convert(Varchar,SEND_DATETIME,103) + ' '+ Convert(Varchar,SEND_DATETIME,108)  as teledispdate
+		
+	 	
+	from CPV_CC_Case_Details Case_Details
+	Left Outer Join CPV_CC_CASE_VERIFICATIONTYPE CASE_VERIFICATIONTYPE
+	On CASE_VERIFICATIONTYPE.Case_ID=Case_Details.Case_ID
+
+	Left Outer Join CPV_CC_VERI_DESCRIPTION Veri_Description	
+	On  Veri_Description.Case_Id=Case_Details.Case_Id
+	And   CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=Veri_Description.VERIFICATION_TYPE_ID
+	
+	Left Outer Join CPV_CC_VERI_DESCRIPTION1 Veri_Description1	
+	On  Veri_Description1.Case_Id=Case_Details.Case_Id
+	And   CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=Veri_Description1.VERIFICATION_TYPE_ID
+		
+	Left Outer Join CPV_CC_VERI_OTHER_DETAILS VERI_OTHER	
+	On  VERI_OTHER.Case_Id=Case_Details.Case_Id
+	And   CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=VERI_OTHER.VERIFICATION_TYPE_ID
+	
+	Left Outer Join CPV_CC_FE_CASE_MAPPING FE_CASE_MAPPING
+	On FE_CASE_MAPPING.Case_Id=Case_Details.Case_ID
+	And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=FE_CASE_MAPPING.VERIFICATION_TYPE_ID
+
+	Left Outer Join CPV_CC_VERI_DETAILS VERI_DETAILS
+	On VERI_DETAILS.Case_Id=Case_Details.Case_ID
+	And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=VERI_DETAILS.VERIFICATION_TYPE_ID	
+	Left Outer Join Employee_Master EMP_Info
+	On EMP_Info.EMP_ID=FE_CASE_MAPPING.FE_ID
+
+Left outer join Case_status_Master CaseMast 
+	on CaseMast.case_status_id=VERI_DETAILS.case_status_id
+
+	Where 
+		Case_Details.Client_ID=10111 and
+		CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID in (4) and
+@ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE )
+	RT_Details
+	On 
+	RV_Details.Case_Id=RT_Details.Case_Id 
+	And BV_Details.Case_Id=RT_Details.Case_Id
+ 	---BT Verification
+	Left Outer Join 
+	(
+	Select 
+		Case_Details.Case_ID,		
+		Isnull(ACTUAL_NUM_TYPE,'') +'-'+ISnull(ACTUAL_NUMBER,'') as btteleno,
+		Case Isnull(Veri_Description.BUSINESS_CONTACT_NO_EXTN,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Description.BUSINESS_CONTACT_NO_EXTN End as btextnno,	           		 
+		Case Isnull(Case_Details.Designation,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Case_Details.Designation End as btdesignation,	           		 
+		Isnull(Veri_Description1.TIME_AT_CURRENT_EMPL_Y_M,'')   as btworkingsince,
+		Case Isnull(Veri_Description1.Appli_Dept,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Description1.Appli_Dept End as typeoforganisation,	
+		Case Isnull(Veri_Description1.NATURE_BUSINESS_RESI_CUM_OFF,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Description1.NATURE_BUSINESS_RESI_CUM_OFF End as btnatureofbusiness,
+		Case Isnull(Veri_Description1.COMPANY_NAME,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Description1.COMPANY_NAME End as btcname,
+		Case Isnull(Veri_Description1.SPK_TO,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Description1.SPK_TO End as btpersonspokento,		
+		Case Isnull(Veri_Description1.DESIG_AND_DEPT_OF_CONTACTED_PERSON,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Description1.DESIG_AND_DEPT_OF_CONTACTED_PERSON End as btpersonmetdesig,
+		Case Isnull(Veri_Other.REL_WITH_APPLICANT,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Other.REL_WITH_APPLICANT End as btrelationwithapplicant,
+		Convert(Varchar,SEND_DATETIME,103) + ' '+ Convert(Varchar,SEND_DATETIME,108)  as teledispdate1,
+		Isnull(ACTUAL_NUM_TYPE,'') +'-'+ISnull(ACTUAL_NUMBER,'') as btteleno1,
+		Case Isnull(Veri_Description.BUSINESS_CONTACT_NO_EXTN,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Description.BUSINESS_CONTACT_NO_EXTN End as btextnno1,	           		 
+		Case Isnull(Case_Details.Designation,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Case_Details.Designation End as btdesignation1,	           		 
+		Isnull(Veri_Description1.TIME_AT_CURRENT_EMPL_Y_M,'')   as btworkingsince1,
+		Case Isnull(Veri_Description1.Appli_Dept,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Description1.Appli_Dept End as typeoforganisation1,	
+		Case Isnull(Veri_Description1.NATURE_BUSINESS_RESI_CUM_OFF,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Description1.NATURE_BUSINESS_RESI_CUM_OFF End as btnatureofbusiness1,
+		Case Isnull(Veri_Description1.COMPANY_NAME,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Description1.COMPANY_NAME End as btcname1,
+		Case Isnull(Veri_Description1.SPK_TO,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Description1.SPK_TO End as btpersonspokento1,		
+		Case Isnull(Veri_Description1.DESIG_AND_DEPT_OF_CONTACTED_PERSON,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Description1.DESIG_AND_DEPT_OF_CONTACTED_PERSON End as btpersonmetdesig1,
+		Case Isnull(Veri_Other.REL_WITH_APPLICANT,'') When 'NA' Then 'N/C' When '' then 'N/C' Else Veri_Other.REL_WITH_APPLICANT End as btrelationwithapplicant1,
+		Case Isnull(Veri_Description1.APPLICANT_NAME_CONFIRMED_AT_GIVEN_NO,'') When 'Yes' Then 'Yes'  Else 'N/C' End as btnameconfirmed,
+		Case Isnull(Veri_Description1.APPLICANT_NAME_CONFIRMED_AT_GIVEN_NO,'') When 'No' Then 'No'  Else 'N/C' End as btnamenotconfirmed,
+		Case Isnull(Veri_Description1.DIRECTORY_CHECK,'') When 'Yes' Then 'Yes'  Else 'N/C' End as btaddressconfirmed,
+		Case Isnull(Veri_Description1.DIRECTORY_CHECK,'') When 'No' Then 'No'  Else 'N/C' End as btaddressnotconfirmed, 
+		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,1,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,1)) ,'N/C') as btdate1,
+		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,2,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,1)),'N/C')  as btdate2,
+		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,3,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,1)) ,'N/C') as btdate3, 
+		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,4,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,1)),'N/C')  as btdate4,
+		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,5,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,1)),'N/C')  as btdate5,
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,1,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,2)) ,'N/C') as bttime1,
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,2,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,2)),'N/C')  as bttime2,
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,3,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,2)) ,'N/C') as bttime3, 
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,4,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,2)),'N/C')  as bttime4,
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_AXIS_TELE(CASE_DETAILS.Case_Id,5,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID,2)),'N/C')  as bttime5,	
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_TeleRemark(CASE_DETAILS.Case_Id,1,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID)),'N/C')  as btoutcome1,	
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_TeleRemark(CASE_DETAILS.Case_Id,2,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID)),'N/C')  as btoutcome2,		
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_TeleRemark(CASE_DETAILS.Case_Id,3,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID)),'N/C')  as btoutcome3,	
+ 		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_TeleRemark(CASE_DETAILS.Case_Id,4,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID)),'N/C')  as btoutcome4,	
+		Isnull((SELECT  dbo.Get_AttemptDateWithRowFor_TeleRemark(CASE_DETAILS.Case_Id,5,CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID)),'N/C')  as btoutcome5,
+		Status_Name as btresult,Case Isnull(VERI_DETAILS.Any_Info,'N/C')  When ' ' then  'N/C' Else Substring(VERI_DETAILS.Any_Info,0,199) End as btremarks,
+		'Y' as telecapture,
+		(Select Isnull(EMP_Data.FIRSTNAME,'')+' '+Isnull(EMP_Data.MIDDLENAME,'')+' '+Isnull(EMP_Data.LASTNAME,'') 
+		From Employee_Master EMP_Data
+		Where 	EMP_ID
+		In
+		(
+			Select Top 1 Verifier_ID From CPV_CC_Veri_attempts Veri_attempt
+			Where Veri_attempt.Case_Id=Case_Details.Case_ID
+			And CASE_VERIFICATIONTYPE.Verification_Type_ID=Veri_attempt.Verification_Type_ID
+			Order By ATTEMPT_DATE_TIME desc
+		)
+		) as teleoperator,
+		'N/C'   as  D_MATCH,
+		'N/C'  as  Defaulter,
+		'N/C'   as  d_prod,
+		'N/C'   as  d_bank,
+		'N/C'   as  d_bucket,
+		'N/C'   as  d_rem,
+		'N/C' as  d_finalremarks,
+		'N/C'  as  r_d1,
+		'N/C'  as  r_d2,
+		'N/C'  as  r_d3,
+		'N/C'  as  r_d4,
+		'N/C'  as  r_d5,
+		'N/C'  as  d_result,
+		'8' as P_Code,
+		'N/C' as Agency_Code,
+		'PAMAC' as Agency_Name,	 		
+		CENTRE_NAME as Location
+	 	
+	from CPV_CC_Case_Details Case_Details
+	Left Outer Join CPV_CC_CASE_VERIFICATIONTYPE CASE_VERIFICATIONTYPE
+	On CASE_VERIFICATIONTYPE.Case_ID=Case_Details.Case_ID
+
+	Left Outer Join CPV_CC_VERI_DESCRIPTION Veri_Description	
+	On  Veri_Description.Case_Id=Case_Details.Case_Id
+	And   CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=Veri_Description.VERIFICATION_TYPE_ID
+	
+	Left Outer Join CPV_CC_VERI_DESCRIPTION1 Veri_Description1	
+	On  Veri_Description1.Case_Id=Case_Details.Case_Id
+	And   CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=Veri_Description1.VERIFICATION_TYPE_ID
+		
+	Left Outer Join CPV_CC_VERI_OTHER_DETAILS VERI_OTHER	
+	On  VERI_OTHER.Case_Id=Case_Details.Case_Id
+	And   CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=VERI_OTHER.VERIFICATION_TYPE_ID
+	
+	Left Outer Join CPV_CC_FE_CASE_MAPPING FE_CASE_MAPPING
+	On FE_CASE_MAPPING.Case_Id=Case_Details.Case_ID
+	And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=FE_CASE_MAPPING.VERIFICATION_TYPE_ID
+
+	Left Outer Join CPV_CC_VERI_DETAILS VERI_DETAILS
+	On VERI_DETAILS.Case_Id=Case_Details.Case_ID
+	And CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID=VERI_DETAILS.VERIFICATION_TYPE_ID	
+	
+	Left Outer Join Employee_Master EMP_Info
+	On EMP_Info.EMP_ID=FE_CASE_MAPPING.FE_ID
+		
+	Left Outer Join Centre_Master  Centre_Master
+	On Centre_Master.Centre_ID=Case_Details.Centre_ID
+
+Left outer join Case_status_Master CaseMast 
+	on CaseMast.case_status_id=VERI_DETAILS.case_status_id
+
+	
+	Where 
+		Case_Details.Client_ID=10111 and
+		CASE_VERIFICATIONTYPE.VERIFICATION_TYPE_ID in (3) and
+@ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE )
+	BT_Details
+	On 
+	RV_Details.Case_Id=BT_Details.Case_Id 
+	And BV_Details.Case_Id=BT_Details.Case_Id
+
