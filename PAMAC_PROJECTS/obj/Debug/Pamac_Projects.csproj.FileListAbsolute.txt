@@ -1,0 +1,288 @@
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\Pamac_Projects.dll.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\Pamac_Projects.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\Pamac_Projects.pdb
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\csc.exe
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\csc.exe.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\csc.rsp
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\csi.exe
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\csi.exe.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\csi.rsp
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\Microsoft.Managed.Core.targets
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.AppContext.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Collections.Immutable.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Console.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Globalization.Calendars.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.IO.Compression.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.IO.FileSystem.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Net.Http.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Net.Sockets.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Reflection.Metadata.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.ValueTuple.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Xml.XmlDocument.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Xml.XPath.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\vbc.exe
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\vbc.exe.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\vbc.rsp
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\VBCSCompiler.exe
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\bin\roslyn\VBCSCompiler.exe.config
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\obj\Debug\Pamac_Projects.csproj.AssemblyReference.cache
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\obj\Debug\Pamac_Projects.csproj.CoreCompileInputs.cache
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\obj\Debug\Pamac_Projects.csproj.CopyComplete
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\obj\Debug\Pamac_Projects.dll
+D:\RK\RAMKI CONSULTANCY\PAMAC\Technology support\PROJECTS\Pamac_Projects\obj\Debug\Pamac_Projects.pdb
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\Pamac_Projects.dll.config
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\Pamac_Projects.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\Pamac_Projects.pdb
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\csc.exe
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\csc.exe.config
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\csc.rsp
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\csi.exe
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\csi.exe.config
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\csi.rsp
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.AppContext.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Console.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Net.Http.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\vbc.exe
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\vbc.exe.config
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\vbc.rsp
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.csproj.CoreCompileInputs.cache
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.csproj.CopyComplete
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.dll
+C:\Users\PAMAC\Desktop\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.pdb
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\Pamac_Projects.dll.config
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\Pamac_Projects.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\Pamac_Projects.pdb
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\csc.exe
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\csc.exe.config
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\csc.rsp
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\csi.exe
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\csi.exe.config
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\csi.rsp
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.AppContext.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Collections.Immutable.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Console.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Globalization.Calendars.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.IO.Compression.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.IO.FileSystem.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Net.Http.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Net.Sockets.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Reflection.Metadata.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.ValueTuple.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Xml.XPath.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\vbc.exe
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\vbc.exe.config
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\vbc.rsp
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\VBCSCompiler.exe
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\bin\roslyn\VBCSCompiler.exe.config
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.csproj.AssemblyReference.cache
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.csproj.CoreCompileInputs.cache
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.csproj.CopyComplete
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.dll
+E:\Yasir\My Data\PAMAC PROJECTS Taken from Ramki Sir\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.pdb
+D:\UAT_Applications\PAMAC_PROJECTS\bin\Pamac_Projects.dll.config
+D:\UAT_Applications\PAMAC_PROJECTS\bin\Pamac_Projects.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\Pamac_Projects.pdb
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\csc.exe
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\csc.exe.config
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\csc.rsp
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\csi.exe
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\csi.exe.config
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\csi.rsp
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.AppContext.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Collections.Immutable.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Console.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Globalization.Calendars.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.IO.Compression.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.IO.FileSystem.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Net.Http.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Net.Sockets.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Reflection.Metadata.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.ValueTuple.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Xml.XPath.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\vbc.exe
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\vbc.exe.config
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\vbc.rsp
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\VBCSCompiler.exe
+D:\UAT_Applications\PAMAC_PROJECTS\bin\roslyn\VBCSCompiler.exe.config
+D:\UAT_Applications\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.csproj.CoreCompileInputs.cache
+D:\UAT_Applications\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.csproj.CopyComplete
+D:\UAT_Applications\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.dll
+D:\UAT_Applications\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.pdb
+D:\UAT_Applications\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.csproj.AssemblyReference.cache
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\obj\Debug\Best_Notepad.Login.resources
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\obj\Debug\Best_Notepad.notepad1.resources
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.Text_Editor.Best_Notepad.Properties.Resources.resources
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.csproj.GenerateResource.cache
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.csproj.CoreCompileInputs.cache
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.pdb
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.Text_Editor.Best_Notepad.SpeechForm.resources
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\Pamac_Projects.dll.config
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\Pamac_Projects.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\Pamac_Projects.pdb
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\csc.exe
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\csc.exe.config
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\csc.rsp
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\csi.exe
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\csi.exe.config
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\csi.rsp
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.AppContext.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Collections.Immutable.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Console.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Globalization.Calendars.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.IO.Compression.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.IO.FileSystem.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Net.Http.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Net.Sockets.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Reflection.Metadata.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.ValueTuple.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Xml.XPath.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\vbc.exe
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\vbc.exe.config
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\vbc.rsp
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\VBCSCompiler.exe
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\bin\roslyn\VBCSCompiler.exe.config
+D:\UAT_Applications\AppsMR\PAMAC_PROJECTS\obj\Debug\Pamac_Projects.csproj.CopyComplete
